@@ -2,6 +2,8 @@
 
 Arabic texts from different periods, collected and reformatted into machine-readable formats (mARkdown > CTS-compliant TEI XML > Perseus DL)
 
+Currently uploaded texts are converted automatically into *mARkdown* format and require further manual tagging of the structure; when manual tagging is complete they will be converted into CTS-compliant XML format.
+
 # List of added books (45 at the moment)
 
 Mostly premoderns chronicles, biographical collections, encyclopaedic dictionaries, gazetteers.
