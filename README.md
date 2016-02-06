@@ -6,12 +6,19 @@ Currently uploaded texts are converted automatically into *mARkdown* format and 
 
 For the list of added books, see **report.md** (Mostly premoderns chronicles, biographical collections, encyclopaedic dictionaries, gazetteers).
 
-# Book folder structure
+# Project/Folder structure
 
-- `data` has subfolders by authors, which have subfolders by titles
-- each title subfolder has `PDF` subfolder:
-	- **urls.txt**: includes links to PDFs of a book (usually on archive.org)
-	- on Mac/Linux all PDFs can be downloaded by typing `make` in Terminal/CommandLine
-	- on Windows: `wget` must be installed; then run `wget -i urls.txt`
-	- to save space, PDFs are ignored in this GitHub repository 
-	- if you find new PDFs, add urls (one per line) to **urls_additional.txt**
+- everything is divided into centuries
+- each century includes `data` folder
+- `data` folder includes `author` folders
+- `author` folders include `title` folders
+- `title` folders include:
+	- texts (often different versions)
+	- `arc` folder, where texts are preserved in their pre-formatted form
+	- `PDF` folder, which include:
+		- **urls.txt** with links to PDFs of a book (usually on [archive.org](archive.org))
+		- PDFs can be downloaded with `wget -i urls.txt` (on commandLine/Terminal)
+		- on Mac/Linux all PDFs can be also downloaded with `make` command
+		- `wget` must be installed on Windows (Macs usually have it)
+		- to save space, PDFs are ignored in this GitHub repository 
+		- if you find new PDFs, add urls (one per line) into a new file **urls_additional.txt**
