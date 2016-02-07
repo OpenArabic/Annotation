@@ -1,23 +1,30 @@
 # List of books by centuries (55 titles)
 
-* 0100AH
+* 0100AH [[ 2016-02-07 (19:44:26) ]]
+
     * _no texts at the moment_
-* 0200AH
+* 0200AH [[ 2016-02-07 (19:44:26) ]]
+
     * _no texts at the moment_
-* 0300AH
+* 0300AH [[ 2016-02-07 (19:44:26) ]]
+
     * 0230IbnSacd.TabaqatKubra
-* 0400AH
+* 0400AH [[ 2016-02-07 (19:44:26) ]]
+
     * 0354IbnHibban.Thiqat
-* 0500AH
+* 0500AH [[ 2016-02-07 (19:44:26) ]]
+
     * 0463KhatibBaghdadi.TarikhBaghdad
-* 0600AH
+* 0600AH [[ 2016-02-07 (19:44:26) ]]
+
     * 0521IbnAbiYacla.TabaqatHanabila
     * 0544CiyadIbnMusaYahsubi.TartibMadarik
     * 0561Samcani.Ansab
     * 0571IbnCasakir.TarikhDimashq
     * 0578IbnBashkuwal.Sila
     * 0597IbnJawzi.Muntazam
-* 0700AH
+* 0700AH [[ 2016-02-07 (19:44:26) ]]
+
     * 0623Qazwini.Tadwin
     * 0630IbnAthirCizzDin.Kamil
     * 0630IbnAthirCizzDin.LubabFiTahdhibAnsab
@@ -25,7 +32,8 @@
     * 0658IbnAbbar.TakmilaLiSila
     * 0660IbnCadim.BughyatTalib
     * 0681IbnKhallikan.WafayatAcyan
-* 0800AH
+* 0800AH [[ 2016-02-07 (19:44:26) ]]
+
     * 0711IbnManzurIfriqi.MukhtasarTarikhDimashq
     * 0732IbnYacqubJanadi.SulukFiTabaqat
     * 0733Nuwayri.NihayaArab
@@ -42,7 +50,8 @@
     * 0774IbnKathir.Bidaya
     * 0775IbnAbiWafa.JawahirMudiya
     * 0795IbnRajabHanbali.DhaylTabaqatHanabila
-* 0900AH
+* 0900AH [[ 2016-02-07 (19:44:26) ]]
+
     * 0832AbuTayyibFasi.DhaylTaqyid
     * 0833IbnJazari.GhayaNihaya
     * 0845Maqrizi.Mawaciz
@@ -54,24 +63,30 @@
     * 0874IbnTaghribirdi.ManhalSafi
     * 0874IbnTaghribirdi.NujumZahira
     * 0879IbnQutlubugha.Thiqat
-* 1000AH
+* 1000AH [[ 2016-02-07 (19:44:26) ]]
+
     * 0902Sakhawi.DuLamic
     * 0902Sakhawi.TuhfaLatifa
     * 0911Suyuti.HusnMuhadara
     * 0923IbnCabdAllahKhazraji.KhulasaTahdhib
     * 0927Nucaymi.DarisFiMadaris
-* 1100AH
+* 1100AH [[ 2016-02-07 (19:44:26) ]]
+
     * 1061NajmDinGhazzi.KawakibSaira
     * 1067HajjiKhalifa.KashfZunun
     * 1089IbnCimad.Shadharat
-* 1200AH
+* 1200AH [[ 2016-02-07 (19:44:26) ]]
+
     * 1111MuhammadAminMuhibbi.KhulasaAthr
-* 1300AH
+* 1300AH [[ 2016-02-07 (19:44:26) ]]
+
     * 1206Muradi.SilkDurar
-* 1400AH
+* 1400AH [[ 2016-02-07 (19:44:26) ]]
+
     * 1339IsmacilBashaBaghdadi.HadiyaCarifin
     * 1339IsmacilBashaBaghdadi.IdahMaknun
-* 1500AH
+* 1500AH [[ 2016-02-07 (19:44:26) ]]
+
     * _no texts at the moment_
 
 
