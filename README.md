@@ -13,8 +13,9 @@ Tags follow the URI of a text in the following format **(TAGS: TAG,TAG,TAG)**. C
 * **BIB** : bibliographical
 * **BIO** : biographical
 * **CHR** : chronicle
-* **COL** : collection
+* **COL** : collection/dictionary
 * **GEO** : geographical
+* **ONO** : onomastic
 
 # Project/Folder structure
 
