@@ -1,91 +1,96 @@
-# List of books by centuries (55 titles)
+# List of books by centuries (60 titles)
 
-* **0100AH [[ [Re]generated on 2016-02-07 (22:32:10) ]]**
-
-    * _no texts at the moment_
-* **0200AH [[ [Re]generated on 2016-02-07 (22:32:10) ]]**
+* **0100AH [[ [Re]generated on 2016-02-08 (12:30:43) ]]**
 
     * _no texts at the moment_
-* **0300AH [[ [Re]generated on 2016-02-07 (22:32:10) ]]**
+* **0200AH [[ [Re]generated on 2016-02-08 (12:30:43) ]]**
+
+    * _no texts at the moment_
+* **0300AH [[ [Re]generated on 2016-02-08 (12:30:43) ]]**
 
     * 0230IbnSacd.TabaqatKubra
-* **0400AH [[ [Re]generated on 2016-02-07 (22:32:10) ]]**
+* **0400AH [[ [Re]generated on 2016-02-08 (12:30:43) ]]**
 
     * 0354IbnHibban.Thiqat
-* **0500AH [[ [Re]generated on 2016-02-07 (22:32:10) ]]**
+* **0500AH [[ [Re]generated on 2016-02-08 (12:30:43) ]]**
 
-    * 0463KhatibBaghdadi.TarikhBaghdad
-* **0600AH [[ [Re]generated on 2016-02-07 (22:32:10) ]]**
+    * 0463KhatibBaghdadi.TarikhBaghdad (TAGS: BIO,COL)
+* **0600AH [[ [Re]generated on 2016-02-08 (12:30:43) ]]**
 
     * 0521IbnAbiYacla.TabaqatHanabila
     * 0544CiyadIbnMusaYahsubi.TartibMadarik
-    * 0561Samcani.Ansab
-    * 0571IbnCasakir.TarikhDimashq
-    * 0578IbnBashkuwal.Sila
-    * 0597IbnJawzi.Muntazam
-* **0700AH [[ [Re]generated on 2016-02-07 (22:32:10) ]]**
+    * 0561Samcani.Ansab (TAGS: ONO,COL)
+    * 0571IbnCasakir.TarikhDimashq (TAGS: BIO,COL)
+    * 0578IbnBashkuwal.Sila (TAGS: BIO,COL)
+    * 0597IbnJawzi.Muntazam (TAGS: BIO,COL,CHR)
+* **0700AH [[ [Re]generated on 2016-02-08 (12:30:43) ]]**
 
     * 0623Qazwini.Tadwin
-    * 0630IbnAthirCizzDin.Kamil
+    * 0626YaqutHamawi.MucjamUdaba (TAGS: BIO,COL,POE)
+    * 0630IbnAthirCizzDin.Kamil (TAGS: CHR)
     * 0630IbnAthirCizzDin.LubabFiTahdhibAnsab
     * 0642IbnNajjar.DhaylTarikhBaghdad
-    * 0658IbnAbbar.TakmilaLiSila
+    * 0658IbnAbbar.TakmilaLiSila (TAGS: BIO,COL)
     * 0660IbnCadim.BughyatTalib
-    * 0681IbnKhallikan.WafayatAcyan
-* **0800AH [[ [Re]generated on 2016-02-07 (22:32:10) ]]**
+    * 0681IbnKhallikan.WafayatAcyan (TAGS: BIO,COL)
+* **0800AH [[ [Re]generated on 2016-02-08 (12:30:43) ]]**
 
-    * 0711IbnManzurIfriqi.MukhtasarTarikhDimashq
-    * 0732IbnYacqubJanadi.SulukFiTabaqat
+    * 0711IbnManzurIfriqi.MukhtasarTarikhDimashq (TAGS: BIO,COL)
+    * 0732IbnYacqubJanadi.SulukFiTabaqat (TAGS: BIO,COL)
     * 0733Nuwayri.NihayaArab
     * 0742Mizzi.TahdhibKamal
     * 0748Dhahabi.CibarFiKhabar
     * 0748Dhahabi.MucjamShuyukh
     * 0748Dhahabi.MukhtasarMinDubaythi
-    * 0748Dhahabi.SiyarAclamNubala
-    * 0748Dhahabi.TarikhIslam
+    * 0748Dhahabi.SiyarAclamNubala (TAGS: BIO,COL)
+    * 0748Dhahabi.TarikhIslam (TAGS: BIO,COL,CHR)
     * 0762MughaltayIbnQalij.IkmalTahdhib
-    * 0764Safadi.AcyanCasr
-    * 0764Safadi.WafiBiWafayat
-    * 0771Subki.TabaqatShaficiyaKubra
-    * 0774IbnKathir.Bidaya
-    * 0775IbnAbiWafa.JawahirMudiya
+    * 0764Safadi.AcyanCasr (TAGS: BIO,COL)
+    * 0764Safadi.WafiBiWafayat (TAGS: BIO,COL)
+    * 0771Subki.TabaqatShaficiyaKubra (TAGS: BIO,COL)
+    * 0774IbnKathir.Bidaya (TAGS: BIO,COL,CHR)
+    * 0774IbnKathir.TabaqatShaficiyyin (TAGS: BIO,COL)
+    * 0775IbnAbiWafa.JawahirMudiya (TAGS: BIO,COL)
     * 0795IbnRajabHanbali.DhaylTabaqatHanabila
-* **0900AH [[ [Re]generated on 2016-02-07 (22:32:10) ]]**
+* **0900AH [[ [Re]generated on 2016-02-08 (12:30:43) ]]**
 
+    * 0808IbnKhaldun.Muqaddima (TAGS: CHR)
     * 0832AbuTayyibFasi.DhaylTaqyid
     * 0833IbnJazari.GhayaNihaya
     * 0845Maqrizi.Mawaciz
-    * 0851IbnQadiShuhba.TabaqatShaficiya
-    * 0852IbnHajarCasqalani.LisanMizan
+    * 0851IbnQadiShuhba.TabaqatShaficiya (TAGS: BIO,COL)
+    * 0852IbnHajarCasqalani.LisanMizan (TAGS: BIO,COL)
     * 0852IbnHajarCasqalani.TahdhibTahdhib
     * 0852IbnHajarCasqalani.TaqribTahdhib
     * 0855Cayni.CumdaQari
     * 0874IbnTaghribirdi.ManhalSafi
     * 0874IbnTaghribirdi.NujumZahira
     * 0879IbnQutlubugha.Thiqat
-* **1000AH [[ [Re]generated on 2016-02-07 (22:32:10) ]]**
+* **1000AH [[ [Re]generated on 2016-02-08 (12:30:43) ]]**
 
-    * 0902Sakhawi.DuLamic
+    * 0902Sakhawi.DuLamic (TAGS: BIO,COL)
     * 0902Sakhawi.TuhfaLatifa
     * 0911Suyuti.HusnMuhadara
+    * 0911Suyuti.TabaqatHuffaz (TAGS: BIO,COL)
     * 0923IbnCabdAllahKhazraji.KhulasaTahdhib
-    * 0927Nucaymi.DarisFiMadaris
-* **1100AH [[ [Re]generated on 2016-02-07 (22:32:10) ]]**
+    * 0927Nucaymi.DarisFiMadaris (TAGS: COL)
+* **1100AH [[ [Re]generated on 2016-02-08 (12:30:43) ]]**
 
     * 1061NajmDinGhazzi.KawakibSaira
-    * 1067HajjiKhalifa.KashfZunun
-    * 1089IbnCimad.Shadharat
-* **1200AH [[ [Re]generated on 2016-02-07 (22:32:10) ]]**
+    * 1067HajjiKhalifa.KashfZunun (TAGS: BIB,COL)
+    * 1089IbnCimad.Shadharat (TAGS: BIO,COL,CHR)
+* **1200AH [[ [Re]generated on 2016-02-08 (12:30:43) ]]**
 
     * 1111MuhammadAminMuhibbi.KhulasaAthr
-* **1300AH [[ [Re]generated on 2016-02-07 (22:32:10) ]]**
+* **1300AH [[ [Re]generated on 2016-02-08 (12:30:43) ]]**
 
     * 1206Muradi.SilkDurar
-* **1400AH [[ [Re]generated on 2016-02-07 (22:32:10) ]]**
+* **1400AH [[ [Re]generated on 2016-02-08 (12:30:43) ]]**
 
-    * 1339IsmacilBashaBaghdadi.HadiyaCarifin
-    * 1339IsmacilBashaBaghdadi.IdahMaknun
-* **1500AH [[ [Re]generated on 2016-02-07 (22:32:10) ]]**
+    * 1339IsmacilBashaBaghdadi.HadiyaCarifin (TAGS: BIO,BIB,COL)
+    * 1339IsmacilBashaBaghdadi.IdahMaknun (TAGS: BIB,COL)
+    * 1360IbnQasimMakhluf.ShajaraNur (TAGS: BIO,COL)
+* **1500AH [[ [Re]generated on 2016-02-08 (12:30:43) ]]**
 
     * _no texts at the moment_
 
@@ -93,36 +98,37 @@
 
 # List of added books by frequencies of date statements
 
-* 0902Sakhawi.DuLamic
-* 0748Dhahabi.TarikhIslam
-* 0571IbnCasakir.TarikhDimashq
-* 0764Safadi.WafiBiWafayat
-* 1067HajjiKhalifa.KashfZunun
-* 0748Dhahabi.SiyarAclamNubala
-* 0463KhatibBaghdadi.TarikhBaghdad
-* 1339IsmacilBashaBaghdadi.HadiyaCarifin
-* 1339IsmacilBashaBaghdadi.IdahMaknun
-* 0561Samcani.Ansab
+* 0902Sakhawi.DuLamic (TAGS: BIO,COL)
+* 0748Dhahabi.TarikhIslam (TAGS: BIO,COL,CHR)
+* 0571IbnCasakir.TarikhDimashq (TAGS: BIO,COL)
+* 0764Safadi.WafiBiWafayat (TAGS: BIO,COL)
+* 1067HajjiKhalifa.KashfZunun (TAGS: BIB,COL)
+* 0748Dhahabi.SiyarAclamNubala (TAGS: BIO,COL)
+* 0463KhatibBaghdadi.TarikhBaghdad (TAGS: BIO,COL)
+* 1339IsmacilBashaBaghdadi.HadiyaCarifin (TAGS: BIO,BIB,COL)
+* 0808IbnKhaldun.Muqaddima (TAGS: CHR)
+* 1339IsmacilBashaBaghdadi.IdahMaknun (TAGS: BIB,COL)
+* 0561Samcani.Ansab (TAGS: ONO,COL)
 * 0733Nuwayri.NihayaArab
-* 0711IbnManzurIfriqi.MukhtasarTarikhDimashq
+* 0711IbnManzurIfriqi.MukhtasarTarikhDimashq (TAGS: BIO,COL)
 * 0742Mizzi.TahdhibKamal
-* 1089IbnCimad.Shadharat
-* 0764Safadi.AcyanCasr
+* 1089IbnCimad.Shadharat (TAGS: BIO,COL,CHR)
+* 0764Safadi.AcyanCasr (TAGS: BIO,COL)
 * 0874IbnTaghribirdi.NujumZahira
 * 0762MughaltayIbnQalij.IkmalTahdhib
-* 0681IbnKhallikan.WafayatAcyan
+* 0681IbnKhallikan.WafayatAcyan (TAGS: BIO,COL)
 * 0874IbnTaghribirdi.ManhalSafi
 * 0845Maqrizi.Mawaciz
 * 0902Sakhawi.TuhfaLatifa
 * 0630IbnAthirCizzDin.LubabFiTahdhibAnsab
 * 0852IbnHajarCasqalani.TahdhibTahdhib
-* 0597IbnJawzi.Muntazam
+* 0597IbnJawzi.Muntazam (TAGS: BIO,COL,CHR)
 * 0923IbnCabdAllahKhazraji.KhulasaTahdhib
-* 0927Nucaymi.DarisFiMadaris
+* 0927Nucaymi.DarisFiMadaris (TAGS: COL)
 * 1111MuhammadAminMuhibbi.KhulasaAthr
-* 0774IbnKathir.Bidaya
+* 0774IbnKathir.Bidaya (TAGS: BIO,COL,CHR)
 * 0660IbnCadim.BughyatTalib
-* 0630IbnAthirCizzDin.Kamil
+* 0630IbnAthirCizzDin.Kamil (TAGS: CHR)
 * 0832AbuTayyibFasi.DhaylTaqyid
 * 0852IbnHajarCasqalani.TaqribTahdhib
 * 0879IbnQutlubugha.Thiqat
@@ -130,21 +136,25 @@
 * 0911Suyuti.HusnMuhadara
 * 0855Cayni.CumdaQari
 * 0623Qazwini.Tadwin
-* 0658IbnAbbar.TakmilaLiSila
+* 0658IbnAbbar.TakmilaLiSila (TAGS: BIO,COL)
 * 0748Dhahabi.MukhtasarMinDubaythi
-* 0771Subki.TabaqatShaficiyaKubra
-* 0775IbnAbiWafa.JawahirMudiya
-* 0852IbnHajarCasqalani.LisanMizan
+* 0771Subki.TabaqatShaficiyaKubra (TAGS: BIO,COL)
+* 0775IbnAbiWafa.JawahirMudiya (TAGS: BIO,COL)
+* 0852IbnHajarCasqalani.LisanMizan (TAGS: BIO,COL)
 * 0354IbnHibban.Thiqat
 * 1061NajmDinGhazzi.KawakibSaira
 * 0748Dhahabi.MucjamShuyukh
-* 0578IbnBashkuwal.Sila
+* 0578IbnBashkuwal.Sila (TAGS: BIO,COL)
+* 0626YaqutHamawi.MucjamUdaba (TAGS: BIO,COL,POE)
 * 1206Muradi.SilkDurar
-* 0851IbnQadiShuhba.TabaqatShaficiya
+* 0851IbnQadiShuhba.TabaqatShaficiya (TAGS: BIO,COL)
 * 0748Dhahabi.CibarFiKhabar
-* 0732IbnYacqubJanadi.SulukFiTabaqat
+* 0774IbnKathir.TabaqatShaficiyyin (TAGS: BIO,COL)
+* 0732IbnYacqubJanadi.SulukFiTabaqat (TAGS: BIO,COL)
+* 0911Suyuti.TabaqatHuffaz (TAGS: BIO,COL)
 * 0230IbnSacd.TabaqatKubra
 * 0795IbnRajabHanbali.DhaylTabaqatHanabila
 * 0544CiyadIbnMusaYahsubi.TartibMadarik
 * 0642IbnNajjar.DhaylTarikhBaghdad
 * 0521IbnAbiYacla.TabaqatHanabila
+* 1360IbnQasimMakhluf.ShajaraNur (TAGS: BIO,COL)
