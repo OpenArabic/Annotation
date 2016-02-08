@@ -6,7 +6,7 @@ Currently uploaded texts are converted automatically into [*mARkdown*](http://ma
 
 For the list of added books, see **report.md** (Mostly premoderns chronicles, biographical collections, encyclopaedic dictionaries, gazetteers).
 
-# Tags describing text
+# Text Description Tags
 
 Tags follow the URI of a text in the following format **(TAGS: TAG,TAG,TAG)**. Combinations of tags specify the description of the text, for example, **BIO** refers to 'a biographical text', but **BIO,COL** refers more specifically to 'a biographical collection'. 
 
