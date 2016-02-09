@@ -14,6 +14,7 @@ Tags follow the URI of a text in the following format **(TAGS: TAG,TAG,TAG)**. C
 * **BIO** : biographical
 * **CHR** : chronicle
 * **COL** : collection/dictionary
+* **GEN** : genealogical
 * **GEO** : geographical
 * **ONO** : onomastic
 
