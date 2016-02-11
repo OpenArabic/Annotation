@@ -6,14 +6,11 @@ Currently uploaded texts are converted automatically into [*mARkdown*](http://ma
 
 For the list of added books, see **report.md** (Mostly premoderns chronicles, biographical collections, encyclopaedic dictionaries, gazetteers).
 
-
-
-
 # Prospects and Progress
 | *Texts* | *Status* |
 |:--- | ------:|
-| Total in the Collection | 10393 |
-| Unique texts | 7802 __*__ |
+| Total in the Collection | 10,393 |
+| Unique texts | 7,802 __*__ |
 | Scheduled Repositories | 355 __*__ |
 | Scheduled Top Priority | 151 |
 | To Be Rechecked | 126 |
@@ -33,7 +30,7 @@ Tags follow the URI of a text in the following format **(TAGS: TAG,TAG,TAG)**. C
 * **BIB** : bibliographical
 * **BIO** : biographical
 * **CHR** : chronicle
-* **COL** : collection/dictionary
+* **COL** : collection, dictionary, anthology
 * **GEN** : genealogical
 * **GEO** : geographical
 * **ONO** : onomastic
