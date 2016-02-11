@@ -10,16 +10,17 @@ For the list of added books, see **report.md** (Mostly premoderns chronicles, bi
 | *Texts* | *Status* |
 |:--- | ------:|
 | Total in the Collection | @TOTAL@ |
--------------------------
-| Scheduled Repositories | @SCHEDULED@ **\*** |
+| Scheduled Repositories | @SCHEDULED@ ***** |
 | Scheduled Top Priority | @TOP@ |
 | To Be Rechecked | @RECHECKED@ |
-
+| Excluded | @EXCLUDED@ ****** |
 | Added Texts | @UNIQUE@ (see, **report.md**) |
 | Converted to mARkdown | _pending_ |
 | Converted to TEI XML  | _pending_ |
 
-**\***: Predominantly historical, biographical, geographical, and bibliographical texts with ‘serialized data’ (plus, selected dictionaries and lexicons relevant to historical research).
+*****: Predominantly historical, biographical, geographical, and bibliographical texts with ‘serialized data’ (plus, selected dictionaries and lexicons relevant to historical research).
+
+******: Either modern works, or irrelevant for current research purposes.
 
 # Text Description Tags
 
