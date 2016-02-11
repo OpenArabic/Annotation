@@ -6,21 +6,25 @@ Currently uploaded texts are converted automatically into [*mARkdown*](http://ma
 
 For the list of added books, see **report.md** (Mostly premoderns chronicles, biographical collections, encyclopaedic dictionaries, gazetteers).
 
+
+
+
 # Prospects and Progress
 | *Texts* | *Status* |
 |:--- | ------:|
-| Total in the Collection | @TOTAL@ |
-| Scheduled Repositories | @SCHEDULED@ __*__ |
-| Scheduled Top Priority | @TOP@ |
-| To Be Rechecked | @RECHECKED@ |
-| Excluded | @EXCLUDED@ __**__ |
-| Added Texts | @UNIQUE@ (see, **report.md**) |
+| Total in the Collection | 10393 |
+| Unique texts | 7802 __*__ |
+| Scheduled Repositories | 355 __*__ |
+| Scheduled Top Priority | 151 |
+| To Be Rechecked | 126 |
+| Excluded | 209 __**__ |
+| Added Texts | 70 (see, **report.md**) |
 | Converted to mARkdown | _pending_ |
 | Converted to TEI XML  | _pending_ |
 
-__*__: Predominantly historical, biographical, geographical, and bibliographical texts with ‘serialized data’ (plus, selected dictionaries and lexicons relevant to historical research).
+__*__ : Predominantly historical, biographical, geographical, and bibliographical texts with ‘serialized data’ (plus, selected dictionaries and lexicons relevant to historical research).
 
-__**__: Either modern works, or irrelevant for current research purposes.
+__**__ : Either modern works, or irrelevant for current research purposes.
 
 # Text Description Tags
 
