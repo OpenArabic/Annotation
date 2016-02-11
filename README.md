@@ -7,8 +7,7 @@ Currently uploaded texts are converted automatically into [*mARkdown*](http://ma
 For the list of added books, see **report.md** (Mostly premoderns chronicles, biographical collections, encyclopaedic dictionaries, gazetteers).
 
 # Prospects and Progress
-
-| CAT | Status |
+| *Category* | *Status* |
 |:--- | ------:|
 | Total | 7,799 unique texts **[1]** |
 | Scheduled Repositories | \+ 170 **[2]** |
@@ -18,7 +17,7 @@ For the list of added books, see **report.md** (Mostly premoderns chronicles, bi
 
 **[1]**: From over 10,000 with duplicates.
 
-**[2]**: Only historical, biographical, geographical, and bibliographical texts with ‘serialized data’.
+**[2]**: Predominantly historical, biographical, geographical, and bibliographical texts with ‘serialized data’ (plus, selected dictionaries and lexicons relevant to historical research).
 
 # Text Description Tags
 
