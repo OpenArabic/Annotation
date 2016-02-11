@@ -8,14 +8,16 @@ For the list of added books, see **report.md** (Mostly premoderns chronicles, bi
 
 # Prospects and Progress
 
-| Total | 7,799 unique texts[^pap001] |
-| Scheduled Repositories | \+ 170[^pap002] |
+| CAT | Status |
+|:--- | ------:|
+| Total | 7,799 unique texts **[1]** |
+| Scheduled Repositories | \+ 170 **[2]** |
 | Repositories | 70 unique (see, **report.md**) |
 | Converted to mARkdown | _pending_ |
 | Converted to TEI XML  | _pending_ |
 
-[^pap001]: From over 10,000 with duplicates.
-[^pap002]: Only historical, biographical, geographical, and bibliographical texts with ‘serialized data’.
+**[1]**: From over 10,000 with duplicates.
+**[2]**: Only historical, biographical, geographical, and bibliographical texts with ‘serialized data’.
 
 # Text Description Tags
 
