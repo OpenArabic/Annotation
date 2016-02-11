@@ -6,6 +6,17 @@ Currently uploaded texts are converted automatically into [*mARkdown*](http://ma
 
 For the list of added books, see **report.md** (Mostly premoderns chronicles, biographical collections, encyclopaedic dictionaries, gazetteers).
 
+# Prospects and Progress
+
+| Total | 7,799 unique texts[^pap001] |
+| Scheduled Repositories | \+ 170[^pap002] |
+| Repositories | 70 unique (see, **report.md**) |
+| Converted to mARkdown | _pending_ |
+| Converted to TEI XML  | _pending_ |
+
+[^pap001]: From over 10,000 with duplicates.
+[^pap002]: Only historical, biographical, geographical, and bibliographical texts with ‘serialized data’.
+
 # Text Description Tags
 
 Tags follow the URI of a text in the following format **(TAGS: TAG,TAG,TAG)**. Combinations of tags specify the description of the text, for example, **BIO** refers to 'a biographical text', but **BIO,COL** refers more specifically to 'a biographical collection'. 
