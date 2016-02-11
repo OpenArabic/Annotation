@@ -11,11 +11,11 @@ For the list of added books, see **report.md** (Mostly premoderns chronicles, bi
 |:--- | ------:|
 | Total in the Collection | 10,393 |
 | Unique texts | 7,802 |
-| Scheduled Repositories | 355 __*__ |
+| Scheduled Repositories __*__  | 355 |
 | Scheduled Top Priority | 151 |
 | To Be Rechecked | 126 |
-| Excluded | 209 __**__ |
-| Added Texts | 70 (see, **report.md**) |
+| Excluded __**__ | 209 |
+| Added Texts (see, **report.md**) | 70 |
 | Converted to mARkdown | _pending_ |
 | Converted to TEI XML  | _pending_ |
 
