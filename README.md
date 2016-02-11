@@ -9,9 +9,9 @@ For the list of added books, see **report.md** (Mostly premoderns chronicles, bi
 # Prospects and Progress
 | *Category* | *Status* |
 |:--- | ------:|
-| Total | 7,799 unique texts **[1]** |
+| Total in the Collection | 7,799 unique texts **^[1]^** |
 | Scheduled Repositories | \+ 170 **[2]** |
-| Repositories | 70 unique (see, **report.md**) |
+| Texts | 70 unique (see, **report.md**) |
 | Converted to mARkdown | _pending_ |
 | Converted to TEI XML  | _pending_ |
 
