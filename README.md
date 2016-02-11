@@ -17,6 +17,7 @@ For the list of added books, see **report.md** (Mostly premoderns chronicles, bi
 | Converted to TEI XML  | _pending_ |
 
 **[1]**: From over 10,000 with duplicates.
+
 **[2]**: Only historical, biographical, geographical, and bibliographical texts with ‘serialized data’.
 
 # Text Description Tags
