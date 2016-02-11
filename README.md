@@ -10,7 +10,7 @@ For the list of added books, see **report.md** (Mostly premoderns chronicles, bi
 | *Texts* | *Status* |
 |:--- | ------:|
 | Total in the Collection | @TOTAL@ |
-|---------------------------------------|
+-------------------------
 | Scheduled Repositories | @SCHEDULED@ **\*** |
 | Scheduled Top Priority | @TOP@ |
 | To Be Rechecked | @RECHECKED@ |
