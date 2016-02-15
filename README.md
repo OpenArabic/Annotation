@@ -4,7 +4,7 @@ Arabic texts from different periods, collected and reformatted into machine-read
 
 Currently uploaded texts are converted automatically into [*mARkdown*](http://maximromanov.github.io/mARkdown/) format and require further manual tagging of the structure; when manual tagging is complete they will be converted into CTS-compliant XML format.
 
-For the list of added books, see **report.md** (Mostly premoderns chronicles, biographical collections, encyclopaedic dictionaries, gazetteers).
+For the list of added books, see below (Mostly premoderns chronicles, biographical collections, encyclopaedic dictionaries, gazetteers).
 
 # Prospects and Progress
 | *Texts* | *Status* |
@@ -15,7 +15,7 @@ For the list of added books, see **report.md** (Mostly premoderns chronicles, bi
 | Scheduled top priority | 305 |
 | To be rechecked | 249 |
 | Excluded __**__ | 447 |
-| Added texts (see, **report.md**) | 80 |
+| Added texts (list below) | 80 |
 | Converted to mARkdown | _pending_ |
 | Converted to TEI XML  | _pending_ |
 
@@ -51,3 +51,135 @@ Tags follow the URI of a text in the following format **(TAGS: TAG,TAG,TAG)**. C
 		- `wget` must be installed on Windows (Macs usually have it)
 		- to save space, PDFs are ignored in this GitHub repository 
 		- if you find new PDFs, add urls (one per line) into a new file **urls_additional.txt**
+
+# Preprocessed titles
+
+## List of books by centuries (80 titles)
+
+* **0100AH [[ [Re]generated on 2016-02-15 (18:56:21) ]]**
+
+    * _no texts at the moment_
+
+* **0200AH [[ [Re]generated on 2016-02-15 (18:56:21) ]]**
+
+    * _no texts at the moment_
+
+* **0300AH [[ [Re]generated on 2016-02-15 (18:56:21) ]]**
+
+    * `0230IbnSacd.TabaqatKubra (TAGS: BIO,COL)`
+
+* **0400AH [[ [Re]generated on 2016-02-15 (18:56:21) ]]**
+
+    * `0310Tabari.Tarikh (TAGS: CHR)`
+    * `0354IbnHibban.Thiqat (TAGS: ...)`
+    * `0385IbnNadim.Fihrist (TAGS: BIB)`
+
+* **0500AH [[ [Re]generated on 2016-02-15 (18:56:21) ]]**
+
+    * `0403IbnFaradi.TarikhCulamaAndalus (TAGS: ...)`
+    * `0463KhatibBaghdadi.TarikhBaghdad (TAGS: BIO,COL)`
+
+* **0600AH [[ [Re]generated on 2016-02-15 (18:56:21) ]]**
+
+    * `0521IbnAbiYacla.TabaqatHanabila (TAGS: BIO,COL)`
+    * `0544CiyadIbnMusaYahsubi.TartibMadarik (TAGS: BIO,COL)`
+    * `0561Samcani.Ansab (TAGS: ONO,COL)`
+    * `0571IbnCasakir.TarikhDimashq (TAGS: BIO,COL)`
+    * `0578IbnBashkuwal.Sila (TAGS: BIO,COL)`
+    * `0597IbnJawzi.Muntazam (TAGS: BIO,COL,CHR)`
+
+* **0700AH [[ [Re]generated on 2016-02-15 (18:56:21) ]]**
+
+    * `0623Qazwini.Tadwin (TAGS: ...)`
+    * `0626YaqutHamawi.MucjamUdaba (TAGS: BIO,COL,POE)`
+    * `0629IbnNuqta.TakmilaIkmal (TAGS: ...)`
+    * `0629IbnNuqta.TaqyidLiMacrifa (TAGS: BIO,COL)`
+    * `0630IbnAthirCizzDin.Kamil (TAGS: CHR)`
+    * `0630IbnAthirCizzDin.LubabFiTahdhibAnsab (TAGS: ...)`
+    * `0641Sarifini.Muntakhab (TAGS: ...)`
+    * `0642IbnNajjar.DhaylTarikhBaghdad (TAGS: BIO,COL)`
+    * `0658IbnAbbar.TakmilaLiSila (TAGS: BIO,COL)`
+    * `0660IbnCadim.BughyatTalib (TAGS: ...)`
+    * `0681IbnKhallikan.WafayatAcyan (TAGS: BIO,COL)`
+    * `0684IbnShaddad.AclaqKhatira (TAGS: ...)`
+
+* **0800AH [[ [Re]generated on 2016-02-15 (18:56:21) ]]**
+
+    * `0711IbnManzurIfriqi.MukhtasarTarikhDimashq (TAGS: BIO,COL)`
+    * `0732AbuFida.MukhtasarFiAkhbar (TAGS: ...)`
+    * `0732IbnYacqubJanadi.SulukFiTabaqat (TAGS: BIO,COL)`
+    * `0733Nuwayri.NihayaArab (TAGS: ...)`
+    * `0742Mizzi.TahdhibKamal (TAGS: ...)`
+    * `0748Dhahabi.CibarFiKhabar (TAGS: CHR)`
+    * `0748Dhahabi.MizanIctidal (TAGS: ...)`
+    * `0748Dhahabi.MucjamShuyukh (TAGS: BIO,COL)`
+    * `0748Dhahabi.MukhtasarMinDubaythi (TAGS: ...)`
+    * `0748Dhahabi.SiyarAclamNubala (TAGS: BIO,COL)`
+    * `0748Dhahabi.TadhkiraHuffaz (TAGS: BIO,COL)`
+    * `0748Dhahabi.TarikhIslam (TAGS: BIO,COL,CHR)`
+    * `0762MughaltayIbnQalij.IkmalTahdhib (TAGS: ...)`
+    * `0764Safadi.AcyanCasr (TAGS: BIO,COL)`
+    * `0764Safadi.WafiBiWafayat (TAGS: BIO,COL)`
+    * `0768Yafici.MiratJanan (TAGS: ...)`
+    * `0771Subki.TabaqatShaficiyaKubra (TAGS: BIO,COL)`
+    * `0774IbnKathir.Bidaya (TAGS: BIO,COL,CHR)`
+    * `0774IbnKathir.TabaqatShaficiyyin (TAGS: BIO,COL)`
+    * `0775IbnAbiWafa.JawahirMudiya (TAGS: BIO,COL)`
+    * `0795IbnRajabHanbali.DhaylTabaqatHanabila (TAGS: BIO,COL)`
+
+* **0900AH [[ [Re]generated on 2016-02-15 (18:56:21) ]]**
+
+    * `0808IbnKhaldun.Muqaddima (TAGS: CHR)`
+    * `0832AbuTayyibFasi.DhaylTaqyid (TAGS: ...)`
+    * `0833IbnJazari.GhayaNihaya (TAGS: ...)`
+    * `0842IbnNasirDinDimashqi.TawdihMushtabih (TAGS: ...)`
+    * `0845Maqrizi.Mawaciz (TAGS: ...)`
+    * `0851IbnQadiShuhba.TabaqatShaficiya (TAGS: BIO,COL)`
+    * `0852IbnHajarCasqalani.InbaGhumr (TAGS: ...)`
+    * `0852IbnHajarCasqalani.LisanMizan (TAGS: BIO,COL)`
+    * `0852IbnHajarCasqalani.TahdhibTahdhib (TAGS: ...)`
+    * `0852IbnHajarCasqalani.TaqribTahdhib (TAGS: ...)`
+    * `0855Cayni.CumdaQari (TAGS: ...)`
+    * `0855Cayni.MaghaniAkhyar (TAGS: ...)`
+    * `0874IbnTaghribirdi.ManhalSafi (TAGS: ...)`
+    * `0874IbnTaghribirdi.NujumZahira (TAGS: ...)`
+    * `0879IbnQutlubugha.Thiqat (TAGS: ...)`
+
+* **1000AH [[ [Re]generated on 2016-02-15 (18:56:21) ]]**
+
+    * `0902Sakhawi.DuLamic (TAGS: BIO,COL)`
+    * `0902Sakhawi.TuhfaLatifa (TAGS: ...)`
+    * `0911Suyuti.BughyaWucat (TAGS: BIO,COL)`
+    * `0911Suyuti.HusnMuhadara (TAGS: ...)`
+    * `0911Suyuti.TabaqatHuffaz (TAGS: BIO,COL)`
+    * `0923IbnCabdAllahKhazraji.KhulasaTahdhib (TAGS: ...)`
+    * `0927Nucaymi.DarisFiMadaris (TAGS: COL)`
+
+* **1100AH [[ [Re]generated on 2016-02-15 (18:56:21) ]]**
+
+    * `1061NajmDinGhazzi.KawakibSaira (TAGS: ...)`
+    * `1067HajjiKhalifa.KashfZunun (TAGS: BIB,COL)`
+    * `1089IbnCimad.Shadharat (TAGS: BIO,COL,CHR)`
+
+* **1200AH [[ [Re]generated on 2016-02-15 (18:56:21) ]]**
+
+    * `1111MuhammadAminMuhibbi.KhulasaAthr (TAGS: ...)`
+
+* **1300AH [[ [Re]generated on 2016-02-15 (18:56:21) ]]**
+
+    * `1206Muradi.SilkDurar (TAGS: ...)`
+    * `1269CabdMalikCasimi.SamtNujum (TAGS: ...)`
+    * `1286IcjazHusaynKunturi.KashfHajb (TAGS: BIB)`
+
+* **1400AH [[ [Re]generated on 2016-02-15 (18:56:21) ]]**
+
+    * `1315Salawi.IstiqsaLiAhkbar (TAGS: ...)`
+    * `1335CabdRazzaqBaytar.HilyaBashar (TAGS: ...)`
+    * `1339IsmacilBashaBaghdadi.HadiyaCarifin (TAGS: BIO,BIB,COL)`
+    * `1339IsmacilBashaBaghdadi.IdahMaknun (TAGS: BIB,COL)`
+    * `1341CabdHayyTalibi.IclamBiMan (TAGS: ...)`
+    * `1360IbnQasimMakhluf.ShajaraNur (TAGS: BIO,COL)`
+
+* **1500AH [[ [Re]generated on 2016-02-15 (18:56:21) ]]**
+
+    * _no texts at the moment_
