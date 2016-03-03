@@ -1,0 +1,18 @@
+# Files to ignore: PDFs can be downloaded with `make` for every included text
+*.pdf
+*.PDF
+
+# Images should not be stored here either
+*.gif
+*.GIF
+*.jpeg
+*.JPEG
+
+# Audio recordings of should not be stored either
+*.afpk
+*.mp3
+*.ogg
+
+# Python scripts for prepping data
+__pycache__/
+*.py[cod]
