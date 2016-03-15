@@ -7,6 +7,12 @@
 *.GIF
 *.jpeg
 *.JPEG
+*.jpg
+*.JPG
+*.html
+*.HTML
+*.htm
+*.HTM
 
 # Audio recordings of should not be stored either
 *.afpk
