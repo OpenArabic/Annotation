@@ -36,6 +36,8 @@ Tags follow the URI of a text in the following format **(TAGS: TAG,TAG,TAG)**. C
 * **GEO** : geographical
 * **ONO** : onomastic
 
+* **NOT** : _no text_, orphan
+
 # Project/Folder structure
 
 - everything is divided into centuries
