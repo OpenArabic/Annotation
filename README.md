@@ -1,6 +1,8 @@
 # OpenArabic Project (@ AvH Lehrstuhl für Digital Humanities, U Leipzig)
 
-Arabic texts from different periods, collected and reformatted into machine-readable formats (mARkdown > CTS-compliant TEI XML > Perseus DL)
+Arabic texts from different periods, collected and reformatted into machine-readable formats (mARkdown > CTS-compliant TEI XML > Perseus DL).
+
+Most of the texts are coming from open online collections of premodern and modern Arabic texts, such as [http://shamela.ws/](http://shamela.ws/) and [http://shiaonlinelibrary.com/](http://shiaonlinelibrary.com/) (These texts have 'Shamela+NUMBER' and 'Shia+NUMBER'; some texts are coming from 'al-Jāmiʿ al-kabīr', which is not available online ('JK_NUMBER'). Initial metadata from these collections is preserved in the beginning of each file.
 
 Currently uploaded texts are converted automatically into [*mARkdown*](http://maximromanov.github.io/mARkdown/) format and require further manual tagging of the structure; when manual tagging is complete they will be converted into CTS-compliant XML format.
 
@@ -35,6 +37,7 @@ Tags follow the URI of a text in the following format **(TAGS: TAG,TAG,TAG)**. C
 * **GEN** : genealogical
 * **GEO** : geographical
 * **ONO** : onomastic
+* **HAD** : hadith
 
 *****************************
 
@@ -50,12 +53,15 @@ Tags follow the URI of a text in the following format **(TAGS: TAG,TAG,TAG)**. C
 	- texts (often different versions)
 	- `arc` folder, where texts are preserved in their pre-formatted form
 	- `PDF` folder, which include:
-		- **urls.txt** with links to PDFs of a book (usually on [archive.org](archive.org))
-		- PDFs can be downloaded with `wget -i urls.txt` (on commandLine/Terminal)
-		- on Mac/Linux all PDFs can be also downloaded with `make` command
-		- `wget` must be installed on Windows (Macs usually have it)
-		- to save space, PDFs are ignored in this GitHub repository 
-		- if you find new PDFs, add urls (one per line) into a new file **urls_additional.txt**
+		- **urls.txt** with links to PDFs for about 125 books (usually on [archive.org](archive.org)), which can be downloaded with `wget -i urls.txt` (on 'command line' or 'Terminal')
+			- on Mac/Linux all PDFs can be also downloaded with `make` command
+			- `wget` must be installed on Windows (Macs usually have it)
+		- to save space, PDFs are ignored in this GitHub repositories 
+		- if you find new PDFs, add urls (one per line) into a new file **urls_additional.txt**. PDFs can be found via Google, most commoly on:
+			- [http://waqfeya.com/](http://waqfeya.com/), with most links lead to [archive.org](archive.org)); other useful sites are:
+			- [http://kt-b.com/](http://kt-b.com/) (books are often bulked into large collections, but the selection seems to be larger than on [http://waqfeya.com/](http://waqfeya.com/));
+			- [http://bib-alex.com/](http://bib-alex.com/), which has scanned books from the Bibliotheca Alexandrina (unfortunately, most files are stored on file-sharing services and lots of links are already dead)
+			- [http://wqf.me/](http://wqf.me/) for manuscripts (search is rather complicated though); most links lead to [archive.org](archive.org) as well.
 
 # Preprocessed titles
 
