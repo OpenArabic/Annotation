@@ -2,7 +2,7 @@
 
 Arabic texts from different periods, collected and reformatted into machine-readable formats (mARkdown > CTS-compliant TEI XML > Perseus DL).
 
-Most of the texts are coming from open online collections of premodern and modern Arabic texts, such as [http://shamela.ws/](http://shamela.ws/) and [http://shiaonlinelibrary.com/](http://shiaonlinelibrary.com/) (These texts have 'Shamela+NUMBER' and 'Shia+NUMBER'; some texts are coming from 'al-Jāmiʿ al-kabīr', which is not available online ('JK_NUMBER'). Initial metadata from these collections is preserved in the beginning of each file.
+Most of the texts are coming from open online collections of premodern and modern Arabic texts, such as [http://shamela.ws/](http://shamela.ws/) and [http://shiaonlinelibrary.com/](http://shiaonlinelibrary.com/) (These texts have `Shamela+NUMBER` and `Shia+NUMBER`; some texts are coming from _al-Jāmiʿ al-kabīr_, which is not available online (`JK+NUMBER`). Initial metadata from these collections is preserved in the beginning of each file.
 
 Currently uploaded texts are converted automatically into [*mARkdown*](http://maximromanov.github.io/mARkdown/) format and require further manual tagging of the structure; when manual tagging is complete they will be converted into CTS-compliant XML format.
 
@@ -28,16 +28,16 @@ __**__ : Either modern works, or irrelevant for current research purposes.
 
 # Text Description Tags
 
-Tags follow the URI of a text in the following format **(TAGS: TAG,TAG,TAG)**. Combinations of tags specify the description of the text, for example, **BIO** refers to 'a biographical text', but **BIO,COL** refers more specifically to 'a biographical collection'. 
+Tags follow the URI of a text in the following format `(TAGS: TAG,TAG,TAG)`. Combinations of tags specify the description of the text, for example, `BIO` refers to 'a biographical text', but `BIO,COL` refers more specifically to 'a biographical collection'. 
 
-* **BIB** : bibliographical
-* **BIO** : biographical
-* **CHR** : chronicle
-* **COL** : collection, dictionary, anthology
-* **GEN** : genealogical
-* **GEO** : geographical
-* **ONO** : onomastic
-* **HAD** : hadith
+* `BIB` : bibliographical
+* `BIO` : biographical
+* `CHR` : chronicle
+* `COL` : collection, dictionary, anthology
+* `GEN` : genealogical
+* `GEO` : geographical
+* `ONO` : onomastic
+* `HAD` : hadith
 
 *****************************
 
