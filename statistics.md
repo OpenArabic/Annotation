@@ -1,17 +1,15 @@
 # Statistics on the corpus
 
+| **Category** | **Stats** |
+
 |:--- | ------:|
 | Number of text files | 680 |
 | Number of books      | 299 |
 | Number of authors    | 200 |
 
-
-|:--- | ------:|
 | Length in words (all)| 286,303,303 |
 | Length in pages (300 w/p)| 954,344 |
 
-
-|:--- | ------:|
 | Length in words (unique) | 123,557,214 |
 | Length in pages (300 w/p)| 411,857 |
 
