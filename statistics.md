@@ -25,8 +25,8 @@
 
 ## Texts by length (duplicates excluded)
 
-|    | TextGroup URI | Words  | Pages (300 w/p) |
-| -: | :--- | ------:| -----:|
+| Num | TextGroup URI | Words  | Pages (300 w/p) |
+| --: | :--- | ------:| -----:|
 | 1 | 0571IbnCasakir.TarikhDimashq | 10,412,777 | 34,709 |
 | 2 | 0855Cayni.CumdaQari | 4,680,632 | 15,602 |
 | 3 | 1371MuhsinCamili.AcyanShica | 4,675,215 | 15,584 |
