@@ -11,13 +11,13 @@ For the list of added books, see below (Mostly premodern chronicles, biographica
 # Prospects and Progress
 | *Texts* | *Status* |
 |:--- | ------:|
-| Total in the Collection | 10,395 |
-| Unique texts | 7,793 |
-| Scheduled texts __*__  | 340 |
-| Scheduled top priority | 237 |
-| To be rechecked | 251 |
-| Excluded __**__ | 557 |
-| Added texts (listed below) | 300 |
+| Total in the Collection | 10,394 |
+| Unique texts | 7,791 |
+| Scheduled texts __*__  | 295 |
+| Scheduled top priority | 216 |
+| To be rechecked | 254 |
+| Excluded __**__ | 551 |
+| Added texts (listed below) | 350 |
 | Orphans (no TXT) | 2 |
 | Converted to mARkdown | _pending_ |
 | Converted to TEI XML  | _pending_ |
@@ -69,351 +69,401 @@ Tags follow the URI of a text in the following format `(TAGS: TAG,TAG,TAG)`. Com
 
 # Preprocessed titles
 
-## List of books by centuries (300 titles)
+## List of books by centuries (350 titles)
 
-* **0100AH [[ [Re]generated on 2016-04-07 (08:25:57) ]]**
-
-    * _no texts at the moment_
-
-* **0200AH [[ [Re]generated on 2016-04-07 (08:25:57) ]]**
+* **0100AH [[ [Re]generated on 2016-04-08 (15:25:58) ]]**
 
     * _no texts at the moment_
 
-* **0300AH [[ [Re]generated on 2016-04-07 (08:25:57) ]]**
+* **0200AH [[ [Re]generated on 2016-04-08 (15:25:58) ]]**
 
-    * `0230IbnSacd.TabaqatKubra (TAGS: BIO,COL)`
-    * `0231IbnSallamJumahi.TabaqatFuhulShucara (TAGS: ...)`
-    * `0233YahyaIbnMacin.MinKalamFiRijal (TAGS: ...)`
-    * `0233YahyaIbnMacin.TarikhIbnMacin (TAGS: ...)`
-    * `0234AbuHasanSacdi.TasmiyaManRuwiya  (TAGS: ...)`
-    * `0240KhalifaIbnKhayyat.Tabaqat (TAGS: ...)`
-    * `0240KhalifaIbnKhayyat.Tarikh (TAGS: ...)`
-    * `0241IbnHanbal.AsamiWaKuna (TAGS: ...)`
-    * `0249Azraqi.AkhbarMakka (TAGS: ...)`
-    * `0256Bukhari.DucafaSaghir (TAGS: HAD,BIO)`
-    * `0256Bukhari.TarikhKabir (TAGS: ...)`
-    * `0256Bukhari.TarikhSaghir (TAGS: ...)`
-    * `0257IbnCabdHakam.FutuhMisr (TAGS: ...)`
-    * `0259IbnYacqubJuzjani.AhwalRijal (TAGS: ...)`
-    * `0261AbuHasanCijli.MacrifaThiqat (TAGS: ...)`
-    * `0261Muslim.KunaWaAsma (TAGS: ...)`
-    * `0261Muslim.Munfaridat (TAGS: ...)`
-    * `0262AbuZaydNumayri.TarikhMadina (TAGS: ...)`
-    * `0272Fakihi.AkhbarMakka (TAGS: ...)`
-    * `0277AbuHatimRazi.JarhWaTacdil (TAGS: ...)`
-    * `0277IbnSyfyanFasawi.MacrifaWaTarikh (TAGS: ...)`
-    * `0279Baladhuri.AnsabAshraf (TAGS: GEN)`
-    * `0279Baladhuri.FutuhBuldan (TAGS: ...)`
-    * `0281AbuZurcaDimashqi.Tarikh (TAGS: ...)`
-    * `0292Bahshal.TarikhWasit (TAGS: ...)`
-    * `0292Yacqubi.TarikhYacqubi (TAGS: ...)`
-    * `0300IbnKhurdadhbih.MasalikWaMamalik (TAGS: GEO)`
+    * _no texts at the moment_
 
-* **0400AH [[ [Re]generated on 2016-04-07 (08:25:57) ]]**
+* **0300AH [[ [Re]generated on 2016-04-08 (15:25:58) ]]**
 
-    * `0301Bardiji.TabaqatAsma (TAGS: ...)`
-    * `0303Nasai.DucafaWaMatrukin (TAGS: ...)`
-    * `0303Nasai.FadailSahaba (TAGS: ...)`
-    * `0303Nasai.Tabaqat (TAGS: ...)`
-    * `0303Nasai.TasmiyaFuqaha (TAGS: ...)`
-    * `0303Nasai.TasmiyaManLamYarwi (TAGS: ...)`
-    * `0306IbnHayyanDabbi.AkhbarQudat (TAGS: ...)`
-    * `0310IbnAhmadDulabi.KunaWaAsma (TAGS: ...)`
-    * `0310Tabari.Tarikh (TAGS: CHR)`
-    * `0322AbuJacfarCuqayli.DucafaKabir (TAGS: ...)`
-    * `0346Istakhri.MasalikWaMamalik (TAGS: GEO)`
-    * `0346Mascudi.MurujDhahab (TAGS: ...)`
-    * `0347IbnYunusSadafi.Tarikh (TAGS: ...)`
-    * `0351IbnQanic.MucjamSahaba (TAGS: ...)`
-    * `0354IbnHibban.Majruhin (TAGS: ...)`
-    * `0354IbnHibban.MashahirCulamaAmsar (TAGS: ...)`
-    * `0354IbnHibban.Thiqat (TAGS: ...)`
-    * `0355AbuFarajIsbahani.Aghani (TAGS: ...)`
-    * `0355MuhammadKindi.FadailMisr (TAGS: ...)`
-    * `0355MuhammadKindi.WulatMisr (TAGS: BIO,COL)`
-    * `0360Tabarani.MucjamKabir (TAGS: HAD,COLL)`
-    * `0365IbnCadiJurjani.AsamiManRawaCanhum (TAGS: ...)`
-    * `0365IbnCadiJurjani.KamilFiDucafa (TAGS: ...)`
-    * `0369IbnHayyanAnsari.TabaqatMuhaddithin (TAGS: ...)`
-    * `0374AbuFathAzdi.Makhzun (TAGS: HAD,...)`
-    * `0374IbnHusaynAzdi.AsmaManYucrafBiKunya (TAGS: ...)`
-    * `0379MuhammadRabci.TarikhMawlidCulama (TAGS: BIO,COL)`
-    * `0385Daruqutni.DhikrAsmaTabicin (TAGS: ...)`
-    * `0385Daruqutni.Sualat (TAGS: ...)`
-    * `0385IbnNadim.Fihrist (TAGS: BIB)`
-    * `0385IbnShahin.AsmaThiqat (TAGS: ...)`
-    * `0390Muqaddasi.AhsanTaqasim (TAGS: GEO)`
-    * `0395IbnMandah.FathBab (TAGS: ...)`
-    * `0398AbuNasrKalabadhi.HidayaWaIrshad (TAGS: ...)`
-    * `0400IbnTahirMaqdisi.BadWaTarikh (TAGS: ...)`
+    * `0207Waqidi.FutuhSham (TAGS: ...,PPE)`
+    * `0207Waqidi.Maghazi (TAGS: ...,PPE)`
+    * `0213IbnHisham.SiraNabawiyya (TAGS: BIO,DHB,PPE)`
+    * `0230IbnSacd.TabaqatKubra (TAGS: BIO,COL,PPE)`
+    * `0231IbnSallamJumahi.TabaqatFuhulShucara (TAGS: ...,PPE)`
+    * `0233YahyaIbnMacin.MinKalamFiRijal (TAGS: ...,PPE)`
+    * `0233YahyaIbnMacin.TarikhIbnMacin (TAGS: ...,PPE)`
+    * `0234AbuHasanSacdi.TasmiyaManRuwiya  (TAGS: ...,PPE)`
+    * `0240KhalifaIbnKhayyat.Tabaqat (TAGS: ...,PPE)`
+    * `0240KhalifaIbnKhayyat.Tarikh (TAGS: ...,PPE)`
+    * `0241IbnHanbal.AsamiWaKuna (TAGS: ...,PPE)`
+    * `0249Azraqi.AkhbarMakka (TAGS: ...,PPE)`
+    * `0256Bukhari.DucafaSaghir (TAGS: HAD,BIO,PPE)`
+    * `0256Bukhari.TarikhKabir (TAGS: ...,PPE)`
+    * `0256Bukhari.TarikhSaghir (TAGS: ...,PPE)`
+    * `0256ZubayrIbnBakkar.AkhbarMuwaffaqiyat (TAGS: ...)`
+    * `0256ZubayrIbnBakkar.JamharaNasabQuraysh (TAGS: PPE,...)`
+    * `0256ZubayrIbnBakkar.Muntakhab (TAGS: ...,PPE)`
+    * `0257IbnCabdHakam.FutuhMisr (TAGS: ...,PPE)`
+    * `0259IbnYacqubJuzjani.AhwalRijal (TAGS: ...,PPE)`
+    * `0261AbuHasanCijli.MacrifaThiqat (TAGS: ...,PPE)`
+    * `0261Muslim.KunaWaAsma (TAGS: ...,PPE)`
+    * `0261Muslim.Munfaridat (TAGS: ...,PPE)`
+    * `0262AbuZaydNumayri.TarikhMadina (TAGS: ...,PPE)`
+    * `0272Fakihi.AkhbarMakka (TAGS: ...,PPE)`
+    * `0276IbnQutayba.Macarif (TAGS: ...,PPE)`
+    * `0277AbuHatimRazi.JarhWaTacdil (TAGS: ...,PPE)`
+    * `0277IbnSyfyanFasawi.MacrifaWaTarikh (TAGS: ...,PPE)`
+    * `0279Baladhuri.AnsabAshraf (TAGS: GEN,PPE)`
+    * `0279Baladhuri.FutuhBuldan (TAGS: ...,PPE)`
+    * `0279IbnAbiKhaythama.TarikhKabir (TAGS: ...)`
+    * `0281AbuZurcaDimashqi.Tarikh (TAGS: ...,PPE)`
+    * `0282AbuHanifaDinawari.AkhbarTiwal (TAGS: ...)`
+    * `0292Bahshal.TarikhWasit (TAGS: ...,PPE)`
+    * `0292Yacqubi.TarikhYacqubi (TAGS: ...,PPE)`
+    * `0300IbnKhurdadhbih.MasalikWaMamalik (TAGS: GEO,PPE)`
 
-* **0500AH [[ [Re]generated on 2016-04-07 (08:25:57) ]]**
+* **0400AH [[ [Re]generated on 2016-04-08 (15:25:58) ]]**
 
-    * `0403IbnFaradi.TarikhCulamaAndalus (TAGS: ...)`
-    * `0405AbuFadlHarawi.MucjamFiMushtabah (TAGS: ...)`
-    * `0412Sulami.TabaqatSufiya (TAGS: ...)`
-    * `0421Miskawayh.Tajarib (TAGS: ...)`
-    * `0427HamzaJurjani.TarikhJurjan (TAGS: ...)`
-    * `0428IbnManjuwayhIsbahani.RijalSahihMuslim (TAGS: ...)`
-    * `0429AbuMansurThacalibi.YatimaDahr (TAGS: ...)`
-    * `0430AbuNucaymIsbahani.DhikrManIsmuhuShucba (TAGS: ...)`
-    * `0430AbuNucaymIsbahani.Ducafa (TAGS: ...)`
-    * `0430AbuNucaymIsbahani.HilyaAwliya (TAGS: ...)`
-    * `0430AbuNucaymIsbahani.MacrifaSahaba (TAGS: ...)`
-    * `0430AbuNucaymIsbahani.TarikhIsbahan (TAGS: ...)`
-    * `0446AbuYaclaKhalili.IrshadFiMacrifaCulama (TAGS: ...)`
-    * `0456IbnHazm.AsmaKhulafa (TAGS: ...)`
-    * `0456IbnHazm.FadailAndalus (TAGS: ...)`
-    * `0456IbnHazm.JamharaAnsab (TAGS: ...)`
-    * `0458Bayhaqi.DalailNubuwwa (TAGS: DHB)`
-    * `0463IbnCabdBarr.IsticabFiMacrifaAshab (TAGS: BIO,COL)`
-    * `0463KhatibBaghdadi.GhunyaMultamis  (TAGS: ...)`
-    * `0463KhatibBaghdadi.MuttafiqWaMuftariq (TAGS: ...)`
-    * `0463KhatibBaghdadi.TarikhBaghdad (TAGS: BIO,COL,DHB)`
-    * `0466CabdAzizKattani.DhaylTarikhMawlidCulama (TAGS: ...)`
-    * `0474IbnKhalafBaji.TacdilWaTakhrij (TAGS: ...)`
-    * `0475IbnMakula.IkmalFiRafcIrtiyab (TAGS: ...)`
-    * `0475IbnMakula.TahdhibMustamirr (TAGS: ...)`
-    * `0476AbuIshaqShirazi.TabaqatFuqaha (TAGS: BIO,COL)`
-    * `0482AbuIshaqHabbal.WafayatMisriyyin (TAGS: ...)`
-    * `0487AbuCubaydBakri.MasalikWaMamalik (TAGS: GEO)`
-    * `0488IbnFutuhHumaydi.JadhwaMuqtabis (TAGS: ...)`
+    * `0301Bardiji.TabaqatAsma (TAGS: ...,PPE)`
+    * `0303Nasai.DucafaWaMatrukin (TAGS: ...,PPE)`
+    * `0303Nasai.FadailSahaba (TAGS: ...,PPE)`
+    * `0303Nasai.Tabaqat (TAGS: ...,PPE)`
+    * `0303Nasai.TasmiyaFuqaha (TAGS: ...,PPE)`
+    * `0303Nasai.TasmiyaManLamYarwi (TAGS: ...,PPE)`
+    * `0306IbnHayyanDabbi.AkhbarQudat (TAGS: ...,PPE)`
+    * `0310IbnAhmadDulabi.Dhariyya (TAGS: ...,PPE)`
+    * `0310IbnAhmadDulabi.KunaWaAsma (TAGS: ...,PPE)`
+    * `0310Tabari.Tarikh (TAGS: CHR,PPE)`
+    * `0317AbuQasimBaghawi.MucjamSahaba (TAGS: ...,PPE)`
+    * `0322AbuJacfarCuqayli.DucafaKabir (TAGS: ...,PPE)`
+    * `0346Istakhri.MasalikWaMamalik (TAGS: GEO,PPE)`
+    * `0346Mascudi.MurujDhahab (TAGS: ...,PPE)`
+    * `0347IbnYunusSadafi.Tarikh (TAGS: ...,PPE)`
+    * `0351IbnQanic.MucjamSahaba (TAGS: ...,PPE)`
+    * `0354IbnHibban.Majruhin (TAGS: ...,PPE)`
+    * `0354IbnHibban.MashahirCulamaAmsar (TAGS: ...,PPE)`
+    * `0354IbnHibban.Sira (TAGS: ...,PPE)`
+    * `0354IbnHibban.Thiqat (TAGS: ...,PPE)`
+    * `0355AbuFarajIsbahani.Aghani (TAGS: ...,PPE)`
+    * `0355MuhammadKindi.FadailMisr (TAGS: ...,PPE)`
+    * `0355MuhammadKindi.WulatMisr (TAGS: BIO,COL,PPE)`
+    * `0360Tabarani.MucjamKabir (TAGS: HAD,COLL,PPE)`
+    * `0365IbnCadiJurjani.AsamiManRawaCanhum (TAGS: ...,PPE)`
+    * `0365IbnCadiJurjani.KamilFiDucafa (TAGS: ...,PPE)`
+    * `0369IbnHayyanAnsari.TabaqatMuhaddithin (TAGS: ...,PPE)`
+    * `0374AbuFathAzdi.Makhzun (TAGS: HAD,...,PPE)`
+    * `0374IbnHusaynAzdi.AsmaManYucrafBiKunya (TAGS: ...,PPE)`
+    * `0374IbnHusaynAzdi.ManWafaqaIsmuhuIsmAbihi (TAGS: PPE,...)`
+    * `0379MuhammadRabci.TarikhMawlidCulama (TAGS: BIO,COL,PPE)`
+    * `0382IbnCabdAllahCaskari.AkhbarMusahhifin (TAGS: ...,PPE)`
+    * `0385Daruqutni.DhikrAsmaTabicin (TAGS: ...,PPE)`
+    * `0385Daruqutni.Sualat (TAGS: ...,PPE)`
+    * `0385Daruqutni.Sualat (TAGS: ...,PPE)`
+    * `0385IbnNadim.Fihrist (TAGS: BIB,PPE)`
+    * `0385IbnShahin.TarikhAsmaDucafa (TAGS: ...,PPE)`
+    * `0385IbnShahin.TarikhAsmaThiqat (TAGS: ...,PPE)`
+    * `0390Muqaddasi.AhsanTaqasim (TAGS: GEO,PPE)`
+    * `0395IbnMandaMuhammad.MacrifaSahaba (TAGS: ...)`
+    * `0395IbnMandah.FathBab (TAGS: ...,PPE)`
+    * `0395IbnMandahMuhammad.Asami (TAGS: ...,PPE)`
+    * `0398AbuNasrKalabadhi.HidayaWaIrshad (TAGS: ...,PPE)`
+    * `0400IbnTahirMaqdisi.BadWaTarikh (TAGS: ...,PPE)`
 
-* **0600AH [[ [Re]generated on 2016-04-07 (08:25:57) ]]**
+* **0500AH [[ [Re]generated on 2016-04-08 (15:25:58) ]]**
 
-    * `0507AbuBakrShashi.HilyaCulama (TAGS: ...)`
-    * `0507IbnQaysarani.AnsabMuttafiqa`
-    * `0521IbnAbiYacla.TabaqatHanabila (TAGS: BIO,COL)`
-    * `0524IbnAkfani.DhaylDhaylTarikhMawlidCulama (TAGS: ...)`
-    * `0541IbnCatiyyaMuharibi.Fahrasa (TAGS: ...)`
-    * `0542IbnBassamShantarini.Dhakhira (TAGS: ...)`
-    * `0544CiyadIbnMusaYahsubi.TartibMadarik (TAGS: BIO,COL)`
-    * `0561Samcani.Ansab (TAGS: ONO,COL,DHB)`
-    * `0561Samcani.Muntakhab (TAGS: ...)`
-    * `0561Samcani.Tahbir (TAGS: ...)`
-    * `0565IbnZaydBayhaqi.LubabAnsab (TAGS: ...)`
-    * `0565IbnZaydBayhaqi.TarikhBayhaq (TAGS: ...)`
-    * `0571IbnCasakir.MucjamShuyukh (TAGS: ...)`
-    * `0571IbnCasakir.TarikhDimashq (TAGS: BIO,COL)`
-    * `0575IbnKhayrIshbili.Fahrasa (TAGS: ...)`
-    * `0576IbnMuhammadSilafi.MucjamSafar (TAGS: BIO,COL)`
-    * `0578IbnBashkuwal.Sila (TAGS: BIO,COL)`
-    * `0597CimadDinKatib.BarqShami (TAGS: ...)`
-    * `0597CimadDinKatib.KharidaQasr (TAGS: POE,COL)`
-    * `0597IbnJawzi.DucafaWaMatrukin (TAGS: ...)`
-    * `0597IbnJawzi.Muntazam (TAGS: BIO,COL,CHR,DHB)`
-    * `0597IbnJawzi.SifaSafwa (TAGS: BIO,COL)`
-    * `0599IbnYahyaDabbi.BughyaMultamis (TAGS: ...)`
+    * `0403IbnFaradi.TarikhCulamaAndalus (TAGS: ...,PPE)`
+    * `0405AbuFadlHarawi.MucjamFiMushtabah (TAGS: ...,PPE)`
+    * `0405HakimNaysaburi.TalkhisTarikhNaysabur (TAGS: ...,PPE)`
+    * `0405HakimNaysaburi.TasmiyaManAkhrajahum (TAGS: ...,PPE)`
+    * `0412Sulami.TabaqatSufiya (TAGS: ...,PPE)`
+    * `0421Miskawayh.Tajarib (TAGS: ...,PPE)`
+    * `0427HamzaJurjani.TarikhJurjan (TAGS: ...,PPE)`
+    * `0428IbnManjuwayhIsbahani.RijalSahihMuslim (TAGS: ...,PPE)`
+    * `0429AbuMansurThacalibi.YatimaDahr (TAGS: ...,PPE)`
+    * `0430AbuNucaymIsbahani.DhikrManIsmuhuShucba (TAGS: ...,PPE)`
+    * `0430AbuNucaymIsbahani.Ducafa (TAGS: ...,PPE)`
+    * `0430AbuNucaymIsbahani.HilyaAwliya (TAGS: ...,PPE)`
+    * `0430AbuNucaymIsbahani.MacrifaSahaba (TAGS: ...,PPE)`
+    * `0430AbuNucaymIsbahani.TarikhIsbahan (TAGS: ...,PPE)`
+    * `0430AbuNucaymIsbahani.TasmiyaMaIntahaIlayna (TAGS: ...,PPE)`
+    * `0442Tanukhi.TarikhCulamaNahwiyyin (TAGS: ...,PPE)`
+    * `0446AbuYaclaKhalili.IrshadFiMacrifaCulama (TAGS: ...,PPE)`
+    * `0448HilalSabi.TuhfaUmara (TAGS: ...,PPE)`
+    * `0456IbnHazm.AsmaKhulafa (TAGS: ...,PPE)`
+    * `0456IbnHazm.FadailAndalus (TAGS: ...,PPE)`
+    * `0456IbnHazm.JamharaAnsab (TAGS: ...,PPE)`
+    * `0458Bayhaqi.DalailNubuwwa (TAGS: DHB,PPE)`
+    * `0460ShaykhTusi.Rijal (TAGS: SHC,...,PPE)`
+    * `0463IbnCabdBarr.IsticabFiMacrifaAshab (TAGS: BIO,COL,PPE)`
+    * `0463KhatibBaghdadi.GhunyaMultamis  (TAGS: ...,PPE)`
+    * `0463KhatibBaghdadi.MuttafiqWaMuftariq (TAGS: ...,PPE)`
+    * `0463KhatibBaghdadi.TarikhBaghdad (TAGS: BIO,COL,DHB,PPE)`
+    * `0466CabdAzizKattani.DhaylTarikhMawlidCulama (TAGS: ...,PPE)`
+    * `0474IbnKhalafBaji.TacdilWaTakhrij (TAGS: ...,PPE)`
+    * `0475IbnMakula.IkmalFiRafcIrtiyab (TAGS: ...,PPE)`
+    * `0475IbnMakula.TahdhibMustamirr (TAGS: ...,PPE)`
+    * `0476AbuIshaqShirazi.TabaqatFuqaha (TAGS: BIO,COL,PPE)`
+    * `0482AbuIshaqHabbal.WafayatMisriyyin (TAGS: ...,PPE)`
+    * `0487AbuCubaydBakri.MasalikWaMamalik (TAGS: GEO,PPE)`
+    * `0488IbnFutuhHumaydi.JadhwaMuqtabis (TAGS: ...,PPE)`
+    * `0498AbuCaliJayyani.AlqabSahaba (TAGS: ...,PPE)`
+    * `0498AbuCaliJayyani.TaqyidMuhmal`
 
-* **0700AH [[ [Re]generated on 2016-04-07 (08:25:57) ]]**
+* **0600AH [[ [Re]generated on 2016-04-08 (15:25:58) ]]**
 
-    * `0623Qazwini.Tadwin (TAGS: ...)`
-    * `0626YaqutHamawi.MucjamBuldan (TAGS: GEO,COL)`
-    * `0626YaqutHamawi.MucjamUdaba (TAGS: BIO,COL,POE)`
-    * `0629IbnNuqta.TakmilaIkmal (TAGS: ...)`
-    * `0629IbnNuqta.TaqyidLiMacrifa (TAGS: BIO,COL)`
-    * `0630IbnAthirCizzDin.Kamil (TAGS: CHR)`
-    * `0630IbnAthirCizzDin.LubabFiTahdhibAnsab (TAGS: ONO,COL)`
-    * `0630IbnAthirCizzDin.UsdGhaba (TAGS: ...)`
-    * `0637IbnMustafwi.TarikhIrbil (TAGS: ...)`
-    * `0641Sarifini.Muntakhab (TAGS: ...)`
-    * `0642IbnNajjar.DhaylTarikhBaghdad (TAGS: BIO,COL)`
-    * `0643IbnSalahShahrazuri.TabaqatFuqaha (TAGS: BIO,COL)`
-    * `0646.IbnQifti.IkhbarCulama (TAGS: ...)`
-    * `0646IbnQifti.InbahRuwat (TAGS: ...)`
-    * `0646IbnQifti.Muhammadun (TAGS: ...)`
-    * `0647CabdWahidMarrakushi.Mucjib (TAGS: ...)`
-    * `0658IbnAbbar.HullaSiyara (TAGS: ...)`
-    * `0658IbnAbbar.TakmilaLiSila (TAGS: BIO,COL)`
-    * `0659SainDinNaccal.Mashyakha (TAGS: ...)`
-    * `0660IbnCadim.BughyatTalib (TAGS: ...)`
-    * `0660IbnCadim.ZubdaHalab (TAGS: ...)`
-    * `0665AbuShama.Rawdatayn (TAGS: ...)`
-    * `0668IbnAbiUsaybica.CuyunAnba (TAGS: BIO,COL)`
-    * `0680IbnSabuni.TakmilaIkmalIkmal (TAGS: ONO,...)`
-    * `0681IbnKhallikan.WafayatAcyan (TAGS: BIO,COL,DHB)`
-    * `0684IbnShaddad.AclaqKhatira (TAGS: ...)`
-    * `0685IbnCibri.TarikhMukhtasarDuwal (TAGS: ...)`
-    * `0685IbnSacidMaghribi.Mughrib (TAGS: ...)`
-    * `0694MuhibbDinTabari.Dhakhair (TAGS: ...)`
+    * `0507AbuBakrShashi.HilyaCulama (TAGS: ...,PPE)`
+    * `0507IbnQaysarani.AnsabMuttafiqa (TAGS: PPE)`
+    * `0511IbnMandaYahya.MacrifaAsamiArdaf (TAGS: ...)`
+    * `0521IbnAbiYacla.TabaqatHanabila (TAGS: BIO,COL,PPE)`
+    * `0521MuhammadHamadhani.TakmilaTarikhTabari (TAGS: ...)`
+    * `0524IbnAkfani.DhaylDhaylTarikhMawlidCulama (TAGS: ...,PPE)`
+    * `0541IbnCatiyyaMuharibi.Fahrasa (TAGS: ...,PPE)`
+    * `0542IbnBassamShantarini.Dhakhira (TAGS: ...,PPE)`
+    * `0544CiyadIbnMusaYahsubi.TartibMadarik (TAGS: BIO,COL,PPE)`
+    * `0561Samcani.Ansab (TAGS: ONO,COL,DHB,PPE)`
+    * `0561Samcani.Muntakhab (TAGS: ...,PPE)`
+    * `0561Samcani.Tahbir (TAGS: ...,PPE)`
+    * `0565IbnZaydBayhaqi.LubabAnsab (TAGS: ...,PPE)`
+    * `0565IbnZaydBayhaqi.TarikhBayhaq (TAGS: ...,PPE)`
+    * `0571IbnCasakir.MucjamShuyukh (TAGS: ...,PPE)`
+    * `0571IbnCasakir.TarikhDimashq (TAGS: BIO,COL,PPE)`
+    * `0575IbnKhayrIshbili.Fahrasa (TAGS: ...,PPE)`
+    * `0576IbnMuhammadSilafi.MashyakhaBaghdadiyya (TAGS: ...,PPE)`
+    * `0576IbnMuhammadSilafi.MucjamSafar (TAGS: BIO,COL,PPE)`
+    * `0578IbnBashkuwal.GhawamidAsma (TAGS: ...,PPE)`
+    * `0578IbnBashkuwal.Sila (TAGS: BIO,COL,PPE)`
+    * `0584IbnMusaHazimi.Amakin (TAGS: ...,PPE,GEO)`
+    * `0597CimadDinKatib.BarqShami (TAGS: ...,PPE)`
+    * `0597CimadDinKatib.KharidaQasr (TAGS: POE,COL,PPE)`
+    * `0597IbnJawzi.DucafaWaMatrukin (TAGS: ...,PPE)`
+    * `0597IbnJawzi.Muntazam (TAGS: BIO,COL,CHR,DHB,PPE)`
+    * `0597IbnJawzi.SifaSafwa (TAGS: BIO,COL,PPE)`
+    * `0599IbnYahyaDabbi.BughyaMultamis (TAGS: ...,PPE)`
+
+* **0700AH [[ [Re]generated on 2016-04-08 (15:25:58) ]]**
+
+    * `0615MuwaffaqDinShafici.MurshidZuwwar (TAGS: ...,PPE,GEO)`
+    * `0623Qazwini.Tadwin (TAGS: ...,PPE)`
+    * `0626YaqutHamawi.Khazal (TAGS: ...,GEO,PPE)`
+    * `0626YaqutHamawi.MucjamBuldan (TAGS: GEO,COL,PPE)`
+    * `0626YaqutHamawi.MucjamUdaba (TAGS: BIO,COL,POE,PPE)`
+    * `0629IbnNuqta.TakmilaIkmal (TAGS: ...,PPE)`
+    * `0629IbnNuqta.TaqyidLiMacrifa (TAGS: BIO,COL,PPE)`
+    * `0630IbnAthirCizzDin.Kamil (TAGS: CHR,PPE)`
+    * `0630IbnAthirCizzDin.LubabFiTahdhibAnsab (TAGS: ONO,COL,PPE)`
+    * `0630IbnAthirCizzDin.UsdGhaba (TAGS: ...,PPE)`
+    * `0637IbnMustafwi.TarikhIrbil (TAGS: ...,PPE)`
+    * `0640AbuHafsDunaysiri.TarikhDunaysir (TAGS: ...)`
+    * `0641Sarifini.Muntakhab (TAGS: ...,PPE)`
+    * `0642IbnNajjar.DhaylTarikhBaghdad (TAGS: BIO,COL,PPE)`
+    * `0643IbnSalahShahrazuri.TabaqatFuqaha (TAGS: BIO,COL,PPE)`
+    * `0646.IbnQifti.IkhbarCulama (TAGS: ...,PPE)`
+    * `0646IbnQifti.InbahRuwat (TAGS: ...,PPE)`
+    * `0646IbnQifti.Muhammadun (TAGS: ...,PPE)`
+    * `0647CabdWahidMarrakushi.Mucjib (TAGS: ...,PPE)`
+    * `0658IbnAbbar.HullaSiyara (TAGS: ...,PPE)`
+    * `0658IbnAbbar.MucjamAshab (TAGS: PPE)`
+    * `0658IbnAbbar.TakmilaLiSila (TAGS: BIO,COL,PPE)`
+    * `0658IbnAbbar.TuhfaQadim (TAGS: ...)`
+    * `0659SainDinNaccal.Mashyakha (TAGS: ...,PPE)`
+    * `0660IbnCadim.BughyatTalib (TAGS: ...,PPE)`
+    * `0660IbnCadim.ZubdaHalab (TAGS: ...,PPE)`
+    * `0665AbuShama.Rawdatayn (TAGS: ...,PPE)`
+    * `0668IbnAbiUsaybica.CuyunAnba (TAGS: BIO,COL,PPE)`
+    * `0673AbuMahasinYaghmuri.NurQabas (TAGS: ...,PPE)`
+    * `0680IbnSabuni.TakmilaIkmalIkmal (TAGS: ONO,...,PPE)`
+    * `0681IbnKhallikan.WafayatAcyan (TAGS: BIO,COL,DHB,PPE)`
+    * `0682ZakariyaQazwini.AtharBilad (TAGS: ...,PPE)`
+    * `0684IbnShaddad.AclaqKhatira (TAGS: ...,PPE)`
+    * `0685IbnCibri.TarikhMukhtasarDuwal (TAGS: ...,PPE)`
+    * `0685IbnSacidMaghribi.Mughrib (TAGS: ...,PPE)`
+    * `0694MuhibbDinTabari.Dhakhair (TAGS: ...,PPE)`
     * `0694MuhibbDinTabari.RiyadNadira`
-    * `0696Dabbagh.MacalimIman (TAGS: NOT,BIO,COL)`
+    * `0696Dabbagh.MacalimIman (TAGS: NOT,BIO,COL,PPE)`
 
-* **0800AH [[ [Re]generated on 2016-04-07 (08:25:57) ]]**
+* **0800AH [[ [Re]generated on 2016-04-08 (15:25:58) ]]**
 
-    * `0703Marakishi.DhaylWaTakmila (TAGS: ...)`
-    * `0711IbnManzurIfriqi.MukhtasarTarikhDimashq (TAGS: BIO,COL)`
-    * `0726Yunini.DhaylMiratZaman (TAGS: CHR,BIO,COL)`
-    * `0732AbuFida.MukhtasarFiAkhbar (TAGS: ...)`
-    * `0732IbnYacqubJanadi.SulukFiTabaqat (TAGS: BIO,COL)`
-    * `0733Nuwayri.NihayaArab (TAGS: ...)`
-    * `0742Mizzi.TahdhibKamal (TAGS: DHB)`
-    * `0748Dhahabi.CibarFiKhabar (TAGS: CHR)`
-    * `0748Dhahabi.DhaylCibar (TAGS: ...)`
-    * `0748Dhahabi.DhaylDiwanDucafa (TAGS: ...)`
-    * `0748Dhahabi.DhikrAsmaManTakallama (TAGS: DHB)`
-    * `0748Dhahabi.DiwanDucafa (TAGS: ...)`
-    * `0748Dhahabi.Kashif (TAGS: ...)`
-    * `0748Dhahabi.MacrifaQurraKibar (TAGS: BIO,COL)`
-    * `0748Dhahabi.MizanIctidal (TAGS: ...)`
-    * `0748Dhahabi.MucinFiTabaqatMuhaddithin (TAGS: ...)`
-    * `0748Dhahabi.MucjamMuhaddithin  (TAGS: ...)`
-    * `0748Dhahabi.MucjamShuyukh (TAGS: BIO,COL)`
-    * `0748Dhahabi.MughniFiDucafa (TAGS: DHB)`
-    * `0748Dhahabi.MukhtasarMinDubaythi (TAGS: ...)`
-    * `0748Dhahabi.Muqtana (TAGS: DHB)`
-    * `0748Dhahabi.RuwatThiqat (TAGS: DHB)`
-    * `0748Dhahabi.SiyarAclamNubala (TAGS: BIO,COL,DHB)`
-    * `0748Dhahabi.TadhkiraHuffaz (TAGS: BIO,COL)`
-    * `0748Dhahabi.TarikhIslam (TAGS: BIO,COL,CHR,DHB)`
-    * `0748IbnDimyati.Mustafad (TAGS: ...)`
-    * `0749IbnWardi.Tarikh (TAGS: ...)`
-    * `0749Wadiashi.Barnamaj (TAGS: BIB)`
-    * `0761IbnKaykaldi.JamicTahsil (TAGS: ...)`
-    * `0762MughaltayIbnQalij.IkmalTahdhib (TAGS: ...)`
-    * `0764IbnShakirKutubi.FawatWafayat (TAGS: ...)`
-    * `0764Safadi.AcyanCasr (TAGS: BIO,COL)`
-    * `0764Safadi.NaktHimyan (TAGS: ...)`
-    * `0764Safadi.WafiBiWafayat (TAGS: BIO,COL)`
-    * `0765AbuMahasinHusayni.DhaylTadhkira (TAGS: ...)`
-    * `0765AbuMahasinHusayni.IkmalLiRijal (TAGS: ...)`
-    * `0767Balawi.TajMafriq (TAGS: ...)`
-    * `0768Yafici.MiratJanan (TAGS: ...)`
-    * `0771Subki.MucjamShuyukh (TAGS: ...)`
-    * `0771Subki.TabaqatShaficiyaKubra (TAGS: BIO,COL)`
-    * `0774IbnKathir.Bidaya (TAGS: BIO,COL,CHR)`
-    * `0774IbnKathir.TabaqatShaficiyyin (TAGS: BIO,COL)`
-    * `0774IbnRaficSallami.Wafayat (TAGS: ...)`
-    * `0775IbnAbiWafa.JawahirMudiya (TAGS: BIO,COL)`
-    * `0776LisanDinIbnKhatib.Ihata (TAGS: ...)`
-    * `0793AbuHasanMalaqi.TarikhQudat (TAGS: ...)`
-    * `0795IbnRajabHanbali.DhaylTabaqatHanabila (TAGS: BIO,COL)`
-    * `0799IbnFarhun.DibajMudhahhab (TAGS: ...)`
+    * `0703Marakishi.DhaylWaTakmila (TAGS: ...,PPE)`
+    * `0711IbnManzurIfriqi.MukhtasarTarikhDimashq (TAGS: BIO,COL,PPE)`
+    * `0726Yunini.DhaylMiratZaman (TAGS: CHR,BIO,COL,PPE)`
+    * `0732AbuFida.MukhtasarFiAkhbar (TAGS: ...,PPE)`
+    * `0732IbnYacqubJanadi.SulukFiTabaqat (TAGS: BIO,COL,PPE)`
+    * `0733Nuwayri.NihayaArab (TAGS: ...,PPE)`
+    * `0742Mizzi.TahdhibKamal (TAGS: DHB,PPE)`
+    * `0748Dhahabi.CibarFiKhabar (TAGS: CHR,PPE)`
+    * `0748Dhahabi.DhaylCibar (TAGS: ...,PPE)`
+    * `0748Dhahabi.DhaylDiwanDucafa (TAGS: ...,PPE)`
+    * `0748Dhahabi.DhikrAsmaManTakallama (TAGS: DHB,PPE)`
+    * `0748Dhahabi.DiwanDucafa (TAGS: ...,PPE)`
+    * `0748Dhahabi.Kashif (TAGS: ...,PPE)`
+    * `0748Dhahabi.MacrifaQurraKibar (TAGS: BIO,COL,PPE)`
+    * `0748Dhahabi.MizanIctidal (TAGS: ...,PPE)`
+    * `0748Dhahabi.MucinFiTabaqatMuhaddithin (TAGS: ...,PPE)`
+    * `0748Dhahabi.MucjamMuhaddithin  (TAGS: ...,PPE)`
+    * `0748Dhahabi.MucjamShuyukh (TAGS: BIO,COL,PPE)`
+    * `0748Dhahabi.MughniFiDucafa (TAGS: DHB,PPE)`
+    * `0748Dhahabi.MukhtasarMinDubaythi (TAGS: ...,PPE)`
+    * `0748Dhahabi.Muqtana (TAGS: DHB,PPE)`
+    * `0748Dhahabi.RuwatThiqat (TAGS: DHB,PPE)`
+    * `0748Dhahabi.SiyarAclamNubala (TAGS: BIO,COL,DHB,PPE)`
+    * `0748Dhahabi.TadhkiraHuffaz (TAGS: BIO,COL,PPE)`
+    * `0748Dhahabi.TarikhIslam (TAGS: BIO,COL,CHR,DHB,PPE)`
+    * `0748IbnDimyati.Mustafad (TAGS: ...,PPE)`
+    * `0749IbnWardi.Tarikh (TAGS: ...,PPE)`
+    * `0749ShihabDinCumari.MasalikAbsar (TAGS: ...,PPE)`
+    * `0749Wadiashi.Barnamaj (TAGS: BIB,PPE)`
+    * `0761IbnKaykaldi.JamicTahsil (TAGS: ...,PPE)`
+    * `0761IbnKaykaldi.Mukhtalitin (TAGS: ...,PPE)`
+    * `0762MughaltayIbnQalij.IkmalTahdhib (TAGS: ...,PPE)`
+    * `0764IbnShakirKutubi.FawatWafayat (TAGS: ...,PPE)`
+    * `0764Safadi.AcyanCasr (TAGS: BIO,COL,PPE)`
+    * `0764Safadi.NaktHimyan (TAGS: ...,PPE)`
+    * `0764Safadi.WafiBiWafayat (TAGS: BIO,COL,PPE)`
+    * `0765AbuMahasinHusayni.DhaylTadhkira (TAGS: ...,PPE)`
+    * `0765AbuMahasinHusayni.IkmalLiRijal (TAGS: ...,PPE)`
+    * `0767Balawi.TajMafriq (TAGS: ...,PPE)`
+    * `0768Yafici.MiratJanan (TAGS: ...,PPE)`
+    * `0771Subki.MucjamShuyukh (TAGS: ...,PPE)`
+    * `0771Subki.TabaqatShaficiyaKubra (TAGS: BIO,COL,PPE)`
+    * `0774IbnKathir.Bidaya (TAGS: BIO,COL,CHR,PPE)`
+    * `0774IbnKathir.TabaqatShaficiyyin (TAGS: BIO,COL,PPE)`
+    * `0774IbnKathir.Takmil (TAGS: ...,PPE)`
+    * `0774IbnRaficSallami.Wafayat (TAGS: ...,PPE)`
+    * `0775IbnAbiWafa.JawahirMudiya (TAGS: BIO,COL,PPE)`
+    * `0776LisanDinIbnKhatib.Ihata (TAGS: ...,PPE)`
+    * `0793AbuHasanMalaqi.TarikhQudat (TAGS: ...,PPE)`
+    * `0795IbnRajabHanbali.DhaylTabaqatHanabila (TAGS: BIO,COL,PPE)`
+    * `0799IbnFarhun.DibajMudhahhab (TAGS: ...,PPE)`
 
-* **0900AH [[ [Re]generated on 2016-04-07 (08:25:57) ]]**
+* **0900AH [[ [Re]generated on 2016-04-08 (15:25:58) ]]**
 
-    * `0804IbnMulaqqin.TabaqatAwliya (TAGS: ...)`
-    * `0808IbnKhaldun.Tarikh (TAGS: CHR)`
-    * `0809IbnQunfudh.Wafayat (TAGS: ...)`
-    * `0812CaliKhazraji.CuqudLuluiyya (TAGS: ...)`
-    * `0817IbnYacqubFiruzabadi.BulghaFiTarajim (TAGS: ...)`
-    * `0826IbnCiraqi.TuhfaTahsil (TAGS: ...)`
-    * `0832AbuTayyibFasi.DhaylTaqyid (TAGS: ...)`
-    * `0832AbuTayyibFasi.ShifaGharam (TAGS: ...)`
-    * `0833IbnJazari.GhayaNihaya (TAGS: ...)`
-    * `0842IbnNasirDinDimashqi.TawdihMushtabih (TAGS: ...)`
-    * `0845Maqrizi.IqazHunafa (TAGS: ...)`
-    * `0845Maqrizi.Mawaciz (TAGS: ...)`
-    * `0845Maqrizi.MukhtasarKamil (TAGS: ...)`
-    * `0845Maqrizi.Suluk (TAGS: ...)`
-    * `0851IbnQadiShuhba.TabaqatShaficiya (TAGS: BIO,COL)`
-    * `0852IbnHajarCasqalani.DurarKamina (TAGS: BIO,COL)`
-    * `0852IbnHajarCasqalani.InbaGhumr (TAGS: ...)`
-    * `0852IbnHajarCasqalani.IsabaFiTamyiz (TAGS: ...)`
+    * `0804IbnMulaqqin.TabaqatAwliya (TAGS: ...,PPE)`
+    * `0808IbnKhaldun.Tarikh (TAGS: CHR,PPE)`
+    * `0809IbnQunfudh.Wafayat (TAGS: ...,PPE)`
+    * `0812CaliKhazraji.CuqudLuluiyya (TAGS: ...,PPE)`
+    * `0817IbnYacqubFiruzabadi.BulghaFiTarajim (TAGS: ...,PPE)`
+    * `0826IbnCiraqi.TuhfaTahsil (TAGS: ...,PPE)`
+    * `0832AbuTayyibFasi.DhaylTaqyid (TAGS: ...,PPE)`
+    * `0832AbuTayyibFasi.ShifaGharam (TAGS: ...,PPE)`
+    * `0833IbnJazari.GhayaNihaya (TAGS: ...,PPE)`
+    * `0842IbnNasirDinDimashqi.RaddWafir (TAGS: ...,PPE)`
+    * `0842IbnNasirDinDimashqi.TawdihMushtabih (TAGS: ...,PPE)`
+    * `0845Maqrizi.IqazHunafa (TAGS: ...,PPE)`
+    * `0845Maqrizi.Mawaciz (TAGS: ...,PPE)`
+    * `0845Maqrizi.MukhtasarKamil (TAGS: ...,PPE)`
+    * `0845Maqrizi.Suluk (TAGS: ...,PPE)`
+    * `0851IbnQadiShuhba.TabaqatShaficiya (TAGS: BIO,COL,PPE)`
+    * `0852IbnHajarCasqalani.DurarKamina (TAGS: BIO,COL,PPE)`
+    * `0852IbnHajarCasqalani.InbaGhumr (TAGS: ...,PPE)`
+    * `0852IbnHajarCasqalani.IsabaFiTamyiz (TAGS: ...,PPE)`
     * `0852IbnHajarCasqalani.ItharBiMacrifa`
-    * `0852IbnHajarCasqalani.LisanMizan (TAGS: BIO,COL)`
-    * `0852IbnHajarCasqalani.NuzhaAlbab (TAGS: ...)`
-    * `0852IbnHajarCasqalani.RafcCisr (TAGS: ...)`
-    * `0852IbnHajarCasqalani.TabaqatMudallisin (TAGS: BIO,COL)`
-    * `0852IbnHajarCasqalani.TacjilManfaca (TAGS: ...)`
-    * `0852IbnHajarCasqalani.TahdhibTahdhib (TAGS: ...)`
-    * `0852IbnHajarCasqalani.TaqribTahdhib (TAGS: ...)`
-    * `0855Cayni.CiqdJuman (TAGS: ...)`
-    * `0855Cayni.CumdaQari (TAGS: ...)`
-    * `0855Cayni.MaghaniAkhyar (TAGS: ...)`
-    * `0871IbnFahdMakki.LahzAlhaz (TAGS: BIO,...)`
-    * `0874IbnTaghribirdi.ManhalSafi (TAGS: ...)`
-    * `0874IbnTaghribirdi.MawridLatafa (TAGS: ...)`
-    * `0874IbnTaghribirdi.NujumZahira (TAGS: ...)`
-    * `0879IbnQutlubugha.TajTarajim (TAGS: ...)`
-    * `0879IbnQutlubugha.Thiqat (TAGS: ...)`
-    * `0881SibtIbnCajami.KashfHathith (TAGS: ...)`
-    * `0884IbnMuflih.MaqsidArshad (TAGS: ...)`
-    * `0884SibtIbnCajami.Ightibat (TAGS: ...)`
-    * `0884SibtIbnCajami.KunuzDhahab (TAGS: ...)`
-    * `0884SibtIbnCajami.TabyinLiAsma (TAGS: ...)`
-    * `0900AbuCabdAllahHimyari.RawdMictar (TAGS: GEO,COL)`
+    * `0852IbnHajarCasqalani.LisanMizan (TAGS: BIO,COL,PPE)`
+    * `0852IbnHajarCasqalani.NuzhaAlbab (TAGS: ...,PPE)`
+    * `0852IbnHajarCasqalani.RafcCisr (TAGS: ...,PPE)`
+    * `0852IbnHajarCasqalani.TabaqatMudallisin (TAGS: BIO,COL,PPE)`
+    * `0852IbnHajarCasqalani.TacjilManfaca (TAGS: ...,PPE)`
+    * `0852IbnHajarCasqalani.TahdhibTahdhib (TAGS: ...,PPE)`
+    * `0852IbnHajarCasqalani.TaqribTahdhib (TAGS: ...,PPE)`
+    * `0855Cayni.CiqdJuman (TAGS: ...,PPE)`
+    * `0855Cayni.CumdaQari (TAGS: ...,PPE)`
+    * `0855Cayni.MaghaniAkhyar (TAGS: ...,PPE)`
+    * `0871IbnFahdMakki.LahzAlhaz (TAGS: BIO,...,PPE)`
+    * `0874IbnTaghribirdi.ManhalSafi (TAGS: ...,PPE)`
+    * `0874IbnTaghribirdi.MawridLatafa (TAGS: ...,PPE)`
+    * `0874IbnTaghribirdi.NujumZahira (TAGS: ...,PPE)`
+    * `0879IbnQutlubugha.TajTarajim (TAGS: ...,PPE)`
+    * `0879IbnQutlubugha.Thiqat (TAGS: ...,PPE)`
+    * `0881SibtIbnCajami.KashfHathith (TAGS: ...,PPE)`
+    * `0884IbnMuflih.MaqsidArshad (TAGS: ...,PPE)`
+    * `0884SibtIbnCajami.Ightibat (TAGS: ...,PPE)`
+    * `0884SibtIbnCajami.KunuzDhahab (TAGS: ...,PPE)`
+    * `0884SibtIbnCajami.TabyinLiAsma (TAGS: ...,PPE)`
+    * `0900AbuCabdAllahHimyari.RawdMictar (TAGS: GEO,COL,PPE)`
 
-* **1000AH [[ [Re]generated on 2016-04-07 (08:25:57) ]]**
+* **1000AH [[ [Re]generated on 2016-04-08 (15:25:58) ]]**
 
-    * `0902Sakhawi.DuLamic (TAGS: BIO,COL)`
-    * `0902Sakhawi.TuhfaLatifa (TAGS: ...)`
-    * `0904Burayhi.TabaqatSulahaYaman (TAGS: ...)`
-    * `0905Basrawi.Tarikh (TAGS: ...)`
-    * `0909IbnMibradHanbali.MucjamKutub (TAGS: BIB,...)`
-    * `0911Suyuti.AsmaMukhadramin (TAGS: ...)`
-    * `0911Suyuti.BughyaWucat (TAGS: BIO,COL)`
-    * `0911Suyuti.DhaylTabaqatHuffaz (TAGS: ...)`
-    * `0911Suyuti.HusnMuhadara (TAGS: ...)`
-    * `0911Suyuti.IscafMubatta (TAGS: ...)`
-    * `0911Suyuti.LubbLubab (TAGS: ...)`
-    * `0911Suyuti.NazmCiqyan (TAGS: ...)`
-    * `0911Suyuti.RihNisrin (TAGS: ...)`
-    * `0911Suyuti.TabaqatHuffaz (TAGS: BIO,COL)`
-    * `0911Suyuti.TabaqatMufassirin (TAGS: ...)`
-    * `0911Suyuti.TarikhKhulafa (TAGS: ...)`
-    * `0923IbnCabdAllahKhazraji.KhulasaTahdhib (TAGS: ...)`
-    * `0927Culaymi.UnsJalil (TAGS: ...)`
-    * `0927Nucaymi.DarisFiMadaris (TAGS: COL)`
-    * `0929IbnKayyal.KawakibNayyirat (TAGS: ...)`
-    * `0945ShamsDinDawudi.TabaqatMufassirin (TAGS: ...)`
-    * `0968Tashkubruizadah.ShaqaiqNucmaniyya (TAGS: BIO,COL)`
-    * `0973CabdWahhabShacrani.LawaqihAnwar (TAGS: ...)`
+    * `0902Sakhawi.DuLamic (TAGS: BIO,COL,PPE)`
+    * `0902Sakhawi.TuhfaLatifa (TAGS: ...,PPE)`
+    * `0904Burayhi.TabaqatSulahaYaman (TAGS: ...,PPE)`
+    * `0905Basrawi.Tarikh (TAGS: ...,PPE)`
+    * `0909IbnMibradHanbali.MucjamKutub (TAGS: BIB,...,PPE)`
+    * `0911Suyuti.AsmaMukhadramin (TAGS: ...,PPE)`
+    * `0911Suyuti.BughyaWucat (TAGS: BIO,COL,PPE)`
+    * `0911Suyuti.DhaylTabaqatHuffaz (TAGS: ...,PPE)`
+    * `0911Suyuti.HusnMuhadara (TAGS: ...,PPE)`
+    * `0911Suyuti.IscafMubatta (TAGS: ...,PPE)`
+    * `0911Suyuti.LubbLubab (TAGS: ...,PPE)`
+    * `0911Suyuti.NazmCiqyan (TAGS: ...,PPE)`
+    * `0911Suyuti.RihNisrin (TAGS: ...,PPE)`
+    * `0911Suyuti.TabaqatHuffaz (TAGS: BIO,COL,PPE)`
+    * `0911Suyuti.TabaqatMufassirin (TAGS: ...,PPE)`
+    * `0911Suyuti.TarikhKhulafa (TAGS: ...,PPE)`
+    * `0923IbnCabdAllahKhazraji.KhulasaTahdhib (TAGS: ...,PPE)`
+    * `0927Culaymi.UnsJalil (TAGS: ...,PPE)`
+    * `0927Nucaymi.DarisFiMadaris (TAGS: COL,PPE)`
+    * `0929IbnKayyal.KawakibNayyirat (TAGS: ...,PPE)`
+    * `0938IbnCaliBalawi.Thabat (TAGS: BIB,PPE)`
+    * `0945ShamsDinDawudi.TabaqatMufassirin (TAGS: ...,PPE)`
+    * `0968Tashkubruizadah.ShaqaiqNucmaniyya (TAGS: BIO,COL,PPE)`
+    * `0973CabdWahhabShacrani.LawaqihAnwar (TAGS: ...,PPE)`
 
-* **1100AH [[ [Re]generated on 2016-04-07 (08:25:57) ]]**
+* **1100AH [[ [Re]generated on 2016-04-08 (15:25:58) ]]**
 
-    * `1010TamimiDari.TabaqatSaniya (TAGS: BIO,COL)`
-    * `1037CabdQadirCaydarus.TarikhNurSafir (TAGS: ...)`
-    * `1041Maqarri.NafhTib (TAGS: ...)`
-    * `1051Cimadi.RawdaRayya (TAGS: ...)`
-    * `1061NajmDinGhazzi.KawakibSaira (TAGS: ...)`
-    * `1067HajjiKhalifa.KashfZunun (TAGS: BIB,COL)`
-    * `1078RiyadZadah.AsmaKutub (TAGS: BIB)`
-    * `1089IbnCimad.Shadharat (TAGS: BIO,COL,CHR)`
-    * `1100IbnMuhammadAdnahwi.TabaqatMufassirin (TAGS: ...)`
+    * `1010TamimiDari.TabaqatSaniya (TAGS: BIO,COL,PPE)`
+    * `1037CabdQadirCaydarus.TarikhNurSafir (TAGS: ...,PPE)`
+    * `1041Maqarri.NafhTib (TAGS: ...,PPE)`
+    * `1051Cimadi.RawdaRayya (TAGS: ...,PPE)`
+    * `1061NajmDinGhazzi.KawakibSaira (TAGS: ...,PPE)`
+    * `1067HajjiKhalifa.KashfZunun (TAGS: BIB,COL,PPE)`
+    * `1078RiyadZadah.AsmaKutub (TAGS: BIB,PPE)`
+    * `1089IbnCimad.Shadharat (TAGS: BIO,COL,CHR,PPE)`
+    * `1100IbnMuhammadAdnahwi.TabaqatMufassirin (TAGS: ...,PPE)`
 
-* **1200AH [[ [Re]generated on 2016-04-07 (08:25:57) ]]**
+* **1200AH [[ [Re]generated on 2016-04-08 (15:25:58) ]]**
 
-    * `1111MuhammadAminMuhibbi.KhulasaAthr (TAGS: ...)`
-    * `1120CaliKhanMadani.DarajatRafica (TAGS: SHC,...)`
+    * `1111MuhammadAminMuhibbi.KhulasaAthr (TAGS: ...,PPE)`
+    * `1120CaliKhanMadani.DarajatRafica (TAGS: SHC,...,PPE)`
+    * `1126MuhammadHanbali.Mashyakha (TAGS: ...,PPE)`
+    * `1147CabdAllahSancani.TarikhYaman (TAGS: ...,PPE)`
 
-* **1300AH [[ [Re]generated on 2016-04-07 (08:25:57) ]]**
+* **1300AH [[ [Re]generated on 2016-04-08 (15:25:58) ]]**
 
-    * `1206Muradi.SilkDurar (TAGS: ...)`
-    * `1212BahrCulum.FawaidRijaliya (TAGS: SHC)`
-    * `1232IbnKhatibCumari.RawdaFayha (TAGS: ...)`
-    * `1237Jabarti.CajaibAthar (TAGS: ...)`
-    * `1250IbnCaliShaykani.BadrTalic (TAGS: ...)`
-    * `1269CabdMalikCasimi.SamtNujum (TAGS: ...)`
-    * `1286IcjazHusaynKunturi.KashfHajb (TAGS: BIB)`
+    * `1206Muradi.SilkDurar (TAGS: ...,PPE)`
+    * `1212BahrCulum.FawaidRijaliya (TAGS: SHC,...,PPE)`
+    * `1212BahrCulum.FawaidRijaliya (TAGS: SHC,PPE)`
+    * `1232IbnKhatibCumari.RawdaFayha (TAGS: ...,PPE)`
+    * `1237Jabarti.CajaibAthar (TAGS: ...,PPE)`
+    * `1250IbnCaliShaykani.BadrTalic (TAGS: ...,PPE)`
+    * `1269CabdMalikCasimi.SamtNujum (TAGS: ...,PPE)`
+    * `1286IcjazHusaynKunturi.KashfHajb (TAGS: BIB,PPE)`
 
-* **1400AH [[ [Re]generated on 2016-04-07 (08:25:57) ]]**
+* **1400AH [[ [Re]generated on 2016-04-08 (15:25:58) ]]**
 
-    * `1307Qannawji.AbjadCulum (TAGS: ...)`
+    * `1307Qannawji.AbjadCulum (TAGS: ...,PPE)`
     * `1307Qannawji.HittaFiDhikr (TAG: BIB,...)`
-    * `1307Qannawji.LuqtaCajlan (TAGS: BIB,...)`
-    * `1313VanDyck.IktifaQunuc (TAGS: ...)`
-    * `1315Salawi.IstiqsaLiAhkbar (TAGS: ...)`
-    * `1318MuhammadSanusi.Musamarat (TAGS: ...)`
-    * `1335CabdRazzaqBaytar.HilyaBashar (TAGS: ...)`
-    * `1338MuhammadFaridBey.Tarikh (TAGS: ...)`
-    * `1339IsmacilBashaBaghdadi.HadiyaCarifin (TAGS: BIO,BIB,COL)`
-    * `1339IsmacilBashaBaghdadi.IdahMaknun (TAGS: BIB,COL)`
-    * `1341CabdHayyTalibi.IclamBiMan (TAGS: ...)`
-    * `1345IbnJacfarKattani.RisalaMustatrafa`
-    * `1351IbnHusaynGhazzi.NahrDhahab (TAGS: ...)`
-    * `1360IbnQasimMakhluf.ShajaraNur (TAGS: BIO,COL)`
-    * `1368HasanAmin.MustadrakatAcyanShica (TAGS: ...)`
-    * `1371MuhsinCamili.AcyanShica (TAGS: ...)`
-    * `1381MuhammadSancani.MulhaqBadr (TAGS: ...)`
-    * `1383CadbHayyKattani.FihrisFaharis (TAGS: BIB)`
-    * `1389AghaBuzurgTihrani.DharicaFiTasanifShica (TAGS: BIB)`
-    * `1389AghaBuzurgTihrani.DhaylKashfZunun (TAGS: BIB)`
-    * `1389AghaBuzurgTihrani.TASHAnwarSatica (TAGS: ...)`
-    * `1389AghaBuzurgTihrani.TASHNawabighRuwat (TAGS: ...)`
+    * `1307Qannawji.LuqtaCajlan (TAGS: BIB,...,PPE)`
+    * `1313Barujirdi.Taraif (TAGS: ...,SHC,PPE)`
+    * `1313VanDyck.IktifaQunuc (TAGS: ...,PPE)`
+    * `1315Salawi.IstiqsaLiAhkbar (TAGS: ...,PPE)`
+    * `1318MuhammadSanusi.Musamarat (TAGS: ...,PPE)`
+    * `1335CabdRazzaqBaytar.HilyaBashar (TAGS: ...,PPE)`
+    * `1338MuhammadFaridBey.Tarikh (TAGS: ...,PPE)`
+    * `1339IsmacilBashaBaghdadi.HadiyaCarifin (TAGS: BIO,BIB,COL,PPE)`
+    * `1339IsmacilBashaBaghdadi.IdahMaknun (TAGS: BIB,COL,PPE)`
+    * `1341CabdHayyTalibi.IclamBiMan (TAGS: ...,PPE)`
+    * `1345IbnJacfarKattani.RisalaMustatrafa (TAGS: ...,PPE)`
+    * `1351IbnHusaynGhazzi.NahrDhahab (TAGS: ...,PPE)`
+    * `1360IbnQasimMakhluf.ShajaraNur (TAGS: BIO,COL,PPE)`
+    * `1368HasanAmin.MustadrakatAcyanShica (TAGS: ...,PPE)`
+    * `1371MuhsinCamili.AcyanShica (TAGS: ...,PPE)`
+    * `1381MuhammadSancani.MulhaqBadr (TAGS: ...,PPE)`
+    * `1383CadbHayyKattani.FihrisFaharis (TAGS: BIB,PPE)`
+    * `1389AghaBuzurgTihrani.DharicaFiTasanifShica (TAGS: BIB,PPE)`
+    * `1389AghaBuzurgTihrani.DhaylKashfZunun (TAGS: BIB,PPE)`
+    * `1389AghaBuzurgTihrani.TASHAnwarSatica (TAGS: ...,PPE)`
+    * `1389AghaBuzurgTihrani.TASHNawabighRuwat (TAGS: ...,PPE)`
+    * `1396KhayrDinZirikli.Aclam (TAGS: PPE,BIO,COL)`
 
-* **1500AH [[ [Re]generated on 2016-04-07 (08:25:57) ]]**
+* **1500AH [[ [Re]generated on 2016-04-08 (15:25:58) ]]**
 
-    * `1411SayyidKhui.MucjamRijal (TAGS: ...)`
-    * `1418SalihAhmadArkani.TihfaMajalis (TAGS: BIB)`
-    * `1450MuhammadSancani.NaylWatar (TAGS: NOT,BIO,COL)`
+    * `1405CaliShahrudi.Mustadrakat (TAGS: ...,SHC,PPE)`
+    * `1408CumarKahhala.MucjamMuallifin (TAGS: ...,BIB,BIO,COL,PPE)`
+    * `1411SayyidKhui.MucjamRijal (TAGS: ...,PPE)`
+    * `1418SalihAhmadArkani.TihfaMajalis (TAGS: BIB,PPE)`
+    * `1450MuhammadSancani.NaylWatar (TAGS: NOT,BIO,COL,PPE)`
