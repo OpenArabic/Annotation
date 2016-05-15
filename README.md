@@ -13,11 +13,11 @@ For the list of added books, see below (Mostly premodern chronicles, biographica
 |:--- | ------:|
 | Total in the Collection | 10,393 |
 | Unique texts | 7,783 |
-| Scheduled texts __*__  | 80 |
+| Scheduled texts __*__  | 71 |
 | Scheduled top priority | 0 |
-| To be rechecked | 268 |
+| To be rechecked | 264 |
 | Excluded __**__ | 550 |
-| Added texts (listed below) | 507 |
+| Added texts (listed below) | 520 |
 | Orphans (no TXT) | 2 |
 | Converted to mARkdown | _pending_ |
 | Converted to TEI XML  | _pending_ |
@@ -72,19 +72,19 @@ Tags follow the URI of a text in the following format `(TAGS: TAG,TAG,TAG)`. Com
 
 # Preprocessed titles
 
-## List of books by centuries (507 titles)
+## List of books by centuries (520 titles)
 
-* **0100AH [[ [Re]generated on 2016-04-21 (09:25:03) ]]**
+* **0100AH [[ [Re]generated on 2016-05-15 (19:29:21) ]]**
 
     * _no texts at the moment_
 
-* **0200AH [[ [Re]generated on 2016-04-21 (09:25:03) ]]**
+* **0200AH [[ [Re]generated on 2016-05-15 (19:29:21) ]]**
 
     * `0110HasanBasri.FadailMakka (TAGS: CENT0200,PPE,_AJZA,_BULDAN,_HADITH,_TABAQAT,_TARAJIM,_TARIKH)`
     * `0195MuarrijSadusi.HadhfMinNasabQuraysh (TAGS: CENT0200,GEN,PPE,_ANSAB,_BULDAN,_TARIKH)`
     * `0200AbuShis.Diwan (TAGS: CENT0200,_CABBASI,_SHICR)`
 
-* **0300AH [[ [Re]generated on 2016-04-21 (09:25:03) ]]**
+* **0300AH [[ [Re]generated on 2016-05-15 (19:29:21) ]]**
 
     * `0204IbnKalbi.AnsabKhayl (TAGS: CENT0300,GEN,PPE,_ADAD,_BALAGHA,_GHARIB,_MACAJIM,_MUSTALAHAT)`
     * `0204IbnKalbi.JamharaAnsab (TAGS: CENT0300,GEN,PPE,_ANSAB,_BULDAN,_TARIKH)`
@@ -96,6 +96,7 @@ Tags follow the URI of a text in the following format `(TAGS: TAG,TAG,TAG)`. Com
     * `0211AbuCatahiya.Diwan (TAGS: CENT0300,_CABBASI,_SHICR)`
     * `0213IbnHisham.SiraNabawiyya (TAGS: BIO,CENT0300,DHB,PPE,_ASHAB,_IMAM,_NABI,_SHAMAIL,_SIRA)`
     * `0213IbnHisham.Tijan (TAGS: CENT0300,PPE,_TARIKH)`
+    * `0228IbnHammadKhuzaci.Fitan (TAGS: CENT0300,_AJZA,_CAQAID,_HADITH,_MILAL,_TARIKH)`
     * `0230IbnSacd.TabaqatKubra (TAGS: BIO,CENT0300,COL,PPE,_HADITH,_SUNNI,_TABAQAT,_TARAJIM)`
     * `0231IbnSallamJumahi.TabaqatFuhulShucara (TAGS: CENT0300,PPE,_ADAB,_TABAQAT,_TARAJIM,_TARIKH)`
     * `0233YahyaIbnMacin.MacrifaRijal (TAGS: CENT0300,PPE,_TABAQAT,_TARAJIM)`
@@ -142,7 +143,7 @@ Tags follow the URI of a text in the following format `(TAGS: TAG,TAG,TAG)`. Com
     * `0300IbnKhurdadhbih.MasalikWaMamalik (TAGS: CENT0300,GEO,PPE,_BULDAN,_JUGHRAFIYA,_MUDHAKKARAT,_RIHLAT,_TARIKH)`
     * `0300MuallifMajhul.AkhbarDawlaCabbasiya (TAGS: CENT0300,PPE,_TARIKH)`
 
-* **0400AH [[ [Re]generated on 2016-04-21 (09:25:03) ]]**
+* **0400AH [[ [Re]generated on 2016-05-15 (19:29:21) ]]**
 
     * `0301Bardiji.TabaqatAsma (TAGS: CENT0400,PPE,_HADITH,_TABAQAT,_TARAJIM)`
     * `0303Nasai.DucafaWaMatrukin (TAGS: CENT0400,PPE,_HADITH,_SUNNI,_TABAQAT,_TARAJIM)`
@@ -213,7 +214,7 @@ Tags follow the URI of a text in the following format `(TAGS: TAG,TAG,TAG)`. Com
     * `0398AbuNasrKalabadhi.HidayaWaIrshad (TAGS: CENT0400,PPE,_HADITH,_TABAQAT,_TARAJIM)`
     * `0400IbnTahirMaqdisi.BadWaTarikh (TAGS: CENT0600,PPE,_TARIKH)`
 
-* **0500AH [[ [Re]generated on 2016-04-21 (09:25:03) ]]**
+* **0500AH [[ [Re]generated on 2016-05-15 (19:29:21) ]]**
 
     * `0403IbnFaradi.TarikhCulamaAndalus (TAGS: CENT0500,PPE,_BULDAN,_TABAQAT,_TARAJIM,_TARIKH)`
     * `0405AbuFadlHarawi.MucjamFiMushtabah (TAGS: CENT0500,PPE,_HADITH,_MISC,_TABAQAT,_TARAJIM)`
@@ -250,6 +251,7 @@ Tags follow the URI of a text in the following format `(TAGS: TAG,TAG,TAG)`. Com
     * `0463IbnCabdBarr.IsticabFiMacrifaAshab (TAGS: BIO,CENT0500,COL,PPE,_HADITH,_SUNNI,_TABAQAT,_TARAJIM)`
     * `0463KhatibBaghdadi.GhunyaMultamis (TAGS: CENT0500,PPE,_HADITH,_TABAQAT,_TARAJIM)`
     * `0463KhatibBaghdadi.MuttafiqWaMuftariq (TAGS: CENT0500,PPE,_TABAQAT,_TARAJIM)`
+    * `0463KhatibBaghdadi.TalkhisMutashabih (TAGS: CENT0500,_HADITH,_MISC,_MUSTALAHAT,_TABAQAT,_TARAJIM)`
     * `0463KhatibBaghdadi.TarikhBaghdad (TAGS: BIO,CENT0500,COL,DHB,PPE,_BULDAN,_HADITH,_SUNNI,_TABAQAT,_TARAJIM,_TARIKH)`
     * `0466CabdAzizKattani.DhaylTarikhMawlidCulama (TAGS: CENT0500,PPE,_HADITH,_TABAQAT,_TARAJIM)`
     * `0469IbnHayyanQurtubi.Muqtabas (TAGS: CENT0500,PPE,_BULDAN,_TARIKH)`
@@ -263,7 +265,7 @@ Tags follow the URI of a text in the following format `(TAGS: TAG,TAG,TAG)`. Com
     * `0498AbuCaliJayyani.AlqabSahaba (TAGS: CENT0500,PPE,_HADITH,_TABAQAT,_TARAJIM)`
     * `0498AbuCaliJayyani.TaqyidMuhmal (TAGS: CENT0500,PPE,_HADITH,_MISC,_TABAQAT,_TARAJIM)`
 
-* **0600AH [[ [Re]generated on 2016-04-21 (09:25:03) ]]**
+* **0600AH [[ [Re]generated on 2016-05-15 (19:29:21) ]]**
 
     * `0507AbuBakrShashi.HilyaCulama (TAGS: CENT0600,PPE,_FIQH,_SHAFICI)`
     * `0507IbnQaysarani.AnsabMuttafiqa (TAGS: CENT0600,PPE,_ANSAB,_HADITH,_MISC,_TABAQAT,_TARAJIM)`
@@ -299,6 +301,7 @@ Tags follow the URI of a text in the following format `(TAGS: TAG,TAG,TAG)`. Com
     * `0578IbnBashkuwal.GhawamidAsma (TAGS: CENT0600,PPE,_HADITH,_MISC,_TABAQAT,_TARAJIM)`
     * `0578IbnBashkuwal.Sila (TAGS: BIO,CENT0600,COL,PPE,_TARAJIM,_TARIKH)`
     * `0580IbnCimrani.InbaFiTarikhKhulafa (TAGS: CENT0600,HIS,PPE,_TARIKH)`
+    * `0584IbnMunqidhShayzari.Ictibar (TAGS: CENT0600,_TARAJIM,_TARIKH)`
     * `0584IbnMusaHazimi.Amakin (TAGS: CENT0600,GEO,PPE,_BULDAN,_GHARIB,_JUGHRAFIYA,_MACAJIM,_MUSTALAHAT,_RIHLAT)`
     * `0584IbnMusaHazimi.CujalaMubtadi (TAGS: CENT0600,GEN,PPE,_ANSAB,_MISC)`
     * `0597CimadDinKatib.BarqShami (TAGS: CENT0600,PPE,_BULDAN,_TARIKH)`
@@ -311,14 +314,16 @@ Tags follow the URI of a text in the following format `(TAGS: TAG,TAG,TAG)`. Com
     * `0597IbnJawzi.TalqihFuhum (TAGS: CENT0600,PPE,_TARIKH)`
     * `0597IbnJawzi.TarikhBaytMuqaddas (TAGS: CENT0600,PPE,_BULDAN,_TARIKH)`
     * `0599IbnYahyaDabbi.BughyaMultamis (TAGS: CENT0600,PPE,_TABAQAT,_TARAJIM)`
+    * `0600AbuBaqaHilli.ManaqibMazidiya (TAGS: CENT0600,_TARAJIM,_TARIKH)`
 
-* **0700AH [[ [Re]generated on 2016-04-21 (09:25:03) ]]**
+* **0700AH [[ [Re]generated on 2016-05-15 (19:29:21) ]]**
 
     * `0606IbnMamati.LataifDhakhira (TAGS: CENT0700,PPE,_TABAQAT,_TARAJIM)`
     * `0611CaliHarawi.Isharat (TAGS: CENT0700,GEO,PPE,_BULDAN,_JUGHRAFIYA,_RIHLAT)`
     * `0611SharafDinMuqaddasi.Arbacin (TAGS: CENT0700,PPE,_AJZA,_HADITH)`
     * `0614IbnJubayr.Rihla (TAGS: CENT0700,GEO,PPE,_BULDAN,_JUGHRAFIYA,_MUDHAKKARAT,_RIHLAT,_TARIKH)`
     * `0615MuwaffaqDinShafici.MurshidZuwwar (TAGS: CENT0700,GEO,PPE,_BULDAN,_JUGHRAFIYA,_RIHLAT)`
+    * `0617MansurIbnShahanshah.MidmarHaqaiq (TAGS: CENT0700,PPE,_MISC,_TARIKH)`
     * `0623Qazwini.Tadwin (TAGS: CENT0700,PPE,_BULDAN,_HADITH,_TARAJIM,_TARIKH)`
     * `0626YaqutHamawi.Khazal (TAGS: CENT0700,GEO,PPE,_BULDAN,_JUGHRAFIYA,_RIHLAT)`
     * `0626YaqutHamawi.MucjamBuldan (TAGS: CENT0700,COL,GEO,PPE,_ANSAB,_BULDAN,_FAHARIS,_GHARIB,_JUGHRAFIYA,_MACAJIM,_MUSTALAHAT,_RIHLAT)`
@@ -362,12 +367,13 @@ Tags follow the URI of a text in the following format `(TAGS: TAG,TAG,TAG)`. Com
     * `0685IbnSacidMaghribi.Jughrafiya (TAGS: CENT0700,GEO,PPE,_BULDAN,_JUGHRAFIYA,_MISC,_RIHLAT)`
     * `0685IbnSacidMaghribi.Mughrib (TAGS: CENT0700,PPE,_BULDAN,_TARIKH)`
     * `0690IbnMujawirDimashqi.TarikhMustabsir (TAGS: CENT0700,PPE,_BULDAN,_JUGHRAFIYA,_MISC,_RIHLAT)`
+    * `0691IbnYusufLabli.Fihrist (TAGS: CENT0700,_ADILLA,_FAHARIS,_KUTUB)`
     * `0694MuhibbDinTabari.Dhakhair (TAGS: CENT0700,PPE,_ASHAB,_HADITH,_SHAMAIL,_SHICI,_SIRA)`
     * `0694MuhibbDinTabari.RiyadNadira (TAGS: CENT0700,PPE,_ASHAB,_SIRA,_TABAQAT,_TARAJIM)`
     * `0696Dabbagh.MacalimIman (TAGS: BIO,CENT0700,COL,ORPHAN,PPE)`
     * `0696IbnZahiri.Mashyakha (TAGS: CENT0700,PPE,_AJZA,_HADITH,_TARAJIM)`
 
-* **0800AH [[ [Re]generated on 2016-04-21 (09:25:03) ]]**
+* **0800AH [[ [Re]generated on 2016-05-15 (19:29:21) ]]**
 
     * `0701SharafDinYunini.Mashyakha (TAGS: CENT0800,PPE,_AJZA,_HADITH)`
     * `0703Marakishi.DhaylWaTakmila (TAGS: CENT0800,PPE,_MISC,_TABAQAT,_TARAJIM)`
@@ -441,7 +447,7 @@ Tags follow the URI of a text in the following format `(TAGS: TAG,TAG,TAG)`. Com
     * `0795IbnRajabHanbali.DhaylTabaqatHanabila (TAGS: BIO,CENT0800,COL,PPE,_TABAQAT,_TARAJIM,_TARIKH)`
     * `0799IbnFarhun.DibajMudhahhab (TAGS: CENT0800,PPE,_FIQH,_TABAQAT,_TARAJIM,_TARIKH)`
 
-* **0900AH [[ [Re]generated on 2016-04-21 (09:25:03) ]]**
+* **0900AH [[ [Re]generated on 2016-05-15 (19:29:21) ]]**
 
     * `0804IbnMulaqqin.TabaqatAwliya (TAGS: CENT0900,PPE,_TABAQAT,_TARAJIM,_TARIKH,_WAFAYAT)`
     * `0806IbnHusaynCiraqi.DhaylMizan (TAGS: BIO,CENT0900,PPE,_HADITH,_TABAQAT,_TARAJIM)`
@@ -452,6 +458,8 @@ Tags follow the URI of a text in the following format `(TAGS: TAG,TAG,TAG)`. Com
     * `0812CaliKhazraji.CuqudLuluiyya (TAGS: CENT0900,PPE,_TARIKH)`
     * `0816AbuBakrMaraghi.Mashyakha (TAGS: CENT0900,PPE,_AJZA,_HADITH)`
     * `0817IbnYacqubFiruzabadi.BulghaFiTarajim (TAGS: CENT0900,PPE,_TABAQAT,_TARAJIM,_TARIKH,_WAFAYAT)`
+    * `0821Qalqashandi.NihayaArab (TAGS: CENT0900,PPE,_ANSAB)`
+    * `0821Qalqashandi.QalaidJuman (TAGS: CENT0900,PPE,_ANSAB,_BULDAN,_TARIKH)`
     * `0821Qalqashandi.SubhAcsha (TAGS: CENT0900,_ADAB,_ADAD,_BALAGHA,_CARUD,_KITABA)`
     * `0821ShihabDinQalqashandi.Maathir (TAGS: CENT0900,_MISC,_QADA,_SIYASA)`
     * `0825IbnQasimSabti.IkhtisarAkhbar (TAGS: CENT0900,PPE,_BULDAN,_JUGHRAFIYA,_RIHLAT)`
@@ -480,6 +488,7 @@ Tags follow the URI of a text in the following format `(TAGS: TAG,TAG,TAG)`. Com
     * `0852IbnHajarCasqalani.TacjilManfaca (TAGS: CENT0900,PPE,_HADITH,_SUNNI,_TABAQAT,_TARAJIM)`
     * `0852IbnHajarCasqalani.TahdhibTahdhib (TAGS: CENT0900,PPE,_HADITH,_SUNNI,_TABAQAT,_TARAJIM)`
     * `0852IbnHajarCasqalani.TaqribTahdhib (TAGS: CENT0900,PPE,_HADITH,_SUNNI,_TABAQAT,_TARAJIM)`
+    * `0854IbnCarabshah.CajaibMaqdur (TAGS: CENT0900,_TARAJIM,_TARIKH)`
     * `0854IbnDiyaMakki.TarikhMakka (TAGS: CENT0900,PPE,_BULDAN,_TARIKH)`
     * `0855Cayni.CiqdJuman (TAGS: CENT0900,PPE,_TARIKH)`
     * `0855Cayni.CumdaQari (TAGS: CENT0900,PPE,_FIQH,_HADITH,_SHARH,_SUNNI,_TARAJIM)`
@@ -498,7 +507,7 @@ Tags follow the URI of a text in the following format `(TAGS: TAG,TAG,TAG)`. Com
     * `0884SibtIbnCajami.TabyinLiAsma (TAGS: CENT0900,PPE,_HADITH,_SUNNI,_TABAQAT,_TARAJIM)`
     * `0900AbuCabdAllahHimyari.RawdMictar (TAGS: CENT0900,COL,GEO,PPE,_BULDAN,_GHARIB,_JUGHRAFIYA,_MACAJIM,_MUSTALAHAT,_RIHLAT)`
 
-* **1000AH [[ [Re]generated on 2016-04-21 (09:25:03) ]]**
+* **1000AH [[ [Re]generated on 2016-05-15 (19:29:21) ]]**
 
     * `0902Sakhawi.Buldaniyyat (TAGS: CENT1000,PPE,_AJZA,_HADITH,_MISC,_TARAJIM)`
     * `0902Sakhawi.DuLamic (TAGS: BIO,CENT1000,COL,PPE,_TABAQAT,_TARAJIM,_TARIKH,_WAFAYAT)`
@@ -506,6 +515,7 @@ Tags follow the URI of a text in the following format `(TAGS: TAG,TAG,TAG)`. Com
     * `0902Sakhawi.TuhfaLatifa (TAGS: CENT1000,PPE,_BULDAN,_TABAQAT,_TARAJIM,_TARIKH)`
     * `0904Burayhi.TabaqatSulahaYaman (TAGS: CENT1000,PPE,_BULDAN,_TARIKH)`
     * `0905Basrawi.Tarikh (TAGS: CENT1000,PPE,_BULDAN,_TARIKH)`
+    * `0909IbnMibradHanbali.BahrDamm (TAGS: CENT1000,_HADITH,_SUNNI,_TABAQAT,_TARAJIM)`
     * `0909IbnMibradHanbali.MucjamKutub (TAGS: BIB,CENT1000,PPE,_ADILLA,_FAHARIS,_KUTUB)`
     * `0911Samhudi.KhulasaWafaWafa (TAGS: CENT1000,PPE,_TARIKH)`
     * `0911Samhudi.WafaWafa (TAGS: CENT1000,PPE,_ASHAB,_BULDAN,_JUGHRAFIYA,_RIHLAT,_SIRA)`
@@ -531,7 +541,7 @@ Tags follow the URI of a text in the following format `(TAGS: TAG,TAG,TAG)`. Com
     * `0968Tashkubruizadah.ShaqaiqNucmaniyya (TAGS: BIO,CENT1000,COL,PPE,_FIQH,_TABAQAT,_TARAJIM,_TARIKH)`
     * `0973CabdWahhabShacrani.LawaqihAnwar (TAGS: CENT1000,PPE,_TABAQAT,_TARAJIM,_TARIKH,_WAFAYAT)`
 
-* **1100AH [[ [Re]generated on 2016-04-21 (09:25:03) ]]**
+* **1100AH [[ [Re]generated on 2016-05-15 (19:29:21) ]]**
 
     * `1010TamimiDari.TabaqatSaniya (TAGS: BIO,CENT1100,COL,PPE,_TABAQAT,_TARAJIM,_TARIKH)`
     * `1011SahibMacalim.TahrirTawusi (TAGS: CENT1100,PPE,SHC,_HADITH,_SHICI,_TARAJIM)`
@@ -551,9 +561,10 @@ Tags follow the URI of a text in the following format `(TAGS: TAG,TAG,TAG)`. Com
     * `1100IbnMuhammadAdnahwi.TabaqatMufassirin (TAGS: CENT1100,PPE,_MUFASSIRUN,_TABAQAT,_TARAJIM,_TARIKH)`
     * `1100MustafaTafrishi.NaqdRijal (TAGS: BIO,CENT1100,PPE,SHC,_HADITH,_SHICI,_TARAJIM)`
 
-* **1200AH [[ [Re]generated on 2016-04-21 (09:25:03) ]]**
+* **1200AH [[ [Re]generated on 2016-05-15 (19:29:21) ]]**
 
     * `1101MuhammadCaliArdabili.JamicRuwat (TAGS: CENT1200,PPE,SHC,_HADITH,_SHICI,_TARAJIM)`
+    * `1111Majlisi.BiharAnwar (TAGS: CENT1200,_HADITH,_SHICI)`
     * `1111MuhammadAminMuhibbi.KhulasaAthr (TAGS: CENT1200,PPE,_TABAQAT,_TARAJIM,_TARIKH,_WAFAYAT)`
     * `1119IbnMacsum.SulafaCasr (TAGS: BIO,CENT1200,PPE,_TABAQAT,_TARAJIM,_TARIKH)`
     * `1120CaliKhanMadani.DarajatRafica (TAGS: CENT1200,PPE,SHC,_HADITH,_SHICI,_TARAJIM)`
@@ -563,7 +574,7 @@ Tags follow the URI of a text in the following format `(TAGS: TAG,TAG,TAG)`. Com
     * `1175AhmadBudayri.HawadithDimashq (TAGS: CENT1200,PPE,_BULDAN,_TARIKH)`
     * `1175MuhammadKarabisi.IklilManhaj (TAGS: BIO,CENT1200,PPE,SHC,_HADITH,_SHICI,_TARAJIM)`
 
-* **1300AH [[ [Re]generated on 2016-04-21 (09:25:03) ]]**
+* **1300AH [[ [Re]generated on 2016-05-15 (19:29:21) ]]**
 
     * `1206Muradi.SilkDurar (TAGS: CENT1300,PPE,_TABAQAT,_TARAJIM)`
     * `1212BahrCulum.FawaidRijaliya (TAGS: CENT1300,PPE,SHC,_HADITH,_SHICI,_TARAJIM)`
@@ -575,7 +586,7 @@ Tags follow the URI of a text in the following format `(TAGS: TAG,TAG,TAG)`. Com
     * `1269CabdMalikCasimi.SamtNujum (TAGS: CENT1200,PPE,_TARIKH)`
     * `1286IcjazHusaynKunturi.KashfHajb (TAGS: BIB,CENT1300,PPE,_FAHARIS,_KUTUB)`
 
-* **1400AH [[ [Re]generated on 2016-04-21 (09:25:03) ]]**
+* **1400AH [[ [Re]generated on 2016-05-15 (19:29:21) ]]**
 
     * `1307Qannawji.AbjadCulum (TAGS: CENT1400,PPE,_ADILLA,_FAHARIS,_KUTUB,_MACAJIM)`
     * `1307Qannawji.HittaFiDhikr (TAGS: CENT1400,PPE,_ADILLA,_FAHARIS,_KUTUB)`
@@ -613,15 +624,17 @@ Tags follow the URI of a text in the following format `(TAGS: TAG,TAG,TAG)`. Com
     * `1389AghaBuzurgTihrani.TASHNawabighRuwat (TAGS: CENT1400,PPE,_TABAQAT,_TARAJIM,_TARIKH,_WAFAYAT)`
     * `1396KhayrDinZirikli.Aclam (TAGS: BIO,CENT1400,COL,PPE,_FAHARIS,_KUTUB,_TABAQAT,_TARAJIM)`
 
-* **1500AH [[ [Re]generated on 2016-04-21 (09:25:03) ]]**
+* **1500AH [[ [Re]generated on 2016-05-15 (19:29:21) ]]**
 
     * `1405CaliShahrudi.Mustadrakat (TAGS: CENT1500,PPE,SHC,_HADITH,_SHICI,_TARAJIM)`
     * `1408CumarKahhala.MucjamMuallifin (TAGS: BIB,BIO,CENT1500,COL,PPE,_FAHARIS,_KUTUB,_TABAQAT,_TARAJIM)`
     * `1408CumarKahhala.MucjamQabail (TAGS: CENT1500,COL,GEN,PPE,_ANSAB,_MACAJIM)`
     * `1411SayyidKhui.MucjamRijal (TAGS: CENT1500,PPE,_HADITH,_SHICI,_TARAJIM)`
+    * `1411SayyidMarcashi.SharhIhqaq (TAGS: CENT1500,_CAQAID,_SHICI,_TWELVERS)`
     * `1418SalihAhmadArkani.TihfaMajalis (TAGS: BIB,CENT1500,PPE,_FAHARIS,_KUTUB)`
     * `1419MahmudTanahi.MujizFiMarajic (TAGS: BIB,CENT1500,PPE,_ADILLA,_FAHARIS,_KUTUB)`
     * `1422MuhammadSalimMuhaysin.MucjamHuffazQuran (TAGS: CENT1500,PPE,_TABAQAT,_TARAJIM)`
+    * `1450AkramFaluji.MucjamSaghir (TAGS: CENT1500,_TABAQAT,_TARAJIM)`
     * `1450CabdRahmanAlShaykh.Mashahir (TAGS: CENT1500,PPE,_TABAQAT,_TARAJIM)`
     * `1450MuhammadHadiAmini.MucjamMatbicatNajafiya (TAGS: BIB,CENT1500,PPE,_FAHARIS,_KUTUB)`
     * `1450MuhammadKhayrRamadan.TakmilaMucjamMuallifin (TAGS: BIB,CENT1500,COL,PPE,_TABAQAT,_TARAJIM)`
