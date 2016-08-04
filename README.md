@@ -1,5 +1,7 @@
 # OpenArabic Project (@ AvH Lehrstuhl für Digital Humanities, U Leipzig)
 
+The goal of the project is to build a machine-actionable corpus of premodern texts in Arabic to encourage computational analysis of Arabic literary tradition. Currently, the project focuses on historical texts (chronicles, biographical collections, geographical treatises and gazetteers, thematic dictionaries).
+
 Arabic texts from different periods, collected and reformatted into machine-readable formats (mARkdown > CTS-compliant TEI XML > Perseus DL).
 
 Most of the texts are coming from open online collections of premodern and modern Arabic texts, such as [http://shamela.ws/](http://shamela.ws/) and [http://shiaonlinelibrary.com/](http://shiaonlinelibrary.com/) (These texts have `Shamela+NUMBER` and `Shia+NUMBER`; some texts are coming from _al-Jāmiʿ al-kabīr_, which is not available online (`JK+NUMBER`). Initial metadata from these collections is preserved in the beginning of each file.
