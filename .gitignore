@@ -19,6 +19,9 @@
 *.mp3
 *.ogg
 
+# `Working copies of` that EditPad Pro creates
+Working\ Copy\ of *
+
 # Python scripts for prepping data
 __pycache__/
 *.py[cod]
