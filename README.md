@@ -1,6 +1,6 @@
 # OpenArabic Project (@ AvH Lehrstuhl für Digital Humanities, U Leipzig)
 
-[Test](#test)
+[Prospects and Progress](#prospects-and-progress)
 
 The goal of the project is to build a machine-actionable corpus of premodern texts in Arabic to encourage computational analysis of Arabic literary tradition. Currently, most of the text are historical texts (chronicles, biographical collections, geographical treatises and gazetteers, thematic dictionaries); if you are interested in having other genres and forms, please, get in touch with us.
 
@@ -10,7 +10,7 @@ Currently uploaded have been automatically converted from their initial formats 
 
 For the list of added books, see below (Mostly premodern chronicles, biographical collections, encyclopaedic dictionaries, gazetteers).
 
-# Prospects and Progress <a name="test"></a>
+# Prospects and Progress
 | *Texts* | *Status* |
 |:--- | ------:|
 | Total in the Collection | 10,393 |
