@@ -17,22 +17,18 @@ Currently uploaded have been automatically converted from their initial formats 
 For the list of added books, see below (Mostly premodern chronicles, biographical collections, encyclopaedic dictionaries, gazetteers).
 
 # Prospects and Progress
+
 | *Texts* | *Status* |
 |:--- | ------:|
 | Total in the Collection | 10,393 |
 | Unique texts | 7,781 |
-| Scheduled texts __*__  | 9 |
-| Scheduled top priority | 0 |
-| To be rechecked | 262 |
-| Excluded __**__ | 550 |
 | Added texts (listed below) | 597 |
 | Orphans (no TXT) | 2 |
-| Converted to mARkdown | _pending_ |
-| Converted to TEI XML  | _pending_ |
-
-__*__ : Predominantly historical, biographical, geographical, and bibliographical texts with ‘serialized data’ (plus, selected dictionaries and lexicons relevant to historical research).
-
-__**__ : Either modern works, or irrelevant for current research purposes.
+|:--- | ------:|
+| In Progress (`.inProgress`) | _pending_ |
+| Completed (`.completed`) | _pending_ |
+| Vetted (`.mARkdown`) | _pending_ |
+| Converted to TEI XML  (`.xml`) | _pending_ |
 
 # Text Description Tags
 
