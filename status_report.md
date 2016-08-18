@@ -6,19 +6,29 @@
 - `0256Bukhari.TarikhKabir.Shamela0000956-ara1.inProgress`
 - `0310Tabari.Tarikh.Shamela0009783-ara1.inProgress`
 - `0310Tabari.Tarikh.Shia003474Vols-ara1.inProgress`
-- `0658IbnAbbar.TakmilaLiSila.JK001319-ara1.inProgress`
+- `1339IsmacilBashaBaghdadi.HadiyaCarifin.Shia003362Vols-ara1.inProgress`
 
 
-## Completed (1)
+## Completed (14)
 
+- `0276IbnQutaybaDinawari.AdabKatib.Shamela0026349-ara1.completed`
 - `0355MuhammadKindi.WulatMisr.JK010325-ara1.completed`
+- `0369AbuShaykhIsbahani.TabaqatMuhaddithin.Shamela0004182-ara1.completed`
+- `0379MuhammadRabci.TarikhMawlidCulama.JK000651-ara1.completed`
+- `0390Muqaddasi.AhsanTaqasim.Shamela0023696-ara1.completed`
+- `0577IbnAnbari.NuzhaAlibba.Shamela0003583-ara1.completed`
+- `0597IbnJawzi.Muntazam.Shamela0012406-ara1.completed`
+- `0600KatibMarrakushi.Istibsar.Shamela0011684-ara1.completed`
+- `0626YaqutHamawi.MucjamBuldan.Shamela0023735-ara1.completed`
+- `0630IbnAthirCizzDin.LubabFiTahdhibAnsab.Shamela0005793-ara1.completed`
+- `0658IbnAbbar.HullaSiyara.Shamela0006630-ara1.completed`
+- `0658IbnAbbar.TakmilaLiSila.JK001319-ara1.completed`
+- `0774IbnKathir.TabaqatShaficiyyin.Shamela0012860-ara1.completed`
+- `0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.completed`
 
 
-## Vetted (35)
+## Vetted (24)
 
-- `0276IbnQutaybaDinawari.AdabKatib.Shamela0026349-ara1.mARkdown`
-- `0379MuhammadRabci.TarikhMawlidCulama.JK000651-ara1.mARkdown`
-- `0390Muqaddasi.AhsanTaqasim.Shamela0023696-ara1.mARkdown`
 - `0403IbnFaradi.TarikhCulamaAndalus.JK001462-ara1.mARkdown`
 - `0405HakimNaysaburi.TalkhisTarikhNaysabur.Shamela0004017-ara1.mARkdown`
 - `0412Sulami.TabaqatSufiya.Shamela0006686-ara1.mARkdown`
@@ -43,13 +53,5 @@
 - `0565IbnZaydBayhaqi.TarikhBayhaq.Shamela0011758-ara1.mARkdown`
 - `0571IbnCasakir.TarikhDimashq.JK000916-ara1.mARkdown`
 - `0578IbnBashkuwal.Sila.Shamela0022788-ara1.mARkdown`
-- `0597IbnJawzi.Muntazam.Shamela0012406-ara1.mARkdown`
-- `0626YaqutHamawi.MucjamBuldan.Shamela0023735-ara1.mARkdown`
-- `0630IbnAthirCizzDin.LubabFiTahdhibAnsab.Shamela0005793-ara1.mARkdown`
-- `0658IbnAbbar.HullaSiyara.Shamela0006630-ara1.mARkdown`
-- `0658IbnAbbar.TakmilaLiSila.JK001319-ara1.mARkdown`
-- `0774IbnKathir.TabaqatShaficiyyin.Shamela0012860-ara1.mARkdown`
-- `0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.mARkdown`
-- `1339IsmacilBashaBaghdadi.HadiyaCarifin.Shia003362Vols-ara1.mARkdown`
 
 
