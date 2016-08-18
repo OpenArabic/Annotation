@@ -136,68 +136,68 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 
 ## In Progress (1)
 
-    * `0658IbnAbbar.TakmilaLiSila.JK001319-ara1.inProgress`
+    - `0658IbnAbbar.TakmilaLiSila.JK001319-ara1.inProgress`
 
 ## Completed (0)
 
 ## Vetted (40)
 
-    * `0230IbnSacd.TabaqatKubra.Shamela0001686-ara1.mARkdown`
-    * `0256Bukhari.TarikhKabir.Shamela0000956-ara1.mARkdown`
-    * `0276IbnQutaybaDinawari.AdabKatib.Shamela0026349-ara1.mARkdown`
-    * `0310Tabari.Tarikh.Shamela0009783-ara1.mARkdown`
-    * `0310Tabari.Tarikh.Shia003474Vols-ara1.mARkdown`
-    * `0355MuhammadKindi.WulatMisr.JK010325-ara1.mARkdown`
-    * `0379MuhammadRabci.TarikhMawlidCulama.JK000651-ara1.mARkdown`
-    * `0390Muqaddasi.AhsanTaqasim.Shamela0023696-ara1.mARkdown`
-    * `0403IbnFaradi.TarikhCulamaAndalus.JK001462-ara1.mARkdown`
-    * `0405HakimNaysaburi.TalkhisTarikhNaysabur.Shamela0004017-ara1.mARkdown`
-    * `0412Sulami.TabaqatSufiya.Shamela0006686-ara1.mARkdown`
-    * `0427HamzaJurjani.TarikhJurjan.Shamela0011077-ara1.mARkdown`
-    * `0430AbuNucaymIsbahani.HilyaAwliya.JK000022-ara1.mARkdown`
-    * `0430AbuNucaymIsbahani.TarikhIsbahan.Shia003488Vols-ara1.mARkdown`
-    * `0442Tanukhi.TarikhCulamaNahwiyyin.Shamela0001386-ara1.mARkdown`
-    * `0446AbuYaclaKhalili.IrshadFiMacrifaCulama.JK000732-ara1.mARkdown`
-    * `0450Najashi.Rijal.Shia002931-ara1.mARkdown`
-    * `0458Bayhaqi.DalailNubuwwa.JK006838-ara1.mARkdown`
-    * `0460ShaykhTusi.IkhtiyarMacrifaRijal.Shia002932Vols-ara1.mARkdown`
-    * `0460ShaykhTusi.Rijal.Shia002935-ara1.mARkdown`
-    * `0463IbnCabdBarr.IsticabFiMacrifaAshab.JK000778-ara1.mARkdown`
-    * `0463KhatibBaghdadi.TarikhBaghdad.Shamela0000736-ara1.mARkdown`
-    * `0466CabdAzizKattani.DhaylTarikhMawlidCulama.JK000770-ara1.mARkdown`
-    * `0476AbuIshaqShirazi.TabaqatFuqaha.Shamela0001031-ara1.mARkdown`
-    * `0482AbuIshaqHabbal.WafayatMisriyyin.JK000712-ara1.mARkdown`
-    * `0521IbnAbiYacla.TabaqatHanabila.JK000213-ara1.mARkdown`
-    * `0524IbnAkfani.DhaylDhaylTarikhMawlidCulama.JK000695-ara1.mARkdown`
-    * `0544CiyadIbnMusaYahsubi.TartibMadarik.Shamela0031215-ara1.mARkdown`
-    * `0555IbnQalanisi.Tarikh.Shamela0022799-ara1.mARkdown`
-    * `0565IbnZaydBayhaqi.TarikhBayhaq.Shamela0011758-ara1.mARkdown`
-    * `0571IbnCasakir.TarikhDimashq.JK000916-ara1.mARkdown`
-    * `0578IbnBashkuwal.Sila.Shamela0022788-ara1.mARkdown`
-    * `0597IbnJawzi.Muntazam.Shamela0012406-ara1.mARkdown`
-    * `0626YaqutHamawi.MucjamBuldan.Shamela0023735-ara1.mARkdown`
-    * `0630IbnAthirCizzDin.LubabFiTahdhibAnsab.Shamela0005793-ara1.mARkdown`
-    * `0658IbnAbbar.HullaSiyara.Shamela0006630-ara1.mARkdown`
-    * `0658IbnAbbar.TakmilaLiSila.JK001319-ara1.mARkdown`
-    * `0774IbnKathir.TabaqatShaficiyyin.Shamela0012860-ara1.mARkdown`
-    * `0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.mARkdown`
-    * `1339IsmacilBashaBaghdadi.HadiyaCarifin.Shia003362Vols-ara1.mARkdown`
+    - `0230IbnSacd.TabaqatKubra.Shamela0001686-ara1.mARkdown`
+    - `0256Bukhari.TarikhKabir.Shamela0000956-ara1.mARkdown`
+    - `0276IbnQutaybaDinawari.AdabKatib.Shamela0026349-ara1.mARkdown`
+    - `0310Tabari.Tarikh.Shamela0009783-ara1.mARkdown`
+    - `0310Tabari.Tarikh.Shia003474Vols-ara1.mARkdown`
+    - `0355MuhammadKindi.WulatMisr.JK010325-ara1.mARkdown`
+    - `0379MuhammadRabci.TarikhMawlidCulama.JK000651-ara1.mARkdown`
+    - `0390Muqaddasi.AhsanTaqasim.Shamela0023696-ara1.mARkdown`
+    - `0403IbnFaradi.TarikhCulamaAndalus.JK001462-ara1.mARkdown`
+    - `0405HakimNaysaburi.TalkhisTarikhNaysabur.Shamela0004017-ara1.mARkdown`
+    - `0412Sulami.TabaqatSufiya.Shamela0006686-ara1.mARkdown`
+    - `0427HamzaJurjani.TarikhJurjan.Shamela0011077-ara1.mARkdown`
+    - `0430AbuNucaymIsbahani.HilyaAwliya.JK000022-ara1.mARkdown`
+    - `0430AbuNucaymIsbahani.TarikhIsbahan.Shia003488Vols-ara1.mARkdown`
+    - `0442Tanukhi.TarikhCulamaNahwiyyin.Shamela0001386-ara1.mARkdown`
+    - `0446AbuYaclaKhalili.IrshadFiMacrifaCulama.JK000732-ara1.mARkdown`
+    - `0450Najashi.Rijal.Shia002931-ara1.mARkdown`
+    - `0458Bayhaqi.DalailNubuwwa.JK006838-ara1.mARkdown`
+    - `0460ShaykhTusi.IkhtiyarMacrifaRijal.Shia002932Vols-ara1.mARkdown`
+    - `0460ShaykhTusi.Rijal.Shia002935-ara1.mARkdown`
+    - `0463IbnCabdBarr.IsticabFiMacrifaAshab.JK000778-ara1.mARkdown`
+    - `0463KhatibBaghdadi.TarikhBaghdad.Shamela0000736-ara1.mARkdown`
+    - `0466CabdAzizKattani.DhaylTarikhMawlidCulama.JK000770-ara1.mARkdown`
+    - `0476AbuIshaqShirazi.TabaqatFuqaha.Shamela0001031-ara1.mARkdown`
+    - `0482AbuIshaqHabbal.WafayatMisriyyin.JK000712-ara1.mARkdown`
+    - `0521IbnAbiYacla.TabaqatHanabila.JK000213-ara1.mARkdown`
+    - `0524IbnAkfani.DhaylDhaylTarikhMawlidCulama.JK000695-ara1.mARkdown`
+    - `0544CiyadIbnMusaYahsubi.TartibMadarik.Shamela0031215-ara1.mARkdown`
+    - `0555IbnQalanisi.Tarikh.Shamela0022799-ara1.mARkdown`
+    - `0565IbnZaydBayhaqi.TarikhBayhaq.Shamela0011758-ara1.mARkdown`
+    - `0571IbnCasakir.TarikhDimashq.JK000916-ara1.mARkdown`
+    - `0578IbnBashkuwal.Sila.Shamela0022788-ara1.mARkdown`
+    - `0597IbnJawzi.Muntazam.Shamela0012406-ara1.mARkdown`
+    - `0626YaqutHamawi.MucjamBuldan.Shamela0023735-ara1.mARkdown`
+    - `0630IbnAthirCizzDin.LubabFiTahdhibAnsab.Shamela0005793-ara1.mARkdown`
+    - `0658IbnAbbar.HullaSiyara.Shamela0006630-ara1.mARkdown`
+    - `0658IbnAbbar.TakmilaLiSila.JK001319-ara1.mARkdown`
+    - `0774IbnKathir.TabaqatShaficiyyin.Shamela0012860-ara1.mARkdown`
+    - `0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.mARkdown`
+    - `1339IsmacilBashaBaghdadi.HadiyaCarifin.Shia003362Vols-ara1.mARkdown`
 
 # Text currently included in the Coprus
 
 ## List of books by centuries (597 titles)
 
-* **0100AH [[ [Re]generated on 2016-08-18 (14:32:02) ]]**
+* **0100AH [[ [Re]generated on 2016-08-18 (14:36:33) ]]**
 
     * _no texts at the moment_
 
-* **0200AH [[ [Re]generated on 2016-08-18 (14:32:02) ]]**
+* **0200AH [[ [Re]generated on 2016-08-18 (14:36:33) ]]**
 
     * `0110HasanBasri.FadailMakka `
     * `0195MuarrijSadusi.HadhfMinNasabQuraysh `
     * `0200AbuShis.Diwan `
 
-* **0300AH [[ [Re]generated on 2016-08-18 (14:32:02) ]]**
+* **0300AH [[ [Re]generated on 2016-08-18 (14:36:33) ]]**
 
     * `0204IbnKalbi.AnsabKhayl `
     * `0204IbnKalbi.JamharaAnsab `
@@ -277,7 +277,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
     * `0300IbnKhurdadhbih.MasalikWaMamalik `
     * `0300MuallifMajhul.AkhbarDawlaCabbasiya `
 
-* **0400AH [[ [Re]generated on 2016-08-18 (14:32:02) ]]**
+* **0400AH [[ [Re]generated on 2016-08-18 (14:36:33) ]]**
 
     * `0301Bardiji.TabaqatAsma `
     * `0303Nasai.DucafaWaMatrukin `
@@ -358,7 +358,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
     * `0400IbnTahirMaqdisi.BadWaTarikh `
     * `0400IshaqMunajjim.AkamMarjan `
 
-* **0500AH [[ [Re]generated on 2016-08-18 (14:32:02) ]]**
+* **0500AH [[ [Re]generated on 2016-08-18 (14:36:33) ]]**
 
     * `0402MuhammadSaydawi.MucjamShuyukh `
     * `0403IbnFaradi.TarikhCulamaAndalus `
@@ -417,7 +417,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
     * `0498AbuCaliJayyani.AlqabSahaba `
     * `0498AbuCaliJayyani.TaqyidMuhmal `
 
-* **0600AH [[ [Re]generated on 2016-08-18 (14:32:02) ]]**
+* **0600AH [[ [Re]generated on 2016-08-18 (14:36:33) ]]**
 
     * `0507AbuBakrShashi.HilyaCulama `
     * `0507IbnQaysarani.AnsabMuttafiqa `
@@ -475,7 +475,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
     * `0600AbuBaqaHilli.ManaqibMazidiya `
     * `0600KatibMarrakushi.Istibsar `
 
-* **0700AH [[ [Re]generated on 2016-08-18 (14:32:02) ]]**
+* **0700AH [[ [Re]generated on 2016-08-18 (14:36:33) ]]**
 
     * `0606IbnMamati.LataifDhakhira `
     * `0611CaliHarawi.Isharat `
@@ -539,7 +539,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
     * `0696Dabbagh.MacalimIman `
     * `0696IbnZahiri.Mashyakha `
 
-* **0800AH [[ [Re]generated on 2016-08-18 (14:32:02) ]]**
+* **0800AH [[ [Re]generated on 2016-08-18 (14:36:33) ]]**
 
     * `0701SharafDinYunini.Mashyakha `
     * `0703MuhammadMarrakushi.DhaylWaTakmila `
@@ -618,7 +618,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
     * `0795IbnRajabHanbali.DhaylTabaqatHanabila `
     * `0799IbnFarhun.DibajMudhahhab `
 
-* **0900AH [[ [Re]generated on 2016-08-18 (14:32:02) ]]**
+* **0900AH [[ [Re]generated on 2016-08-18 (14:36:33) ]]**
 
     * `0804IbnMulaqqin.TabaqatAwliya `
     * `0806IbnHusaynCiraqi.DhaylMizan `
@@ -682,7 +682,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
     * `0884SibtIbnCajami.TabyinLiAsma `
     * `0900AbuCabdAllahHimyari.RawdMictar `
 
-* **1000AH [[ [Re]generated on 2016-08-18 (14:32:02) ]]**
+* **1000AH [[ [Re]generated on 2016-08-18 (14:36:33) ]]**
 
     * `0902Sakhawi.Buldaniyyat `
     * `0902Sakhawi.DuLamic `
@@ -719,7 +719,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
     * `0973CabdWahhabShacrani.LawaqihAnwar `
     * `0984BardDinGhazzi.MatalicBadriya `
 
-* **1100AH [[ [Re]generated on 2016-08-18 (14:32:02) ]]**
+* **1100AH [[ [Re]generated on 2016-08-18 (14:36:33) ]]**
 
     * `1010TamimiDari.TabaqatSaniya `
     * `1011SahibMacalim.TahrirTawusi `
@@ -740,7 +740,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
     * `1100MuhammadItlidi.IclamNas `
     * `1100MustafaTafrishi.NaqdRijal `
 
-* **1200AH [[ [Re]generated on 2016-08-18 (14:32:02) ]]**
+* **1200AH [[ [Re]generated on 2016-08-18 (14:36:33) ]]**
 
     * `1101MuhammadCaliArdabili.JamicRuwat `
     * `1111MuhammadAminMuhibbi.KhulasaAthr `
@@ -756,7 +756,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
     * `1187SulaymanMahasini.HululTacab `
     * `1195CabdRahmanAnsari.Tuhfa `
 
-* **1300AH [[ [Re]generated on 2016-08-18 (14:32:02) ]]**
+* **1300AH [[ [Re]generated on 2016-08-18 (14:36:33) ]]**
 
     * `1206Muradi.SilkDurar `
     * `1212BahrCulum.FawaidRijaliya `
@@ -771,7 +771,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
     * `1277MuhammadTantawi.NashaNahw `
     * `1286IcjazHusaynKunturi.KashfHajb `
 
-* **1400AH [[ [Re]generated on 2016-08-18 (14:32:02) ]]**
+* **1400AH [[ [Re]generated on 2016-08-18 (14:36:33) ]]**
 
     * `1307Qannawji.AbjadCulum `
     * `1307Qannawji.HittaFiDhikr `
@@ -811,7 +811,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
     * `1389AghaBuzurgTihrani.TASHNawabighRuwat `
     * `1396KhayrDinZirikli.Aclam `
 
-* **1500AH [[ [Re]generated on 2016-08-18 (14:32:02) ]]**
+* **1500AH [[ [Re]generated on 2016-08-18 (14:36:33) ]]**
 
     * `1405CaliShahrudi.Mustadrakat `
     * `1408CumarKahhala.MucjamMuallifin `
