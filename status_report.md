@@ -51,7 +51,9 @@
 - `0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.completed`
 
 
-## Vetted (0)
+## Vetted (2)
 
+- `0310Tabari.Tarikh.Shia003474Vols-ara1.mARkdown`
+- `0658IbnAbbar.TuhfaQadim.Shamela0026108-ara1.mARkdown`
 
 
