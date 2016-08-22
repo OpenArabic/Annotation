@@ -1,17 +1,17 @@
 # Status Report
 
-## In Progress (5)
+## In Progress (4)
 
 - `0230IbnSacd.TabaqatKubra.Shamela0001686-ara1.inProgress`
 - `0256Bukhari.TarikhKabir.Shamela0000956-ara1.inProgress`
-- `0310Tabari.Tarikh.Shamela0009783-ara1.inProgress`
 - `0310Tabari.Tarikh.Shia003474Vols-ara1.inProgress`
 - `1339IsmacilBashaBaghdadi.HadiyaCarifin.Shia003362Vols-ara1.inProgress`
 
 
-## Completed (38)
+## Completed (40)
 
 - `0276IbnQutaybaDinawari.AdabKatib.Shamela0026349-ara1.completed`
+- `0292Yacqubi.TarikhYacqubi.JK001493-ara1.completed`
 - `0355MuhammadKindi.WulatMisr.JK010325-ara1.completed`
 - `0369AbuShaykhIsbahani.TabaqatMuhaddithin.Shamela0004182-ara1.completed`
 - `0379MuhammadRabci.TarikhMawlidCulama.JK000651-ara1.completed`
@@ -47,13 +47,12 @@
 - `0630IbnAthirCizzDin.LubabFiTahdhibAnsab.Shamela0005793-ara1.completed`
 - `0658IbnAbbar.HullaSiyara.Shamela0006630-ara1.completed`
 - `0658IbnAbbar.TakmilaLiSila.JK001319-ara1.completed`
+- `0658IbnAbbar.TuhfaQadim.Shamela0026108-ara1.completed`
 - `0774IbnKathir.TabaqatShaficiyyin.Shamela0012860-ara1.completed`
 - `0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.completed`
 
 
-## Vetted (2)
+## Vetted (0)
 
-- `0310Tabari.Tarikh.Shia003474Vols-ara1.mARkdown`
-- `0658IbnAbbar.TuhfaQadim.Shamela0026108-ara1.mARkdown`
 
 

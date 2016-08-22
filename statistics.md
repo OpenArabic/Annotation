@@ -5,7 +5,7 @@
 | Number of text files | 1234 |
 | Number of books      | 606 |
 | Number of authors    | 392 |
-| Length in words (all)| 374,476,761 |
+| Length in words (all)| 374,476,763 |
 | Length in pages (300 w/p)| 1,248,255 |
 | Length in words (unique) | 169,904,911 |
 | Length in pages (300 w/p)| 566,349 |
