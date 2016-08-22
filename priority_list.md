@@ -1,3 +1,29 @@
+# Top priority
+
+* `0748Dhahabi.CibarFiKhabar`
+* `0748Dhahabi.Culuww`
+* `0748Dhahabi.DhaylCibar`
+* `0748Dhahabi.DhaylDiwanDucafa`
+* `0748Dhahabi.DhikrAsmaManTakallama`
+* `0748Dhahabi.DiwanDucafa`
+* `0748Dhahabi.Kashif`
+* `0748Dhahabi.MacrifaQurraKibar`
+* `0748Dhahabi.MizanIctidal`
+* `0748Dhahabi.MucinFiTabaqatMuhaddithin`
+* `0748Dhahabi.MucjamMuhaddithin`
+* `0748Dhahabi.MucjamShuyukh`
+* `0748Dhahabi.MughniFiDucafa`
+* `0748Dhahabi.MukhtasarCuluww`
+* `0748Dhahabi.MukhtasarMinDubaythi`
+* `0748Dhahabi.Muqtana`
+* `0748Dhahabi.RuwatThiqat`
+* `0748Dhahabi.SiyarAclamNubala`
+* `0748Dhahabi.TadhkiraHuffaz`
+* ~~`0748Dhahabi.TarikhIslam`~~
+
+# Computationally generated priority list
+
+
 * `0571IbnCasakir.TarikhDimashq`
 * `0764Safadi.WafiBiWafayat`
 * `0748Dhahabi.SiyarAclamNubala`
