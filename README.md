@@ -20,6 +20,8 @@ Currently uploaded have been automatically converted from their initial formats 
 
 For the list of added books, see below (Mostly premodern chronicles, biographical collections, encyclopaedic dictionaries, gazetteers).
 
+# Metadata 
+
 # Prospects and Progress
 
 | *Texts* | *Status* |
