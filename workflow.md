@@ -14,7 +14,7 @@
 			* `git status` prints the current status of the repository on the screen, showing if there are any changes (new files, changed files, deleted files, etc.)
 			* `git pull origin master` pulls---or copies---updates from the online repository to your machine; run this command to ensure that you have the latest version on your machine.
 			* after you changed/added files, run `git add .` (period/punkt/point at the end); this command adds all new files to the repository.
-			* `git commit -m "MESSAGE"` saves the current status of the repository to the git versioning system; MESSAGE contains your own human readable description of what you have done. For example, if you finished tagging 3 volumes in the book that has 10, you can do `git commit -m "Finished tagging first 3 volumes"`. These messages will be visible in github repository online and help tracking progress. Also, you can roll back to the committed stage, if something wrong goes with the repository.
+			* `git commit -m "MESSAGE"` saves the current status of the repository to the git versioning system; MESSAGE contains your own human readable description of what you have done. For example, if you finished tagging 3 volumes in the book that has 10, you can do `git commit -m "Finished tagging first 3 volumes of ZZZ"`, where `ZZZ` is the URI of the book you work on (please, include only the `DateAuthor.Title` part, i.e. if the complete URI is `0310Tabari.Tarikh.JK000157-ara1.mARkdown`, you should include only `0310Tabari.Tarikh`). These messages will be visible in github repository online and help tracking progress. Also, you can roll back to the committed stage, if something wrong goes with the repository.
 			* `git push origin master` will upload your changes to the online repository. If somebody else has already updated the same repository, you may need to run `git pull origin master` first.
 1. Clone repositories; either work with the texts of your interest, or with the ones that are assigned to you.
 3. Make sure that nobody else is editing the text that you chose; to avoid that keep me posted on text you are planning to work with. **NB**: if there is a file has one of the following extensions—`.inProgress`, `.completed`, `.mARkdown`, it means that somebody is working on that text!
@@ -32,7 +32,7 @@
 	* __NB__ by default, Windows hides file extensions, so you will need to change some settings so that they are displayed. *How to do that*: 1) Open `File explorer` (Win+E); 2) press `F10` to see the menu; 3) in the menu: `Tools` > `Folder options`; then choose tab `View`; then uncheck `Hide extensions for known file types`; 4) Click `Apply to Folders`, then `Ok`.
 9. When you start working on a file, you add extension `.inProgress`, which will indicate to others that the file is been processed. After you renamed the file, make sure to stage your progress and push the changes to the online repository so that others could see your progress. Run the following commands in git:
 	* `git add .`
-	* `git commit -m "Started working on the file"` (message does not have to be exactly the same)
+	* `git commit -m "Started working on ZZZ"` (where `ZZZ` is the URI of the book you work on (please, include only the `DateAuthor.Title` part, i.e. if the complete URI is `0310Tabari.Tarikh.JK000157-ara1.mARkdown`, you should include only `0310Tabari.Tarikh`).
 	* `git push origin master`
 	* **NB:** Before you start a new text, make sure to pull the latest changes to the repository, i.e., run `git pull origin master`
 9. Keep in mind that you need to tag only the structure of a book you are working with,  which includes tagging chapter headers (`### |`, `### ||`, `### |||`, etc.) and major information units, like biographies (`### $`, `### $$`, `### $$$`, etc.) or lexicon items (these we should discuss before you start). Please, do not tag anything else—at least without consulting with me first.
@@ -41,7 +41,7 @@
 11. When you have finished tagging a text, change its extension from `.inProgress` to `.completed`; then push your changes to the online repository.\* After that I will review the tagging and if everything is fine, I will change the extension to `.mARkdown`, which will indicate that the tagging of the file has been complete and vetted.
 	* Git commands:
 		* `git add .`
-		* `git commit -m "tagging is complete"`
+		* `git commit -m "tagging of ZZZ is complete"` (where `ZZZ` is the URI of the book you work on (please, include only the `DateAuthor.Title` part, i.e. if the complete URI is `0310Tabari.Tarikh.JK000157-ara1.mARkdown`, you should include only `0310Tabari.Tarikh`).
 		* `git push origin master`
 	* **NB:** The extensions are important as they allow everyone to see at which stage the files are; they are also used to generate the progress report, which will be included into the `README.md` file of each repository. 
 11. Into the `README.md` which is in the same folder as the text file you are working on, please add the number of hours it took you to process the file. We are trying to get estimates on how much time it is going to take to process the entire corpus; we also know at the moment that the amount of time is not proportional to the length of a text, since what matters most is how much structural information is preserved in the initial file and that differs drastically from text to text.
