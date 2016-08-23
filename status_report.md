@@ -1,11 +1,10 @@
 # Status Report
 
-## In Progress (4)
+## In Progress (3)
 
 - `0230IbnSacd.TabaqatKubra.Shamela0001686-ara1.inProgress`
 - `0256Bukhari.TarikhKabir.Shamela0000956-ara1.inProgress`
 - `0310Tabari.Tarikh.Shia003474Vols-ara1.inProgress`
-- `1339IsmacilBashaBaghdadi.HadiyaCarifin.Shia003362Vols-ara1.inProgress`
 
 
 ## Completed (40)
@@ -52,7 +51,8 @@
 - `0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.completed`
 
 
-## Vetted (0)
+## Vetted (1)
 
+- `1339IsmacilBashaBaghdadi.HadiyaCarifin.Shia003362Vols-ara1.mARkdown`
 
 
