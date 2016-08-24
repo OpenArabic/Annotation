@@ -1,6 +1,6 @@
 # Top priority	%1
 
-* 0 `0748Dhahabi.CibarFiKhabar`	%3    started Leonie
+* 0 `0748Dhahabi.CibarFiKhabar`	%3    completed
 * 0 `0748Dhahabi.Culuww`	%4
 * 0 `0748Dhahabi.DhaylCibar`	%5
 * 0 `0748Dhahabi.DhaylDiwanDucafa`	%6
