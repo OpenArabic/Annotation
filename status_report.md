@@ -7,7 +7,7 @@
 - `0310Tabari.Tarikh.Shia003474Vols-ara1.inProgress`
 
 
-## Completed (40)
+## Completed (41)
 
 - `0276IbnQutaybaDinawari.AdabKatib.Shamela0026349-ara1.completed`
 - `0292Yacqubi.TarikhYacqubi.JK001493-ara1.completed`
@@ -47,12 +47,15 @@
 - `0658IbnAbbar.HullaSiyara.Shamela0006630-ara1.completed`
 - `0658IbnAbbar.TakmilaLiSila.JK001319-ara1.completed`
 - `0658IbnAbbar.TuhfaQadim.Shamela0026108-ara1.completed`
+- `0748Dhahabi.CibarFiKhabar.Shamela0025841-ara1.completed`
 - `0774IbnKathir.TabaqatShaficiyyin.Shamela0012860-ara1.completed`
 - `0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.completed`
 
 
-## Vetted (1)
+## Vetted (3)
 
+- `0681IbnKhallikan.WafayatAcyan.Shamela0001000-ara1.mARkdown`
 - `1339IsmacilBashaBaghdadi.HadiyaCarifin.Shia003362Vols-ara1.mARkdown`
+- `1450MawsucaShicriya.MucjamShucara.Shamela0002114-ara1.mARkdown`
 
 
