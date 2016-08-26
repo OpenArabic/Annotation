@@ -1,9 +1,10 @@
-# Status Report
+# Status Report (48 titles; 98,742 biographies)
 
-## In Progress (3)
+## In Progress (4)
 
 - `0230IbnSacd.TabaqatKubra.Shamela0001686-ara1.inProgress`
 - `0256Bukhari.TarikhKabir.Shamela0000956-ara1.inProgress`
+- `0310Tabari.JamicBayan.Shia002468Vols-ara1.inProgress`
 - `0310Tabari.Tarikh.Shia003474Vols-ara1.inProgress`
 
 
