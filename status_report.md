@@ -1,6 +1,6 @@
-# Status Report (49 titles; 108,771 biographies)
+# Status Report (50 titles)
 
-## In Progress (5)
+## In Progress (5 titles; 24,351 biographies)
 
 - `0230IbnSacd.TabaqatKubra.Shamela0001686-ara1.inProgress`
 - `0256Bukhari.TarikhKabir.Shamela0000956-ara1.inProgress`
@@ -9,7 +9,7 @@
 - `0764Safadi.WafiBiWafayat.JK003609-ara1.inProgress`
 
 
-## Completed (41)
+## Completed (42 titles; 72,439 biographies)
 
 - `0276IbnQutaybaDinawari.AdabKatib.Shamela0026349-ara1.completed`
 - `0292Yacqubi.TarikhYacqubi.JK001493-ara1.completed`
@@ -49,12 +49,13 @@
 - `0658IbnAbbar.HullaSiyara.Shamela0006630-ara1.completed`
 - `0658IbnAbbar.TakmilaLiSila.JK001319-ara1.completed`
 - `0658IbnAbbar.TuhfaQadim.Shamela0026108-ara1.completed`
+- `0685IbnCibri.TarikhMukhtasarDuwal.Shamela0012348-ara1.completed`
 - `0748Dhahabi.CibarFiKhabar.Shamela0025841-ara1.completed`
 - `0774IbnKathir.TabaqatShaficiyyin.Shamela0012860-ara1.completed`
 - `0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.completed`
 
 
-## Vetted (3)
+## Vetted (3 titles; 11,980 biographies)
 
 - `0681IbnKhallikan.WafayatAcyan.Shamela0001000-ara1.mARkdown`
 - `1339IsmacilBashaBaghdadi.HadiyaCarifin.Shia003362Vols-ara1.mARkdown`
