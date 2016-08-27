@@ -1,6 +1,6 @@
 # Status Report (50 titles)
 
-## In Progress (5 titles; 24,351 biographies)
+## In Progress (5 titles; 24,351 units)
 
 - `0230IbnSacd.TabaqatKubra.Shamela0001686-ara1.inProgress (4,081 units)`
 - `0256Bukhari.TarikhKabir.Shamela0000956-ara1.inProgress (10,845 units)`
@@ -9,7 +9,7 @@
 - `0764Safadi.WafiBiWafayat.JK003609-ara1.inProgress (9,425 units)`
 
 
-## Completed (42 titles; 72,439 biographies)
+## Completed (42 titles; 72,439 units)
 
 - `0276IbnQutaybaDinawari.AdabKatib.Shamela0026349-ara1.completed (0 units)`
 - `0292Yacqubi.TarikhYacqubi.JK001493-ara1.completed (0 units)`
