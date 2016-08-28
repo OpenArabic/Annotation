@@ -137,8 +137,9 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 # Status Report
  
 * 50 titles;
-* 28,293,672 words\;n* 130,688 logical units;
-* 108,771 bios.)
+* 28,293,672 words;
+* 130,688 logical units;
+* 108,771 bios.
 
 ## `*.inProgress` (5 titles: 7,728,642 words; 33,212 units; 24,351 bios)
 
@@ -203,17 +204,17 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 
 ## List of books by centuries (626 titles)
 
-* **0100AH [[ [Re]generated on 2016-08-28 (21:04:32) ]]**
+* **0100AH [[ [Re]generated on 2016-08-28 (21:12:48) ]]**
 
     * _no texts at the moment_
 
-* **0200AH [[ [Re]generated on 2016-08-28 (21:04:32) ]]**
+* **0200AH [[ [Re]generated on 2016-08-28 (21:12:48) ]]**
 
     * `0110HasanBasri.FadailMakka `
     * `0195MuarrijSadusi.HadhfMinNasabQuraysh `
     * `0200AbuShis.Diwan `
 
-* **0300AH [[ [Re]generated on 2016-08-28 (21:04:32) ]]**
+* **0300AH [[ [Re]generated on 2016-08-28 (21:12:48) ]]**
 
     * `0204IbnKalbi.AnsabKhayl `
     * `0204IbnKalbi.JamharaAnsab `
@@ -293,7 +294,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
     * `0300IbnKhurdadhbih.MasalikWaMamalik `
     * `0300MuallifMajhul.AkhbarDawlaCabbasiya `
 
-* **0400AH [[ [Re]generated on 2016-08-28 (21:04:32) ]]**
+* **0400AH [[ [Re]generated on 2016-08-28 (21:12:48) ]]**
 
     * `0301Bardiji.TabaqatAsma `
     * `0303Nasai.DucafaWaMatrukin `
@@ -378,7 +379,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
     * `0400IbnTahirMaqdisi.BadWaTarikh `
     * `0400IshaqMunajjim.AkamMarjan `
 
-* **0500AH [[ [Re]generated on 2016-08-28 (21:04:32) ]]**
+* **0500AH [[ [Re]generated on 2016-08-28 (21:12:48) ]]**
 
     * `0402MuhammadSaydawi.MucjamShuyukh `
     * `0403IbnFaradi.TarikhCulamaAndalus `
@@ -439,7 +440,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
     * `0498AbuCaliJayyani.AlqabSahaba `
     * `0498AbuCaliJayyani.TaqyidMuhmal `
 
-* **0600AH [[ [Re]generated on 2016-08-28 (21:04:32) ]]**
+* **0600AH [[ [Re]generated on 2016-08-28 (21:12:48) ]]**
 
     * `0507AbuBakrShashi.HilyaCulama `
     * `0507IbnQaysarani.AnsabMuttafiqa `
@@ -499,7 +500,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
     * `0600AbuBaqaHilli.ManaqibMazidiya `
     * `0600KatibMarrakushi.Istibsar `
 
-* **0700AH [[ [Re]generated on 2016-08-28 (21:04:32) ]]**
+* **0700AH [[ [Re]generated on 2016-08-28 (21:12:48) ]]**
 
     * `0606IbnMamati.LataifDhakhira `
     * `0611CaliHarawi.Isharat `
@@ -564,7 +565,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
     * `0696Dabbagh.MacalimIman `
     * `0696IbnZahiri.Mashyakha `
 
-* **0800AH [[ [Re]generated on 2016-08-28 (21:04:32) ]]**
+* **0800AH [[ [Re]generated on 2016-08-28 (21:12:48) ]]**
 
     * `0701SharafDinYunini.Mashyakha `
     * `0703MuhammadMarrakushi.DhaylWaTakmila `
@@ -644,7 +645,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
     * `0795IbnRajabHanbali.DhaylTabaqatHanabila `
     * `0799IbnFarhun.DibajMudhahhab `
 
-* **0900AH [[ [Re]generated on 2016-08-28 (21:04:32) ]]**
+* **0900AH [[ [Re]generated on 2016-08-28 (21:12:48) ]]**
 
     * `0804IbnMulaqqin.TabaqatAwliya `
     * `0806IbnHusaynCiraqi.DhaylMizan `
@@ -709,7 +710,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
     * `0884SibtIbnCajami.TabyinLiAsma `
     * `0900AbuCabdAllahHimyari.RawdMictar `
 
-* **1000AH [[ [Re]generated on 2016-08-28 (21:04:32) ]]**
+* **1000AH [[ [Re]generated on 2016-08-28 (21:12:48) ]]**
 
     * `0902Sakhawi.Buldaniyyat `
     * `0902Sakhawi.DuLamic `
@@ -748,7 +749,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
     * `0973CabdWahhabShacrani.LawaqihAnwar `
     * `0984BardDinGhazzi.MatalicBadriya `
 
-* **1100AH [[ [Re]generated on 2016-08-28 (21:04:32) ]]**
+* **1100AH [[ [Re]generated on 2016-08-28 (21:12:48) ]]**
 
     * `1010TamimiDari.TabaqatSaniya `
     * `1011SahibMacalim.TahrirTawusi `
@@ -769,7 +770,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
     * `1100MuhammadItlidi.IclamNas `
     * `1100MustafaTafrishi.NaqdRijal `
 
-* **1200AH [[ [Re]generated on 2016-08-28 (21:04:32) ]]**
+* **1200AH [[ [Re]generated on 2016-08-28 (21:12:48) ]]**
 
     * `1101MuhammadCaliArdabili.JamicRuwat `
     * `1111MuhammadAminMuhibbi.KhulasaAthr `
@@ -786,7 +787,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
     * `1187SulaymanMahasini.HululTacab `
     * `1195CabdRahmanAnsari.Tuhfa `
 
-* **1300AH [[ [Re]generated on 2016-08-28 (21:04:32) ]]**
+* **1300AH [[ [Re]generated on 2016-08-28 (21:12:48) ]]**
 
     * `1206Muradi.SilkDurar `
     * `1212BahrCulum.FawaidRijaliya `
@@ -802,7 +803,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
     * `1285CabdRahmanTamimi.Maqamat `
     * `1286IcjazHusaynKunturi.KashfHajb `
 
-* **1400AH [[ [Re]generated on 2016-08-28 (21:04:32) ]]**
+* **1400AH [[ [Re]generated on 2016-08-28 (21:12:48) ]]**
 
     * `1307Qannawji.AbjadCulum `
     * `1307Qannawji.HittaFiDhikr `
@@ -846,7 +847,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
     * `1389AghaBuzurgTihrani.TASHNawabighRuwat `
     * `1396KhayrDinZirikli.Aclam `
 
-* **1500AH [[ [Re]generated on 2016-08-28 (21:04:32) ]]**
+* **1500AH [[ [Re]generated on 2016-08-28 (21:12:48) ]]**
 
     * `1405CaliShahrudi.Mustadrakat `
     * `1408CumarKahhala.MucjamMuallifin `

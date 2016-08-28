@@ -1,8 +1,9 @@
 # Status Report
  
 * 50 titles;
-* 28,293,672 words\;n* 130,688 logical units;
-* 108,771 bios.)
+* 28,293,672 words;
+* 130,688 logical units;
+* 108,771 bios.
 
 ## `*.inProgress` (5 titles: 7,728,642 words; 33,212 units; 24,351 bios)
 
