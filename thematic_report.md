@@ -82,25 +82,25 @@
 - **total CE: 88 titles, 39,439,017 words**
 
 
-# AHKAM (14 texts, 11,174,480 words)
+# AHKAM (37 texts, 14,448,347 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
 - ~~08th century CE: 0 titles, 0 words~~
-- **09th century CE: 1 titles, 47,586 words**
-- **10th century CE: 3 titles, 3,833,523 words**
-- ~~11th century CE: 0 titles, 0 words~~
-- **12th century CE: 4 titles, 1,529,107 words**
+- **09th century CE: 9 titles, 423,425 words**
+- **10th century CE: 8 titles, 5,606,230 words**
+- **11th century CE: 2 titles, 63,885 words**
+- **12th century CE: 7 titles, 2,234,182 words**
 - **13th century CE: 1 titles, 2,068,218 words**
-- **14th century CE: 3 titles, 2,176,352 words**
+- **14th century CE: 6 titles, 2,261,621 words**
 - **15th century CE: 1 titles, 44,444 words**
 - ~~16th century CE: 0 titles, 0 words~~
-- ~~17th century CE: 0 titles, 0 words~~
-- ~~18th century CE: 0 titles, 0 words~~
+- **17th century CE: 1 titles, 9,769 words**
+- **18th century CE: 1 titles, 261,323 words**
 - **19th century CE: 1 titles, 1,475,250 words**
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 14 titles, 11,174,480 words**
+- **total CE: 37 titles, 14,448,347 words**
 
 
 # AHLAM (9 texts, 931,763 words)
@@ -143,27 +143,6 @@
 - **20th century CE: 1 titles, 5,888 words**
 - ~~21st century CE: 0 titles, 0 words~~
 - **total CE: 666 titles, 8,995,458 words**
-
-
-# AKHAM (23 texts, 3,273,867 words)
-
-- ~~06th century CE: 0 titles, 0 words~~
-- ~~07th century CE: 0 titles, 0 words~~
-- ~~08th century CE: 0 titles, 0 words~~
-- **09th century CE: 8 titles, 375,839 words**
-- **10th century CE: 5 titles, 1,772,707 words**
-- **11th century CE: 2 titles, 63,885 words**
-- **12th century CE: 3 titles, 705,075 words**
-- ~~13th century CE: 0 titles, 0 words~~
-- **14th century CE: 3 titles, 85,269 words**
-- ~~15th century CE: 0 titles, 0 words~~
-- ~~16th century CE: 0 titles, 0 words~~
-- **17th century CE: 1 titles, 9,769 words**
-- **18th century CE: 1 titles, 261,323 words**
-- ~~19th century CE: 0 titles, 0 words~~
-- ~~20th century CE: 0 titles, 0 words~~
-- ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 23 titles, 3,273,867 words**
 
 
 # AKHLAQ (204 texts, 12,178,946 words)
