@@ -1,4 +1,7 @@
-# ADAB (608 texts, 50,829,080 words)
+
+## Themes and Genres Report
+
+### *ADAB* (608 texts, 50,829,080 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - **07th century CE: 2 titles, 19,107 words**
@@ -19,7 +22,7 @@
 - **total CE: 608 titles, 50,829,080 words**
 
 
-# ADHKAR (219 texts, 11,924,910 words)
+### *ADHKAR* (219 texts, 11,924,910 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -40,7 +43,7 @@
 - **total CE: 219 titles, 11,924,910 words**
 
 
-# ADILLA (38 texts, 2,636,056 words)
+### *ADILLA* (38 texts, 2,636,056 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -61,7 +64,7 @@
 - **total CE: 38 titles, 2,636,056 words**
 
 
-# AFTER800 (88 texts, 39,439,017 words)
+### *AFTER800* (88 texts, 39,439,017 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -82,7 +85,7 @@
 - **total CE: 88 titles, 39,439,017 words**
 
 
-# AHKAM (37 texts, 14,448,347 words)
+### *AHKAM* (37 texts, 14,448,347 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -103,7 +106,7 @@
 - **total CE: 37 titles, 14,448,347 words**
 
 
-# AHLAM (9 texts, 931,763 words)
+### *AHLAM* (9 texts, 931,763 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -124,7 +127,7 @@
 - **total CE: 9 titles, 931,763 words**
 
 
-# AJZA (666 texts, 8,995,458 words)
+### *AJZA* (666 texts, 8,995,458 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -145,7 +148,7 @@
 - **total CE: 666 titles, 8,995,458 words**
 
 
-# AKHLAQ (204 texts, 12,178,946 words)
+### *AKHLAQ* (204 texts, 12,178,946 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - **07th century CE: 2 titles, 123,285 words**
@@ -166,7 +169,7 @@
 - **total CE: 204 titles, 12,178,946 words**
 
 
-# ALBANI (19 texts, 1,377,404 words)
+### *ALBANI* (19 texts, 1,377,404 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -187,7 +190,7 @@
 - **total CE: 19 titles, 1,377,404 words**
 
 
-# AMALI (12 texts, 159,787 words)
+### *AMALI* (12 texts, 159,787 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -208,7 +211,7 @@
 - **total CE: 12 titles, 159,787 words**
 
 
-# AMTHAL (15 texts, 1,298,264 words)
+### *AMTHAL* (15 texts, 1,298,264 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -229,7 +232,7 @@
 - **total CE: 15 titles, 1,298,264 words**
 
 
-# ANDALUSI (16 texts, 351,649 words)
+### *ANDALUSI* (16 texts, 351,649 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -250,7 +253,7 @@
 - **total CE: 16 titles, 351,649 words**
 
 
-# ANSAB (36 texts, 5,718,637 words)
+### *ANSAB* (36 texts, 5,718,637 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -271,7 +274,7 @@
 - **total CE: 36 titles, 5,718,637 words**
 
 
-# ASHAB (61 texts, 10,958,798 words)
+### *ASHAB* (61 texts, 10,958,798 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -292,7 +295,7 @@
 - **total CE: 61 titles, 10,958,798 words**
 
 
-# BALAGHA (357 texts, 33,394,022 words)
+### *BALAGHA* (357 texts, 33,394,022 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - **07th century CE: 2 titles, 19,107 words**
@@ -313,7 +316,7 @@
 - **total CE: 357 titles, 33,394,022 words**
 
 
-# BEFORE800 (40 texts, 5,683,106 words)
+### *BEFORE800* (40 texts, 5,683,106 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - **07th century CE: 1 titles, 30,942 words**
@@ -334,7 +337,7 @@
 - **total CE: 40 titles, 5,683,106 words**
 
 
-# BIB (12 texts, 1,399,550 words)
+### *BIB* (12 texts, 1,399,550 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -355,7 +358,7 @@
 - **total CE: 12 titles, 1,399,550 words**
 
 
-# BIO (79 texts, 40,769,399 words)
+### *BIO* (79 texts, 40,769,399 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -376,7 +379,7 @@
 - **total CE: 79 titles, 40,769,399 words**
 
 
-# BUHUTH (183 texts, 4,789,334 words)
+### *BUHUTH* (183 texts, 4,789,334 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -397,7 +400,7 @@
 - **total CE: 183 titles, 4,789,334 words**
 
 
-# BULDAN (152 texts, 32,712,979 words)
+### *BULDAN* (152 texts, 32,712,979 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -418,7 +421,7 @@
 - **total CE: 152 titles, 32,712,979 words**
 
 
-# CABBASI (53 texts, 2,085,222 words)
+### *CABBASI* (53 texts, 2,085,222 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -439,7 +442,7 @@
 - **total CE: 53 titles, 2,085,222 words**
 
 
-# CAQAID (519 texts, 28,190,335 words)
+### *CAQAID* (519 texts, 28,190,335 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - **07th century CE: 1 titles, 25,843 words**
@@ -460,7 +463,7 @@
 - **total CE: 519 titles, 28,190,335 words**
 
 
-# CARUD (9 texts, 1,958,412 words)
+### *CARUD* (9 texts, 1,958,412 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -481,7 +484,7 @@
 - **total CE: 9 titles, 1,958,412 words**
 
 
-# CENT00NO (948 texts, 54,670,558 words)
+### *CENT00NO* (948 texts, 54,670,558 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - **07th century CE: 18 titles, 181,447 words**
@@ -502,7 +505,7 @@
 - **total CE: 948 titles, 54,670,558 words**
 
 
-# CHR (13 texts, 13,844,874 words)
+### *CHR* (13 texts, 13,844,874 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -523,7 +526,7 @@
 - **total CE: 13 titles, 13,844,874 words**
 
 
-# CHRONOMULTIPLE (41 texts, 11,745,623 words)
+### *CHRONOMULTIPLE* (41 texts, 11,745,623 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -544,7 +547,7 @@
 - **total CE: 41 titles, 11,745,623 words**
 
 
-# CILAL (71 texts, 6,584,897 words)
+### *CILAL* (71 texts, 6,584,897 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -565,7 +568,7 @@
 - **total CE: 71 titles, 6,584,897 words**
 
 
-# CIRFAN (7 texts, 3,487,980 words)
+### *CIRFAN* (7 texts, 3,487,980 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -586,7 +589,7 @@
 - **total CE: 7 titles, 3,487,980 words**
 
 
-# COL (78 texts, 45,261,680 words)
+### *COL* (78 texts, 45,261,680 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -607,7 +610,7 @@
 - **total CE: 78 titles, 45,261,680 words**
 
 
-# CULUM (427 texts, 64,867,950 words)
+### *CULUM* (427 texts, 64,867,950 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - **07th century CE: 1 titles, 15,330 words**
@@ -628,7 +631,7 @@
 - **total CE: 427 titles, 64,867,950 words**
 
 
-# CUTHMANI (12 texts, 809,558 words)
+### *CUTHMANI* (12 texts, 809,558 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -649,7 +652,7 @@
 - **total CE: 12 titles, 809,558 words**
 
 
-# DACIF (44 texts, 4,118,004 words)
+### *DACIF* (44 texts, 4,118,004 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -670,7 +673,7 @@
 - **total CE: 44 titles, 4,118,004 words**
 
 
-# DACWA (86 texts, 2,317,706 words)
+### *DACWA* (86 texts, 2,317,706 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -691,7 +694,7 @@
 - **total CE: 86 titles, 2,317,706 words**
 
 
-# DHB (16 texts, 15,999,674 words)
+### *DHB* (16 texts, 15,999,674 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -712,7 +715,7 @@
 - **total CE: 16 titles, 15,999,674 words**
 
 
-# FADAIL (3 texts, 16,177 words)
+### *FADAIL* (3 texts, 16,177 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -733,7 +736,7 @@
 - **total CE: 3 titles, 16,177 words**
 
 
-# FAHARIS (54 texts, 8,211,931 words)
+### *FAHARIS* (54 texts, 8,211,931 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -754,7 +757,7 @@
 - **total CE: 54 titles, 8,211,931 words**
 
 
-# FALSAFA (93 texts, 4,909,218 words)
+### *FALSAFA* (93 texts, 4,909,218 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -775,7 +778,7 @@
 - **total CE: 93 titles, 4,909,218 words**
 
 
-# FARQ (8 texts, 460,423 words)
+### *FARQ* (8 texts, 460,423 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -796,7 +799,7 @@
 - **total CE: 8 titles, 460,423 words**
 
 
-# FASAHA (39 texts, 4,652,773 words)
+### *FASAHA* (39 texts, 4,652,773 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -817,7 +820,7 @@
 - **total CE: 39 titles, 4,652,773 words**
 
 
-# FATAWA (31 texts, 6,771,578 words)
+### *FATAWA* (31 texts, 6,771,578 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -838,7 +841,7 @@
 - **total CE: 31 titles, 6,771,578 words**
 
 
-# FAWAID (14 texts, 203,216 words)
+### *FAWAID* (14 texts, 203,216 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -859,7 +862,7 @@
 - **total CE: 14 titles, 203,216 words**
 
 
-# FIQH (776 texts, 255,621,672 words)
+### *FIQH* (776 texts, 255,621,672 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - **07th century CE: 1 titles, 30,942 words**
@@ -880,7 +883,7 @@
 - **total CE: 776 titles, 255,621,672 words**
 
 
-# FIRAQ (19 texts, 2,093,490 words)
+### *FIRAQ* (19 texts, 2,093,490 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -901,7 +904,7 @@
 - **total CE: 19 titles, 2,093,490 words**
 
 
-# GEN (12 texts, 1,732,134 words)
+### *GEN* (12 texts, 1,732,134 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -922,7 +925,7 @@
 - **total CE: 12 titles, 1,732,134 words**
 
 
-# GEO (32 texts, 3,354,197 words)
+### *GEO* (32 texts, 3,354,197 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -943,7 +946,7 @@
 - **total CE: 32 titles, 3,354,197 words**
 
 
-# GHARIB (126 texts, 28,196,667 words)
+### *GHARIB* (126 texts, 28,196,667 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -964,7 +967,7 @@
 - **total CE: 126 titles, 28,196,667 words**
 
 
-# GRAR (150 texts, 2,385,551 words)
+### *GRAR* (150 texts, 2,385,551 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -985,7 +988,7 @@
 - **total CE: 150 titles, 2,385,551 words**
 
 
-# HAD (3 texts, 1,559,638 words)
+### *HAD* (3 texts, 1,559,638 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -1006,7 +1009,7 @@
 - **total CE: 3 titles, 1,559,638 words**
 
 
-# HADITH (1,999 texts, 224,854,392 words)
+### *HADITH* (1,999 texts, 224,854,392 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - **07th century CE: 4 titles, 260,901 words**
@@ -1027,7 +1030,7 @@
 - **total CE: 1,999 titles, 224,854,392 words**
 
 
-# HANAFI (53 texts, 28,270,970 words)
+### *HANAFI* (53 texts, 28,270,970 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -1048,7 +1051,7 @@
 - **total CE: 53 titles, 28,270,970 words**
 
 
-# HANBALI (52 texts, 19,111,058 words)
+### *HANBALI* (52 texts, 19,111,058 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -1069,7 +1072,7 @@
 - **total CE: 52 titles, 19,111,058 words**
 
 
-# HIS (2 texts, 98,467 words)
+### *HIS* (2 texts, 98,467 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -1090,7 +1093,7 @@
 - **total CE: 2 titles, 98,467 words**
 
 
-# IBNABIDUNYA (59 texts, 808,380 words)
+### *IBNABIDUNYA* (59 texts, 808,380 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -1111,7 +1114,7 @@
 - **total CE: 59 titles, 808,380 words**
 
 
-# IBNQAYYIM (36 texts, 4,224,213 words)
+### *IBNQAYYIM* (36 texts, 4,224,213 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -1132,7 +1135,7 @@
 - **total CE: 36 titles, 4,224,213 words**
 
 
-# IBNTAYMIYYA (75 texts, 9,437,074 words)
+### *IBNTAYMIYYA* (75 texts, 9,437,074 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -1153,7 +1156,7 @@
 - **total CE: 75 titles, 9,437,074 words**
 
 
-# ICRAB (3 texts, 772,636 words)
+### *ICRAB* (3 texts, 772,636 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -1174,7 +1177,7 @@
 - **total CE: 3 titles, 772,636 words**
 
 
-# IMAM (60 texts, 11,323,852 words)
+### *IMAM* (60 texts, 11,323,852 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -1195,7 +1198,7 @@
 - **total CE: 60 titles, 11,323,852 words**
 
 
-# ISLAMI (3 texts, 12,212 words)
+### *ISLAMI* (3 texts, 12,212 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - **07th century CE: 1 titles, 1,941 words**
@@ -1216,7 +1219,7 @@
 - **total CE: 3 titles, 12,212 words**
 
 
-# JAHILI (29 texts, 107,906 words)
+### *JAHILI* (29 texts, 107,906 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - **07th century CE: 14 titles, 74,537 words**
@@ -1237,7 +1240,7 @@
 - **total CE: 29 titles, 107,906 words**
 
 
-# JUGHRAFIYA (69 texts, 7,959,023 words)
+### *JUGHRAFIYA* (69 texts, 7,959,023 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -1258,7 +1261,7 @@
 - **total CE: 69 titles, 7,959,023 words**
 
 
-# KITABA (9 texts, 1,958,412 words)
+### *KITABA* (9 texts, 1,958,412 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -1279,7 +1282,7 @@
 - **total CE: 9 titles, 1,958,412 words**
 
 
-# KUTUB (45 texts, 3,153,519 words)
+### *KUTUB* (45 texts, 3,153,519 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -1300,7 +1303,7 @@
 - **total CE: 45 titles, 3,153,519 words**
 
 
-# LUGHA (69 texts, 15,148,642 words)
+### *LUGHA* (69 texts, 15,148,642 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -1321,7 +1324,7 @@
 - **total CE: 69 titles, 15,148,642 words**
 
 
-# MACAJIM (173 texts, 38,507,742 words)
+### *MACAJIM* (173 texts, 38,507,742 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -1342,7 +1345,7 @@
 - **total CE: 173 titles, 38,507,742 words**
 
 
-# MAJALIS (12 texts, 159,787 words)
+### *MAJALIS* (12 texts, 159,787 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -1363,7 +1366,7 @@
 - **total CE: 12 titles, 159,787 words**
 
 
-# MAJALLAT (6 texts, 9,765,526 words)
+### *MAJALLAT* (6 texts, 9,765,526 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -1384,7 +1387,7 @@
 - **total CE: 6 titles, 9,765,526 words**
 
 
-# MAJMUCAT (44 texts, 18,468,777 words)
+### *MAJMUCAT* (44 texts, 18,468,777 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -1405,7 +1408,7 @@
 - **total CE: 44 titles, 18,468,777 words**
 
 
-# MAKHTUTAT (300 texts, 1,975,198 words)
+### *MAKHTUTAT* (300 texts, 1,975,198 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -1426,7 +1429,7 @@
 - **total CE: 300 titles, 1,975,198 words**
 
 
-# MALIKI (44 texts, 24,962,848 words)
+### *MALIKI* (44 texts, 24,962,848 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -1447,7 +1450,7 @@
 - **total CE: 44 titles, 24,962,848 words**
 
 
-# MANSUKH (8 texts, 213,315 words)
+### *MANSUKH* (8 texts, 213,315 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -1468,7 +1471,7 @@
 - **total CE: 8 titles, 213,315 words**
 
 
-# MANTIQ (7 texts, 3,487,980 words)
+### *MANTIQ* (7 texts, 3,487,980 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -1489,7 +1492,7 @@
 - **total CE: 7 titles, 3,487,980 words**
 
 
-# MASAIL (285 texts, 9,044,295 words)
+### *MASAIL* (285 texts, 9,044,295 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -1510,7 +1513,7 @@
 - **total CE: 285 titles, 9,044,295 words**
 
 
-# MASANID (39 texts, 8,094,316 words)
+### *MASANID* (39 texts, 8,094,316 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -1531,7 +1534,7 @@
 - **total CE: 39 titles, 8,094,316 words**
 
 
-# MAWDUC (44 texts, 4,118,004 words)
+### *MAWDUC* (44 texts, 4,118,004 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -1552,7 +1555,7 @@
 - **total CE: 44 titles, 4,118,004 words**
 
 
-# MILAL (230 texts, 12,713,631 words)
+### *MILAL* (230 texts, 12,713,631 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -1573,7 +1576,7 @@
 - **total CE: 230 titles, 12,713,631 words**
 
 
-# MISC (321 texts, 26,457,643 words)
+### *MISC* (321 texts, 26,457,643 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -1594,7 +1597,7 @@
 - **total CE: 321 titles, 26,457,643 words**
 
 
-# MUDHAKKARAT (11 texts, 955,128 words)
+### *MUDHAKKARAT* (11 texts, 955,128 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -1615,7 +1618,7 @@
 - **total CE: 11 titles, 955,128 words**
 
 
-# MUFASSIRUN (3 texts, 146,094 words)
+### *MUFASSIRUN* (3 texts, 146,094 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -1636,7 +1639,7 @@
 - **total CE: 3 titles, 146,094 words**
 
 
-# MUKHADRAM (8 texts, 75,727 words)
+### *MUKHADRAM* (8 texts, 75,727 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - **07th century CE: 3 titles, 28,157 words**
@@ -1657,7 +1660,7 @@
 - **total CE: 8 titles, 75,727 words**
 
 
-# MUSHKIL (10 texts, 1,966,407 words)
+### *MUSHKIL* (10 texts, 1,966,407 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -1678,7 +1681,7 @@
 - **total CE: 10 titles, 1,966,407 words**
 
 
-# MUSTALAHAT (224 texts, 31,919,937 words)
+### *MUSTALAHAT* (224 texts, 31,919,937 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -1699,7 +1702,7 @@
 - **total CE: 224 titles, 31,919,937 words**
 
 
-# MUSTAQILLA (6 texts, 2,465,091 words)
+### *MUSTAQILLA* (6 texts, 2,465,091 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -1720,7 +1723,7 @@
 - **total CE: 6 titles, 2,465,091 words**
 
 
-# NABI (60 texts, 11,323,852 words)
+### *NABI* (60 texts, 11,323,852 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -1741,7 +1744,7 @@
 - **total CE: 60 titles, 11,323,852 words**
 
 
-# NAHW (143 texts, 19,242,451 words)
+### *NAHW* (143 texts, 19,242,451 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -1762,7 +1765,7 @@
 - **total CE: 143 titles, 19,242,451 words**
 
 
-# NASIKH (8 texts, 213,315 words)
+### *NASIKH* (8 texts, 213,315 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -1783,7 +1786,7 @@
 - **total CE: 8 titles, 213,315 words**
 
 
-# NO_TAGS (3 texts, 89,252 words)
+### *NO_TAGS* (3 texts, 89,252 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -1804,7 +1807,7 @@
 - **total CE: 3 titles, 89,252 words**
 
 
-# ONO (4 texts, 1,237,148 words)
+### *ONO* (4 texts, 1,237,148 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -1825,7 +1828,7 @@
 - **total CE: 4 titles, 1,237,148 words**
 
 
-# POE (14 texts, 2,583,148 words)
+### *POE* (14 texts, 2,583,148 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -1846,7 +1849,7 @@
 - **total CE: 14 titles, 2,583,148 words**
 
 
-# PPE (566 texts, 125,456,930 words)
+### *PPE* (566 texts, 125,456,930 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -1867,7 +1870,7 @@
 - **total CE: 566 titles, 125,456,930 words**
 
 
-# QADA (51 texts, 3,726,081 words)
+### *QADA* (51 texts, 3,726,081 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -1888,7 +1891,7 @@
 - **total CE: 51 titles, 3,726,081 words**
 
 
-# QAWACID (119 texts, 16,819,321 words)
+### *QAWACID* (119 texts, 16,819,321 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -1909,7 +1912,7 @@
 - **total CE: 119 titles, 16,819,321 words**
 
 
-# QIRAAT (29 texts, 2,385,777 words)
+### *QIRAAT* (29 texts, 2,385,777 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -1930,7 +1933,7 @@
 - **total CE: 29 titles, 2,385,777 words**
 
 
-# QISAS (54 texts, 6,175,973 words)
+### *QISAS* (54 texts, 6,175,973 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -1951,7 +1954,7 @@
 - **total CE: 54 titles, 6,175,973 words**
 
 
-# QURAN (306 texts, 64,746,401 words)
+### *QURAN* (306 texts, 64,746,401 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - **07th century CE: 2 titles, 108,445 words**
@@ -1972,7 +1975,7 @@
 - **total CE: 306 titles, 64,746,401 words**
 
 
-# RAQAIQ (188 texts, 10,269,908 words)
+### *RAQAIQ* (188 texts, 10,269,908 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -1993,7 +1996,7 @@
 - **total CE: 188 titles, 10,269,908 words**
 
 
-# RIHLAT (70 texts, 7,980,411 words)
+### *RIHLAT* (70 texts, 7,980,411 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -2014,7 +2017,7 @@
 - **total CE: 70 titles, 7,980,411 words**
 
 
-# RUDUD (65 texts, 4,134,417 words)
+### *RUDUD* (65 texts, 4,134,417 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -2035,7 +2038,7 @@
 - **total CE: 65 titles, 4,134,417 words**
 
 
-# SAHIH (10 texts, 4,806,999 words)
+### *SAHIH* (10 texts, 4,806,999 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -2056,7 +2059,7 @@
 - **total CE: 10 titles, 4,806,999 words**
 
 
-# SARF (125 texts, 6,904,155 words)
+### *SARF* (125 texts, 6,904,155 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -2077,7 +2080,7 @@
 - **total CE: 125 titles, 6,904,155 words**
 
 
-# SARH (21 texts, 12,848,371 words)
+### *SARH* (21 texts, 12,848,371 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -2098,7 +2101,7 @@
 - **total CE: 21 titles, 12,848,371 words**
 
 
-# SBS (17 texts, 4,334,477 words)
+### *SBS* (17 texts, 4,334,477 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -2119,7 +2122,7 @@
 - **total CE: 17 titles, 4,334,477 words**
 
 
-# SHAFICI (67 texts, 46,379,011 words)
+### *SHAFICI* (67 texts, 46,379,011 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -2140,7 +2143,7 @@
 - **total CE: 67 titles, 46,379,011 words**
 
 
-# SHAMAIL (89 texts, 16,634,819 words)
+### *SHAMAIL* (89 texts, 16,634,819 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -2161,7 +2164,7 @@
 - **total CE: 89 titles, 16,634,819 words**
 
 
-# SHARH (84 texts, 37,821,300 words)
+### *SHARH* (84 texts, 37,821,300 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -2182,7 +2185,7 @@
 - **total CE: 84 titles, 37,821,300 words**
 
 
-# SHC (18 texts, 3,549,125 words)
+### *SHC* (18 texts, 3,549,125 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -2203,7 +2206,7 @@
 - **total CE: 18 titles, 3,549,125 words**
 
 
-# SHICI (448 texts, 107,414,120 words)
+### *SHICI* (448 texts, 107,414,120 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - **07th century CE: 6 titles, 317,686 words**
@@ -2224,7 +2227,7 @@
 - **total CE: 448 titles, 107,414,120 words**
 
 
-# SHICR (196 texts, 8,626,024 words)
+### *SHICR* (196 texts, 8,626,024 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - **07th century CE: 19 titles, 107,439 words**
@@ -2245,7 +2248,7 @@
 - **total CE: 196 titles, 8,626,024 words**
 
 
-# SIRA (166 texts, 24,328,846 words)
+### *SIRA* (166 texts, 24,328,846 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -2266,7 +2269,7 @@
 - **total CE: 166 titles, 24,328,846 words**
 
 
-# SIYASA (66 texts, 5,383,972 words)
+### *SIYASA* (66 texts, 5,383,972 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -2287,7 +2290,7 @@
 - **total CE: 66 titles, 5,383,972 words**
 
 
-# SUALAT (64 texts, 4,517,643 words)
+### *SUALAT* (64 texts, 4,517,643 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -2308,7 +2311,7 @@
 - **total CE: 64 titles, 4,517,643 words**
 
 
-# SULUK (88 texts, 6,377,189 words)
+### *SULUK* (88 texts, 6,377,189 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -2329,7 +2332,7 @@
 - **total CE: 88 titles, 6,377,189 words**
 
 
-# SUNAN (16 texts, 5,570,177 words)
+### *SUNAN* (16 texts, 5,570,177 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -2350,7 +2353,7 @@
 - **total CE: 16 titles, 5,570,177 words**
 
 
-# SUNNI (362 texts, 114,529,616 words)
+### *SUNNI* (362 texts, 114,529,616 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -2371,7 +2374,7 @@
 - **total CE: 362 titles, 114,529,616 words**
 
 
-# TABAQAT (351 texts, 74,811,081 words)
+### *TABAQAT* (351 texts, 74,811,081 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -2392,7 +2395,7 @@
 - **total CE: 351 titles, 74,811,081 words**
 
 
-# TAFSIR (207 texts, 84,047,256 words)
+### *TAFSIR* (207 texts, 84,047,256 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -2413,7 +2416,7 @@
 - **total CE: 207 titles, 84,047,256 words**
 
 
-# TAJWID (16 texts, 1,411,578 words)
+### *TAJWID* (16 texts, 1,411,578 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -2434,7 +2437,7 @@
 - **total CE: 16 titles, 1,411,578 words**
 
 
-# TAKHRIJ (77 texts, 25,299,880 words)
+### *TAKHRIJ* (77 texts, 25,299,880 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -2455,7 +2458,7 @@
 - **total CE: 77 titles, 25,299,880 words**
 
 
-# TARAIF (54 texts, 6,175,973 words)
+### *TARAIF* (54 texts, 6,175,973 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -2476,7 +2479,7 @@
 - **total CE: 54 titles, 6,175,973 words**
 
 
-# TARAJIM (768 texts, 151,346,090 words)
+### *TARAJIM* (768 texts, 151,346,090 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -2497,7 +2500,7 @@
 - **total CE: 768 titles, 151,346,090 words**
 
 
-# TARIKH (310 texts, 74,474,408 words)
+### *TARIKH* (310 texts, 74,474,408 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -2518,7 +2521,7 @@
 - **total CE: 310 titles, 74,474,408 words**
 
 
-# TASAWWUF (9 texts, 2,412,869 words)
+### *TASAWWUF* (9 texts, 2,412,869 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -2539,7 +2542,7 @@
 - **total CE: 9 titles, 2,412,869 words**
 
 
-# TAZKIYA (34 texts, 3,209,984 words)
+### *TAZKIYA* (34 texts, 3,209,984 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -2560,7 +2563,7 @@
 - **total CE: 34 titles, 3,209,984 words**
 
 
-# THIQAT (13 texts, 3,327,383 words)
+### *THIQAT* (13 texts, 3,327,383 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -2581,7 +2584,7 @@
 - **total CE: 13 titles, 3,327,383 words**
 
 
-# TIBB (77 texts, 5,223,263 words)
+### *TIBB* (77 texts, 5,223,263 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -2602,7 +2605,7 @@
 - **total CE: 77 titles, 5,223,263 words**
 
 
-# TOOLARGE (1 texts, 11,672,533 words)
+### *TOOLARGE* (1 texts, 11,672,533 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -2623,7 +2626,7 @@
 - **total CE: 1 titles, 11,672,533 words**
 
 
-# TWELVERS (58 texts, 5,318,002 words)
+### *TWELVERS* (58 texts, 5,318,002 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - **07th century CE: 1 titles, 25,843 words**
@@ -2644,7 +2647,7 @@
 - **total CE: 58 titles, 5,318,002 words**
 
 
-# UMAWI (21 texts, 254,022 words)
+### *UMAWI* (21 texts, 254,022 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - **07th century CE: 1 titles, 2,804 words**
@@ -2665,7 +2668,7 @@
 - **total CE: 21 titles, 254,022 words**
 
 
-# USUL (221 texts, 28,522,664 words)
+### *USUL* (221 texts, 28,522,664 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -2686,7 +2689,7 @@
 - **total CE: 221 titles, 28,522,664 words**
 
 
-# USULIYYA (23 texts, 1,295,289 words)
+### *USULIYYA* (23 texts, 1,295,289 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -2707,7 +2710,7 @@
 - **total CE: 23 titles, 1,295,289 words**
 
 
-# WAFAYAT (29 texts, 11,154,222 words)
+### *WAFAYAT* (29 texts, 11,154,222 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -2728,7 +2731,7 @@
 - **total CE: 29 titles, 11,154,222 words**
 
 
-# ZAHIRI (1 texts, 1,480,381 words)
+### *ZAHIRI* (1 texts, 1,480,381 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -2749,7 +2752,7 @@
 - **total CE: 1 titles, 1,480,381 words**
 
 
-# ZAYDI (3 texts, 1,481,320 words)
+### *ZAYDI* (3 texts, 1,481,320 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
@@ -2770,7 +2773,7 @@
 - **total CE: 3 titles, 1,481,320 words**
 
 
-# ZAYDIYYA (5 texts, 85,596 words)
+### *ZAYDIYYA* (5 texts, 85,596 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
 - ~~07th century CE: 0 titles, 0 words~~
