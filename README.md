@@ -19,20 +19,21 @@
 - [Summary statistics on the lengths of texts in the corpus](#summary-statistics-on-the-lengths-of-texts-in-the-corpus)
 - [Texts by length (duplicates excluded)](#texts-by-length-duplicates-excluded)
 - [Texts in chronological order (duplicates excluded)](#texts-in-chronological-order-duplicates-excluded)
-- [Themes and Genres Report](#themes-and-genres-report)
+- [Chronological Distribution of Texts - up until 1930 (5,530 texts, 729,904,604 words)](#chronological-distribution-of-texts---up-until-1930-5530-texts-729904604-words)
+- [Forms, Themes, Genres (provisional assessment)](#forms-themes-genres-provisional-assessment)
 
 
 
 
 ## General Description
 
-The goal of the project is to build a machine-actionable corpus of premodern texts in Arabic to encourage computational analysis of Arabic literary tradition. Currently, most of the text are historical texts (chronicles, biographical collections, geographical treatises and gazetteers, thematic dictionaries); if you are interested in having other genres and forms, please, get in touch with us.
+The goal of OpenArabic is to build a machine-actionable corpus of premodern texts in Arabic to encourage computational analysis of the Arabic literary tradition. Currently, most of the texts are historical in nature (chronicles, biographical collections, geographical treatises and gazetteers, adab, and thematic dictionaries). If you are interested in having other genres and forms, please, get in touch with us.
 
-Most of the texts are coming from open online collections of premodern and modern Arabic texts, such as [http://shamela.ws/](http://shamela.ws/) and [http://shiaonlinelibrary.com/](http://shiaonlinelibrary.com/) (These texts have `Shamela+NUMBER` and `Shia+NUMBER`; some texts are coming from _al-Jāmiʿ al-kabīr_, which has been published on an external HDD and is not available online (`JK+NUMBER`). Initial metadata from these collections is preserved in the beginning of each file.
+Most of the texts derive from open-access online collections of premodern and modern Arabic texts such as [http://shamela.ws/](http://shamela.ws/) and [http://shiaonlinelibrary.com/](http://shiaonlinelibrary.com/) (These texts have `Shamela+NUMBER` and `Shia+NUMBER`; some texts are coming from _al-Jāmiʿ al-kabīr_, which has been published on an external HDD and is not available online (`JK+NUMBER`). Initial metadata from these collections is preserved at the beginning of each file.
 
-Currently uploaded have been automatically converted from their initial formats into `mARkdown` format—a flavor of `markdown` for tagging premodern Arabic text; they all require further editing, so that the structure of each text is tagged properly; the detailed description of `mARkdown` scheme and the tagging workflow can be found [http://maximromanov.github.io/mARkdown/](http://maximromanov.github.io/mARkdown/). When manual tagging is complete text will be converted into CTS-compliant XML format.
+Currently uploaded texts have been automatically converted from their initial formats into a `mARkdown` format—a flavor of `markdown` for tagging premodern Arabic text. All of our texts require further editing to properly tag their structures. A detailed description of the `mARkdown` scheme and the tagging workflow can be found at [http://maximromanov.github.io/mARkdown/](http://maximromanov.github.io/mARkdown/). When manual tagging is complete our texts will be converted into a CTS-compliant XML format.
 
-For the list of added books, see below (Mostly premodern chronicles, biographical collections, encyclopaedic dictionaries, gazetteers).
+For the list of books currently in our corpus, see below.
 
 ## Prospects and Progress
 
@@ -227,11 +228,11 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 ## List of books by centuries (626 titles)
 
 
-* **0100AH [[ [Re]generated on 2016-08-29 (17:33:46) ]]**
+* **0100AH [[ [Re]generated on 2016-08-29 (21:44:45) ]]**
 
  * _no texts at the moment_
 
-* **0200AH [[ [Re]generated on 2016-08-29 (17:33:46) ]]**
+* **0200AH [[ [Re]generated on 2016-08-29 (21:44:45) ]]**
 
  * `0110HasanBasri.FadailMakka `
 	- *TAGS: CENT0200, PPE, _AJZA, _BULDAN, _HADITH, _TABAQAT, _TARAJIM, _TARIKH*
@@ -240,7 +241,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `0200AbuShis.Diwan `
 	- *TAGS: CENT0200, _SHICR_CABBASI, _SHICR*
 
-* **0300AH [[ [Re]generated on 2016-08-29 (17:33:46) ]]**
+* **0300AH [[ [Re]generated on 2016-08-29 (21:44:45) ]]**
 
  * `0204IbnKalbi.AnsabKhayl `
 	- *TAGS: CENT0300, GEN, PPE, _ADAB, _BALAGHA, _GHARIB, _MACAJIM, _MUSTALAHAT*
@@ -397,7 +398,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `0300MuallifMajhul.AkhbarDawlaCabbasiya `
 	- *TAGS: CENT0300, PPE, _TARIKH*
 
-* **0400AH [[ [Re]generated on 2016-08-29 (17:33:46) ]]**
+* **0400AH [[ [Re]generated on 2016-08-29 (21:44:45) ]]**
 
  * `0301Bardiji.TabaqatAsma `
 	- *TAGS: CENT0400, PPE, _HADITH, _TABAQAT, _TARAJIM*
@@ -564,7 +565,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `0400IshaqMunajjim.AkamMarjan `
 	- *TAGS: CENT0400, _BULDAN, _JUGHRAFIYA, _RIHLAT*
 
-* **0500AH [[ [Re]generated on 2016-08-29 (17:33:46) ]]**
+* **0500AH [[ [Re]generated on 2016-08-29 (21:44:45) ]]**
 
  * `0402MuhammadSaydawi.MucjamShuyukh `
 	- *TAGS: CENT0500, _HADITH, _MACAJIM, _MASANID, _TABAQAT, _TARAJIM*
@@ -683,7 +684,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `0498AbuCaliJayyani.TaqyidMuhmal `
 	- *TAGS: CENT0500, PPE, _HADITH, _MISC, _TABAQAT, _TARAJIM*
 
-* **0600AH [[ [Re]generated on 2016-08-29 (17:33:46) ]]**
+* **0600AH [[ [Re]generated on 2016-08-29 (21:44:45) ]]**
 
  * `0507AbuBakrShashi.HilyaCulama `
 	- *TAGS: CENT0600, PPE, _FIQH, _SHAFICI*
@@ -800,7 +801,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `0600KatibMarrakushi.Istibsar `
 	- *TAGS: CENT0600, _BULDAN, _JUGHRAFIYA, _RIHLAT*
 
-* **0700AH [[ [Re]generated on 2016-08-29 (17:33:46) ]]**
+* **0700AH [[ [Re]generated on 2016-08-29 (21:44:45) ]]**
 
  * `0606IbnMamati.LataifDhakhira `
 	- *TAGS: CENT0700, PPE, _TABAQAT, _TARAJIM*
@@ -927,7 +928,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `0696IbnZahiri.Mashyakha `
 	- *TAGS: CENT0700, PPE, _AJZA, _HADITH, _TARAJIM*
 
-* **0800AH [[ [Re]generated on 2016-08-29 (17:33:46) ]]**
+* **0800AH [[ [Re]generated on 2016-08-29 (21:44:45) ]]**
 
  * `0701SharafDinYunini.Mashyakha `
 	- *TAGS: CENT0800, PPE, _AJZA, _HADITH*
@@ -1084,7 +1085,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `0799IbnFarhun.DibajMudhahhab `
 	- *TAGS: CENT0800, PPE, _FIQH, _TABAQAT, _TARAJIM, _TARIKH*
 
-* **0900AH [[ [Re]generated on 2016-08-29 (17:33:46) ]]**
+* **0900AH [[ [Re]generated on 2016-08-29 (21:44:45) ]]**
 
  * `0804IbnMulaqqin.TabaqatAwliya `
 	- *TAGS: CENT0900, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT*
@@ -1211,7 +1212,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `0900AbuCabdAllahHimyari.RawdMictar `
 	- *TAGS: CENT0900, COL, GEO, PPE, _BULDAN, _GHARIB, _JUGHRAFIYA, _MACAJIM, _MUSTALAHAT, _RIHLAT*
 
-* **1000AH [[ [Re]generated on 2016-08-29 (17:33:46) ]]**
+* **1000AH [[ [Re]generated on 2016-08-29 (21:44:45) ]]**
 
  * `0902Sakhawi.Buldaniyyat `
 	- *TAGS: CENT1000, PPE, _AJZA, _HADITH, _MISC, _TARAJIM*
@@ -1286,7 +1287,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `0984BardDinGhazzi.MatalicBadriya `
 	- *TAGS: CENT1000, _BULDAN, _JUGHRAFIYA, _RIHLAT*
 
-* **1100AH [[ [Re]generated on 2016-08-29 (17:33:46) ]]**
+* **1100AH [[ [Re]generated on 2016-08-29 (21:44:45) ]]**
 
  * `1010TamimiDari.TabaqatSaniya `
 	- *TAGS: BIO, CENT1100, COL, PPE, _TABAQAT, _TARAJIM, _TARIKH*
@@ -1325,7 +1326,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `1100MustafaTafrishi.NaqdRijal `
 	- *TAGS: BIO, CENT1100, PPE, SHC, _HADITH, _SHICI, _TARAJIM*
 
-* **1200AH [[ [Re]generated on 2016-08-29 (17:33:46) ]]**
+* **1200AH [[ [Re]generated on 2016-08-29 (21:44:45) ]]**
 
  * `1101MuhammadCaliArdabili.JamicRuwat `
 	- *TAGS: CENT1200, PPE, SHC, _HADITH, _SHICI, _TARAJIM*
@@ -1356,7 +1357,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `1195CabdRahmanAnsari.Tuhfa `
 	- *TAGS: CENT1200, _ANSAB, _MISC*
 
-* **1300AH [[ [Re]generated on 2016-08-29 (17:33:46) ]]**
+* **1300AH [[ [Re]generated on 2016-08-29 (21:44:45) ]]**
 
  * `1206Muradi.SilkDurar `
 	- *TAGS: CENT1300, PPE, _TABAQAT, _TARAJIM*
@@ -1385,7 +1386,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `1286IcjazHusaynKunturi.KashfHajb `
 	- *TAGS: BIB, CENT1300, PPE, _FAHARIS, _KUTUB*
 
-* **1400AH [[ [Re]generated on 2016-08-29 (17:33:46) ]]**
+* **1400AH [[ [Re]generated on 2016-08-29 (21:44:45) ]]**
 
  * `1307Qannawji.AbjadCulum `
 	- *TAGS: CENT1400, PPE, _ADILLA, _FAHARIS, _KUTUB, _MACAJIM*
@@ -1470,7 +1471,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `1396KhayrDinZirikli.Aclam `
 	- *TAGS: BIO, CENT1400, COL, PPE, _FAHARIS, _KUTUB, _TABAQAT, _TARAJIM*
 
-* **1500AH [[ [Re]generated on 2016-08-29 (17:33:46) ]]**
+* **1500AH [[ [Re]generated on 2016-08-29 (21:44:45) ]]**
 
  * `1405CaliShahrudi.Mustadrakat `
 	- *TAGS: CENT1500, PPE, SHC, _HADITH, _SHICI, _TARAJIM*
@@ -1533,10 +1534,10 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 | Number of text files | 1265 |
 | Number of books      | 625 |
 | Number of authors    | 407 |
-| Length in words (all)| 379,355,486 |
-| Length in pages (300 w/p)| 1,264,518 |
-| Length in words (unique) | 174,379,056 |
-| Length in pages (300 w/p)| 581,263 |
+| Length in words (all)| 379,338,145 |
+| Length in pages (300 w/p)| 1,264,460 |
+| Length in words (unique) | 174,377,239 |
+| Length in pages (300 w/p)| 581,257 |
 
 
 ## Summary statistics on the lengths of texts in the corpus
@@ -1571,7 +1572,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 | 14 | 0733Nuwayri.NihayaArab | 2,455,687 | 8,185 |
 | 15 | 0711IbnManzurIfriqi.MukhtasarTarikhDimashq | 2,408,342 | 8,027 |
 | 16 | 0774IbnKathir.Bidaya | 2,329,940 | 7,766 |
-| 17 | 0764Safadi.WafiBiWafayat | 1,980,068 | 6,600 |
+| 17 | 0764Safadi.WafiBiWafayat | 1,978,264 | 6,594 |
 | 18 | 1450DarIftaMisriyya.FatawaDarIfta | 1,911,816 | 6,372 |
 | 19 | 1396KhayrDinZirikli.Aclam | 1,634,967 | 5,449 |
 | 20 | 0821Qalqashandi.SubhAcsha | 1,616,289 | 5,387 |
@@ -1607,7 +1608,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 | 50 | 0256Bukhari.TarikhKabir | 791,001 | 2,636 |
 | 51 | 0430AbuNucaymIsbahani.MacrifaSahaba | 785,050 | 2,616 |
 | 52 | 0845Maqrizi.Mawaciz | 683,850 | 2,279 |
-| 53 | 0421Miskawayh.Tajarib | 679,990 | 2,266 |
+| 53 | 0421Miskawayh.Tajarib | 679,989 | 2,266 |
 | 54 | 0681IbnKhallikan.WafayatAcyan | 677,482 | 2,258 |
 | 55 | 0771Subki.TabaqatShaficiyaKubra | 676,731 | 2,255 |
 | 56 | 1450Musannifun.MawsucaMujaza | 668,172 | 2,227 |
@@ -1762,7 +1763,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 | 205 | 0695IbnCidhariMarrakushi.BayanMaghrib | 153,641 | 512 |
 | 206 | 0748Dhahabi.MucjamShuyukh | 152,971 | 509 |
 | 207 | 1422IbnHadiWadici.RijalHakim | 152,657 | 508 |
-| 208 | 0365IbnFaqihHamadhani.Buldan | 147,644 | 492 |
+| 208 | 0365IbnFaqihHamadhani.Buldan | 147,632 | 492 |
 | 209 | 0682ZakariyaQazwini.AtharBilad | 146,837 | 489 |
 | 210 | 0696IbnZahiri.Mashyakha | 146,557 | 488 |
 | 211 | 0968Tashkubruizadah.ShaqaiqNucmaniyya | 145,615 | 485 |
@@ -2313,7 +2314,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 | 0360Tabarani.MucjamKabir | 1,590,311 | 5,301 |
 | 0365IbnCadiJurjani.AsamiManRawaCanhum | 7,679 | 25 |
 | 0365IbnCadiJurjani.KamilFiDucafa | 962,139 | 3,207 |
-| 0365IbnFaqihHamadhani.Buldan | 147,644 | 492 |
+| 0365IbnFaqihHamadhani.Buldan | 147,632 | 492 |
 | 0367IbnHawqal.SuraArd | 123,793 | 412 |
 | 0368AbuGhalibZurari.Risala | 22,769 | 75 |
 | 0368Sirafi.AkhbarNahwiyyin | 10,206 | 34 |
@@ -2357,7 +2358,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 | 0418WazirMaghribi.AdabKhawas | 22,658 | 75 |
 | 0418WazirMaghribi.Inas | 22,614 | 75 |
 | 0421IbnMuhammadMarzuqi.AzminaWaAmkina | 165,458 | 551 |
-| 0421Miskawayh.Tajarib | 679,990 | 2,266 |
+| 0421Miskawayh.Tajarib | 679,989 | 2,266 |
 | 0427HamzaJurjani.TarikhJurjan | 114,881 | 382 |
 | 0428IbnManjuwayhIsbahani.RijalSahihMuslim | 124,175 | 413 |
 | 0429AbuMansurThacalibi.YatimaDahr | 362,496 | 1,208 |
@@ -2578,7 +2579,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 | 0764IbnShakirKutubi.FawatWafayat | 288,315 | 961 |
 | 0764Safadi.AcyanCasr | 604,057 | 2,013 |
 | 0764Safadi.NaktHimyan | 74,306 | 247 |
-| 0764Safadi.WafiBiWafayat | 1,980,068 | 6,600 |
+| 0764Safadi.WafiBiWafayat | 1,978,264 | 6,594 |
 | 0765AbuMahasinHusayni.DhaylTadhkira | 15,407 | 51 |
 | 0765AbuMahasinHusayni.IkmalLiRijal | 54,306 | 181 |
 | 0767Balawi.TajMafriq | 73,852 | 246 |
@@ -2813,8 +2814,29 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 | 1450WizaraAwqafMisriyya.TarajimMujaza | 26,409 | 88 |
 
 
+## Chronological Distribution of Texts - up until 1930 (5,530 texts, 729,904,604 words)
 
-## Themes and Genres Report
+- ~~6th century CE: 0 titles, 0 words~~
+- **7th century CE: 29 titles, 656,855 words**
+- **8th century CE: 84 titles, 6,126,423 words**
+- **9th century CE: 506 titles, 31,731,358 words**
+- **10th century CE: 674 titles, 60,026,199 words**
+- **11th century CE: 688 titles, 71,114,785 words**
+- **12th century CE: 461 titles, 53,112,691 words**
+- **13th century CE: 447 titles, 59,578,221 words**
+- **14th century CE: 578 titles, 96,792,091 words**
+- **15th century CE: 328 titles, 72,980,538 words**
+- **16th century CE: 250 titles, 55,682,929 words**
+- **17th century CE: 160 titles, 53,548,425 words**
+- **18th century CE: 151 titles, 33,836,230 words**
+- **19th century CE: 200 titles, 59,558,191 words**
+- **20th century CE: 129 titles, 16,837,153 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 5,530 titles, 729,904,604 words**
+
+
+
+## Forms, Themes, Genres (provisional assessment)
 
 ### *ADAB* (608 texts, 50,829,080 words)
 
@@ -2834,7 +2856,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 14 titles, 705,377 words**
 - **20th century CE: 13 titles, 1,173,560 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 608 titles, 50,829,080 words**
+- **TOTAL: 608 titles, 50,829,080 words**
 
 
 ### *ADHKAR* (219 texts, 11,924,910 words)
@@ -2855,7 +2877,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 4 titles, 234,025 words**
 - **20th century CE: 2 titles, 112,685 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 219 titles, 11,924,910 words**
+- **TOTAL: 219 titles, 11,924,910 words**
 
 
 ### *ADILLA* (38 texts, 2,636,056 words)
@@ -2876,7 +2898,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 5 titles, 516,437 words**
 - **20th century CE: 2 titles, 318,891 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 38 titles, 2,636,056 words**
+- **TOTAL: 38 titles, 2,636,056 words**
 
 
 ### *AHKAM* (37 texts, 14,448,347 words)
@@ -2897,7 +2919,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 1 titles, 1,475,250 words**
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 37 titles, 14,448,347 words**
+- **TOTAL: 37 titles, 14,448,347 words**
 
 
 ### *AHLAM* (9 texts, 931,763 words)
@@ -2918,7 +2940,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 9 titles, 931,763 words**
+- **TOTAL: 9 titles, 931,763 words**
 
 
 ### *AJZA* (666 texts, 8,995,458 words)
@@ -2939,7 +2961,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 1 titles, 5,943 words**
 - **20th century CE: 1 titles, 5,888 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 666 titles, 8,995,458 words**
+- **TOTAL: 666 titles, 8,995,458 words**
 
 
 ### *AKHLAQ* (204 texts, 12,178,946 words)
@@ -2960,7 +2982,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 5 titles, 299,708 words**
 - **20th century CE: 1 titles, 109,344 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 204 titles, 12,178,946 words**
+- **TOTAL: 204 titles, 12,178,946 words**
 
 
 ### *ALBANI* (19 texts, 1,377,404 words)
@@ -2981,7 +3003,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 1 titles, 20,581 words**
 - **20th century CE: 2 titles, 13,303 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 19 titles, 1,377,404 words**
+- **TOTAL: 19 titles, 1,377,404 words**
 
 
 ### *AMALI* (12 texts, 159,787 words)
@@ -3002,7 +3024,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 12 titles, 159,787 words**
+- **TOTAL: 12 titles, 159,787 words**
 
 
 ### *AMTHAL* (15 texts, 1,298,264 words)
@@ -3023,7 +3045,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 15 titles, 1,298,264 words**
+- **TOTAL: 15 titles, 1,298,264 words**
 
 
 ### *ANSAB* (36 texts, 5,718,637 words)
@@ -3044,7 +3066,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 1 titles, 9,883 words**
 - **20th century CE: 1 titles, 10,017 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 36 titles, 5,718,637 words**
+- **TOTAL: 36 titles, 5,718,637 words**
 
 
 ### *ASHAB* (61 texts, 10,958,798 words)
@@ -3065,7 +3087,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - **20th century CE: 1 titles, 67,936 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 61 titles, 10,958,798 words**
+- **TOTAL: 61 titles, 10,958,798 words**
 
 
 ### *BALAGHA* (357 texts, 33,394,022 words)
@@ -3086,7 +3108,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 10 titles, 471,352 words**
 - **20th century CE: 11 titles, 1,060,875 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 357 titles, 33,394,022 words**
+- **TOTAL: 357 titles, 33,394,022 words**
 
 
 ### *BIB* (12 texts, 1,399,550 words)
@@ -3107,7 +3129,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 3 titles, 197,207 words**
 - **20th century CE: 2 titles, 351,030 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 12 titles, 1,399,550 words**
+- **TOTAL: 12 titles, 1,399,550 words**
 
 
 ### *BIO* (79 texts, 40,769,399 words)
@@ -3128,7 +3150,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 79 titles, 40,769,399 words**
+- **TOTAL: 79 titles, 40,769,399 words**
 
 
 ### *BUHUTH* (183 texts, 4,789,334 words)
@@ -3149,7 +3171,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 3 titles, 176,161 words**
 - **20th century CE: 1 titles, 62,571 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 183 titles, 4,789,334 words**
+- **TOTAL: 183 titles, 4,789,334 words**
 
 
 ### *BULDAN* (152 texts, 32,712,979 words)
@@ -3170,7 +3192,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 2 titles, 575,071 words**
 - **20th century CE: 4 titles, 338,413 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 152 titles, 32,712,979 words**
+- **TOTAL: 152 titles, 32,712,979 words**
 
 
 ### *CAQAID* (519 texts, 28,190,335 words)
@@ -3191,7 +3213,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 48 titles, 2,158,295 words**
 - **20th century CE: 30 titles, 2,315,656 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 519 titles, 28,190,335 words**
+- **TOTAL: 519 titles, 28,190,335 words**
 
 
 ### *CARUD* (9 texts, 1,958,412 words)
@@ -3212,7 +3234,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 9 titles, 1,958,412 words**
+- **TOTAL: 9 titles, 1,958,412 words**
 
 
 ### *CHR* (13 texts, 13,844,874 words)
@@ -3233,7 +3255,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 13 titles, 13,844,874 words**
+- **TOTAL: 13 titles, 13,844,874 words**
 
 
 ### *CILAL* (71 texts, 6,584,897 words)
@@ -3254,7 +3276,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 3 titles, 57,089 words**
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 71 titles, 6,584,897 words**
+- **TOTAL: 71 titles, 6,584,897 words**
 
 
 ### *CIRFAN* (7 texts, 3,487,980 words)
@@ -3275,7 +3297,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 7 titles, 3,487,980 words**
+- **TOTAL: 7 titles, 3,487,980 words**
 
 
 ### *COL* (78 texts, 45,261,680 words)
@@ -3296,7 +3318,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - **20th century CE: 1 titles, 280,232 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 78 titles, 45,261,680 words**
+- **TOTAL: 78 titles, 45,261,680 words**
 
 
 ### *CULUM* (427 texts, 64,867,950 words)
@@ -3317,7 +3339,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 4 titles, 5,107,008 words**
 - **20th century CE: 6 titles, 486,830 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 427 titles, 64,867,950 words**
+- **TOTAL: 427 titles, 64,867,950 words**
 
 
 ### *DACIF* (44 texts, 4,118,004 words)
@@ -3338,7 +3360,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 5 titles, 168,257 words**
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 44 titles, 4,118,004 words**
+- **TOTAL: 44 titles, 4,118,004 words**
 
 
 ### *DACWA* (86 texts, 2,317,706 words)
@@ -3359,7 +3381,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - **20th century CE: 1 titles, 28,757 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 86 titles, 2,317,706 words**
+- **TOTAL: 86 titles, 2,317,706 words**
 
 
 ### *FADAIL* (3 texts, 16,177 words)
@@ -3380,7 +3402,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 3 titles, 16,177 words**
+- **TOTAL: 3 titles, 16,177 words**
 
 
 ### *FAHARIS* (54 texts, 8,211,931 words)
@@ -3401,7 +3423,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 6 titles, 638,087 words**
 - **20th century CE: 3 titles, 389,689 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 54 titles, 8,211,931 words**
+- **TOTAL: 54 titles, 8,211,931 words**
 
 
 ### *FALSAFA* (93 texts, 4,909,218 words)
@@ -3422,7 +3444,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - **20th century CE: 1 titles, 10,386 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 93 titles, 4,909,218 words**
+- **TOTAL: 93 titles, 4,909,218 words**
 
 
 ### *FARQ* (8 texts, 460,423 words)
@@ -3443,7 +3465,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 1 titles, 5,529 words**
 - **20th century CE: 1 titles, 106,644 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 8 titles, 460,423 words**
+- **TOTAL: 8 titles, 460,423 words**
 
 
 ### *FASAHA* (39 texts, 4,652,773 words)
@@ -3464,7 +3486,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 39 titles, 4,652,773 words**
+- **TOTAL: 39 titles, 4,652,773 words**
 
 
 ### *FATAWA* (31 texts, 6,771,578 words)
@@ -3485,7 +3507,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 14 titles, 2,154,716 words**
 - **20th century CE: 1 titles, 147,609 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 31 titles, 6,771,578 words**
+- **TOTAL: 31 titles, 6,771,578 words**
 
 
 ### *FAWAID* (14 texts, 203,216 words)
@@ -3506,7 +3528,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 14 titles, 203,216 words**
+- **TOTAL: 14 titles, 203,216 words**
 
 
 ### *FIQH* (776 texts, 255,621,672 words)
@@ -3527,7 +3549,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 65 titles, 35,370,893 words**
 - **20th century CE: 27 titles, 4,773,862 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 776 titles, 255,621,672 words**
+- **TOTAL: 776 titles, 255,621,672 words**
 
 
 ### *FIRAQ* (19 texts, 2,093,490 words)
@@ -3548,7 +3570,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 1 titles, 8,499 words**
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 19 titles, 2,093,490 words**
+- **TOTAL: 19 titles, 2,093,490 words**
 
 
 ### *GEN* (12 texts, 1,732,134 words)
@@ -3569,7 +3591,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 12 titles, 1,732,134 words**
+- **TOTAL: 12 titles, 1,732,134 words**
 
 
 ### *GEO* (32 texts, 3,354,197 words)
@@ -3590,7 +3612,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 32 titles, 3,354,197 words**
+- **TOTAL: 32 titles, 3,354,197 words**
 
 
 ### *GHARIB* (126 texts, 28,196,667 words)
@@ -3611,7 +3633,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 3 titles, 975,182 words**
 - **20th century CE: 1 titles, 28,889 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 126 titles, 28,196,667 words**
+- **TOTAL: 126 titles, 28,196,667 words**
 
 
 ### *GRAR* (150 texts, 2,385,551 words)
@@ -3632,7 +3654,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - **20th century CE: 1 titles, 10,386 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 150 titles, 2,385,551 words**
+- **TOTAL: 150 titles, 2,385,551 words**
 
 
 ### *HAD* (3 texts, 1,559,638 words)
@@ -3653,7 +3675,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 3 titles, 1,559,638 words**
+- **TOTAL: 3 titles, 1,559,638 words**
 
 
 ### *HADITH* (1,999 texts, 224,854,392 words)
@@ -3674,7 +3696,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 20 titles, 3,422,793 words**
 - **20th century CE: 16 titles, 4,489,353 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 1,999 titles, 224,854,392 words**
+- **TOTAL: 1,999 titles, 224,854,392 words**
 
 
 ### *HANAFI* (53 texts, 28,270,970 words)
@@ -3695,7 +3717,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 5 titles, 4,148,500 words**
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 53 titles, 28,270,970 words**
+- **TOTAL: 53 titles, 28,270,970 words**
 
 
 ### *HANBALI* (52 texts, 19,111,058 words)
@@ -3716,7 +3738,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 1 titles, 1,063,300 words**
 - **20th century CE: 1 titles, 112,736 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 52 titles, 19,111,058 words**
+- **TOTAL: 52 titles, 19,111,058 words**
 
 
 ### *HIS* (2 texts, 98,467 words)
@@ -3737,7 +3759,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 2 titles, 98,467 words**
+- **TOTAL: 2 titles, 98,467 words**
 
 
 ### *IBNABIDUNYA* (59 texts, 808,380 words)
@@ -3758,7 +3780,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 59 titles, 808,380 words**
+- **TOTAL: 59 titles, 808,380 words**
 
 
 ### *IBNQAYYIM* (36 texts, 4,224,213 words)
@@ -3779,7 +3801,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 36 titles, 4,224,213 words**
+- **TOTAL: 36 titles, 4,224,213 words**
 
 
 ### *IBNTAYMIYYA* (75 texts, 9,437,074 words)
@@ -3800,7 +3822,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 75 titles, 9,437,074 words**
+- **TOTAL: 75 titles, 9,437,074 words**
 
 
 ### *ICRAB* (3 texts, 772,636 words)
@@ -3821,7 +3843,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 3 titles, 772,636 words**
+- **TOTAL: 3 titles, 772,636 words**
 
 
 ### *IMAM* (60 texts, 11,323,852 words)
@@ -3842,7 +3864,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 3 titles, 757,754 words**
 - **20th century CE: 5 titles, 167,372 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 60 titles, 11,323,852 words**
+- **TOTAL: 60 titles, 11,323,852 words**
 
 
 ### *JUGHRAFIYA* (69 texts, 7,959,023 words)
@@ -3863,7 +3885,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 1 titles, 112,731 words**
 - **20th century CE: 2 titles, 129,002 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 69 titles, 7,959,023 words**
+- **TOTAL: 69 titles, 7,959,023 words**
 
 
 ### *KITABA* (9 texts, 1,958,412 words)
@@ -3884,7 +3906,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 9 titles, 1,958,412 words**
+- **TOTAL: 9 titles, 1,958,412 words**
 
 
 ### *KUTUB* (45 texts, 3,153,519 words)
@@ -3905,7 +3927,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 6 titles, 638,087 words**
 - **20th century CE: 3 titles, 389,689 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 45 titles, 3,153,519 words**
+- **TOTAL: 45 titles, 3,153,519 words**
 
 
 ### *LUGHA* (69 texts, 15,148,642 words)
@@ -3926,7 +3948,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 2 titles, 116,582 words**
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 69 titles, 15,148,642 words**
+- **TOTAL: 69 titles, 15,148,642 words**
 
 
 ### *MACAJIM* (173 texts, 38,507,742 words)
@@ -3947,7 +3969,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 4 titles, 1,247,001 words**
 - **20th century CE: 1 titles, 28,889 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 173 titles, 38,507,742 words**
+- **TOTAL: 173 titles, 38,507,742 words**
 
 
 ### *MAJALIS* (12 texts, 159,787 words)
@@ -3968,7 +3990,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 12 titles, 159,787 words**
+- **TOTAL: 12 titles, 159,787 words**
 
 
 ### *MAJALLAT* (6 texts, 9,765,526 words)
@@ -3989,7 +4011,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 3 titles, 1,093,849 words**
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 6 titles, 9,765,526 words**
+- **TOTAL: 6 titles, 9,765,526 words**
 
 
 ### *MAJMUCAT* (44 texts, 18,468,777 words)
@@ -4010,7 +4032,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 3 titles, 1,093,849 words**
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 44 titles, 18,468,777 words**
+- **TOTAL: 44 titles, 18,468,777 words**
 
 
 ### *MAKHTUTAT* (300 texts, 1,975,198 words)
@@ -4031,7 +4053,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 300 titles, 1,975,198 words**
+- **TOTAL: 300 titles, 1,975,198 words**
 
 
 ### *MALIKI* (44 texts, 24,962,848 words)
@@ -4052,7 +4074,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 5 titles, 4,911,364 words**
 - **20th century CE: 1 titles, 177,397 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 44 titles, 24,962,848 words**
+- **TOTAL: 44 titles, 24,962,848 words**
 
 
 ### *MANSUKH* (8 texts, 213,315 words)
@@ -4073,7 +4095,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 8 titles, 213,315 words**
+- **TOTAL: 8 titles, 213,315 words**
 
 
 ### *MANTIQ* (7 texts, 3,487,980 words)
@@ -4094,7 +4116,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 7 titles, 3,487,980 words**
+- **TOTAL: 7 titles, 3,487,980 words**
 
 
 ### *MASAIL* (285 texts, 9,044,295 words)
@@ -4115,7 +4137,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 5 titles, 222,208 words**
 - **20th century CE: 4 titles, 105,937 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 285 titles, 9,044,295 words**
+- **TOTAL: 285 titles, 9,044,295 words**
 
 
 ### *MASANID* (39 texts, 8,094,316 words)
@@ -4136,7 +4158,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 39 titles, 8,094,316 words**
+- **TOTAL: 39 titles, 8,094,316 words**
 
 
 ### *MAWDUC* (44 texts, 4,118,004 words)
@@ -4157,7 +4179,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 5 titles, 168,257 words**
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 44 titles, 4,118,004 words**
+- **TOTAL: 44 titles, 4,118,004 words**
 
 
 ### *MILAL* (230 texts, 12,713,631 words)
@@ -4178,7 +4200,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 12 titles, 336,647 words**
 - **20th century CE: 5 titles, 309,736 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 230 titles, 12,713,631 words**
+- **TOTAL: 230 titles, 12,713,631 words**
 
 
 ### *MISC* (321 texts, 26,457,643 words)
@@ -4199,7 +4221,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 10 titles, 352,892 words**
 - **20th century CE: 7 titles, 631,542 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 321 titles, 26,457,643 words**
+- **TOTAL: 321 titles, 26,457,643 words**
 
 
 ### *MUDHAKKARAT* (11 texts, 955,128 words)
@@ -4220,7 +4242,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - **20th century CE: 1 titles, 21,388 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 11 titles, 955,128 words**
+- **TOTAL: 11 titles, 955,128 words**
 
 
 ### *MUFASSIRUN* (3 texts, 146,094 words)
@@ -4241,7 +4263,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 3 titles, 146,094 words**
+- **TOTAL: 3 titles, 146,094 words**
 
 
 ### *MUKHADRAM* (8 texts, 75,727 words)
@@ -4262,7 +4284,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 8 titles, 75,727 words**
+- **TOTAL: 8 titles, 75,727 words**
 
 
 ### *MUSHKIL* (10 texts, 1,966,407 words)
@@ -4283,7 +4305,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 10 titles, 1,966,407 words**
+- **TOTAL: 10 titles, 1,966,407 words**
 
 
 ### *MUSTALAHAT* (224 texts, 31,919,937 words)
@@ -4304,7 +4326,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 6 titles, 1,295,648 words**
 - **20th century CE: 4 titles, 391,942 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 224 titles, 31,919,937 words**
+- **TOTAL: 224 titles, 31,919,937 words**
 
 
 ### *MUSTAQILLA* (6 texts, 2,465,091 words)
@@ -4325,7 +4347,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 2 titles, 1,188,306 words**
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 6 titles, 2,465,091 words**
+- **TOTAL: 6 titles, 2,465,091 words**
 
 
 ### *NABI* (60 texts, 11,323,852 words)
@@ -4346,7 +4368,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 3 titles, 757,754 words**
 - **20th century CE: 5 titles, 167,372 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 60 titles, 11,323,852 words**
+- **TOTAL: 60 titles, 11,323,852 words**
 
 
 ### *NAHW* (143 texts, 19,242,451 words)
@@ -4367,7 +4389,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 2 titles, 25,295 words**
 - **20th century CE: 1 titles, 11,064 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 143 titles, 19,242,451 words**
+- **TOTAL: 143 titles, 19,242,451 words**
 
 
 ### *NASIKH* (8 texts, 213,315 words)
@@ -4388,7 +4410,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 8 titles, 213,315 words**
+- **TOTAL: 8 titles, 213,315 words**
 
 
 ### *NO_TAGS* (3 texts, 89,252 words)
@@ -4409,7 +4431,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 3 titles, 89,252 words**
+- **TOTAL: 3 titles, 89,252 words**
 
 
 ### *ONO* (4 texts, 1,237,148 words)
@@ -4430,7 +4452,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 4 titles, 1,237,148 words**
+- **TOTAL: 4 titles, 1,237,148 words**
 
 
 ### *POE* (14 texts, 2,583,148 words)
@@ -4451,7 +4473,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 14 titles, 2,583,148 words**
+- **TOTAL: 14 titles, 2,583,148 words**
 
 
 ### *QADA* (51 texts, 3,726,081 words)
@@ -4472,7 +4494,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 1 titles, 521,964 words**
 - **20th century CE: 3 titles, 88,639 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 51 titles, 3,726,081 words**
+- **TOTAL: 51 titles, 3,726,081 words**
 
 
 ### *QAWACID* (119 texts, 16,819,321 words)
@@ -4493,7 +4515,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 4 titles, 790,876 words**
 - **20th century CE: 3 titles, 295,227 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 119 titles, 16,819,321 words**
+- **TOTAL: 119 titles, 16,819,321 words**
 
 
 ### *QIRAAT* (29 texts, 2,385,777 words)
@@ -4514,7 +4536,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 29 titles, 2,385,777 words**
+- **TOTAL: 29 titles, 2,385,777 words**
 
 
 ### *QISAS* (54 texts, 6,175,973 words)
@@ -4535,7 +4557,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 54 titles, 6,175,973 words**
+- **TOTAL: 54 titles, 6,175,973 words**
 
 
 ### *QURAN* (306 texts, 64,746,401 words)
@@ -4556,7 +4578,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 4 titles, 5,238,487 words**
 - **20th century CE: 3 titles, 166,927 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 306 titles, 64,746,401 words**
+- **TOTAL: 306 titles, 64,746,401 words**
 
 
 ### *RAQAIQ* (188 texts, 10,269,908 words)
@@ -4577,7 +4599,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 4 titles, 234,025 words**
 - **20th century CE: 2 titles, 112,685 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 188 titles, 10,269,908 words**
+- **TOTAL: 188 titles, 10,269,908 words**
 
 
 ### *RIHLAT* (70 texts, 7,980,411 words)
@@ -4598,7 +4620,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 1 titles, 112,731 words**
 - **20th century CE: 3 titles, 150,390 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 70 titles, 7,980,411 words**
+- **TOTAL: 70 titles, 7,980,411 words**
 
 
 ### *RUDUD* (65 texts, 4,134,417 words)
@@ -4619,7 +4641,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 6 titles, 94,066 words**
 - **20th century CE: 10 titles, 842,402 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 65 titles, 4,134,417 words**
+- **TOTAL: 65 titles, 4,134,417 words**
 
 
 ### *SAHIH* (10 texts, 4,806,999 words)
@@ -4640,7 +4662,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 10 titles, 4,806,999 words**
+- **TOTAL: 10 titles, 4,806,999 words**
 
 
 ### *SARF* (125 texts, 6,904,155 words)
@@ -4661,7 +4683,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 2 titles, 25,295 words**
 - **20th century CE: 1 titles, 11,064 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 125 titles, 6,904,155 words**
+- **TOTAL: 125 titles, 6,904,155 words**
 
 
 ### *SARH* (21 texts, 12,848,371 words)
@@ -4682,7 +4704,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 21 titles, 12,848,371 words**
+- **TOTAL: 21 titles, 12,848,371 words**
 
 
 ### *SHAFICI* (67 texts, 46,379,011 words)
@@ -4703,7 +4725,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 5 titles, 3,947,008 words**
 - **20th century CE: 1 titles, 186,843 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 67 titles, 46,379,011 words**
+- **TOTAL: 67 titles, 46,379,011 words**
 
 
 ### *SHAMAIL* (89 texts, 16,634,819 words)
@@ -4724,7 +4746,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 1 titles, 146,888 words**
 - **20th century CE: 2 titles, 120,102 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 89 titles, 16,634,819 words**
+- **TOTAL: 89 titles, 16,634,819 words**
 
 
 ### *SHARH* (84 texts, 37,821,300 words)
@@ -4745,7 +4767,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 3 titles, 1,336,770 words**
 - **20th century CE: 2 titles, 1,372,981 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 84 titles, 37,821,300 words**
+- **TOTAL: 84 titles, 37,821,300 words**
 
 
 ### *SHC* (18 texts, 3,549,125 words)
@@ -4766,7 +4788,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 2 titles, 815,299 words**
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 18 titles, 3,549,125 words**
+- **TOTAL: 18 titles, 3,549,125 words**
 
 
 ### *SHICI* (448 texts, 107,414,120 words)
@@ -4787,7 +4809,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 44 titles, 18,941,125 words**
 - **20th century CE: 30 titles, 5,926,729 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 448 titles, 107,414,120 words**
+- **TOTAL: 448 titles, 107,414,120 words**
 
 
 ### *SHICR* (196 texts, 8,626,024 words)
@@ -4808,7 +4830,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 4 titles, 154,066 words**
 - **20th century CE: 5 titles, 456,705 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 196 titles, 8,626,024 words**
+- **TOTAL: 196 titles, 8,626,024 words**
 
 
 ### *SHICRANDALUSI* (16 texts, 351,649 words)
@@ -4829,7 +4851,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 16 titles, 351,649 words**
+- **TOTAL: 16 titles, 351,649 words**
 
 
 ### *SHICRCABBASI* (53 texts, 2,085,222 words)
@@ -4850,7 +4872,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 53 titles, 2,085,222 words**
+- **TOTAL: 53 titles, 2,085,222 words**
 
 
 ### *SHICRCUTHMANI* (12 texts, 809,558 words)
@@ -4871,7 +4893,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 2 titles, 128,579 words**
 - **20th century CE: 1 titles, 30,739 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 12 titles, 809,558 words**
+- **TOTAL: 12 titles, 809,558 words**
 
 
 ### *SHICRISLAMI* (3 texts, 12,212 words)
@@ -4892,7 +4914,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 3 titles, 12,212 words**
+- **TOTAL: 3 titles, 12,212 words**
 
 
 ### *SHICRJAHILI* (29 texts, 107,906 words)
@@ -4913,7 +4935,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 29 titles, 107,906 words**
+- **TOTAL: 29 titles, 107,906 words**
 
 
 ### *SHICRUMAWI* (21 texts, 254,022 words)
@@ -4934,7 +4956,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 21 titles, 254,022 words**
+- **TOTAL: 21 titles, 254,022 words**
 
 
 ### *SIRA* (166 texts, 24,328,846 words)
@@ -4955,7 +4977,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 4 titles, 904,642 words**
 - **20th century CE: 7 titles, 287,474 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 166 titles, 24,328,846 words**
+- **TOTAL: 166 titles, 24,328,846 words**
 
 
 ### *SIYASA* (66 texts, 5,383,972 words)
@@ -4976,7 +4998,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 2 titles, 1,749,034 words**
 - **20th century CE: 3 titles, 88,639 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 66 titles, 5,383,972 words**
+- **TOTAL: 66 titles, 5,383,972 words**
 
 
 ### *SUALAT* (64 texts, 4,517,643 words)
@@ -4997,7 +5019,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 3 titles, 57,089 words**
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 64 titles, 4,517,643 words**
+- **TOTAL: 64 titles, 4,517,643 words**
 
 
 ### *SULUK* (88 texts, 6,377,189 words)
@@ -5018,7 +5040,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 4 titles, 170,074 words**
 - **20th century CE: 1 titles, 109,344 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 88 titles, 6,377,189 words**
+- **TOTAL: 88 titles, 6,377,189 words**
 
 
 ### *SUNAN* (16 texts, 5,570,177 words)
@@ -5039,7 +5061,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 16 titles, 5,570,177 words**
+- **TOTAL: 16 titles, 5,570,177 words**
 
 
 ### *SUNNI* (362 texts, 114,529,616 words)
@@ -5060,7 +5082,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 2 titles, 5,053,898 words**
 - **20th century CE: 2 titles, 1,349,693 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 362 titles, 114,529,616 words**
+- **TOTAL: 362 titles, 114,529,616 words**
 
 
 ### *TABAQAT* (351 texts, 74,811,081 words)
@@ -5081,7 +5103,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 4 titles, 522,964 words**
 - **20th century CE: 5 titles, 1,509,023 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 351 titles, 74,811,081 words**
+- **TOTAL: 351 titles, 74,811,081 words**
 
 
 ### *TAFSIR* (207 texts, 84,047,256 words)
@@ -5102,7 +5124,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 7 titles, 11,873,202 words**
 - **20th century CE: 2 titles, 1,458,280 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 207 titles, 84,047,256 words**
+- **TOTAL: 207 titles, 84,047,256 words**
 
 
 ### *TAJWID* (16 texts, 1,411,578 words)
@@ -5123,7 +5145,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 16 titles, 1,411,578 words**
+- **TOTAL: 16 titles, 1,411,578 words**
 
 
 ### *TAKHRIJ* (77 texts, 25,299,880 words)
@@ -5144,7 +5166,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 4 titles, 488,002 words**
 - **20th century CE: 1 titles, 51,274 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 77 titles, 25,299,880 words**
+- **TOTAL: 77 titles, 25,299,880 words**
 
 
 ### *TARAIF* (54 texts, 6,175,973 words)
@@ -5165,7 +5187,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 54 titles, 6,175,973 words**
+- **TOTAL: 54 titles, 6,175,973 words**
 
 
 ### *TARAJIM* (768 texts, 151,346,090 words)
@@ -5186,7 +5208,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 11 titles, 1,509,853 words**
 - **20th century CE: 9 titles, 2,934,168 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 768 titles, 151,346,090 words**
+- **TOTAL: 768 titles, 151,346,090 words**
 
 
 ### *TARIKH* (310 texts, 74,474,408 words)
@@ -5207,7 +5229,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 4 titles, 1,174,238 words**
 - **20th century CE: 5 titles, 812,131 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 310 titles, 74,474,408 words**
+- **TOTAL: 310 titles, 74,474,408 words**
 
 
 ### *TASAWWUF* (9 texts, 2,412,869 words)
@@ -5228,7 +5250,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 9 titles, 2,412,869 words**
+- **TOTAL: 9 titles, 2,412,869 words**
 
 
 ### *TAZKIYA* (34 texts, 3,209,984 words)
@@ -5249,7 +5271,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 1 titles, 129,634 words**
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 34 titles, 3,209,984 words**
+- **TOTAL: 34 titles, 3,209,984 words**
 
 
 ### *THIQAT* (13 texts, 3,327,383 words)
@@ -5270,7 +5292,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 13 titles, 3,327,383 words**
+- **TOTAL: 13 titles, 3,327,383 words**
 
 
 ### *TIBB* (77 texts, 5,223,263 words)
@@ -5291,7 +5313,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 77 titles, 5,223,263 words**
+- **TOTAL: 77 titles, 5,223,263 words**
 
 
 ### *TWELVERS* (58 texts, 5,318,002 words)
@@ -5312,7 +5334,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 4 titles, 394,232 words**
 - **20th century CE: 8 titles, 799,818 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 58 titles, 5,318,002 words**
+- **TOTAL: 58 titles, 5,318,002 words**
 
 
 ### *USUL* (221 texts, 28,522,664 words)
@@ -5333,7 +5355,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 13 titles, 4,103,310 words**
 - **20th century CE: 5 titles, 588,052 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 221 titles, 28,522,664 words**
+- **TOTAL: 221 titles, 28,522,664 words**
 
 
 ### *USULIYYA* (23 texts, 1,295,289 words)
@@ -5354,7 +5376,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 1 titles, 17,130 words**
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 23 titles, 1,295,289 words**
+- **TOTAL: 23 titles, 1,295,289 words**
 
 
 ### *WAFAYAT* (29 texts, 11,154,222 words)
@@ -5375,7 +5397,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 1 titles, 189,890 words**
 - **20th century CE: 1 titles, 344,563 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 29 titles, 11,154,222 words**
+- **TOTAL: 29 titles, 11,154,222 words**
 
 
 ### *ZAHIRI* (1 texts, 1,480,381 words)
@@ -5396,7 +5418,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 1 titles, 1,480,381 words**
+- **TOTAL: 1 titles, 1,480,381 words**
 
 
 ### *ZAYDI* (3 texts, 1,481,320 words)
@@ -5417,7 +5439,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 3 titles, 1,481,320 words**
+- **TOTAL: 3 titles, 1,481,320 words**
 
 
 ### *ZAYDIYYA* (5 texts, 85,596 words)
@@ -5438,5 +5460,5 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - **20th century CE: 1 titles, 35,685 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **total CE: 5 titles, 85,596 words**
+- **TOTAL: 5 titles, 85,596 words**
 
