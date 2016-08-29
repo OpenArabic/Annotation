@@ -1,9 +1,9 @@
 # ADAB (826 texts, 65,236,005 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 2 titles, 19,107 words
-- 08th century CE: 7 titles, 209,885 words
-- 09th century CE: 48 titles, 2,956,390 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 2 titles, 19,107 words
+- 8th century CE: 7 titles, 209,885 words
+- 9th century CE: 48 titles, 2,956,390 words
 - 10th century CE: 86 titles, 6,981,561 words
 - 11th century CE: 94 titles, 6,518,363 words
 - 12th century CE: 85 titles, 7,929,689 words
@@ -21,10 +21,10 @@
 
 # ADHKAR (385 texts, 22,386,212 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 1 titles, 16,317 words
-- 09th century CE: 10 titles, 348,180 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 1 titles, 16,317 words
+- 9th century CE: 10 titles, 348,180 words
 - 10th century CE: 15 titles, 775,222 words
 - 11th century CE: 14 titles, 492,787 words
 - 12th century CE: 33 titles, 2,606,490 words
@@ -42,10 +42,10 @@
 
 # ADILLA (64 texts, 4,260,283 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 0 titles, 0 words
 - 11th century CE: 1 titles, 136,752 words
 - 12th century CE: 2 titles, 128,589 words
@@ -63,10 +63,10 @@
 
 # AFTER800 (203 texts, 64,556,529 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 0 titles, 0 words
 - 11th century CE: 0 titles, 0 words
 - 12th century CE: 0 titles, 0 words
@@ -84,10 +84,10 @@
 
 # AHKAM (14 texts, 11,174,480 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 1 titles, 47,586 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 1 titles, 47,586 words
 - 10th century CE: 3 titles, 3,833,523 words
 - 11th century CE: 0 titles, 0 words
 - 12th century CE: 4 titles, 1,529,107 words
@@ -105,10 +105,10 @@
 
 # AHLAM (9 texts, 931,763 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 1 titles, 211,445 words
-- 09th century CE: 1 titles, 24,681 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 1 titles, 211,445 words
+- 9th century CE: 1 titles, 24,681 words
 - 10th century CE: 0 titles, 0 words
 - 11th century CE: 0 titles, 0 words
 - 12th century CE: 0 titles, 0 words
@@ -126,10 +126,10 @@
 
 # AJZA (669 texts, 9,127,759 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 21 titles, 289,272 words
-- 09th century CE: 105 titles, 1,422,088 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 21 titles, 289,272 words
+- 9th century CE: 105 titles, 1,422,088 words
 - 10th century CE: 187 titles, 2,499,231 words
 - 11th century CE: 124 titles, 1,833,468 words
 - 12th century CE: 72 titles, 989,705 words
@@ -147,10 +147,10 @@
 
 # AKHAM (23 texts, 3,273,867 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 8 titles, 375,839 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 8 titles, 375,839 words
 - 10th century CE: 5 titles, 1,772,707 words
 - 11th century CE: 2 titles, 63,885 words
 - 12th century CE: 3 titles, 705,075 words
@@ -168,10 +168,10 @@
 
 # AKHLAQ (217 texts, 12,832,542 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 2 titles, 123,285 words
-- 08th century CE: 3 titles, 171,423 words
-- 09th century CE: 58 titles, 1,050,123 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 2 titles, 123,285 words
+- 8th century CE: 3 titles, 171,423 words
+- 9th century CE: 58 titles, 1,050,123 words
 - 10th century CE: 27 titles, 1,453,988 words
 - 11th century CE: 23 titles, 734,655 words
 - 12th century CE: 18 titles, 1,703,041 words
@@ -189,10 +189,10 @@
 
 # ALBANI (74 texts, 9,640,710 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 4 titles, 79,862 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 4 titles, 79,862 words
 - 10th century CE: 1 titles, 786,888 words
 - 11th century CE: 0 titles, 0 words
 - 12th century CE: 0 titles, 0 words
@@ -210,10 +210,10 @@
 
 # AMALI (12 texts, 159,787 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 2 titles, 13,840 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 2 titles, 13,840 words
 - 10th century CE: 3 titles, 73,010 words
 - 11th century CE: 3 titles, 6,784 words
 - 12th century CE: 1 titles, 3,881 words
@@ -231,10 +231,10 @@
 
 # AMTHAL (15 texts, 1,298,264 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 1 titles, 41,459 words
-- 09th century CE: 2 titles, 48,761 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 1 titles, 41,459 words
+- 9th century CE: 2 titles, 48,761 words
 - 10th century CE: 4 titles, 219,925 words
 - 11th century CE: 3 titles, 216,614 words
 - 12th century CE: 2 titles, 332,602 words
@@ -252,10 +252,10 @@
 
 # ANDALUSI (16 texts, 351,649 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 1 titles, 34,483 words
 - 11th century CE: 3 titles, 21,401 words
 - 12th century CE: 1 titles, 5,351 words
@@ -273,10 +273,10 @@
 
 # ANSAB (43 texts, 6,722,200 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 10 titles, 1,618,087 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 10 titles, 1,618,087 words
 - 10th century CE: 2 titles, 263,420 words
 - 11th century CE: 4 titles, 265,652 words
 - 12th century CE: 6 titles, 1,185,749 words
@@ -294,10 +294,10 @@
 
 # ASHAB (61 texts, 10,958,798 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 1 titles, 45,305 words
-- 09th century CE: 7 titles, 1,110,637 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 1 titles, 45,305 words
+- 9th century CE: 7 titles, 1,110,637 words
 - 10th century CE: 7 titles, 133,091 words
 - 11th century CE: 5 titles, 821,086 words
 - 12th century CE: 5 titles, 655,365 words
@@ -315,10 +315,10 @@
 
 # BALAGHA (408 texts, 37,307,178 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 2 titles, 19,107 words
-- 08th century CE: 6 titles, 193,568 words
-- 09th century CE: 35 titles, 2,455,107 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 2 titles, 19,107 words
+- 8th century CE: 6 titles, 193,568 words
+- 9th century CE: 35 titles, 2,455,107 words
 - 10th century CE: 61 titles, 4,238,596 words
 - 11th century CE: 75 titles, 5,205,739 words
 - 12th century CE: 49 titles, 4,911,336 words
@@ -336,10 +336,10 @@
 
 # BEFORE800 (40 texts, 5,683,106 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 1 titles, 30,942 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 1 titles, 30,942 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 3 titles, 349,602 words
 - 11th century CE: 25 titles, 3,286,431 words
 - 12th century CE: 3 titles, 263,847 words
@@ -357,10 +357,10 @@
 
 # BIB (22 texts, 6,275,868 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 0 titles, 0 words
 - 11th century CE: 2 titles, 144,167 words
 - 12th century CE: 0 titles, 0 words
@@ -378,10 +378,10 @@
 
 # BIO (86 texts, 43,800,060 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 6 titles, 1,394,996 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 6 titles, 1,394,996 words
 - 10th century CE: 7 titles, 273,989 words
 - 11th century CE: 5 titles, 3,102,403 words
 - 12th century CE: 12 titles, 11,270,914 words
@@ -399,10 +399,10 @@
 
 # BUHUTH (392 texts, 9,838,387 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 3 titles, 90,498 words
-- 09th century CE: 6 titles, 274,845 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 3 titles, 90,498 words
+- 9th century CE: 6 titles, 274,845 words
 - 10th century CE: 4 titles, 180,218 words
 - 11th century CE: 5 titles, 314,658 words
 - 12th century CE: 5 titles, 72,614 words
@@ -420,10 +420,10 @@
 
 # BULDAN (165 texts, 33,985,629 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 2 titles, 4,799 words
-- 09th century CE: 20 titles, 3,084,580 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 2 titles, 4,799 words
+- 9th century CE: 20 titles, 3,084,580 words
 - 10th century CE: 22 titles, 1,067,593 words
 - 11th century CE: 13 titles, 3,618,066 words
 - 12th century CE: 13 titles, 9,885,026 words
@@ -441,10 +441,10 @@
 
 # CABBASI (53 texts, 2,085,222 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 1 titles, 2,989 words
-- 09th century CE: 9 titles, 461,588 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 1 titles, 2,989 words
+- 9th century CE: 9 titles, 461,588 words
 - 10th century CE: 4 titles, 132,001 words
 - 11th century CE: 6 titles, 238,798 words
 - 12th century CE: 3 titles, 91,059 words
@@ -462,10 +462,10 @@
 
 # CAQAID (1,069 texts, 66,553,580 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 1 titles, 25,843 words
-- 08th century CE: 3 titles, 128,651 words
-- 09th century CE: 34 titles, 699,441 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 1 titles, 25,843 words
+- 8th century CE: 3 titles, 128,651 words
+- 9th century CE: 34 titles, 699,441 words
 - 10th century CE: 51 titles, 1,558,222 words
 - 11th century CE: 52 titles, 4,052,321 words
 - 12th century CE: 31 titles, 1,549,422 words
@@ -483,10 +483,10 @@
 
 # CARUD (9 texts, 1,958,412 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 1 titles, 68,578 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 1 titles, 68,578 words
 - 10th century CE: 2 titles, 136,376 words
 - 11th century CE: 2 titles, 82,279 words
 - 12th century CE: 2 titles, 88,931 words
@@ -504,10 +504,10 @@
 
 # CENT00NO (1,741 texts, 147,052,695 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 18 titles, 181,447 words
-- 08th century CE: 14 titles, 254,232 words
-- 09th century CE: 13 titles, 544,634 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 18 titles, 181,447 words
+- 8th century CE: 14 titles, 254,232 words
+- 9th century CE: 13 titles, 544,634 words
 - 10th century CE: 14 titles, 769,075 words
 - 11th century CE: 14 titles, 241,550 words
 - 12th century CE: 11 titles, 616,402 words
@@ -525,10 +525,10 @@
 
 # CENT0100 (10 texts, 1,008,751 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 4 titles, 179,218 words
-- 08th century CE: 5 titles, 581,883 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 4 titles, 179,218 words
+- 8th century CE: 5 titles, 581,883 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 0 titles, 0 words
 - 11th century CE: 0 titles, 0 words
 - 12th century CE: 0 titles, 0 words
@@ -546,10 +546,10 @@
 
 # CENT0200 (95 texts, 7,074,107 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 65 titles, 5,500,005 words
-- 09th century CE: 30 titles, 1,574,102 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 65 titles, 5,500,005 words
+- 9th century CE: 30 titles, 1,574,102 words
 - 10th century CE: 0 titles, 0 words
 - 11th century CE: 0 titles, 0 words
 - 12th century CE: 0 titles, 0 words
@@ -567,10 +567,10 @@
 
 # CENT0300 (473 texts, 32,745,077 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 423 titles, 28,990,456 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 423 titles, 28,990,456 words
 - 10th century CE: 47 titles, 3,308,505 words
 - 11th century CE: 0 titles, 0 words
 - 12th century CE: 0 titles, 0 words
@@ -588,10 +588,10 @@
 
 # CENT0400 (656 texts, 61,257,450 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 2 titles, 57,898 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 2 titles, 57,898 words
 - 10th century CE: 580 titles, 55,947,125 words
 - 11th century CE: 70 titles, 4,767,379 words
 - 12th century CE: 1 titles, 7,946 words
@@ -609,10 +609,10 @@
 
 # CENT0500 (611 texts, 67,616,149 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 1 titles, 8,013 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 1 titles, 8,013 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 2 titles, 51,680 words
 - 11th century CE: 585 titles, 65,540,489 words
 - 12th century CE: 20 titles, 1,414,600 words
@@ -630,10 +630,10 @@
 
 # CENT0600 (478 texts, 55,069,161 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 7 titles, 296,190 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 2 titles, 6,524 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 7 titles, 296,190 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 2 titles, 6,524 words
 - 10th century CE: 1 titles, 21,305 words
 - 11th century CE: 1 titles, 5,795 words
 - 12th century CE: 430 titles, 51,086,173 words
@@ -651,10 +651,10 @@
 
 # CENT0700 (385 texts, 58,252,725 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 0 titles, 0 words
 - 11th century CE: 0 titles, 0 words
 - 12th century CE: 3 titles, 872,264 words
@@ -672,10 +672,10 @@
 
 # CENT0800 (552 texts, 99,667,994 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 0 titles, 0 words
 - 11th century CE: 0 titles, 0 words
 - 12th century CE: 0 titles, 0 words
@@ -693,10 +693,10 @@
 
 # CENT0900 (311 texts, 72,147,880 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 1 titles, 2,287 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 1 titles, 2,287 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 0 titles, 0 words
 - 11th century CE: 1 titles, 1,088,701 words
 - 12th century CE: 0 titles, 0 words
@@ -714,10 +714,10 @@
 
 # CENT1000 (258 texts, 53,725,455 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 0 titles, 0 words
 - 11th century CE: 0 titles, 0 words
 - 12th century CE: 0 titles, 0 words
@@ -735,10 +735,10 @@
 
 # CENT1100 (140 texts, 34,802,409 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 0 titles, 0 words
 - 11th century CE: 0 titles, 0 words
 - 12th century CE: 0 titles, 0 words
@@ -756,10 +756,10 @@
 
 # CENT1200 (109 texts, 45,379,806 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 0 titles, 0 words
 - 11th century CE: 0 titles, 0 words
 - 12th century CE: 0 titles, 0 words
@@ -777,10 +777,10 @@
 
 # CENT1300 (217 texts, 66,033,577 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 0 titles, 0 words
 - 11th century CE: 0 titles, 0 words
 - 12th century CE: 0 titles, 0 words
@@ -798,10 +798,10 @@
 
 # CENT1400 (495 texts, 120,690,325 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 0 titles, 0 words
 - 11th century CE: 0 titles, 0 words
 - 12th century CE: 0 titles, 0 words
@@ -819,10 +819,10 @@
 
 # CENT1500 (1,412 texts, 171,078,501 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 1 titles, 1,418 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 1 titles, 1,418 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 0 titles, 0 words
 - 11th century CE: 0 titles, 0 words
 - 12th century CE: 0 titles, 0 words
@@ -840,10 +840,10 @@
 
 # CHR (13 texts, 13,844,874 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 2 titles, 1,645,771 words
 - 11th century CE: 0 titles, 0 words
 - 12th century CE: 1 titles, 1,414,449 words
@@ -861,10 +861,10 @@
 
 # CHRONOMULTIPLE (47 texts, 16,918,630 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 4 titles, 223,163 words
-- 09th century CE: 3 titles, 59,755 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 4 titles, 223,163 words
+- 9th century CE: 3 titles, 59,755 words
 - 10th century CE: 5 titles, 457,839 words
 - 11th century CE: 3 titles, 1,099,784 words
 - 12th century CE: 6 titles, 909,213 words
@@ -882,10 +882,10 @@
 
 # CILAL (76 texts, 6,912,023 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 15 titles, 484,960 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 15 titles, 484,960 words
 - 10th century CE: 9 titles, 2,099,368 words
 - 11th century CE: 7 titles, 146,969 words
 - 12th century CE: 11 titles, 1,700,275 words
@@ -903,10 +903,10 @@
 
 # CIRFAN (11 texts, 4,054,354 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 0 titles, 0 words
 - 11th century CE: 0 titles, 0 words
 - 12th century CE: 0 titles, 0 words
@@ -924,10 +924,10 @@
 
 # COL (85 texts, 47,246,781 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 4 titles, 1,099,770 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 4 titles, 1,099,770 words
 - 10th century CE: 4 titles, 199,081 words
 - 11th century CE: 4 titles, 3,014,033 words
 - 12th century CE: 22 titles, 13,109,092 words
@@ -945,10 +945,10 @@
 
 # COLL (1 texts, 1,539,036 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 1 titles, 1,539,036 words
 - 11th century CE: 0 titles, 0 words
 - 12th century CE: 0 titles, 0 words
@@ -966,10 +966,10 @@
 
 # CULUM (644 texts, 81,941,298 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 1 titles, 15,330 words
-- 08th century CE: 7 titles, 601,640 words
-- 09th century CE: 20 titles, 1,386,096 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 1 titles, 15,330 words
+- 8th century CE: 7 titles, 601,640 words
+- 9th century CE: 20 titles, 1,386,096 words
 - 10th century CE: 32 titles, 8,763,797 words
 - 11th century CE: 49 titles, 6,809,780 words
 - 12th century CE: 31 titles, 5,467,849 words
@@ -987,10 +987,10 @@
 
 # CUTHMANI (13 texts, 833,610 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 0 titles, 0 words
 - 11th century CE: 0 titles, 0 words
 - 12th century CE: 0 titles, 0 words
@@ -1008,10 +1008,10 @@
 
 # DACIF (44 texts, 4,118,004 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 6 titles, 313,864 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 6 titles, 313,864 words
 - 10th century CE: 5 titles, 1,149,393 words
 - 11th century CE: 1 titles, 4,804 words
 - 12th century CE: 8 titles, 1,228,988 words
@@ -1029,10 +1029,10 @@
 
 # DACWA (298 texts, 10,982,042 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 0 titles, 0 words
 - 11th century CE: 0 titles, 0 words
 - 12th century CE: 2 titles, 29,281 words
@@ -1050,10 +1050,10 @@
 
 # DHB (16 texts, 15,999,674 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 1 titles, 285,184 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 1 titles, 285,184 words
 - 10th century CE: 0 titles, 0 words
 - 11th century CE: 2 titles, 3,133,874 words
 - 12th century CE: 2 titles, 2,248,461 words
@@ -1071,10 +1071,10 @@
 
 # FADAIL (3 texts, 16,177 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 1 titles, 8,687 words
 - 11th century CE: 1 titles, 4,535 words
 - 12th century CE: 0 titles, 0 words
@@ -1092,10 +1092,10 @@
 
 # FAHARIS (94 texts, 21,908,709 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 1 titles, 29,675 words
 - 11th century CE: 3 titles, 367,553 words
 - 12th century CE: 3 titles, 425,058 words
@@ -1113,10 +1113,10 @@
 
 # FALSAFA (97 texts, 5,475,592 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 1 titles, 1,748 words
-- 09th century CE: 32 titles, 482,392 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 1 titles, 1,748 words
+- 9th century CE: 32 titles, 482,392 words
 - 10th century CE: 35 titles, 386,348 words
 - 11th century CE: 13 titles, 496,423 words
 - 12th century CE: 2 titles, 24,519 words
@@ -1134,10 +1134,10 @@
 
 # FARQ (33 texts, 3,432,733 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 2 titles, 88,948 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 2 titles, 88,948 words
 - 10th century CE: 1 titles, 96,387 words
 - 11th century CE: 1 titles, 8,825 words
 - 12th century CE: 0 titles, 0 words
@@ -1155,10 +1155,10 @@
 
 # FASAHA (39 texts, 4,652,773 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 5 titles, 340,543 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 5 titles, 340,543 words
 - 10th century CE: 7 titles, 478,820 words
 - 11th century CE: 15 titles, 835,623 words
 - 12th century CE: 5 titles, 430,128 words
@@ -1176,10 +1176,10 @@
 
 # FATAWA (123 texts, 40,467,301 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 0 titles, 0 words
 - 11th century CE: 0 titles, 0 words
 - 12th century CE: 0 titles, 0 words
@@ -1197,10 +1197,10 @@
 
 # FAWAID (14 texts, 203,216 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 1 titles, 1,423 words
-- 09th century CE: 1 titles, 7,761 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 1 titles, 1,423 words
+- 9th century CE: 1 titles, 7,761 words
 - 10th century CE: 2 titles, 4,018 words
 - 11th century CE: 6 titles, 153,804 words
 - 12th century CE: 2 titles, 27,690 words
@@ -1218,10 +1218,10 @@
 
 # FIHQ (6 texts, 2,821,532 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 1 titles, 379,958 words
 - 11th century CE: 0 titles, 0 words
 - 12th century CE: 0 titles, 0 words
@@ -1239,10 +1239,10 @@
 
 # FIQH (1,080 texts, 319,129,664 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 1 titles, 30,942 words
-- 08th century CE: 9 titles, 1,894,834 words
-- 09th century CE: 56 titles, 10,572,765 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 1 titles, 30,942 words
+- 8th century CE: 9 titles, 1,894,834 words
+- 9th century CE: 56 titles, 10,572,765 words
 - 10th century CE: 70 titles, 11,999,380 words
 - 11th century CE: 86 titles, 25,601,998 words
 - 12th century CE: 51 titles, 12,593,546 words
@@ -1260,10 +1260,10 @@
 
 # FIRAQ (19 texts, 2,093,490 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 3 titles, 143,968 words
 - 11th century CE: 3 titles, 521,151 words
 - 12th century CE: 2 titles, 134,392 words
@@ -1281,10 +1281,10 @@
 
 # GEN (13 texts, 2,141,718 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 8 titles, 1,360,907 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 8 titles, 1,360,907 words
 - 10th century CE: 0 titles, 0 words
 - 11th century CE: 1 titles, 22,410 words
 - 12th century CE: 1 titles, 22,125 words
@@ -1302,10 +1302,10 @@
 
 # GEO (32 texts, 3,354,197 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 11 titles, 408,545 words
 - 11th century CE: 2 titles, 336,660 words
 - 12th century CE: 3 titles, 157,585 words
@@ -1323,10 +1323,10 @@
 
 # GHARIB (133 texts, 31,313,647 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 1 titles, 456,502 words
-- 09th century CE: 23 titles, 1,070,048 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 1 titles, 456,502 words
+- 9th century CE: 23 titles, 1,070,048 words
 - 10th century CE: 21 titles, 4,345,423 words
 - 11th century CE: 18 titles, 4,136,424 words
 - 12th century CE: 15 titles, 2,947,637 words
@@ -1344,10 +1344,10 @@
 
 # GRAR (150 texts, 2,385,551 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 1 titles, 1,748 words
-- 09th century CE: 39 titles, 617,499 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 1 titles, 1,748 words
+- 9th century CE: 39 titles, 617,499 words
 - 10th century CE: 35 titles, 386,348 words
 - 11th century CE: 20 titles, 570,655 words
 - 12th century CE: 2 titles, 24,519 words
@@ -1365,10 +1365,10 @@
 
 # HAD (3 texts, 1,559,638 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 1 titles, 10,042 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 1 titles, 10,042 words
 - 10th century CE: 2 titles, 1,549,596 words
 - 11th century CE: 0 titles, 0 words
 - 12th century CE: 0 titles, 0 words
@@ -1386,10 +1386,10 @@
 
 # HADITH (2,230 texts, 262,711,414 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 4 titles, 260,901 words
-- 08th century CE: 41 titles, 3,530,626 words
-- 09th century CE: 258 titles, 19,306,273 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 4 titles, 260,901 words
+- 8th century CE: 41 titles, 3,530,626 words
+- 9th century CE: 258 titles, 19,306,273 words
 - 10th century CE: 397 titles, 30,831,210 words
 - 11th century CE: 356 titles, 30,415,812 words
 - 12th century CE: 196 titles, 16,482,593 words
@@ -1407,10 +1407,10 @@
 
 # HANAFI (54 texts, 29,341,604 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 3 titles, 73,365 words
-- 09th century CE: 6 titles, 616,960 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 3 titles, 73,365 words
+- 9th century CE: 6 titles, 616,960 words
 - 10th century CE: 0 titles, 0 words
 - 11th century CE: 3 titles, 2,659,560 words
 - 12th century CE: 6 titles, 2,122,393 words
@@ -1428,10 +1428,10 @@
 
 # HANBALI (63 texts, 22,443,860 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 6 titles, 387,262 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 6 titles, 387,262 words
 - 10th century CE: 5 titles, 454,998 words
 - 11th century CE: 0 titles, 0 words
 - 12th century CE: 2 titles, 32,913 words
@@ -1449,10 +1449,10 @@
 
 # HIS (2 texts, 98,467 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 1 titles, 12,993 words
 - 11th century CE: 0 titles, 0 words
 - 12th century CE: 1 titles, 85,474 words
@@ -1470,10 +1470,10 @@
 
 # IBNABIDUNYA (59 texts, 808,380 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 59 titles, 808,380 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 59 titles, 808,380 words
 - 10th century CE: 0 titles, 0 words
 - 11th century CE: 0 titles, 0 words
 - 12th century CE: 0 titles, 0 words
@@ -1491,10 +1491,10 @@
 
 # IBNQAYYIM (36 texts, 4,224,213 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 0 titles, 0 words
 - 11th century CE: 0 titles, 0 words
 - 12th century CE: 0 titles, 0 words
@@ -1512,10 +1512,10 @@
 
 # IBNTAYMIYYA (76 texts, 9,496,490 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 0 titles, 0 words
 - 11th century CE: 0 titles, 0 words
 - 12th century CE: 0 titles, 0 words
@@ -1533,10 +1533,10 @@
 
 # ICRAB (3 texts, 772,636 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 1 titles, 415,797 words
 - 11th century CE: 1 titles, 116,026 words
 - 12th century CE: 0 titles, 0 words
@@ -1554,10 +1554,10 @@
 
 # IMAM (120 texts, 18,351,346 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 3 titles, 184,928 words
-- 09th century CE: 3 titles, 568,993 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 3 titles, 184,928 words
+- 9th century CE: 3 titles, 568,993 words
 - 10th century CE: 3 titles, 635,431 words
 - 11th century CE: 5 titles, 158,345 words
 - 12th century CE: 8 titles, 911,335 words
@@ -1575,10 +1575,10 @@
 
 # ISLAMI (3 texts, 12,212 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 1 titles, 1,941 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 1 titles, 1,941 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 0 titles, 0 words
 - 11th century CE: 0 titles, 0 words
 - 12th century CE: 0 titles, 0 words
@@ -1596,10 +1596,10 @@
 
 # JAHILI (29 texts, 107,906 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 14 titles, 74,537 words
-- 08th century CE: 1 titles, 3,145 words
-- 09th century CE: 1 titles, 629 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 14 titles, 74,537 words
+- 8th century CE: 1 titles, 3,145 words
+- 9th century CE: 1 titles, 629 words
 - 10th century CE: 0 titles, 0 words
 - 11th century CE: 0 titles, 0 words
 - 12th century CE: 0 titles, 0 words
@@ -1617,10 +1617,10 @@
 
 # JUGHRAFIYA (79 texts, 9,148,456 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 1 titles, 2,282 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 1 titles, 2,282 words
 - 10th century CE: 15 titles, 662,259 words
 - 11th century CE: 7 titles, 570,333 words
 - 12th century CE: 6 titles, 401,777 words
@@ -1638,10 +1638,10 @@
 
 # KITABA (9 texts, 1,958,412 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 1 titles, 68,578 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 1 titles, 68,578 words
 - 10th century CE: 2 titles, 136,376 words
 - 11th century CE: 2 titles, 82,279 words
 - 12th century CE: 2 titles, 88,931 words
@@ -1659,10 +1659,10 @@
 
 # KUTUB (85 texts, 16,850,297 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 1 titles, 29,675 words
 - 11th century CE: 2 titles, 144,167 words
 - 12th century CE: 2 titles, 128,589 words
@@ -1680,10 +1680,10 @@
 
 # LUGHA (87 texts, 15,762,951 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 1 titles, 456,502 words
-- 09th century CE: 6 titles, 603,726 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 1 titles, 456,502 words
+- 9th century CE: 6 titles, 603,726 words
 - 10th century CE: 7 titles, 182,480 words
 - 11th century CE: 8 titles, 1,440,823 words
 - 12th century CE: 4 titles, 171,372 words
@@ -1701,10 +1701,10 @@
 
 # MACAJIM (182 texts, 42,261,807 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 2 titles, 476,460 words
-- 09th century CE: 40 titles, 5,686,476 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 2 titles, 476,460 words
+- 9th century CE: 40 titles, 5,686,476 words
 - 10th century CE: 41 titles, 8,277,379 words
 - 11th century CE: 23 titles, 4,546,279 words
 - 12th century CE: 15 titles, 3,266,102 words
@@ -1722,10 +1722,10 @@
 
 # MAJALIS (12 texts, 159,787 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 2 titles, 13,840 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 2 titles, 13,840 words
 - 10th century CE: 3 titles, 73,010 words
 - 11th century CE: 3 titles, 6,784 words
 - 12th century CE: 1 titles, 3,881 words
@@ -1743,10 +1743,10 @@
 
 # MAJALLAT (28 texts, 48,176,542 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 0 titles, 0 words
 - 11th century CE: 1 titles, 65,541 words
 - 12th century CE: 0 titles, 0 words
@@ -1764,10 +1764,10 @@
 
 # MAJMUCAT (66 texts, 56,879,793 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 2 titles, 303,136 words
-- 09th century CE: 1 titles, 170,879 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 2 titles, 303,136 words
+- 9th century CE: 1 titles, 170,879 words
 - 10th century CE: 2 titles, 445,570 words
 - 11th century CE: 5 titles, 1,774,838 words
 - 12th century CE: 3 titles, 279,197 words
@@ -1785,10 +1785,10 @@
 
 # MAKHTUTAT (300 texts, 1,975,198 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 2 titles, 11,989 words
-- 09th century CE: 16 titles, 74,770 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 2 titles, 11,989 words
+- 9th century CE: 16 titles, 74,770 words
 - 10th century CE: 57 titles, 257,661 words
 - 11th century CE: 88 titles, 476,913 words
 - 12th century CE: 66 titles, 571,884 words
@@ -1806,10 +1806,10 @@
 
 # MALIKI (47 texts, 24,977,415 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 2 titles, 1,151,308 words
-- 09th century CE: 1 titles, 6,087 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 2 titles, 1,151,308 words
+- 9th century CE: 1 titles, 6,087 words
 - 10th century CE: 5 titles, 2,091,441 words
 - 11th century CE: 3 titles, 2,766,621 words
 - 12th century CE: 5 titles, 4,011,653 words
@@ -1827,10 +1827,10 @@
 
 # MANSUKH (8 texts, 213,315 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 1 titles, 3,261 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 1 titles, 3,261 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 1 titles, 90,849 words
 - 11th century CE: 2 titles, 25,121 words
 - 12th century CE: 2 titles, 70,568 words
@@ -1848,10 +1848,10 @@
 
 # MANTIQ (11 texts, 4,054,354 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 0 titles, 0 words
 - 11th century CE: 0 titles, 0 words
 - 12th century CE: 0 titles, 0 words
@@ -1869,10 +1869,10 @@
 
 # MASAIL (496 texts, 14,479,379 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 4 titles, 117,551 words
-- 09th century CE: 24 titles, 872,725 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 4 titles, 117,551 words
+- 9th century CE: 24 titles, 872,725 words
 - 10th century CE: 22 titles, 532,227 words
 - 11th century CE: 20 titles, 934,826 words
 - 12th century CE: 9 titles, 111,801 words
@@ -1890,10 +1890,10 @@
 
 # MASANID (39 texts, 8,094,316 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 1 titles, 19,958 words
-- 09th century CE: 15 titles, 3,322,911 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 1 titles, 19,958 words
+- 9th century CE: 15 titles, 3,322,911 words
 - 10th century CE: 20 titles, 4,575,089 words
 - 11th century CE: 3 titles, 176,358 words
 - 12th century CE: 0 titles, 0 words
@@ -1911,10 +1911,10 @@
 
 # MAWDUC (44 texts, 4,118,004 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 6 titles, 313,864 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 6 titles, 313,864 words
 - 10th century CE: 5 titles, 1,149,393 words
 - 11th century CE: 1 titles, 4,804 words
 - 12th century CE: 8 titles, 1,228,988 words
@@ -1932,10 +1932,10 @@
 
 # MILAL (238 texts, 13,158,938 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 2 titles, 7,598 words
-- 09th century CE: 23 titles, 464,663 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 2 titles, 7,598 words
+- 9th century CE: 23 titles, 464,663 words
 - 10th century CE: 38 titles, 1,289,107 words
 - 11th century CE: 39 titles, 2,873,359 words
 - 12th century CE: 19 titles, 1,015,259 words
@@ -1953,10 +1953,10 @@
 
 # MISC (337 texts, 29,167,756 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 3 titles, 222,454 words
-- 09th century CE: 12 titles, 564,427 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 3 titles, 222,454 words
+- 9th century CE: 12 titles, 564,427 words
 - 10th century CE: 39 titles, 3,105,199 words
 - 11th century CE: 57 titles, 3,360,982 words
 - 12th century CE: 52 titles, 4,306,746 words
@@ -1974,10 +1974,10 @@
 
 # MUDHAKKARAT (11 texts, 955,128 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 5 titles, 167,892 words
 - 11th century CE: 0 titles, 0 words
 - 12th century CE: 1 titles, 189,565 words
@@ -1995,10 +1995,10 @@
 
 # MUFASSIRUN (3 texts, 146,094 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 0 titles, 0 words
 - 11th century CE: 0 titles, 0 words
 - 12th century CE: 0 titles, 0 words
@@ -2016,10 +2016,10 @@
 
 # MUKHADRAM (8 texts, 75,727 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 3 titles, 28,157 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 3 titles, 28,157 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 0 titles, 0 words
 - 11th century CE: 0 titles, 0 words
 - 12th century CE: 0 titles, 0 words
@@ -2037,10 +2037,10 @@
 
 # MUSHKIL (10 texts, 1,966,407 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 2 titles, 61,975 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 2 titles, 61,975 words
 - 10th century CE: 1 titles, 844,012 words
 - 11th century CE: 1 titles, 59,081 words
 - 12th century CE: 1 titles, 324,113 words
@@ -2058,10 +2058,10 @@
 
 # MUSTABSIRUN (48 texts, 3,055,297 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 0 titles, 0 words
 - 11th century CE: 0 titles, 0 words
 - 12th century CE: 0 titles, 0 words
@@ -2079,10 +2079,10 @@
 
 # MUSTALAHAT (241 texts, 36,508,440 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 1 titles, 456,502 words
-- 09th century CE: 25 titles, 1,196,381 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 1 titles, 456,502 words
+- 9th century CE: 25 titles, 1,196,381 words
 - 10th century CE: 34 titles, 3,760,800 words
 - 11th century CE: 36 titles, 5,761,202 words
 - 12th century CE: 25 titles, 2,604,002 words
@@ -2100,10 +2100,10 @@
 
 # MUSTAQILLA (11 texts, 3,008,896 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 0 titles, 0 words
 - 11th century CE: 0 titles, 0 words
 - 12th century CE: 1 titles, 308,981 words
@@ -2121,10 +2121,10 @@
 
 # NABI (120 texts, 18,351,346 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 3 titles, 184,928 words
-- 09th century CE: 3 titles, 568,993 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 3 titles, 184,928 words
+- 9th century CE: 3 titles, 568,993 words
 - 10th century CE: 3 titles, 635,431 words
 - 11th century CE: 5 titles, 158,345 words
 - 12th century CE: 8 titles, 911,335 words
@@ -2142,10 +2142,10 @@
 
 # NAHW (164 texts, 20,693,630 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 3 titles, 759,638 words
-- 09th century CE: 6 titles, 758,470 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 3 titles, 759,638 words
+- 9th century CE: 6 titles, 758,470 words
 - 10th century CE: 17 titles, 814,400 words
 - 11th century CE: 20 titles, 2,292,858 words
 - 12th century CE: 10 titles, 387,864 words
@@ -2163,10 +2163,10 @@
 
 # NASIKH (8 texts, 213,315 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 1 titles, 3,261 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 1 titles, 3,261 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 1 titles, 90,849 words
 - 11th century CE: 2 titles, 25,121 words
 - 12th century CE: 2 titles, 70,568 words
@@ -2184,10 +2184,10 @@
 
 # NOTAGS (133 texts, 10,335,809 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 0 titles, 0 words
 - 11th century CE: 0 titles, 0 words
 - 12th century CE: 0 titles, 0 words
@@ -2205,10 +2205,10 @@
 
 # ONO (5 texts, 1,532,401 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 0 titles, 0 words
 - 11th century CE: 0 titles, 0 words
 - 12th century CE: 1 titles, 834,012 words
@@ -2226,10 +2226,10 @@
 
 # POE (14 texts, 2,583,148 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 0 titles, 0 words
 - 11th century CE: 0 titles, 0 words
 - 12th century CE: 12 titles, 1,293,728 words
@@ -2247,10 +2247,10 @@
 
 # PPE (597 texts, 142,599,424 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 2 titles, 4,799 words
-- 09th century CE: 56 titles, 7,322,706 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 2 titles, 4,799 words
+- 9th century CE: 56 titles, 7,322,706 words
 - 10th century CE: 79 titles, 11,288,076 words
 - 11th century CE: 54 titles, 10,756,698 words
 - 12th century CE: 89 titles, 16,891,272 words
@@ -2268,10 +2268,10 @@
 
 # QADA (69 texts, 5,996,008 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 1 titles, 4,667 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 1 titles, 4,667 words
 - 10th century CE: 0 titles, 0 words
 - 11th century CE: 11 titles, 735,988 words
 - 12th century CE: 5 titles, 235,118 words
@@ -2289,10 +2289,10 @@
 
 # QAWACID (147 texts, 18,437,041 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 2 titles, 177,679 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 2 titles, 177,679 words
 - 10th century CE: 2 titles, 326,081 words
 - 11th century CE: 17 titles, 2,028,529 words
 - 12th century CE: 9 titles, 606,748 words
@@ -2310,10 +2310,10 @@
 
 # QIRAAT (39 texts, 3,637,981 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 2 titles, 19,171 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 2 titles, 19,171 words
 - 10th century CE: 3 titles, 164,650 words
 - 11th century CE: 3 titles, 147,684 words
 - 12th century CE: 2 titles, 179,564 words
@@ -2331,10 +2331,10 @@
 
 # QISAS (55 texts, 6,208,440 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 5 titles, 357,438 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 5 titles, 357,438 words
 - 10th century CE: 11 titles, 1,684,315 words
 - 11th century CE: 10 titles, 657,055 words
 - 12th century CE: 11 titles, 1,212,778 words
@@ -2352,10 +2352,10 @@
 
 # QURAN (475 texts, 87,369,805 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 2 titles, 108,445 words
-- 08th century CE: 8 titles, 693,458 words
-- 09th century CE: 17 titles, 1,112,291 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 2 titles, 108,445 words
+- 8th century CE: 8 titles, 693,458 words
+- 9th century CE: 17 titles, 1,112,291 words
 - 10th century CE: 29 titles, 8,135,996 words
 - 11th century CE: 38 titles, 6,767,528 words
 - 12th century CE: 28 titles, 7,639,257 words
@@ -2373,10 +2373,10 @@
 
 # QURAn (3 texts, 16,177 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 1 titles, 8,687 words
 - 11th century CE: 1 titles, 4,535 words
 - 12th century CE: 0 titles, 0 words
@@ -2394,10 +2394,10 @@
 
 # RAQAIQ (308 texts, 17,901,345 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 1 titles, 16,317 words
-- 09th century CE: 9 titles, 282,039 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 1 titles, 16,317 words
+- 9th century CE: 9 titles, 282,039 words
 - 10th century CE: 14 titles, 771,481 words
 - 11th century CE: 13 titles, 355,629 words
 - 12th century CE: 28 titles, 2,558,803 words
@@ -2415,10 +2415,10 @@
 
 # RIHLAT (80 texts, 9,169,844 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 1 titles, 2,282 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 1 titles, 2,282 words
 - 10th century CE: 15 titles, 662,259 words
 - 11th century CE: 7 titles, 570,333 words
 - 12th century CE: 6 titles, 401,777 words
@@ -2436,10 +2436,10 @@
 
 # RUDUD (121 texts, 9,543,786 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 1 titles, 1,418 words
-- 09th century CE: 3 titles, 97,763 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 1 titles, 1,418 words
+- 9th century CE: 3 titles, 97,763 words
 - 10th century CE: 3 titles, 142,666 words
 - 11th century CE: 5 titles, 112,094 words
 - 12th century CE: 5 titles, 288,531 words
@@ -2457,10 +2457,10 @@
 
 # SAHIH (10 texts, 4,806,999 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 2 titles, 1,090,940 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 2 titles, 1,090,940 words
 - 10th century CE: 3 titles, 1,188,183 words
 - 11th century CE: 3 titles, 1,730,031 words
 - 12th century CE: 0 titles, 0 words
@@ -2478,10 +2478,10 @@
 
 # SARF (145 texts, 8,303,801 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 2 titles, 303,136 words
-- 09th century CE: 2 titles, 268,707 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 2 titles, 303,136 words
+- 9th century CE: 2 titles, 268,707 words
 - 10th century CE: 17 titles, 814,400 words
 - 11th century CE: 16 titles, 1,079,132 words
 - 12th century CE: 10 titles, 387,864 words
@@ -2499,10 +2499,10 @@
 
 # SARH (22 texts, 12,899,904 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 1 titles, 456,502 words
-- 09th century CE: 5 titles, 587,591 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 1 titles, 456,502 words
+- 9th century CE: 5 titles, 587,591 words
 - 10th century CE: 0 titles, 0 words
 - 11th century CE: 4 titles, 1,213,726 words
 - 12th century CE: 0 titles, 0 words
@@ -2520,10 +2520,10 @@
 
 # SBS (17 texts, 4,334,477 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 14 titles, 1,288,949 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 14 titles, 1,288,949 words
 - 10th century CE: 1 titles, 2,919,964 words
 - 11th century CE: 1 titles, 117,248 words
 - 12th century CE: 0 titles, 0 words
@@ -2541,10 +2541,10 @@
 
 # SCH (1 texts, 86,367 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 0 titles, 0 words
 - 11th century CE: 0 titles, 0 words
 - 12th century CE: 1 titles, 86,367 words
@@ -2562,10 +2562,10 @@
 
 # SCI (1 texts, 214,325 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 0 titles, 0 words
 - 11th century CE: 1 titles, 214,325 words
 - 12th century CE: 0 titles, 0 words
@@ -2583,10 +2583,10 @@
 
 # SHAFICI (68 texts, 46,695,153 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 7 titles, 1,925,304 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 7 titles, 1,925,304 words
 - 10th century CE: 0 titles, 0 words
 - 11th century CE: 7 titles, 5,704,498 words
 - 12th century CE: 5 titles, 1,907,928 words
@@ -2604,10 +2604,10 @@
 
 # SHAMAIL (139 texts, 21,018,438 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 1 titles, 79,120 words
-- 09th century CE: 5 titles, 742,916 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 1 titles, 79,120 words
+- 9th century CE: 5 titles, 742,916 words
 - 10th century CE: 2 titles, 168,433 words
 - 11th century CE: 7 titles, 1,701,532 words
 - 12th century CE: 5 titles, 948,938 words
@@ -2625,10 +2625,10 @@
 
 # SHARH (110 texts, 44,205,151 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 1 titles, 1,221,983 words
-- 09th century CE: 8 titles, 984,601 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 1 titles, 1,221,983 words
+- 9th century CE: 8 titles, 984,601 words
 - 10th century CE: 2 titles, 335,221 words
 - 11th century CE: 6 titles, 5,410,008 words
 - 12th century CE: 4 titles, 1,141,752 words
@@ -2646,10 +2646,10 @@
 
 # SHC (18 texts, 4,342,784 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 1 titles, 21,065 words
 - 11th century CE: 2 titles, 154,883 words
 - 12th century CE: 1 titles, 169,925 words
@@ -2667,10 +2667,10 @@
 
 # SHICA (130 texts, 22,886,578 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 1 titles, 11,849 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 1 titles, 11,849 words
 - 10th century CE: 0 titles, 0 words
 - 11th century CE: 3 titles, 296,204 words
 - 12th century CE: 0 titles, 0 words
@@ -2688,10 +2688,10 @@
 
 # SHICI (903 texts, 177,704,003 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 6 titles, 317,686 words
-- 08th century CE: 8 titles, 607,856 words
-- 09th century CE: 9 titles, 1,086,854 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 6 titles, 317,686 words
+- 8th century CE: 8 titles, 607,856 words
+- 9th century CE: 9 titles, 1,086,854 words
 - 10th century CE: 45 titles, 6,607,596 words
 - 11th century CE: 86 titles, 9,312,640 words
 - 12th century CE: 25 titles, 5,006,848 words
@@ -2709,10 +2709,10 @@
 
 # SHICR (202 texts, 8,796,040 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 19 titles, 107,439 words
-- 08th century CE: 14 titles, 238,833 words
-- 09th century CE: 14 titles, 728,032 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 19 titles, 107,439 words
+- 8th century CE: 14 titles, 238,833 words
+- 9th century CE: 14 titles, 728,032 words
 - 10th century CE: 12 titles, 432,001 words
 - 11th century CE: 20 titles, 1,846,674 words
 - 12th century CE: 9 titles, 399,309 words
@@ -2730,10 +2730,10 @@
 
 # SIRA (276 texts, 35,739,959 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 4 titles, 230,233 words
-- 09th century CE: 11 titles, 1,564,212 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 4 titles, 230,233 words
+- 9th century CE: 11 titles, 1,564,212 words
 - 10th century CE: 11 titles, 870,331 words
 - 11th century CE: 13 titles, 1,881,774 words
 - 12th century CE: 14 titles, 2,067,885 words
@@ -2751,10 +2751,10 @@
 
 # SIYASA (85 texts, 7,747,685 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 1 titles, 11,433 words
-- 09th century CE: 5 titles, 238,423 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 1 titles, 11,433 words
+- 9th century CE: 5 titles, 238,423 words
 - 10th century CE: 0 titles, 0 words
 - 11th century CE: 12 titles, 759,550 words
 - 12th century CE: 5 titles, 235,118 words
@@ -2772,10 +2772,10 @@
 
 # SUALAT (69 texts, 4,844,769 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 16 titles, 515,025 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 16 titles, 515,025 words
 - 10th century CE: 10 titles, 1,292,035 words
 - 11th century CE: 5 titles, 83,084 words
 - 12th century CE: 10 titles, 1,376,162 words
@@ -2793,10 +2793,10 @@
 
 # SULUK (88 texts, 6,377,189 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 1 titles, 9,586 words
-- 09th century CE: 3 titles, 58,239 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 1 titles, 9,586 words
+- 9th century CE: 3 titles, 58,239 words
 - 10th century CE: 6 titles, 465,262 words
 - 11th century CE: 10 titles, 360,884 words
 - 12th century CE: 12 titles, 1,622,284 words
@@ -2814,10 +2814,10 @@
 
 # SUNAN (17 texts, 5,969,927 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 8 titles, 1,196,149 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 8 titles, 1,196,149 words
 - 10th century CE: 5 titles, 2,074,402 words
 - 11th century CE: 2 titles, 2,249,667 words
 - 12th century CE: 0 titles, 0 words
@@ -2835,10 +2835,10 @@
 
 # SUNNI (401 texts, 120,786,131 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 9 titles, 680,173 words
-- 09th century CE: 81 titles, 10,982,136 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 9 titles, 680,173 words
+- 9th century CE: 81 titles, 10,982,136 words
 - 10th century CE: 80 titles, 16,393,874 words
 - 11th century CE: 61 titles, 15,302,943 words
 - 12th century CE: 21 titles, 13,570,825 words
@@ -2856,10 +2856,10 @@
 
 # TABAQAT (415 texts, 80,551,192 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 2 titles, 4,799 words
-- 09th century CE: 40 titles, 4,219,795 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 2 titles, 4,799 words
+- 9th century CE: 40 titles, 4,219,795 words
 - 10th century CE: 58 titles, 4,677,487 words
 - 11th century CE: 39 titles, 8,638,308 words
 - 12th century CE: 28 titles, 11,997,906 words
@@ -2877,10 +2877,10 @@
 
 # TAFSIR (264 texts, 118,686,377 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 8 titles, 901,167 words
-- 09th century CE: 13 titles, 1,116,982 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 8 titles, 901,167 words
+- 9th century CE: 13 titles, 1,116,982 words
 - 10th century CE: 23 titles, 9,199,726 words
 - 11th century CE: 27 titles, 7,106,368 words
 - 12th century CE: 22 titles, 7,661,236 words
@@ -2898,10 +2898,10 @@
 
 # TAJWID (26 texts, 2,663,782 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 1 titles, 12,707 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 1 titles, 12,707 words
 - 10th century CE: 0 titles, 0 words
 - 11th century CE: 0 titles, 0 words
 - 12th century CE: 1 titles, 165,640 words
@@ -2919,10 +2919,10 @@
 
 # TAKHRIJ (84 texts, 26,327,249 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 2 titles, 230,094 words
 - 11th century CE: 1 titles, 457,750 words
 - 12th century CE: 3 titles, 612,516 words
@@ -2940,10 +2940,10 @@
 
 # TAKRIJ (6 texts, 4,000,501 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 0 titles, 0 words
 - 11th century CE: 0 titles, 0 words
 - 12th century CE: 0 titles, 0 words
@@ -2961,10 +2961,10 @@
 
 # TARAIF (55 texts, 6,208,440 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 5 titles, 357,438 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 5 titles, 357,438 words
 - 10th century CE: 11 titles, 1,684,315 words
 - 11th century CE: 10 titles, 657,055 words
 - 12th century CE: 11 titles, 1,212,778 words
@@ -2982,10 +2982,10 @@
 
 # TARAJIM (859 texts, 164,680,769 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 14 titles, 413,129 words
-- 09th century CE: 103 titles, 12,645,847 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 14 titles, 413,129 words
+- 9th century CE: 103 titles, 12,645,847 words
 - 10th century CE: 164 titles, 17,829,604 words
 - 11th century CE: 94 titles, 17,576,228 words
 - 12th century CE: 63 titles, 15,815,884 words
@@ -3003,10 +3003,10 @@
 
 # TARIKH (389 texts, 93,350,974 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 2 titles, 4,799 words
-- 09th century CE: 37 titles, 4,344,252 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 2 titles, 4,799 words
+- 9th century CE: 37 titles, 4,344,252 words
 - 10th century CE: 41 titles, 5,260,659 words
 - 11th century CE: 29 titles, 4,737,481 words
 - 12th century CE: 37 titles, 14,997,022 words
@@ -3024,10 +3024,10 @@
 
 # TASAWWUF (9 texts, 2,412,869 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 3 titles, 421,781 words
 - 11th century CE: 1 titles, 113,883 words
 - 12th century CE: 3 titles, 44,938 words
@@ -3045,10 +3045,10 @@
 
 # TAZKIYA (34 texts, 3,209,984 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 0 titles, 0 words
 - 11th century CE: 0 titles, 0 words
 - 12th century CE: 0 titles, 0 words
@@ -3066,10 +3066,10 @@
 
 # THIQAT (13 texts, 3,327,383 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 2 titles, 117,398 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 2 titles, 117,398 words
 - 10th century CE: 4 titles, 588,135 words
 - 11th century CE: 0 titles, 0 words
 - 12th century CE: 0 titles, 0 words
@@ -3087,10 +3087,10 @@
 
 # TIBB (85 texts, 5,840,194 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 10 titles, 708,510 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 10 titles, 708,510 words
 - 10th century CE: 2 titles, 1,294,196 words
 - 11th century CE: 8 titles, 787,810 words
 - 12th century CE: 0 titles, 0 words
@@ -3108,10 +3108,10 @@
 
 # TOOLARGE (1 texts, 11,672,533 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 0 titles, 0 words
 - 11th century CE: 0 titles, 0 words
 - 12th century CE: 0 titles, 0 words
@@ -3129,10 +3129,10 @@
 
 # TWELVERS (325 texts, 26,742,822 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 1 titles, 25,843 words
-- 08th century CE: 1 titles, 121,053 words
-- 09th century CE: 2 titles, 50,166 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 1 titles, 25,843 words
+- 8th century CE: 1 titles, 121,053 words
+- 9th century CE: 2 titles, 50,166 words
 - 10th century CE: 6 titles, 160,864 words
 - 11th century CE: 5 titles, 454,119 words
 - 12th century CE: 2 titles, 84,876 words
@@ -3150,10 +3150,10 @@
 
 # UMAWI (21 texts, 254,022 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 1 titles, 2,804 words
-- 08th century CE: 10 titles, 168,109 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 1 titles, 2,804 words
+- 8th century CE: 10 titles, 168,109 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 0 titles, 0 words
 - 11th century CE: 0 titles, 0 words
 - 12th century CE: 0 titles, 0 words
@@ -3171,10 +3171,10 @@
 
 # USUL (298 texts, 41,752,982 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 2 titles, 38,486 words
-- 09th century CE: 11 titles, 452,927 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 2 titles, 38,486 words
+- 9th century CE: 11 titles, 452,927 words
 - 10th century CE: 15 titles, 942,405 words
 - 11th century CE: 28 titles, 2,655,382 words
 - 12th century CE: 12 titles, 939,490 words
@@ -3192,10 +3192,10 @@
 
 # USULIYYA (23 texts, 1,295,289 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 0 titles, 0 words
 - 11th century CE: 6 titles, 92,816 words
 - 12th century CE: 1 titles, 17,517 words
@@ -3213,10 +3213,10 @@
 
 # WAFAYAT (33 texts, 11,353,559 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 0 titles, 0 words
 - 11th century CE: 1 titles, 67,697 words
 - 12th century CE: 1 titles, 326,827 words
@@ -3234,10 +3234,10 @@
 
 # ZAHIRI (1 texts, 1,480,381 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 0 titles, 0 words
 - 11th century CE: 1 titles, 1,480,381 words
 - 12th century CE: 0 titles, 0 words
@@ -3255,10 +3255,10 @@
 
 # ZAYDI (4 texts, 1,491,269 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 1 titles, 101,083 words
-- 09th century CE: 0 titles, 0 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 1 titles, 101,083 words
+- 9th century CE: 0 titles, 0 words
 - 10th century CE: 1 titles, 225,391 words
 - 11th century CE: 0 titles, 0 words
 - 12th century CE: 0 titles, 0 words
@@ -3276,10 +3276,10 @@
 
 # ZAYDIYYA (8 texts, 164,572 words)
 
-- 06th century CE: 0 titles, 0 words
-- 07th century CE: 0 titles, 0 words
-- 08th century CE: 0 titles, 0 words
-- 09th century CE: 1 titles, 11,849 words
+- 6th century CE: 0 titles, 0 words
+- 7th century CE: 0 titles, 0 words
+- 8th century CE: 0 titles, 0 words
+- 9th century CE: 1 titles, 11,849 words
 - 10th century CE: 0 titles, 0 words
 - 11th century CE: 0 titles, 0 words
 - 12th century CE: 0 titles, 0 words
