@@ -505,6 +505,321 @@
 - **total CE: 948 titles, 54,670,558 words**
 
 
+### *CENT0100* (10 texts, 1,008,751 words)
+
+- ~~06th century CE: 0 titles, 0 words~~
+- **07th century CE: 4 titles, 179,218 words**
+- **08th century CE: 5 titles, 581,883 words**
+- ~~09th century CE: 0 titles, 0 words~~
+- ~~10th century CE: 0 titles, 0 words~~
+- ~~11th century CE: 0 titles, 0 words~~
+- ~~12th century CE: 0 titles, 0 words~~
+- ~~13th century CE: 0 titles, 0 words~~
+- ~~14th century CE: 0 titles, 0 words~~
+- **15th century CE: 1 titles, 247,650 words**
+- ~~16th century CE: 0 titles, 0 words~~
+- ~~17th century CE: 0 titles, 0 words~~
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **total CE: 10 titles, 1,008,751 words**
+
+
+### *CENT0200* (95 texts, 7,074,107 words)
+
+- ~~06th century CE: 0 titles, 0 words~~
+- ~~07th century CE: 0 titles, 0 words~~
+- **08th century CE: 65 titles, 5,500,005 words**
+- **09th century CE: 30 titles, 1,574,102 words**
+- ~~10th century CE: 0 titles, 0 words~~
+- ~~11th century CE: 0 titles, 0 words~~
+- ~~12th century CE: 0 titles, 0 words~~
+- ~~13th century CE: 0 titles, 0 words~~
+- ~~14th century CE: 0 titles, 0 words~~
+- ~~15th century CE: 0 titles, 0 words~~
+- ~~16th century CE: 0 titles, 0 words~~
+- ~~17th century CE: 0 titles, 0 words~~
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **total CE: 95 titles, 7,074,107 words**
+
+
+### *CENT0300* (472 texts, 32,345,327 words)
+
+- ~~06th century CE: 0 titles, 0 words~~
+- ~~07th century CE: 0 titles, 0 words~~
+- ~~08th century CE: 0 titles, 0 words~~
+- **09th century CE: 423 titles, 28,990,456 words**
+- **10th century CE: 47 titles, 3,308,505 words**
+- ~~11th century CE: 0 titles, 0 words~~
+- ~~12th century CE: 0 titles, 0 words~~
+- ~~13th century CE: 0 titles, 0 words~~
+- **14th century CE: 1 titles, 1,066 words**
+- ~~15th century CE: 0 titles, 0 words~~
+- ~~16th century CE: 0 titles, 0 words~~
+- ~~17th century CE: 0 titles, 0 words~~
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **total CE: 472 titles, 32,345,327 words**
+
+
+### *CENT0400* (655 texts, 60,871,538 words)
+
+- ~~06th century CE: 0 titles, 0 words~~
+- ~~07th century CE: 0 titles, 0 words~~
+- ~~08th century CE: 0 titles, 0 words~~
+- **09th century CE: 2 titles, 57,898 words**
+- **10th century CE: 580 titles, 55,947,125 words**
+- **11th century CE: 70 titles, 4,767,379 words**
+- **12th century CE: 1 titles, 7,946 words**
+- ~~13th century CE: 0 titles, 0 words~~
+- ~~14th century CE: 0 titles, 0 words~~
+- ~~15th century CE: 0 titles, 0 words~~
+- ~~16th century CE: 0 titles, 0 words~~
+- ~~17th century CE: 0 titles, 0 words~~
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **total CE: 655 titles, 60,871,538 words**
+
+
+### *CENT0500* (611 texts, 67,616,149 words)
+
+- ~~06th century CE: 0 titles, 0 words~~
+- ~~07th century CE: 0 titles, 0 words~~
+- **08th century CE: 1 titles, 8,013 words**
+- ~~09th century CE: 0 titles, 0 words~~
+- **10th century CE: 2 titles, 51,680 words**
+- **11th century CE: 585 titles, 65,540,489 words**
+- **12th century CE: 20 titles, 1,414,600 words**
+- ~~13th century CE: 0 titles, 0 words~~
+- **14th century CE: 1 titles, 5,026 words**
+- **15th century CE: 1 titles, 589,291 words**
+- ~~16th century CE: 0 titles, 0 words~~
+- ~~17th century CE: 0 titles, 0 words~~
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **total CE: 611 titles, 67,616,149 words**
+
+
+### *CENT0600* (478 texts, 55,069,161 words)
+
+- ~~06th century CE: 0 titles, 0 words~~
+- **07th century CE: 7 titles, 296,190 words**
+- ~~08th century CE: 0 titles, 0 words~~
+- **09th century CE: 2 titles, 6,524 words**
+- **10th century CE: 1 titles, 21,305 words**
+- **11th century CE: 1 titles, 5,795 words**
+- **12th century CE: 430 titles, 51,086,173 words**
+- **13th century CE: 34 titles, 2,813,319 words**
+- **14th century CE: 2 titles, 745,098 words**
+- ~~15th century CE: 0 titles, 0 words~~
+- ~~16th century CE: 0 titles, 0 words~~
+- ~~17th century CE: 0 titles, 0 words~~
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **total CE: 478 titles, 55,069,161 words**
+
+
+### *CENT0700* (385 texts, 58,252,725 words)
+
+- ~~06th century CE: 0 titles, 0 words~~
+- ~~07th century CE: 0 titles, 0 words~~
+- ~~08th century CE: 0 titles, 0 words~~
+- ~~09th century CE: 0 titles, 0 words~~
+- ~~10th century CE: 0 titles, 0 words~~
+- ~~11th century CE: 0 titles, 0 words~~
+- **12th century CE: 3 titles, 872,264 words**
+- **13th century CE: 378 titles, 57,150,027 words**
+- ~~14th century CE: 0 titles, 0 words~~
+- **15th century CE: 1 titles, 79,286 words**
+- **16th century CE: 2 titles, 124,269 words**
+- ~~17th century CE: 0 titles, 0 words~~
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **total CE: 385 titles, 58,252,725 words**
+
+
+### *CENT0800* (551 texts, 99,574,208 words)
+
+- ~~06th century CE: 0 titles, 0 words~~
+- ~~07th century CE: 0 titles, 0 words~~
+- ~~08th century CE: 0 titles, 0 words~~
+- ~~09th century CE: 0 titles, 0 words~~
+- ~~10th century CE: 0 titles, 0 words~~
+- ~~11th century CE: 0 titles, 0 words~~
+- ~~12th century CE: 0 titles, 0 words~~
+- **13th century CE: 2 titles, 220,275 words**
+- **14th century CE: 546 titles, 94,998,089 words**
+- **15th century CE: 2 titles, 4,328,354 words**
+- ~~16th century CE: 0 titles, 0 words~~
+- ~~17th century CE: 0 titles, 0 words~~
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **total CE: 551 titles, 99,574,208 words**
+
+
+### *CENT0900* (311 texts, 72,147,880 words)
+
+- ~~06th century CE: 0 titles, 0 words~~
+- ~~07th century CE: 0 titles, 0 words~~
+- **08th century CE: 1 titles, 2,287 words**
+- ~~09th century CE: 0 titles, 0 words~~
+- ~~10th century CE: 0 titles, 0 words~~
+- **11th century CE: 1 titles, 1,088,701 words**
+- ~~12th century CE: 0 titles, 0 words~~
+- **13th century CE: 1 titles, 66,666 words**
+- **14th century CE: 9 titles, 1,258,306 words**
+- **15th century CE: 296 titles, 69,245,448 words**
+- **16th century CE: 1 titles, 1,815 words**
+- ~~17th century CE: 0 titles, 0 words~~
+- **18th century CE: 2 titles, 484,657 words**
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **total CE: 311 titles, 72,147,880 words**
+
+
+### *CENT1000* (258 texts, 53,725,455 words)
+
+- ~~06th century CE: 0 titles, 0 words~~
+- ~~07th century CE: 0 titles, 0 words~~
+- ~~08th century CE: 0 titles, 0 words~~
+- ~~09th century CE: 0 titles, 0 words~~
+- ~~10th century CE: 0 titles, 0 words~~
+- ~~11th century CE: 0 titles, 0 words~~
+- ~~12th century CE: 0 titles, 0 words~~
+- ~~13th century CE: 0 titles, 0 words~~
+- ~~14th century CE: 0 titles, 0 words~~
+- **15th century CE: 23 titles, 3,725,601 words**
+- **16th century CE: 235 titles, 49,999,854 words**
+- ~~17th century CE: 0 titles, 0 words~~
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **total CE: 258 titles, 53,725,455 words**
+
+
+### *CENT1100* (140 texts, 34,802,409 words)
+
+- ~~06th century CE: 0 titles, 0 words~~
+- ~~07th century CE: 0 titles, 0 words~~
+- ~~08th century CE: 0 titles, 0 words~~
+- ~~09th century CE: 0 titles, 0 words~~
+- ~~10th century CE: 0 titles, 0 words~~
+- ~~11th century CE: 0 titles, 0 words~~
+- ~~12th century CE: 0 titles, 0 words~~
+- ~~13th century CE: 0 titles, 0 words~~
+- ~~14th century CE: 0 titles, 0 words~~
+- ~~15th century CE: 0 titles, 0 words~~
+- **16th century CE: 10 titles, 5,772,985 words**
+- **17th century CE: 130 titles, 29,029,424 words**
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **total CE: 140 titles, 34,802,409 words**
+
+
+### *CENT1200* (108 texts, 45,368,897 words)
+
+- ~~06th century CE: 0 titles, 0 words~~
+- ~~07th century CE: 0 titles, 0 words~~
+- ~~08th century CE: 0 titles, 0 words~~
+- ~~09th century CE: 0 titles, 0 words~~
+- ~~10th century CE: 0 titles, 0 words~~
+- ~~11th century CE: 0 titles, 0 words~~
+- ~~12th century CE: 0 titles, 0 words~~
+- ~~13th century CE: 0 titles, 0 words~~
+- ~~14th century CE: 0 titles, 0 words~~
+- ~~15th century CE: 0 titles, 0 words~~
+- ~~16th century CE: 0 titles, 0 words~~
+- **17th century CE: 25 titles, 24,085,446 words**
+- **18th century CE: 83 titles, 21,283,451 words**
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **total CE: 108 titles, 45,368,897 words**
+
+
+### *CENT1300* (215 texts, 61,771,357 words)
+
+- ~~06th century CE: 0 titles, 0 words~~
+- ~~07th century CE: 0 titles, 0 words~~
+- ~~08th century CE: 0 titles, 0 words~~
+- ~~09th century CE: 0 titles, 0 words~~
+- ~~10th century CE: 0 titles, 0 words~~
+- ~~11th century CE: 0 titles, 0 words~~
+- ~~12th century CE: 0 titles, 0 words~~
+- ~~13th century CE: 0 titles, 0 words~~
+- ~~14th century CE: 0 titles, 0 words~~
+- ~~15th century CE: 0 titles, 0 words~~
+- ~~16th century CE: 0 titles, 0 words~~
+- ~~17th century CE: 0 titles, 0 words~~
+- **18th century CE: 64 titles, 11,665,897 words**
+- **19th century CE: 149 titles, 50,031,610 words**
+- **20th century CE: 1 titles, 31,773 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **total CE: 215 titles, 61,771,357 words**
+
+
+### *CENT1400* (170 texts, 34,131,920 words)
+
+- ~~06th century CE: 0 titles, 0 words~~
+- ~~07th century CE: 0 titles, 0 words~~
+- ~~08th century CE: 0 titles, 0 words~~
+- ~~09th century CE: 0 titles, 0 words~~
+- ~~10th century CE: 0 titles, 0 words~~
+- ~~11th century CE: 0 titles, 0 words~~
+- ~~12th century CE: 0 titles, 0 words~~
+- ~~13th century CE: 0 titles, 0 words~~
+- ~~14th century CE: 0 titles, 0 words~~
+- ~~15th century CE: 0 titles, 0 words~~
+- ~~16th century CE: 0 titles, 0 words~~
+- ~~17th century CE: 0 titles, 0 words~~
+- ~~18th century CE: 0 titles, 0 words~~
+- **19th century CE: 47 titles, 9,507,721 words**
+- **20th century CE: 121 titles, 16,230,159 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **total CE: 170 titles, 34,131,920 words**
+
+
+### *CENT1500* (11 texts, 744,982 words)
+
+- ~~06th century CE: 0 titles, 0 words~~
+- ~~07th century CE: 0 titles, 0 words~~
+- **08th century CE: 1 titles, 1,418 words**
+- ~~09th century CE: 0 titles, 0 words~~
+- ~~10th century CE: 0 titles, 0 words~~
+- ~~11th century CE: 0 titles, 0 words~~
+- ~~12th century CE: 0 titles, 0 words~~
+- ~~13th century CE: 0 titles, 0 words~~
+- ~~14th century CE: 0 titles, 0 words~~
+- ~~15th century CE: 0 titles, 0 words~~
+- ~~16th century CE: 0 titles, 0 words~~
+- ~~17th century CE: 0 titles, 0 words~~
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **total CE: 11 titles, 744,982 words**
+
+
 ### *CHR* (13 texts, 13,844,874 words)
 
 - ~~06th century CE: 0 titles, 0 words~~
