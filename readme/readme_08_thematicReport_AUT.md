@@ -1,5 +1,26 @@
+## Chronological Distribution of Texts - up until 1930 (5,530 texts, 729,904,604 words)
 
-## Forms, Themes, Genres (provisional assassment)
+- ~~6th century CE: 0 titles, 0 words~~
+- **7th century CE: 29 titles, 656,855 words**
+- **8th century CE: 84 titles, 6,126,423 words**
+- **9th century CE: 506 titles, 31,731,358 words**
+- **10th century CE: 674 titles, 60,026,199 words**
+- **11th century CE: 688 titles, 71,114,785 words**
+- **12th century CE: 461 titles, 53,112,691 words**
+- **13th century CE: 447 titles, 59,578,221 words**
+- **14th century CE: 578 titles, 96,792,091 words**
+- **15th century CE: 328 titles, 72,980,538 words**
+- **16th century CE: 250 titles, 55,682,929 words**
+- **17th century CE: 160 titles, 53,548,425 words**
+- **18th century CE: 151 titles, 33,836,230 words**
+- **19th century CE: 200 titles, 59,558,191 words**
+- **20th century CE: 129 titles, 16,837,153 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 5,530 titles, 729,904,604 words**
+
+
+
+## Forms, Themes, Genres (provisional assessment)
 
 ### *ADAB* (608 texts, 50,829,080 words)
 
