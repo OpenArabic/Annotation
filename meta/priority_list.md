@@ -5,7 +5,7 @@
 * 0 `0748Dhahabi.DhaylCibar`	%5 completed (Jonas)
 * 0 `0748Dhahabi.DhaylDiwanDucafa`	%6 completed (Jonas)
 * 0 `0748Dhahabi.DhikrAsmaManTakallama`	%7 in progress (Jonas)
-(* 0 `0748Dhahabi.DiwanDucafa`	%8
+* 0 `0748Dhahabi.DiwanDucafa`	%8
 * 0 `0748Dhahabi.Kashif`	%9
 * 0 `0748Dhahabi.MacrifaQurraKibar`	%10
 * 0 `0748Dhahabi.MizanIctidal`	%11
