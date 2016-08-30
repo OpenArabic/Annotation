@@ -1849,46 +1849,25 @@
 - **TOTAL: 10 titles, 4,806,999 words**
 
 
-### *SARF* (125 texts, 6,904,155 words)
+### *SARF* (143 texts, 19,242,451 words)
 
 - ~~6th century CE: 0 titles, 0 words~~
 - ~~7th century CE: 0 titles, 0 words~~
-- **8th century CE: 2 titles, 303,136 words**
-- **9th century CE: 2 titles, 268,707 words**
+- **8th century CE: 3 titles, 759,638 words**
+- **9th century CE: 6 titles, 758,470 words**
 - **10th century CE: 17 titles, 814,400 words**
-- **11th century CE: 16 titles, 1,079,132 words**
+- **11th century CE: 20 titles, 2,292,858 words**
 - **12th century CE: 10 titles, 387,864 words**
-- **13th century CE: 14 titles, 778,257 words**
-- **14th century CE: 19 titles, 981,731 words**
-- **15th century CE: 8 titles, 668,003 words**
+- **13th century CE: 17 titles, 1,933,136 words**
+- **14th century CE: 22 titles, 4,494,202 words**
+- **15th century CE: 9 titles, 1,247,701 words**
 - **16th century CE: 10 titles, 358,726 words**
-- **17th century CE: 3 titles, 22,292 words**
-- **18th century CE: 1 titles, 524,863 words**
+- **17th century CE: 4 titles, 608,646 words**
+- **18th century CE: 2 titles, 4,869,766 words**
 - **19th century CE: 2 titles, 25,295 words**
 - **20th century CE: 1 titles, 11,064 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **TOTAL: 125 titles, 6,904,155 words**
-
-
-### *SARH* (21 texts, 12,848,371 words)
-
-- ~~6th century CE: 0 titles, 0 words~~
-- ~~7th century CE: 0 titles, 0 words~~
-- **8th century CE: 1 titles, 456,502 words**
-- **9th century CE: 5 titles, 587,591 words**
-- ~~10th century CE: 0 titles, 0 words~~
-- **11th century CE: 4 titles, 1,213,726 words**
-- ~~12th century CE: 0 titles, 0 words~~
-- **13th century CE: 4 titles, 1,415,965 words**
-- **14th century CE: 4 titles, 3,663,632 words**
-- **15th century CE: 1 titles, 579,698 words**
-- ~~16th century CE: 0 titles, 0 words~~
-- **17th century CE: 1 titles, 586,354 words**
-- **18th century CE: 1 titles, 4,344,903 words**
-- ~~19th century CE: 0 titles, 0 words~~
-- ~~20th century CE: 0 titles, 0 words~~
-- ~~21st century CE: 0 titles, 0 words~~
-- **TOTAL: 21 titles, 12,848,371 words**
+- **TOTAL: 143 titles, 19,242,451 words**
 
 
 ### *SHAFICI* (67 texts, 46,379,011 words)
