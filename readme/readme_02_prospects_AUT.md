@@ -10,6 +10,6 @@
 | *Texts* | *Status* |
 |:--- | ------:|
 | In Progress (`.inProgress`) | 5 |
-| Tagged (`.completed`) | 41 |
+| Tagged (`.completed`) | 45 |
 | Vetted (`.mARkdown`) | 4 |
 | Converted to TEI XML  (`.xml`) | _pending_ |
