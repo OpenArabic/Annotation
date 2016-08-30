@@ -1,9 +1,9 @@
 # Top priority	%1
 
 * 0 `0748Dhahabi.CibarFiKhabar`	%3    completed
-* 0 `0748Dhahabi.Culuww`	%4
-* 0 `0748Dhahabi.DhaylCibar`	%5
-* 0 `0748Dhahabi.DhaylDiwanDucafa`	%6
+* 0 `0748Dhahabi.Culuww`	%4 completed (Jonas) 
+* 0 `0748Dhahabi.DhaylCibar`	%5 completed (Jonas)
+* 0 `0748Dhahabi.DhaylDiwanDucafa`	%6 ( in Progress - Jonas)
 * 0 `0748Dhahabi.DhikrAsmaManTakallama`	%7
 * 0 `0748Dhahabi.DiwanDucafa`	%8
 * 0 `0748Dhahabi.Kashif`	%9

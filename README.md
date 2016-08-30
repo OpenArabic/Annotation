@@ -1,28 +1,41 @@
 # OpenArabic Project (@ AvH Lehrstuhl für Digital Humanities, U Leipzig, led and curated by Maxim Romanov)
 
-**Contents**:
+**Short description**: a short description goes here — what, who, why, etc.
+
+**Team**: ... 
+
+
+
+# Contents
+
 - [General Description](#general-description)
 - [Prospects and Progress](#prospects-and-progress)
 - [Text Description Tags](#text-description-tags)
-- [Project/Folder Structure](#projectfolder-structure)
-- [General Description of the Workflow with `mARkdown`](#general-description-of-the-workflow-with-markdown)
+- [Folder structure](#folder-structure)
+- [General description of the workflow with mARkdown](#general-description-of-the-workflow-with-markdown)
 - [Status Report](#status-report)
-- [Text Included in the Coprus](#text-currently-included-in-the-coprus)
-- [Statistics on the Corpus](#statistics-on-the-corpus)
+- [List of books by centuries (626 titles)](#list-of-books-by-centuries-626-titles)
+- [Statistics on the corpus](#statistics-on-the-corpus)
+- [Summary statistics on the lengths of texts in the corpus](#summary-statistics-on-the-lengths-of-texts-in-the-corpus)
+- [Texts by length (duplicates excluded)](#texts-by-length-duplicates-excluded)
+- [Texts in chronological order (duplicates excluded)](#texts-in-chronological-order-duplicates-excluded)
+- [Chronological Distribution of Texts - up until 1930 (5,530 texts, 729,904,604 words)](#chronological-distribution-of-texts---up-until-1930-5530-texts-729904604-words)
+- [Forms, Themes, Genres (provisional assessment)](#forms-themes-genres-provisional-assessment)
 
-# General Description
 
-The goal of the project is to build a machine-actionable corpus of premodern texts in Arabic to encourage computational analysis of Arabic literary tradition. Currently, most of the text are historical texts (chronicles, biographical collections, geographical treatises and gazetteers, thematic dictionaries); if you are interested in having other genres and forms, please, get in touch with us.
 
-Most of the texts are coming from open online collections of premodern and modern Arabic texts, such as [http://shamela.ws/](http://shamela.ws/) and [http://shiaonlinelibrary.com/](http://shiaonlinelibrary.com/) (These texts have `Shamela+NUMBER` and `Shia+NUMBER`; some texts are coming from _al-Jāmiʿ al-kabīr_, which has been published on an external HDD and is not available online (`JK+NUMBER`). Initial metadata from these collections is preserved in the beginning of each file.
 
-Currently uploaded have been automatically converted from their initial formats into `mARkdown` format—a flavor of `markdown` for tagging premodern Arabic text; they all require further editing, so that the structure of each text is tagged properly; the detailed description of `mARkdown` scheme and the tagging workflow can be found [http://maximromanov.github.io/mARkdown/](http://maximromanov.github.io/mARkdown/). When manual tagging is complete text will be converted into CTS-compliant XML format.
+## General Description
 
-For the list of added books, see below (Mostly premodern chronicles, biographical collections, encyclopaedic dictionaries, gazetteers).
+The goal of OpenArabic is to build a machine-actionable corpus of premodern texts in Arabic to encourage computational analysis of the Arabic literary tradition. Currently, most of the texts are historical in nature (chronicles, biographical collections, geographical treatises and gazetteers, adab, and thematic dictionaries). If you are interested in having other genres and forms, please, get in touch with us.
 
-# Metadata 
+Most of the texts derive from open-access online collections of premodern and modern Arabic texts such as [http://shamela.ws/](http://shamela.ws/) and [http://shiaonlinelibrary.com/](http://shiaonlinelibrary.com/) (These texts have `Shamela+NUMBER` and `Shia+NUMBER`; some texts are coming from _al-Jāmiʿ al-kabīr_, which has been published on an external HDD and is not available online (`JK+NUMBER`). Initial metadata from these collections is preserved at the beginning of each file.
 
-# Prospects and Progress
+Currently uploaded texts have been automatically converted from their initial formats into a `mARkdown` format—a flavor of `markdown` for tagging premodern Arabic text. All of our texts require further editing to properly tag their structures. A detailed description of the `mARkdown` scheme and the tagging workflow can be found at [http://maximromanov.github.io/mARkdown/](http://maximromanov.github.io/mARkdown/). When manual tagging is complete our texts will be converted into a CTS-compliant XML format.
+
+For the list of books currently in our corpus, see below.
+
+## Prospects and Progress
 
 | *Texts* | *Status* |
 |:--- | ------:|
@@ -34,11 +47,12 @@ For the list of added books, see below (Mostly premodern chronicles, biographica
 | *Texts* | *Status* |
 |:--- | ------:|
 | In Progress (`.inProgress`) | 5 |
-| Completed (`.completed`) | 41 |
+| Tagged (`.completed`) | 41 |
 | Vetted (`.mARkdown`) | 4 |
 | Converted to TEI XML  (`.xml`) | _pending_ |
 
-# Text Description Tags
+
+## Text Description Tags
 
 Tags follow the URI of a text in the following format `(TAGS: TAG,TAG,TAG)`. Combinations of tags specify the description of the text, for example, `BIO` refers to 'a biographical text', but `BIO,COL` refers more specifically to 'a biographical collection'. 
 
@@ -62,7 +76,9 @@ Tags follow the URI of a text in the following format `(TAGS: TAG,TAG,TAG)`. Com
 *****************************
 **NB**: Title descriptions also have temporary tags (they start with `_`, an undescore), which are generated and updated automatically from the initial metadata. These tags are usefully suggestive, but not entirely reliable.
 
-# Project/Folder structure
+
+
+## Folder structure
 
 - everything is divided into centuries
 - each century includes `data` folder
@@ -82,9 +98,9 @@ Tags follow the URI of a text in the following format `(TAGS: TAG,TAG,TAG)`. Com
 			- [http://bib-alex.com/](http://bib-alex.com/), which has scanned books from the Bibliotheca Alexandrina (unfortunately, most files are stored on file-sharing services and lots of links are already dead)
 			- [http://wqf.me/](http://wqf.me/) for manuscripts (search is rather complicated though); most links lead to [archive.org](archive.org) as well.
 
-<!-- AUTOGENERATED CONTENT -->
 
-# General description of the workflow with mARkdown
+
+## General description of the workflow with mARkdown
 
 0. Have Github installed and setup on your computer.
 	1. Create a github account if you do not have one
@@ -134,14 +150,16 @@ Tags follow the URI of a text in the following format `(TAGS: TAG,TAG,TAG)`. Com
 
 These are the major steps.  Please, do not hesitate to contact the me if you have any questions, no matter how insignificant they may seem to you.
 
-# Status Report
- 
-* 50 titles;
-* 28,293,672 words;
-* 130,688 logical units;
-* 108,771 bios.
 
-## `*.inProgress` (5 titles: 7,728,642 words; 33,212 units; 24,351 bios)
+
+## Status Report
+ 
+* 50 titles
+* 28,293,672 words
+* 130,688 logical units
+* 108,771 bios
+
+### `*.inProgress` (5 titles: 7,728,642 words; 33,212 units; 24,351 bios)
 
 - `0230IbnSacd.TabaqatKubra (920,980 words; 6,386 units; 4,081 bios)`
 - `0256Bukhari.TarikhKabir (519,629 words; 15,061 units; 10,845 bios)`
@@ -149,7 +167,8 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - `0310Tabari.Tarikh (1,468,698 words; 554 units; 0 bios)`
 - `0764Safadi.WafiBiWafayat (1,968,791 words; 11,211 units; 9,425 bios)`
 
-## `*.completed` (41 titles: 19,238,656 words; 84,474 units; 72,439 bios)
+
+### `*.completed` (41 titles: 19,238,656 words; 84,474 units; 72,439 bios)
 
 - `0292Yacqubi.TarikhYacqubi (192,205 words; 139 units; 0 bios)`
 - `0355MuhammadKindi.WulatMisr (50,870 words; 131 units; 128 bios)`
@@ -193,700 +212,1333 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - `0774IbnKathir.TabaqatShaficiyyin (180,888 words; 965 units; 919 bios)`
 - `0900AbuCabdAllahHimyari.RawdMictar (360,474 words; 1,658 units; 1,614 bios)`
 
-## `*.mARkdown` (4 titles: 1,326,374 words; 13,002 units; 11,981 bios)
+
+### `*.mARkdown` (4 titles: 1,326,374 words; 13,002 units; 11,981 bios)
 
 - `0276IbnQutaybaDinawari.AdabKatib (69,366 words; 299 units; 0 bios)`
 - `0681IbnKhallikan.WafayatAcyan (677,511 words; 1,528 units; 862 bios)`
 - `1339IsmacilBashaBaghdadi.HadiyaCarifin (421,313 words; 8,842 units; 8,814 bios)`
 - `1450MawsucaShicriya.MucjamShucara (158,184 words; 2,333 units; 2,305 bios)`
 
+
+
+
 # Text currently included in the Coprus
 
 ## List of books by centuries (626 titles)
 
-* **0100AH [[ [Re]generated on 2016-08-28 (21:12:48) ]]**
 
-    * _no texts at the moment_
+* **0100AH [[ [Re]generated on 2016-08-29 (21:44:45) ]]**
 
-* **0200AH [[ [Re]generated on 2016-08-28 (21:12:48) ]]**
+ * _no texts at the moment_
 
-    * `0110HasanBasri.FadailMakka `
-    * `0195MuarrijSadusi.HadhfMinNasabQuraysh `
-    * `0200AbuShis.Diwan `
+* **0200AH [[ [Re]generated on 2016-08-29 (21:44:45) ]]**
 
-* **0300AH [[ [Re]generated on 2016-08-28 (21:12:48) ]]**
+ * `0110HasanBasri.FadailMakka `
+	- *TAGS: CENT0200, PPE, _AJZA, _BULDAN, _HADITH, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0195MuarrijSadusi.HadhfMinNasabQuraysh `
+	- *TAGS: CENT0200, GEN, PPE, _ANSAB, _BULDAN, _TARIKH*
+ * `0200AbuShis.Diwan `
+	- *TAGS: CENT0200, _SHICR_CABBASI, _SHICR*
 
-    * `0204IbnKalbi.AnsabKhayl `
-    * `0204IbnKalbi.JamharaAnsab `
-    * `0204IbnKalbi.NasabMacad `
-    * `0207Waqidi.FutuhSham `
-    * `0207Waqidi.Maghazi `
-    * `0207Waqidi.Ridda `
-    * `0209MacmarIbnMuthanna.Khayl `
-    * `0211AbuCatahiya.Diwan `
-    * `0213IbnHisham.SiraNabawiyya `
-    * `0213IbnHisham.Tijan `
-    * `0222IbnBakkarDabi.AkhbarWafidat `
-    * `0222IbnBakkarDabi.AkhbarWafidin `
-    * `0228IbnHammadKhuzaci.Fitan `
-    * `0230IbnSacd.TabaqatKubra `
-    * `0231IbnSallamJumahi.TabaqatFuhulShucara `
-    * `0233YahyaIbnMacin.MacrifaRijal `
-    * `0233YahyaIbnMacin.MinKalamFiRijal `
-    * `0233YahyaIbnMacin.TarikhIbnMacin `
-    * `0234AbuHasanSacdi.TasmiyaManRuwiya `
-    * `0236AbuCabdAllahZubayri.NasabQuraysh `
-    * `0240KhalifaIbnKhayyat.Tabaqat `
-    * `0240KhalifaIbnKhayyat.Tarikh `
-    * `0241IbnHanbal.AsamiWaKuna `
-    * `0241IbnHanbal.CilalWaMacrifa `
-    * `0241IbnHanbal.FadailSahaba `
-    * `0245MuhammadIbnHabib.MukhtalafQabail `
-    * `0245MuhammadIbnHabib.MunammaqFiAkhbarQuraysh `
-    * `0248AbuHatimSijistani.FuhulaShucara `
-    * `0249Azraqi.AkhbarMakka `
-    * `0255Jahiz.AmilWaMamul `
-    * `0255Jahiz.BayanWaTabyin `
-    * `0255Jahiz.Bighal `
-    * `0255Jahiz.Bukhala `
-    * `0255Jahiz.BursanWaCurjan `
-    * `0255Jahiz.Cuthmaniya `
-    * `0255Jahiz.Hayawan `
-    * `0255Jahiz.MahasinWaAddad `
-    * `0255Jahiz.MukhtarFiRaddCalaNasara `
-    * `0255Jahiz.Rasail `
-    * `0255Jahiz.TabsiraBiTijara `
-    * `0255Jahiz.TajFiAkhlaq `
-    * `0256Bukhari.Ducafa `
-    * `0256Bukhari.DucafaSaghir `
-    * `0256Bukhari.TarikhKabir `
-    * `0256Bukhari.TarikhSaghir `
-    * `0256ZubayrIbnBakkar.AkhbarMuwaffaqiyat `
-    * `0256ZubayrIbnBakkar.JamharaNasabQuraysh `
-    * `0256ZubayrIbnBakkar.Muntakhab `
-    * `0257IbnCabdHakam.FutuhMisr `
-    * `0259IbnYacqubJuzjani.AhwalRijal `
-    * `0261AbuHasanCijli.MacrifaThiqat `
-    * `0261Muslim.KunaWaAsma `
-    * `0261Muslim.Munfaridat `
-    * `0262AbuZaydNumayri.TarikhMadina `
-    * `0264AbyZurca.Ducafa `
-    * `0272Fakihi.AkhbarMakka `
-    * `0276IbnQutaybaDinawari.AdabKatib `
-    * `0276IbnQutaybaDinawari.Macarif `
-    * `0277AbuHatimRazi.JarhWaTacdil `
-    * `0277IbnSyfyanFasawi.MacrifaWaTarikh `
-    * `0279Baladhuri.AnsabAshraf `
-    * `0279Baladhuri.FutuhBuldan `
-    * `0279IbnAbiKhaythama.TarikhKabir `
-    * `0280IbnTayfur.Baghdad `
-    * `0280IbnTayfur.BallaghatNisa `
-    * `0281AbuZurcaDimashqi.Tarikh `
-    * `0282AbuHanifaDinawari.AkhbarTiwal `
-    * `0286Mubarrad.NasabCadnan `
-    * `0287Dahhak.AhadWaMathani `
-    * `0292Bahshal.TarikhWasit `
-    * `0292Yacqubi.Buldan `
-    * `0292Yacqubi.TarikhYacqubi `
-    * `0296IbnMuctazz.Diwan `
-    * `0296IbnMuctazz.TabaqatShucara `
-    * `0296MuhammadIbnJarrah.ManIsmuhCamr `
-    * `0300IbnKhurdadhbih.MasalikWaMamalik `
-    * `0300MuallifMajhul.AkhbarDawlaCabbasiya `
+* **0300AH [[ [Re]generated on 2016-08-29 (21:44:45) ]]**
 
-* **0400AH [[ [Re]generated on 2016-08-28 (21:12:48) ]]**
+ * `0204IbnKalbi.AnsabKhayl `
+	- *TAGS: CENT0300, GEN, PPE, _ADAB, _BALAGHA, _GHARIB, _MACAJIM, _MUSTALAHAT*
+ * `0204IbnKalbi.JamharaAnsab `
+	- *TAGS: CENT0300, GEN, PPE, _ANSAB, _BULDAN, _TARIKH*
+ * `0204IbnKalbi.NasabMacad `
+	- *TAGS: CENT0300, GEN, PPE, _ANSAB, _BULDAN, _TARIKH*
+ * `0207Waqidi.FutuhSham `
+	- *TAGS: CENT0300, PPE, _BULDAN, _TARIKH*
+ * `0207Waqidi.Maghazi `
+	- *TAGS: CENT0300, PPE, _ASHAB, _SHAMAIL, _SIRA*
+ * `0207Waqidi.Ridda `
+	- *TAGS: CENT0300, PPE, _TARIKH*
+ * `0209MacmarIbnMuthanna.Khayl `
+	- *TAGS: CENT0300, PPE, _ADAB, _BALAGHA, _GHARIB, _MACAJIM, _MUSTALAHAT*
+ * `0211AbuCatahiya.Diwan `
+	- *TAGS: CENT0300, _SHICR_CABBASI, _SHICR*
+ * `0213IbnHisham.SiraNabawiyya `
+	- *TAGS: BIO, CENT0300, DHB, PPE, _ASHAB, _IMAM, _NABI, _SHAMAIL, _SIRA*
+ * `0213IbnHisham.Tijan `
+	- *TAGS: CENT0300, PPE, _TARIKH*
+ * `0222IbnBakkarDabi.AkhbarWafidat `
+	- *TAGS: CENT0300, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0222IbnBakkarDabi.AkhbarWafidin `
+	- *TAGS: CENT0300, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0228IbnHammadKhuzaci.Fitan `
+	- *TAGS: CENT0300, _AJZA, _CAQAID, _HADITH, _MILAL, _TARIKH*
+ * `0230IbnSacd.TabaqatKubra `
+	- *TAGS: BIO, CENT0300, COL, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM*
+ * `0231IbnSallamJumahi.TabaqatFuhulShucara `
+	- *TAGS: CENT0300, PPE, _ADAB, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0233YahyaIbnMacin.MacrifaRijal `
+	- *TAGS: CENT0300, PPE, _TABAQAT, _TARAJIM*
+ * `0233YahyaIbnMacin.MinKalamFiRijal `
+	- *TAGS: CENT0300, PPE, _CILAL, _HADITH, _SUALAT, _TARAJIM*
+ * `0233YahyaIbnMacin.TarikhIbnMacin `
+	- *TAGS: CENT0300, PPE, _HADITH, _SUALAT, _SUNNI, _TABAQAT, _TARAJIM*
+ * `0234AbuHasanSacdi.TasmiyaManRuwiya `
+	- *TAGS: CENT0300, PPE, _HADITH, _MISC, _TABAQAT, _TARAJIM*
+ * `0236AbuCabdAllahZubayri.NasabQuraysh `
+	- *TAGS: CENT0300, _ANSAB, _TARAJIM, _TARIKH*
+ * `0240KhalifaIbnKhayyat.Tabaqat `
+	- *TAGS: CENT0300, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM*
+ * `0240KhalifaIbnKhayyat.Tarikh `
+	- *TAGS: CENT0300, PPE, _HADITH, _SUNNI, _TARAJIM, _TARIKH*
+ * `0241IbnHanbal.AsamiWaKuna `
+	- *TAGS: CENT0300, PPE, _HADITH, _TABAQAT, _TARAJIM*
+ * `0241IbnHanbal.CilalWaMacrifa `
+	- *TAGS: CENT0300, PPE, _AHKAM, _CILAL, _DACIF, _HADITH, _MAWDUC, _SUALAT, _SUNNI, _TARAJIM*
+ * `0241IbnHanbal.FadailSahaba `
+	- *TAGS: CENT0300, PPE, _ASHAB, _HADITH, _SIRA, _TABAQAT, _TARAJIM*
+ * `0245MuhammadIbnHabib.MukhtalafQabail `
+	- *TAGS: CENT0300, GEN, PPE, _ANSAB, _BULDAN, _TARIKH*
+ * `0245MuhammadIbnHabib.MunammaqFiAkhbarQuraysh `
+	- *TAGS: CENT0300, _BULDAN, _TARIKH*
+ * `0248AbuHatimSijistani.FuhulaShucara `
+	- *TAGS: CENT0300, _TARAJIM, _TARIKH*
+ * `0249Azraqi.AkhbarMakka `
+	- *TAGS: CENT0300, PPE, _BULDAN, _HADITH, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0255Jahiz.AmilWaMamul `
+	- *TAGS: CENT0300, SBS, _ADAB, _BALAGHA, _QISAS, _TARAIF*
+ * `0255Jahiz.BayanWaTabyin `
+	- *TAGS: CENT0300, SBS, _ADAB, _ADAB, _BALAGHA, _FASAHA*
+ * `0255Jahiz.Bighal `
+	- *TAGS: CENT0300, SBS, _ADAB, _BALAGHA, _GHARIB, _MACAJIM, _MUSTALAHAT*
+ * `0255Jahiz.Bukhala `
+	- *TAGS: CENT0300, SBS, _ADAB, _ADAB, _BALAGHA, _QISAS, _TARAIF*
+ * `0255Jahiz.BursanWaCurjan `
+	- *TAGS: CENT0300, SBS, _ADAB, _BALAGHA, _TARAJIM, _TARIKH*
+ * `0255Jahiz.Cuthmaniya `
+	- *TAGS: CENT0300, SBS, _FARQ, _RUDUD, _TARIKH*
+ * `0255Jahiz.Hayawan `
+	- *TAGS: CENT0300, SBS, _ADAB, _BALAGHA, _CULUM, _TIBB*
+ * `0255Jahiz.MahasinWaAddad `
+	- *TAGS: CENT0300, SBS, _ADAB, _ADAB, _BALAGHA, _QISAS, _TARAIF*
+ * `0255Jahiz.MukhtarFiRaddCalaNasara `
+	- *TAGS: CENT0300, _FARQ, _RUDUD*
+ * `0255Jahiz.Rasail `
+	- *TAGS: CENT0300, SBS, _ADAB, _BALAGHA*
+ * `0255Jahiz.TabsiraBiTijara `
+	- *TAGS: CENT0300, SBS, _ADAB, _BULDAN, _JUGHRAFIYA, _QISAS, _RIHLAT, _TARAIF*
+ * `0255Jahiz.TajFiAkhlaq `
+	- *TAGS: CENT0300, SBS, _ADAB, _BALAGHA, _SIYASA*
+ * `0256Bukhari.Ducafa `
+	- *TAGS: CENT0300, PPE, _TABAQAT, _TARAJIM*
+ * `0256Bukhari.DucafaSaghir `
+	- *TAGS: BIO, CENT0300, HAD, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM*
+ * `0256Bukhari.TarikhKabir `
+	- *TAGS: CENT0300, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM*
+ * `0256Bukhari.TarikhSaghir `
+	- *TAGS: CENT0300, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM*
+ * `0256ZubayrIbnBakkar.AkhbarMuwaffaqiyat `
+	- *TAGS: CENT0300, PPE, _AJZA, _HADITH*
+ * `0256ZubayrIbnBakkar.JamharaNasabQuraysh `
+	- *TAGS: CENT0300, PPE, _ANSAB, _BULDAN, _TARIKH*
+ * `0256ZubayrIbnBakkar.Muntakhab `
+	- *TAGS: CENT0300, PPE, _AJZA, _ASHAB, _HADITH, _SIRA, _TABAQAT, _TARAJIM*
+ * `0257IbnCabdHakam.FutuhMisr `
+	- *TAGS: CENT0300, PPE, _BULDAN, _TARIKH*
+ * `0259IbnYacqubJuzjani.AhwalRijal `
+	- *TAGS: CENT0300, PPE, _HADITH, _TABAQAT, _TARAJIM*
+ * `0261AbuHasanCijli.MacrifaThiqat `
+	- *TAGS: CENT0300, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM, _THIQAT*
+ * `0261Muslim.KunaWaAsma `
+	- *TAGS: CENT0300, PPE, _HADITH, _TABAQAT, _TARAJIM*
+ * `0261Muslim.Munfaridat `
+	- *TAGS: CENT0300, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM*
+ * `0262AbuZaydNumayri.TarikhMadina `
+	- *TAGS: CENT0300, PPE, _BULDAN, _HADITH, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0264AbyZurca.Ducafa `
+	- *TAGS: CENT0300, _HADITH, _SUALAT, _TARAJIM*
+ * `0272Fakihi.AkhbarMakka `
+	- *TAGS: CENT0300, PPE, _BULDAN, _HADITH, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0276IbnQutaybaDinawari.AdabKatib `
+	- *TAGS: CENT0300, SBS, _ADAB, _ADAB, _BALAGHA, _CARUD, _KITABA*
+ * `0276IbnQutaybaDinawari.Macarif `
+	- *TAGS: CENT0300, PPE, _ANSAB, _MACAJIM, _TARIKH*
+ * `0277AbuHatimRazi.JarhWaTacdil `
+	- *TAGS: CENT0400, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM*
+ * `0277IbnSyfyanFasawi.MacrifaWaTarikh `
+	- *TAGS: CENT0300, PPE, _HADITH, _MISC, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0279Baladhuri.AnsabAshraf `
+	- *TAGS: CENT0300, GEN, PPE, _ANSAB, _BULDAN, _MACAJIM, _TARIKH*
+ * `0279Baladhuri.FutuhBuldan `
+	- *TAGS: CENT0300, PPE, _BULDAN, _TARIKH*
+ * `0279IbnAbiKhaythama.TarikhKabir `
+	- *TAGS: CENT0300, PPE, _BULDAN, _HADITH, _TABAQAT, _TARAJIM*
+ * `0280IbnTayfur.Baghdad `
+	- *TAGS: CENT0300, PPE, _BULDAN, _HADITH, _TABAQAT, _TARAJIM*
+ * `0280IbnTayfur.BallaghatNisa `
+	- *TAGS: CENT0300, CENT0400, _ADAB, _ADAB, _BALAGHA, _CHRONOMULTIPLE, _FASAHA, _TARIKH*
+ * `0281AbuZurcaDimashqi.Tarikh `
+	- *TAGS: CENT0300, PPE, _HADITH, _TARAJIM, _TARIKH*
+ * `0282AbuHanifaDinawari.AkhbarTiwal `
+	- *TAGS: CENT0300, PPE, _HADITH, _SUNNI, _TARAJIM, _TARIKH*
+ * `0286Mubarrad.NasabCadnan `
+	- *TAGS: CENT0300, GEN, PPE, _ANSAB, _BULDAN, _TARIKH*
+ * `0287Dahhak.AhadWaMathani `
+	- *TAGS: CENT0300, PPE, _HADITH, _MACAJIM, _MASANID, _SUNNI, _TABAQAT, _TARAJIM*
+ * `0292Bahshal.TarikhWasit `
+	- *TAGS: CENT0300, PPE, _BULDAN, _HADITH, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0292Yacqubi.Buldan `
+	- *TAGS: CENT0300, PPE, _BULDAN, _JUGHRAFIYA, _RIHLAT, _TARIKH*
+ * `0292Yacqubi.TarikhYacqubi `
+	- *TAGS: CENT0300, PPE, _TARIKH*
+ * `0296IbnMuctazz.Diwan `
+	- *TAGS: CENT0300, _SHICR_CABBASI, _SHICR*
+ * `0296IbnMuctazz.TabaqatShucara `
+	- *TAGS: CENT0300, PPE, _TABAQAT, _TARAJIM*
+ * `0296MuhammadIbnJarrah.ManIsmuhCamr `
+	- *TAGS: CENT0300, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0300IbnKhurdadhbih.MasalikWaMamalik `
+	- *TAGS: CENT0300, GEO, PPE, _BULDAN, _JUGHRAFIYA, _MUDHAKKARAT, _RIHLAT, _TARIKH*
+ * `0300MuallifMajhul.AkhbarDawlaCabbasiya `
+	- *TAGS: CENT0300, PPE, _TARIKH*
 
-    * `0301Bardiji.TabaqatAsma `
-    * `0303Nasai.DucafaWaMatrukin `
-    * `0303Nasai.FadailSahaba `
-    * `0303Nasai.Tabaqat `
-    * `0303Nasai.TasmiyaFuqaha `
-    * `0303Nasai.TasmiyaManLamYarwi `
-    * `0303Nasai.TasmiyaShuyukh `
-    * `0306IbnHayyanDabbi.AkhbarQudat `
-    * `0308IbnIbrahimJundi.FadailMadina `
-    * `0308IbnIbrahimJundi.FadailMadina `
-    * `0309IbnFadlan.Rihla `
-    * `0310IbnAhmadDulabi.Dhariyya `
-    * `0310IbnAhmadDulabi.KunaWaAsma `
-    * `0310Tabari.JamicBayan `
-    * `0310Tabari.MuntakhabMinDhayl `
-    * `0310Tabari.Tarikh `
-    * `0317AbuQasimBaghawi.MucjamSahaba `
-    * `0317AbuQasimBaghawi.TarikhWafatShuyukh `
-    * `0318AbuCurubaHarrani.MuntaqaMinTabaqat `
-    * `0320CaribQurtubi.SilaTarikhTabari `
-    * `0322AbuJacfarCuqayli.DucafaKabir `
-    * `0322KatibBaghdadi.TarikhAimma `
-    * `0330Sirafi.Rihla `
-    * `0333AbuCarabTamimi.Mihan `
-    * `0333AbuCarabTamimi.TabaqatCulama `
-    * `0334IbnHaikHamdani.Iklil `
-    * `0334IbnHaikHamdani.SifaJaziraCarab `
-    * `0334IbnSacidQushayri.TarikhRaqqa `
-    * `0337IbnIshaqZajjaji.Akhbar `
-    * `0346Istakhri.MasalikWaMamalik `
-    * `0346Mascudi.AkhbarZaman `
-    * `0346Mascudi.MurujDhahab `
-    * `0346Mascudi.TanbihWaIshraf `
-    * `0347IbnYunusSadafi.Tarikh `
-    * `0349IbnCumarMuqri.AkhbarNahwiyyin `
-    * `0351IbnQanic.MucjamSahaba `
-    * `0354IbnHibban.Majruhin `
-    * `0354IbnHibban.MashahirCulamaAmsar `
-    * `0354IbnHibban.Sira `
-    * `0354IbnHibban.Thiqat `
-    * `0355AbuFarajIsbahani.Aghani `
-    * `0355AbuFarajIsbahani.Diyarat `
-    * `0355MuhammadKindi.FadailMisr `
-    * `0355MuhammadKindi.WulatMisr `
-    * `0360Khawlani.TarikhDaraya `
-    * `0360Tabarani.MucjamKabir `
-    * `0365IbnCadiJurjani.AsamiManRawaCanhum `
-    * `0365IbnCadiJurjani.KamilFiDucafa `
-    * `0365IbnFaqihHamadhani.Buldan `
-    * `0367IbnHawqal.SuraArd `
-    * `0368AbuGhalibZurari.Risala `
-    * `0368Sirafi.AkhbarNahwiyyin `
-    * `0369AbuShaykhIsbahani.TabaqatMuhaddithin `
-    * `0370IbnBishrAmidi.MutalifWaMukhtalif `
-    * `0371AhmadJurjani.Mucjam `
-    * `0372AbuSacidQayruwani.TahdhibMudawwana `
-    * `0374IbnHusaynAzdi.AsmaManYucrafBiKunya `
-    * `0374IbnHusaynAzdi.DhikrIsmKullAshab `
-    * `0374IbnHusaynAzdi.KunaLiManLaYucrafLahuIsm `
-    * `0374IbnHusaynAzdi.Makhzun `
-    * `0374IbnHusaynAzdi.ManWafaqaIsmuhuIsmAbihi `
-    * `0379MuhammadRabci.TarikhMawlidCulama `
-    * `0380Muhallabi.MasalikWaMamalik `
-    * `0382IbnCabdAllahCaskari.AkhbarMusahhifin `
-    * `0384IbnCimranMarzubani.MucjamShucara `
-    * `0385Daruqutni.DhikrAsmaTabicin `
-    * `0385Daruqutni.Ducafa `
-    * `0385Daruqutni.MutalifWaMukhtalif `
-    * `0385Daruqutni.SualatBarqani `
-    * `0385Daruqutni.SualatNaysaburi `
-    * `0385IbnNadim.Fihrist `
-    * `0385IbnShahin.TarikhAsmaDucafa `
-    * `0385IbnShahin.TarikhAsmaThiqat `
-    * `0388Shabushti.Diyarat `
-    * `0390Muqaddasi.AhsanTaqasim `
-    * `0395AbuHilalCaskari.Talkhis `
-    * `0395IbnMandahMuhammad.Asami `
-    * `0395IbnMandahMuhammad.FathBab `
-    * `0395IbnMandahMuhammad.MacrifaSahaba `
-    * `0398AbuNasrKalabadhi.HidayaWaIrshad `
-    * `0400IbnTahirMaqdisi.BadWaTarikh `
-    * `0400IshaqMunajjim.AkamMarjan `
+* **0400AH [[ [Re]generated on 2016-08-29 (21:44:45) ]]**
 
-* **0500AH [[ [Re]generated on 2016-08-28 (21:12:48) ]]**
+ * `0301Bardiji.TabaqatAsma `
+	- *TAGS: CENT0400, PPE, _HADITH, _TABAQAT, _TARAJIM*
+ * `0303Nasai.DucafaWaMatrukin `
+	- *TAGS: CENT0400, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM*
+ * `0303Nasai.FadailSahaba `
+	- *TAGS: CENT0400, PPE, _ASHAB, _FIQH, _HADITH, _SIRA, _SUNNI, _TABAQAT, _TARAJIM*
+ * `0303Nasai.Tabaqat `
+	- *TAGS: CENT0400, PPE, _HADITH, _TABAQAT, _TARAJIM*
+ * `0303Nasai.TasmiyaFuqaha `
+	- *TAGS: CENT0400, PPE, _HADITH, _TABAQAT, _TARAJIM, _THIQAT*
+ * `0303Nasai.TasmiyaManLamYarwi `
+	- *TAGS: CENT0400, PPE, _CULUM, _HADITH, _MISC, _MUSTALAHAT, _SUNNI, _TABAQAT, _TARAJIM*
+ * `0303Nasai.TasmiyaShuyukh `
+	- *TAGS: CENT0400, PPE, _HADITH, _TABAQAT, _TARAJIM*
+ * `0306IbnHayyanDabbi.AkhbarQudat `
+	- *TAGS: CENT0400, PPE, _ANSAB, _MACAJIM, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0308IbnIbrahimJundi.FadailMadina `
+	- *TAGS: CENT0400, _AJZA, _BULDAN, _HADITH, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0308IbnIbrahimJundi.FadailMadina `
+	- *TAGS: CENT0400, _TARIKH*
+ * `0309IbnFadlan.Rihla `
+	- *TAGS: CENT0400, GEO, PPE, _BULDAN, _JUGHRAFIYA, _MUDHAKKARAT, _RIHLAT, _TARIKH*
+ * `0310IbnAhmadDulabi.Dhariyya `
+	- *TAGS: CENT0400, PPE, _ASHAB, _HADITH, _SIRA, _SUNNI, _TABAQAT, _TARAJIM*
+ * `0310IbnAhmadDulabi.KunaWaAsma `
+	- *TAGS: CENT0400, PPE, _HADITH, _TARAJIM*
+ * `0310Tabari.JamicBayan `
+	- *TAGS: CENT0400, SBS, _AHKAM, _CULUM, _HADITH, _QURAN, _SUNNI, _TAFSIR*
+ * `0310Tabari.MuntakhabMinDhayl `
+	- *TAGS: CENT0400, PPE, _MISC, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0310Tabari.Tarikh `
+	- *TAGS: CENT0400, CHR, PPE, _TARIKH*
+ * `0317AbuQasimBaghawi.MucjamSahaba `
+	- *TAGS: CENT0400, PPE, _TABAQAT, _TARAJIM*
+ * `0317AbuQasimBaghawi.TarikhWafatShuyukh `
+	- *TAGS: BIO, CENT0400, PPE, _AJZA, _HADITH*
+ * `0318AbuCurubaHarrani.MuntaqaMinTabaqat `
+	- *TAGS: CENT0400, PPE, _AJZA, _HADITH, _TABAQAT, _TARAJIM*
+ * `0320CaribQurtubi.SilaTarikhTabari `
+	- *TAGS: CENT0400, CHR, PPE, _TARIKH*
+ * `0322AbuJacfarCuqayli.DucafaKabir `
+	- *TAGS: CENT0400, PPE, _CILAL, _HADITH, _SUALAT, _SUNNI, _TARAJIM*
+ * `0322KatibBaghdadi.TarikhAimma `
+	- *TAGS: CENT0400, _HADITH, _SHICI*
+ * `0330Sirafi.Rihla `
+	- *TAGS: CENT0400, GEO, PPE, _BULDAN, _JUGHRAFIYA, _RIHLAT*
+ * `0333AbuCarabTamimi.Mihan `
+	- *TAGS: CENT0400, PPE, _MISC, _TARIKH*
+ * `0333AbuCarabTamimi.TabaqatCulama `
+	- *TAGS: BIO, CENT0400, COL, PPE, _TABAQAT, _TARAJIM*
+ * `0334IbnHaikHamdani.Iklil `
+	- *TAGS: CENT0400, _ANSAB, _MISC*
+ * `0334IbnHaikHamdani.SifaJaziraCarab `
+	- *TAGS: CENT0400, _BULDAN, _GHARIB, _JUGHRAFIYA, _MACAJIM, _MUSTALAHAT, _RIHLAT*
+ * `0334IbnSacidQushayri.TarikhRaqqa `
+	- *TAGS: CENT0400, PPE, _AJZA, _HADITH*
+ * `0337IbnIshaqZajjaji.Akhbar `
+	- *TAGS: CENT0400, _NAHW, _SARF, _TARAJIM, _TARIKH*
+ * `0346Istakhri.MasalikWaMamalik `
+	- *TAGS: CENT0400, GEO, PPE, _BULDAN, _JUGHRAFIYA, _MUDHAKKARAT, _RIHLAT, _TARIKH*
+ * `0346Mascudi.AkhbarZaman `
+	- *TAGS: CENT0400, PPE, _TARIKH*
+ * `0346Mascudi.MurujDhahab `
+	- *TAGS: CENT0400, PPE, _MISC*
+ * `0346Mascudi.TanbihWaIshraf `
+	- *TAGS: CENT0400, _MISC, _TARIKH*
+ * `0347IbnYunusSadafi.Tarikh `
+	- *TAGS: CENT0400, PPE, _TABAQAT, _TARAJIM*
+ * `0349IbnCumarMuqri.AkhbarNahwiyyin `
+	- *TAGS: CENT0400, PPE, _AJZA, _HADITH, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0351IbnQanic.MucjamSahaba `
+	- *TAGS: CENT0400, PPE, _HADITH, _TABAQAT, _TARAJIM*
+ * `0354IbnHibban.Majruhin `
+	- *TAGS: CENT0400, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM*
+ * `0354IbnHibban.MashahirCulamaAmsar `
+	- *TAGS: CENT0400, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM, _THIQAT*
+ * `0354IbnHibban.Sira `
+	- *TAGS: CENT0400, PPE, _SHAMAIL, _SIRA*
+ * `0354IbnHibban.Thiqat `
+	- *TAGS: CENT0400, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM, _THIQAT*
+ * `0355AbuFarajIsbahani.Aghani `
+	- *TAGS: CENT0400, PPE, _ADAB, _TARAJIM, _TARIKH*
+ * `0355AbuFarajIsbahani.Diyarat `
+	- *TAGS: CENT0400, GEO, PPE, _BULDAN, _JUGHRAFIYA, _RIHLAT, _TARIKH*
+ * `0355MuhammadKindi.FadailMisr `
+	- *TAGS: CENT0400, PPE, _BULDAN, _JUGHRAFIYA, _RIHLAT, _TARIKH*
+ * `0355MuhammadKindi.WulatMisr `
+	- *TAGS: BIO, CENT0400, COL, PPE, _BULDAN, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0360Khawlani.TarikhDaraya `
+	- *TAGS: CENT0400, HIS, PPE, _BULDAN, _HADITH, _TARIKH*
+ * `0360Tabarani.MucjamKabir `
+	- *TAGS: CENT0400, COL, HAD, PPE, _HADITH, _MACAJIM, _MASANID, _SUNNI, _TARAJIM*
+ * `0365IbnCadiJurjani.AsamiManRawaCanhum `
+	- *TAGS: CENT0400, PPE, _HADITH, _TABAQAT, _TARAJIM*
+ * `0365IbnCadiJurjani.KamilFiDucafa `
+	- *TAGS: CENT0400, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM*
+ * `0365IbnFaqihHamadhani.Buldan `
+	- *TAGS: CENT0400, PPE, _BULDAN, _JUGHRAFIYA, _RIHLAT*
+ * `0367IbnHawqal.SuraArd `
+	- *TAGS: CENT0400, GEO, PPE, _BULDAN, _JUGHRAFIYA, _RIHLAT*
+ * `0368AbuGhalibZurari.Risala `
+	- *TAGS: BIO, CENT0400, PPE, SHC, _HADITH, _SHICI, _TARAJIM*
+ * `0368Sirafi.AkhbarNahwiyyin `
+	- *TAGS: CENT0400, PPE, _TABAQAT, _TARAJIM*
+ * `0369AbuShaykhIsbahani.TabaqatMuhaddithin `
+	- *TAGS: CENT0400, PPE, _BULDAN, _HADITH, _SUNNI, _TABAQAT, _TARAJIM*
+ * `0370IbnBishrAmidi.MutalifWaMukhtalif `
+	- *TAGS: BIO, CENT0400, PPE, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0371AhmadJurjani.Mucjam `
+	- *TAGS: CENT0400, _HADITH, _MACAJIM, _MASANID, _TARAJIM*
+ * `0372AbuSacidQayruwani.TahdhibMudawwana `
+	- *TAGS: CENT0400, _FIQH, _MALIKI*
+ * `0374IbnHusaynAzdi.AsmaManYucrafBiKunya `
+	- *TAGS: CENT0400, PPE, _HADITH, _TABAQAT, _TARAJIM*
+ * `0374IbnHusaynAzdi.DhikrIsmKullAshab `
+	- *TAGS: CENT0400, _TABAQAT, _TARAJIM*
+ * `0374IbnHusaynAzdi.KunaLiManLaYucrafLahuIsm `
+	- *TAGS: CENT0400, PPE, _TABAQAT, _TARAJIM*
+ * `0374IbnHusaynAzdi.Makhzun `
+	- *TAGS: CENT0400, HAD, PPE, _CULUM, _HADITH, _MUSTALAHAT, _TARAJIM*
+ * `0374IbnHusaynAzdi.ManWafaqaIsmuhuIsmAbihi `
+	- *TAGS: CENT0400, PPE, _HADITH, _MISC, _TABAQAT, _TARAJIM*
+ * `0379MuhammadRabci.TarikhMawlidCulama `
+	- *TAGS: BIO, CENT0400, COL, PPE, _HADITH, _TABAQAT, _TARAJIM*
+ * `0380Muhallabi.MasalikWaMamalik `
+	- *TAGS: CENT0400, GEO, PPE, _BULDAN, _JUGHRAFIYA, _RIHLAT*
+ * `0382IbnCabdAllahCaskari.AkhbarMusahhifin `
+	- *TAGS: CENT0400, PPE, _HADITH, _LUGHA, _SUNNI, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0384IbnCimranMarzubani.MucjamShucara `
+	- *TAGS: CENT0400, PPE, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0385Daruqutni.DhikrAsmaTabicin `
+	- *TAGS: CENT0400, PPE, _HADITH, _TABAQAT, _TARAJIM*
+ * `0385Daruqutni.Ducafa `
+	- *TAGS: CENT0400, PPE, _TABAQAT, _TARAJIM*
+ * `0385Daruqutni.MutalifWaMukhtalif `
+	- *TAGS: CENT0400, PPE, _TABAQAT, _TARAJIM*
+ * `0385Daruqutni.SualatBarqani `
+	- *TAGS: CENT0400, PPE, _CILAL, _HADITH, _SUALAT, _SUNNI, _TARAJIM*
+ * `0385Daruqutni.SualatNaysaburi `
+	- *TAGS: CENT0400, PPE, _CILAL, _HADITH, _SUALAT, _SUNNI, _TARAJIM*
+ * `0385IbnNadim.Fihrist `
+	- *TAGS: BIB, CENT0400, PPE, _ADILLA, _FAHARIS, _KUTUB, _MACAJIM*
+ * `0385IbnShahin.TarikhAsmaDucafa `
+	- *TAGS: CENT0400, PPE, _TABAQAT, _TARAJIM*
+ * `0385IbnShahin.TarikhAsmaThiqat `
+	- *TAGS: CENT0400, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM, _THIQAT*
+ * `0388Shabushti.Diyarat `
+	- *TAGS: CENT0400, GEO, PPE, _BULDAN, _JUGHRAFIYA, _RIHLAT, _TARIKH*
+ * `0390Muqaddasi.AhsanTaqasim `
+	- *TAGS: CENT0400, GEO, PPE, _BULDAN, _JUGHRAFIYA, _MUDHAKKARAT, _RIHLAT, _TARIKH*
+ * `0395AbuHilalCaskari.Talkhis `
+	- *TAGS: CENT0400, _FIQH, _GHARIB, _MACAJIM, _MUSTALAHAT*
+ * `0395IbnMandahMuhammad.Asami `
+	- *TAGS: CENT0400, PPE, _AJZA, _HADITH*
+ * `0395IbnMandahMuhammad.FathBab `
+	- *TAGS: CENT0400, PPE, _HADITH, _TABAQAT, _TARAJIM*
+ * `0395IbnMandahMuhammad.MacrifaSahaba `
+	- *TAGS: CENT0400, PPE, _TABAQAT, _TARAJIM*
+ * `0398AbuNasrKalabadhi.HidayaWaIrshad `
+	- *TAGS: CENT0400, PPE, _HADITH, _TABAQAT, _TARAJIM*
+ * `0400IbnTahirMaqdisi.BadWaTarikh `
+	- *TAGS: CENT0600, PPE, _TARIKH*
+ * `0400IshaqMunajjim.AkamMarjan `
+	- *TAGS: CENT0400, _BULDAN, _JUGHRAFIYA, _RIHLAT*
 
-    * `0402MuhammadSaydawi.MucjamShuyukh `
-    * `0403IbnFaradi.TarikhCulamaAndalus `
-    * `0405AbuFadlHarawi.MucjamFiMushtabah `
-    * `0405HakimNaysaburi.TalkhisTarikhNaysabur `
-    * `0405HakimNaysaburi.TasmiyaManAkhrajahum `
-    * `0409CabdGhaniAzdi.KitabMutawarin `
-    * `0412Sulami.TabaqatSufiya `
-    * `0418WazirMaghribi.AdabKhawas `
-    * `0418WazirMaghribi.Inas `
-    * `0421IbnMuhammadMarzuqi.AzminaWaAmkina `
-    * `0421Miskawayh.Tajarib `
-    * `0427HamzaJurjani.TarikhJurjan `
-    * `0428IbnManjuwayhIsbahani.RijalSahihMuslim `
-    * `0429AbuMansurThacalibi.YatimaDahr `
-    * `0429Thacalibi.ThimarQulub `
-    * `0430AbuNucaymIsbahani.DhikrManIsmuhuShucba `
-    * `0430AbuNucaymIsbahani.Ducafa `
-    * `0430AbuNucaymIsbahani.HilyaAwliya `
-    * `0430AbuNucaymIsbahani.MacrifaSahaba `
-    * `0430AbuNucaymIsbahani.TarikhIsbahan `
-    * `0430AbuNucaymIsbahani.TasmiyaMaIntahaIlayna `
-    * `0436HusaynSaymari.AkhbarAbiHanifa `
-    * `0440AbuRayhanBiruni.TahqiqMaLilHind `
-    * `0442Tanukhi.TarikhCulamaNahwiyyin `
-    * `0444AbuFadlIbnMahdi.DhikrShuyukh `
-    * `0446AbuYaclaKhalili.IrshadFiMacrifaCulama `
-    * `0448HilalSabi.TuhfaUmara `
-    * `0449AbuCalaMacarri.Diwan `
-    * `0450Najashi.Rijal `
-    * `0456IbnHazm.AsmaKhulafa `
-    * `0456IbnHazm.FadailAndalus `
-    * `0456IbnHazm.JamharaAnsab `
-    * `0456IbnHazm.NaqtCarus `
-    * `0456IbnHazm.RisalaFiFutuhIslam `
-    * `0456IbnHazm.RisalaFiMaratibCulum `
-    * `0456IbnHazm.UmmahatKhulafa `
-    * `0458Bayhaqi.DalailNubuwwa `
-    * `0460ShaykhTusi.IkhtiyarMacrifaRijal `
-    * `0460ShaykhTusi.Rijal `
-    * `0463IbnCabdBarr.InbahCalaQabail `
-    * `0463IbnCabdBarr.IsticabFiMacrifaAshab `
-    * `0463KhatibBaghdadi.GhunyaMultamis `
-    * `0463KhatibBaghdadi.MuttafiqWaMuftariq `
-    * `0463KhatibBaghdadi.SabiqWaLahiq `
-    * `0463KhatibBaghdadi.TalkhisMutashabih `
-    * `0463KhatibBaghdadi.TarikhBaghdad `
-    * `0466CabdAzizKattani.DhaylTarikhMawlidCulama `
-    * `0469IbnHayyanQurtubi.Muqtabas `
-    * `0474IbnKhalafBaji.TacdilWaTakhrij `
-    * `0475IbnMakula.IkmalFiRafcIrtiyab `
-    * `0475IbnMakula.TahdhibMustamirr `
-    * `0476AbuIshaqShirazi.TabaqatFuqaha `
-    * `0482AbuIshaqHabbal.WafayatMisriyyin `
-    * `0487AbuCubaydBakri.MasalikWaMamalik `
-    * `0487AbuCubaydBakri.MucjamMaIstacjama `
-    * `0488IbnFutuhHumaydi.JadhwaMuqtabis `
-    * `0498AbuCaliJayyani.AlqabSahaba `
-    * `0498AbuCaliJayyani.TaqyidMuhmal `
+* **0500AH [[ [Re]generated on 2016-08-29 (21:44:45) ]]**
 
-* **0600AH [[ [Re]generated on 2016-08-28 (21:12:48) ]]**
+ * `0402MuhammadSaydawi.MucjamShuyukh `
+	- *TAGS: CENT0500, _HADITH, _MACAJIM, _MASANID, _TABAQAT, _TARAJIM*
+ * `0403IbnFaradi.TarikhCulamaAndalus `
+	- *TAGS: CENT0500, PPE, _BULDAN, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0405AbuFadlHarawi.MucjamFiMushtabah `
+	- *TAGS: CENT0500, PPE, _HADITH, _MISC, _TABAQAT, _TARAJIM*
+ * `0405HakimNaysaburi.TalkhisTarikhNaysabur `
+	- *TAGS: CENT0500, PPE, _TABAQAT, _TARAJIM*
+ * `0405HakimNaysaburi.TasmiyaManAkhrajahum `
+	- *TAGS: CENT0500, PPE, _HADITH, _TABAQAT, _TARAJIM*
+ * `0409CabdGhaniAzdi.KitabMutawarin `
+	- *TAGS: CENT0500, _TARIKH*
+ * `0412Sulami.TabaqatSufiya `
+	- *TAGS: CENT0500, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT*
+ * `0418WazirMaghribi.AdabKhawas `
+	- *TAGS: CENT0500, _ADAB, _BALAGHA, _MISC*
+ * `0418WazirMaghribi.Inas `
+	- *TAGS: CENT0500, GEN, PPE, _ANSAB, _TARIKH*
+ * `0421IbnMuhammadMarzuqi.AzminaWaAmkina `
+	- *TAGS: CENT0500, GEO, PPE, _ADAB, _BALAGHA, _GHARIB, _MACAJIM, _MASAIL, _MUSTALAHAT*
+ * `0421Miskawayh.Tajarib `
+	- *TAGS: CENT0500, PPE, _TARIKH*
+ * `0427HamzaJurjani.TarikhJurjan `
+	- *TAGS: CENT0500, PPE, _BULDAN, _HADITH, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0428IbnManjuwayhIsbahani.RijalSahihMuslim `
+	- *TAGS: CENT0500, PPE, _HADITH, _TABAQAT, _TARAJIM*
+ * `0429AbuMansurThacalibi.YatimaDahr `
+	- *TAGS: CENT0500, PPE, _ADAB, _SHICR, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0429Thacalibi.ThimarQulub `
+	- *TAGS: CENT0500, SBS, _ADAB, _ADAB, _AMTHAL, _BALAGHA*
+ * `0430AbuNucaymIsbahani.DhikrManIsmuhuShucba `
+	- *TAGS: CENT0500, PPE, _AJZA, _HADITH, _MISC, _TARAJIM*
+ * `0430AbuNucaymIsbahani.Ducafa `
+	- *TAGS: CENT0500, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM*
+ * `0430AbuNucaymIsbahani.HilyaAwliya `
+	- *TAGS: CENT0500, PPE, _HADITH, _TABAQAT, _TARAJIM*
+ * `0430AbuNucaymIsbahani.MacrifaSahaba `
+	- *TAGS: CENT0500, PPE, _HADITH, _TABAQAT, _TARAJIM*
+ * `0430AbuNucaymIsbahani.TarikhIsbahan `
+	- *TAGS: CENT0500, PPE, _BULDAN, _HADITH, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0430AbuNucaymIsbahani.TasmiyaMaIntahaIlayna `
+	- *TAGS: CENT0500, PPE, _AJZA, _HADITH, _SUNNI, _TABAQAT, _TARAJIM*
+ * `0436HusaynSaymari.AkhbarAbiHanifa `
+	- *TAGS: CENT0500, PPE, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0440AbuRayhanBiruni.TahqiqMaLilHind `
+	- *TAGS: CENT0500, _BULDAN, _CAQAID, _FIRAQ, _JUGHRAFIYA, _MILAL, _RIHLAT*
+ * `0442Tanukhi.TarikhCulamaNahwiyyin `
+	- *TAGS: CENT0500, PPE, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0444AbuFadlIbnMahdi.DhikrShuyukh `
+	- *TAGS: CENT0500, _HADITH, _MAKHTUTAT*
+ * `0446AbuYaclaKhalili.IrshadFiMacrifaCulama `
+	- *TAGS: CENT0500, PPE, _HADITH, _MUSTALAHAT, _TABAQAT, _TARAJIM*
+ * `0448HilalSabi.TuhfaUmara `
+	- *TAGS: CENT0500, PPE, _TARAJIM, _TARIKH*
+ * `0449AbuCalaMacarri.Diwan `
+	- *TAGS: CENT0500, _SHICR_CABBASI, _SHICR*
+ * `0450Najashi.Rijal `
+	- *TAGS: BIO, CENT0500, PPE, SHC, _HADITH, _SHICI, _TARAJIM*
+ * `0456IbnHazm.AsmaKhulafa `
+	- *TAGS: CENT0500, PPE, _TARAJIM, _TARIKH*
+ * `0456IbnHazm.FadailAndalus `
+	- *TAGS: CENT0500, PPE, _BULDAN, _JUGHRAFIYA, _RIHLAT, _TARIKH*
+ * `0456IbnHazm.JamharaAnsab `
+	- *TAGS: CENT0500, PPE, _ANSAB, _TARAJIM, _TARIKH*
+ * `0456IbnHazm.NaqtCarus `
+	- *TAGS: CENT0500, PPE, _TARAJIM, _TARIKH*
+ * `0456IbnHazm.RisalaFiFutuhIslam `
+	- *TAGS: CENT0500, _TARIKH*
+ * `0456IbnHazm.RisalaFiMaratibCulum `
+	- *TAGS: BIB, CENT0500, PPE, _FAHARIS, _KUTUB*
+ * `0456IbnHazm.UmmahatKhulafa `
+	- *TAGS: CENT0500, PPE, _TARAJIM, _TARIKH*
+ * `0458Bayhaqi.DalailNubuwwa `
+	- *TAGS: CENT0500, DHB, PPE, _ASHAB, _CAQAID, _HADITH, _SHAMAIL, _SIRA*
+ * `0460ShaykhTusi.IkhtiyarMacrifaRijal `
+	- *TAGS: CENT0500, PPE, SHC, _HADITH, _SHICI, _TARAJIM*
+ * `0460ShaykhTusi.Rijal `
+	- *TAGS: CENT0500, PPE, SHC, _HADITH, _SHICI, _TARAJIM*
+ * `0463IbnCabdBarr.InbahCalaQabail `
+	- *TAGS: CENT0500, _ANSAB, _HADITH, _SUNNI, _TARIKH*
+ * `0463IbnCabdBarr.IsticabFiMacrifaAshab `
+	- *TAGS: BIO, CENT0500, COL, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM*
+ * `0463KhatibBaghdadi.GhunyaMultamis `
+	- *TAGS: CENT0500, PPE, _HADITH, _TABAQAT, _TARAJIM*
+ * `0463KhatibBaghdadi.MuttafiqWaMuftariq `
+	- *TAGS: CENT0500, PPE, _TABAQAT, _TARAJIM*
+ * `0463KhatibBaghdadi.SabiqWaLahiq `
+	- *TAGS: CENT0500, _CULUM, _HADITH*
+ * `0463KhatibBaghdadi.TalkhisMutashabih `
+	- *TAGS: CENT0500, _HADITH, _MISC, _MUSTALAHAT, _TABAQAT, _TARAJIM*
+ * `0463KhatibBaghdadi.TarikhBaghdad `
+	- *TAGS: BIO, CENT0500, COL, DHB, PPE, _BULDAN, _HADITH, _SUNNI, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0466CabdAzizKattani.DhaylTarikhMawlidCulama `
+	- *TAGS: CENT0500, PPE, _HADITH, _TABAQAT, _TARAJIM*
+ * `0469IbnHayyanQurtubi.Muqtabas `
+	- *TAGS: CENT0500, PPE, _BULDAN, _TARIKH*
+ * `0474IbnKhalafBaji.TacdilWaTakhrij `
+	- *TAGS: CENT0500, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM*
+ * `0475IbnMakula.IkmalFiRafcIrtiyab `
+	- *TAGS: CENT0500, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM*
+ * `0475IbnMakula.TahdhibMustamirr `
+	- *TAGS: CENT0500, PPE, _HADITH, _MISC, _TABAQAT, _TARAJIM*
+ * `0476AbuIshaqShirazi.TabaqatFuqaha `
+	- *TAGS: BIO, CENT0500, COL, PPE, _FIQH, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0482AbuIshaqHabbal.WafayatMisriyyin `
+	- *TAGS: CENT0500, PPE, _BULDAN, _HADITH, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0487AbuCubaydBakri.MasalikWaMamalik `
+	- *TAGS: CENT0500, GEO, PPE, _BULDAN, _JUGHRAFIYA, _RIHLAT*
+ * `0487AbuCubaydBakri.MucjamMaIstacjama `
+	- *TAGS: CENT0500, _BULDAN, _FAHARIS, _GHARIB, _JUGHRAFIYA, _LUGHA, _MACAJIM, _MUSTALAHAT, _NAHW, _RIHLAT, _SARH*
+ * `0488IbnFutuhHumaydi.JadhwaMuqtabis `
+	- *TAGS: CENT0500, PPE, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0498AbuCaliJayyani.AlqabSahaba `
+	- *TAGS: CENT0500, PPE, _HADITH, _TABAQAT, _TARAJIM*
+ * `0498AbuCaliJayyani.TaqyidMuhmal `
+	- *TAGS: CENT0500, PPE, _HADITH, _MISC, _TABAQAT, _TARAJIM*
 
-    * `0507AbuBakrShashi.HilyaCulama `
-    * `0507IbnQaysarani.AnsabMuttafiqa `
-    * `0508FattalNaysaburi.RawdaWacizin `
-    * `0511IbnMandahYahya.MacrifaAsamiArdaf `
-    * `0511SalmaSahari.Ansab `
-    * `0515IbnQattac.DurraKhatira `
-    * `0521IbnAbiYacla.TabaqatHanabila `
-    * `0521MuhammadHamadhani.TakmilaTarikhTabari `
-    * `0524IbnAkfani.DhaylDhaylTarikhMawlidCulama `
-    * `0528FathIbnKhaqan.QalaidCiqyan `
-    * `0535QawwamSunna.DalailNubuwwa `
-    * `0535QawwamSunna.SiyarSalaf `
-    * `0538MahmudZamakhshari.JibalWaAmkina `
-    * `0541IbnCatiyyaMuharibi.Fahrasa `
-    * `0542IbnBassamShantarini.Dhakhira `
-    * `0544CiyadIbnMusaYahsubi.Ghunya `
-    * `0544CiyadIbnMusaYahsubi.TartibMadarik `
-    * `0550AbuHajjajAshcari.TacrifBiAnsab `
-    * `0555IbnQalanisi.Tarikh `
-    * `0560SharifIdrisi.NuzhaMushtaq `
-    * `0561Samcani.Ansab `
-    * `0561Samcani.Muntakhab `
-    * `0561Samcani.Tahbir `
-    * `0565IbnZaydBayhaqi.LubabAnsab `
-    * `0565IbnZaydBayhaqi.TarikhBayhaq `
-    * `0565IbnZaydBayhaqi.TatimmaSiwanHikma `
-    * `0567IbnKhashshabBaghdadi.TarikhMawalidAimma `
-    * `0569CumaraHakami.NukatCasriyya `
-    * `0571IbnCasakir.MucjamShuyukh `
-    * `0571IbnCasakir.TarikhDimashq `
-    * `0573NashwanHimyari.KhulasaSiyar `
-    * `0575IbnBabawayh.Fihrist `
-    * `0575IbnKhayrIshbili.Fahrasa `
-    * `0576IbnMuhammadSilafi.Mashyakha `
-    * `0576IbnMuhammadSilafi.MashyakhaBaghdadiyya `
-    * `0576IbnMuhammadSilafi.MucjamSafar `
-    * `0576IbnMuhammadSilafi.Wajiz `
-    * `0577IbnAnbari.NuzhaAlibba `
-    * `0578IbnBashkuwal.GhawamidAsma `
-    * `0578IbnBashkuwal.Sila `
-    * `0580IbnCimrani.InbaFiTarikhKhulafa `
-    * `0584IbnMunqidhShayzari.Ictibar `
-    * `0584IbnMusaHazimi.Amakin `
-    * `0584IbnMusaHazimi.CujalaMubtadi `
-    * `0597CimadDinKatib.BarqShami `
-    * `0597CimadDinKatib.KharidaQasr `
-    * `0597IbnJawzi.DucafaWaMatrukin `
-    * `0597IbnJawzi.FadailQuds `
-    * `0597IbnJawzi.Mashyakha `
-    * `0597IbnJawzi.Muntazam `
-    * `0597IbnJawzi.MuthirGharam `
-    * `0597IbnJawzi.SifaSafwa `
-    * `0597IbnJawzi.TalqihFuhum `
-    * `0597IbnJawzi.TarikhBaytMuqaddas `
-    * `0599IbnYahyaDabbi.BughyaMultamis `
-    * `0600AbuBaqaHilli.ManaqibMazidiya `
-    * `0600KatibMarrakushi.Istibsar `
+* **0600AH [[ [Re]generated on 2016-08-29 (21:44:45) ]]**
 
-* **0700AH [[ [Re]generated on 2016-08-28 (21:12:48) ]]**
+ * `0507AbuBakrShashi.HilyaCulama `
+	- *TAGS: CENT0600, PPE, _FIQH, _SHAFICI*
+ * `0507IbnQaysarani.AnsabMuttafiqa `
+	- *TAGS: CENT0600, PPE, _ANSAB, _HADITH, _MISC, _TABAQAT, _TARAJIM*
+ * `0508FattalNaysaburi.RawdaWacizin `
+	- *TAGS: CENT0600, PPE, SHC, _HADITH, _SHICI*
+ * `0511IbnMandahYahya.MacrifaAsamiArdaf `
+	- *TAGS: CENT0600, PPE, _HADITH, _MISC, _TABAQAT, _TARAJIM*
+ * `0511SalmaSahari.Ansab `
+	- *TAGS: CENT0600, _ANSAB, _BULDAN, _TARIKH*
+ * `0515IbnQattac.DurraKhatira `
+	- *TAGS: CENT0600, _TABAQAT, _TARAJIM*
+ * `0521IbnAbiYacla.TabaqatHanabila `
+	- *TAGS: BIO, CENT0600, COL, PPE, _CAQAID, _FIQH, _MILAL, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0521MuhammadHamadhani.TakmilaTarikhTabari `
+	- *TAGS: CENT0600, PPE, _TARIKH*
+ * `0524IbnAkfani.DhaylDhaylTarikhMawlidCulama `
+	- *TAGS: CENT0600, PPE, _HADITH, _TABAQAT, _TARAJIM*
+ * `0528FathIbnKhaqan.QalaidCiqyan `
+	- *TAGS: CENT0300, _TABAQAT, _TARAJIM*
+ * `0535QawwamSunna.DalailNubuwwa `
+	- *TAGS: CENT0600, PPE, _ASHAB, _CAQAID, _HADITH, _SHAMAIL, _SIRA, _SUNNI, _TABAQAT, _TARAJIM*
+ * `0535QawwamSunna.SiyarSalaf `
+	- *TAGS: BIO, CENT0600, PPE, _TABAQAT, _TARAJIM*
+ * `0538MahmudZamakhshari.JibalWaAmkina `
+	- *TAGS: CENT0600, GEO, PPE, _BULDAN, _JUGHRAFIYA, _RIHLAT*
+ * `0541IbnCatiyyaMuharibi.Fahrasa `
+	- *TAGS: CENT0600, PPE, _ADILLA, _FAHARIS, _KUTUB*
+ * `0542IbnBassamShantarini.Dhakhira `
+	- *TAGS: CENT0600, PPE, _ADAB, _BULDAN, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0544CiyadIbnMusaYahsubi.Ghunya `
+	- *TAGS: CENT0600, PPE, _AJZA, _HADITH*
+ * `0544CiyadIbnMusaYahsubi.TartibMadarik `
+	- *TAGS: BIO, CENT0600, COL, PPE, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0550AbuHajjajAshcari.TacrifBiAnsab `
+	- *TAGS: CENT0600, PPE, _ANSAB, _BULDAN, _TARIKH*
+ * `0555IbnQalanisi.Tarikh `
+	- *TAGS: BIO, CENT0600, PPE, _TARIKH*
+ * `0560SharifIdrisi.NuzhaMushtaq `
+	- *TAGS: CENT0600, _BULDAN, _JUGHRAFIYA, _MUDHAKKARAT, _RIHLAT, _TARIKH*
+ * `0561Samcani.Ansab `
+	- *TAGS: CENT0600, COL, DHB, ONO, PPE, _ANSAB, _MACAJIM, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0561Samcani.Muntakhab `
+	- *TAGS: CENT0600, PPE, _TABAQAT, _TARAJIM*
+ * `0561Samcani.Tahbir `
+	- *TAGS: CENT0600, PPE, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0565IbnZaydBayhaqi.LubabAnsab `
+	- *TAGS: CENT0600, PPE, _ANSAB, _MISC*
+ * `0565IbnZaydBayhaqi.TarikhBayhaq `
+	- *TAGS: CENT0600, PPE, _TABAQAT, _TARAJIM*
+ * `0565IbnZaydBayhaqi.TatimmaSiwanHikma `
+	- *TAGS: CENT0600, PPE, _MISC, _TABAQAT, _TARAJIM*
+ * `0567IbnKhashshabBaghdadi.TarikhMawalidAimma `
+	- *TAGS: CENT0600, _HADITH, _SHICI*
+ * `0569CumaraHakami.NukatCasriyya `
+	- *TAGS: CENT0600, PPE, _ADAB, _BALAGHA*
+ * `0571IbnCasakir.MucjamShuyukh `
+	- *TAGS: CENT0600, PPE, _HADITH*
+ * `0571IbnCasakir.TarikhDimashq `
+	- *TAGS: BIO, CENT0600, COL, PPE, _BULDAN, _HADITH, _SUNNI, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0573NashwanHimyari.KhulasaSiyar `
+	- *TAGS: CENT0600, _TARAJIM, _TARIKH*
+ * `0575IbnBabawayh.Fihrist `
+	- *TAGS: CENT0600, PPE, SHC, _HADITH, _SHICI, _TARAJIM*
+ * `0575IbnKhayrIshbili.Fahrasa `
+	- *TAGS: CENT0600, PPE, _ADILLA, _FAHARIS, _KUTUB*
+ * `0576IbnMuhammadSilafi.Mashyakha `
+	- *TAGS: CENT0600, PPE, _AJZA, _HADITH, _MISC, _TARAJIM*
+ * `0576IbnMuhammadSilafi.MashyakhaBaghdadiyya `
+	- *TAGS: CENT0600, PPE, _HADITH, _MAKHTUTAT*
+ * `0576IbnMuhammadSilafi.MucjamSafar `
+	- *TAGS: BIO, CENT0600, COL, PPE, _ADAB, _BALAGHA, _HADITH, _MISC, _TABAQAT, _TARAJIM*
+ * `0576IbnMuhammadSilafi.Wajiz `
+	- *TAGS: CENT0600, PPE, _HADITH, _MUSTALAHAT, _TABAQAT, _TARAJIM*
+ * `0577IbnAnbari.NuzhaAlibba `
+	- *TAGS: CENT0600, PPE, _TABAQAT, _TARAJIM*
+ * `0578IbnBashkuwal.GhawamidAsma `
+	- *TAGS: CENT0600, PPE, _HADITH, _MISC, _TABAQAT, _TARAJIM*
+ * `0578IbnBashkuwal.Sila `
+	- *TAGS: BIO, CENT0600, COL, PPE, _TARAJIM, _TARIKH*
+ * `0580IbnCimrani.InbaFiTarikhKhulafa `
+	- *TAGS: CENT0600, HIS, PPE, _TARIKH*
+ * `0584IbnMunqidhShayzari.Ictibar `
+	- *TAGS: CENT0600, _TARAJIM, _TARIKH*
+ * `0584IbnMusaHazimi.Amakin `
+	- *TAGS: CENT0600, GEO, PPE, _BULDAN, _GHARIB, _JUGHRAFIYA, _MACAJIM, _MUSTALAHAT, _RIHLAT*
+ * `0584IbnMusaHazimi.CujalaMubtadi `
+	- *TAGS: CENT0600, GEN, PPE, _ANSAB, _MISC*
+ * `0597CimadDinKatib.BarqShami `
+	- *TAGS: CENT0600, PPE, _BULDAN, _TARIKH*
+ * `0597CimadDinKatib.KharidaQasr `
+	- *TAGS: CENT0600, COL, POE, PPE, _ADAB, _ADAB, _BALAGHA, _TARAJIM, _TARIKH*
+ * `0597IbnJawzi.DucafaWaMatrukin `
+	- *TAGS: CENT0600, PPE, _HADITH, _TABAQAT, _TARAJIM*
+ * `0597IbnJawzi.FadailQuds `
+	- *TAGS: CENT0600, _BULDAN, _JUGHRAFIYA, _RIHLAT, _TARIKH*
+ * `0597IbnJawzi.Mashyakha `
+	- *TAGS: BIO, CENT0600, PPE, _AJZA, _HADITH*
+ * `0597IbnJawzi.Muntazam `
+	- *TAGS: BIO, CENT0600, CHR, COL, DHB, PPE, _TARIKH*
+ * `0597IbnJawzi.MuthirGharam `
+	- *TAGS: CENT0600, GEO, PPE, _BULDAN, _JUGHRAFIYA, _RIHLAT*
+ * `0597IbnJawzi.SifaSafwa `
+	- *TAGS: BIO, CENT0600, COL, PPE, _ADAB, _ADHKAR, _FIQH, _MISC, _RAQAIQ, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT*
+ * `0597IbnJawzi.TalqihFuhum `
+	- *TAGS: CENT0600, PPE, _TARIKH*
+ * `0597IbnJawzi.TarikhBaytMuqaddas `
+	- *TAGS: CENT0600, PPE, _BULDAN, _TARIKH*
+ * `0599IbnYahyaDabbi.BughyaMultamis `
+	- *TAGS: CENT0600, PPE, _TABAQAT, _TARAJIM*
+ * `0600AbuBaqaHilli.ManaqibMazidiya `
+	- *TAGS: CENT0600, _TARAJIM, _TARIKH*
+ * `0600KatibMarrakushi.Istibsar `
+	- *TAGS: CENT0600, _BULDAN, _JUGHRAFIYA, _RIHLAT*
 
-    * `0606IbnMamati.LataifDhakhira `
-    * `0611CaliHarawi.Isharat `
-    * `0611SharafDinMuqaddasi.Arbacin `
-    * `0614IbnJubayr.Rihla `
-    * `0615MuwaffaqDinShafici.MurshidZuwwar `
-    * `0617MansurIbnShahanshah.MidmarHaqaiq `
-    * `0623Qazwini.Tadwin `
-    * `0626YaqutHamawi.Khazal `
-    * `0626YaqutHamawi.MucjamBuldan `
-    * `0626YaqutHamawi.MucjamUdaba `
-    * `0628IbnCaliSanhaji.AkhbarMuluk `
-    * `0629IbnNuqta.IfadaWaIctibar `
-    * `0629IbnNuqta.TakmilaIkmal `
-    * `0629IbnNuqta.TaqyidLiMacrifa `
-    * `0630IbnAthirCizzDin.Kamil `
-    * `0630IbnAthirCizzDin.LubabFiTahdhibAnsab `
-    * `0630IbnAthirCizzDin.UsdGhaba `
-    * `0632AbyHafsSuhrawardi.Mashyakha `
-    * `0632IsmacilMarwazi.FakhriFiAnsab `
-    * `0637IbnMustafwi.TarikhIrbil `
-    * `0639AbuBakrMalaqi.MatlacAnwar `
-    * `0640AbuHafsDunaysiri.TarikhDunaysir `
-    * `0641Sarifini.Muntakhab `
-    * `0642IbnNajjar.DhaylTarikhBaghdad `
-    * `0643DiyaDinMuqaddasi.FadailBaytMaqdis `
-    * `0643DiyaDinMuqaddasi.JuzAwham `
-    * `0643IbnSalahShahrazuri.TabaqatFuqaha `
-    * `0645TilimsaniBurri.Jawhara `
-    * `0646IbnQifti.IkhbarCulama `
-    * `0646IbnQifti.InbahRuwat `
-    * `0646IbnQifti.Muhammadun `
-    * `0647CabdWahidMarrakushi.Mucjib `
-    * `0650IbnNazifHamawi.TarikhMansuri `
-    * `0657IbnIbrahimIrbili.MudhakaraFiAlqab `
-    * `0658IbnAbbar.HullaSiyara `
-    * `0658IbnAbbar.MucjamAshab `
-    * `0658IbnAbbar.TakmilaLiSila `
-    * `0658IbnAbbar.TuhfaQadim `
-    * `0659SainDinNaccal.Mashyakha `
-    * `0660IbnCadim.BughyatTalib `
-    * `0660IbnCadim.ZubdaHalab `
-    * `0662RashidAttar.NuzhatNazir `
-    * `0665AbuShama.Rawdatayn `
-    * `0668IbnAbiUsaybica.CuyunAnba `
-    * `0673AbuMahasinYaghmuri.NurQabas `
-    * `0676Nawawi.TahdhibAsma `
-    * `0677SahibTaji.HalbaFiAsmaKhayl `
-    * `0680IbnSabuni.TakmilaIkmalIkmal `
-    * `0681IbnKhallikan.WafayatAcyan `
-    * `0682ZakariyaQazwini.AtharBilad `
-    * `0684IbnShaddad.AclaqKhatira `
-    * `0685IbnCibri.TarikhMukhtasarDuwal `
-    * `0685IbnSacidMaghribi.GhusunYanica `
-    * `0685IbnSacidMaghribi.Jughrafiya `
-    * `0685IbnSacidMaghribi.Mughrib `
-    * `0690IbnMujawirDimashqi.TarikhMustabsir `
-    * `0691IbnYusufLabli.Fihrist `
-    * `0694MuhibbDinTabari.Dhakhair `
-    * `0694MuhibbDinTabari.RiyadNadira `
-    * `0695IbnCidhariMarrakushi.BayanMaghrib `
-    * `0696Dabbagh.MacalimIman `
-    * `0696IbnZahiri.Mashyakha `
+* **0700AH [[ [Re]generated on 2016-08-29 (21:44:45) ]]**
 
-* **0800AH [[ [Re]generated on 2016-08-28 (21:12:48) ]]**
+ * `0606IbnMamati.LataifDhakhira `
+	- *TAGS: CENT0700, PPE, _TABAQAT, _TARAJIM*
+ * `0611CaliHarawi.Isharat `
+	- *TAGS: CENT0700, GEO, PPE, _BULDAN, _JUGHRAFIYA, _RIHLAT*
+ * `0611SharafDinMuqaddasi.Arbacin `
+	- *TAGS: CENT0700, PPE, _AJZA, _HADITH*
+ * `0614IbnJubayr.Rihla `
+	- *TAGS: CENT0700, GEO, PPE, _BULDAN, _JUGHRAFIYA, _MUDHAKKARAT, _RIHLAT, _TARIKH*
+ * `0615MuwaffaqDinShafici.MurshidZuwwar `
+	- *TAGS: CENT0700, GEO, PPE, _BULDAN, _JUGHRAFIYA, _RIHLAT*
+ * `0617MansurIbnShahanshah.MidmarHaqaiq `
+	- *TAGS: CENT0700, PPE, _MISC, _TARIKH*
+ * `0623Qazwini.Tadwin `
+	- *TAGS: CENT0700, PPE, _BULDAN, _HADITH, _TARAJIM, _TARIKH*
+ * `0626YaqutHamawi.Khazal `
+	- *TAGS: CENT0700, GEO, PPE, _BULDAN, _JUGHRAFIYA, _RIHLAT*
+ * `0626YaqutHamawi.MucjamBuldan `
+	- *TAGS: CENT0700, COL, GEO, PPE, _ANSAB, _BULDAN, _FAHARIS, _GHARIB, _JUGHRAFIYA, _MACAJIM, _MUSTALAHAT, _RIHLAT*
+ * `0626YaqutHamawi.MucjamUdaba `
+	- *TAGS: BIO, CENT0700, COL, POE, PPE, _ADAB, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0628IbnCaliSanhaji.AkhbarMuluk `
+	- *TAGS: CENT0700, _BULDAN, _TARIKH*
+ * `0629IbnNuqta.IfadaWaIctibar `
+	- *TAGS: CENT0700, _BULDAN, _JUGHRAFIYA, _RIHLAT*
+ * `0629IbnNuqta.TakmilaIkmal `
+	- *TAGS: CENT0700, PPE, _HADITH, _MISC, _TABAQAT, _TARAJIM*
+ * `0629IbnNuqta.TaqyidLiMacrifa `
+	- *TAGS: BIO, CENT0700, COL, PPE, _FAHARIS, _KUTUB, _TABAQAT, _TARAJIM*
+ * `0630IbnAthirCizzDin.Kamil `
+	- *TAGS: CENT0700, CHR, PPE, _TARIKH*
+ * `0630IbnAthirCizzDin.LubabFiTahdhibAnsab `
+	- *TAGS: CENT0700, COL, ONO, PPE, _ANSAB, _HADITH, _MACAJIM, _MISC, _TARAJIM*
+ * `0630IbnAthirCizzDin.UsdGhaba `
+	- *TAGS: CENT0700, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM*
+ * `0632AbyHafsSuhrawardi.Mashyakha `
+	- *TAGS: CENT0700, PPE, _AJZA, _HADITH*
+ * `0632IsmacilMarwazi.FakhriFiAnsab `
+	- *TAGS: CENT0700, _BULDAN, _TARIKH*
+ * `0637IbnMustafwi.TarikhIrbil `
+	- *TAGS: CENT0700, PPE, _BULDAN, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0639AbuBakrMalaqi.MatlacAnwar `
+	- *TAGS: CENT0700, PPE, _TABAQAT, _TARAJIM*
+ * `0640AbuHafsDunaysiri.TarikhDunaysir `
+	- *TAGS: CENT0700, PPE, _AJZA, _HADITH*
+ * `0641Sarifini.Muntakhab `
+	- *TAGS: CENT0700, PPE, _BULDAN, _HADITH, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0642IbnNajjar.DhaylTarikhBaghdad `
+	- *TAGS: BIO, CENT0700, COL, PPE, _BULDAN, _HADITH, _SUNNI, _TARAJIM*
+ * `0643DiyaDinMuqaddasi.FadailBaytMaqdis `
+	- *TAGS: CENT0700, _AJZA, _BULDAN, _HADITH, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0643DiyaDinMuqaddasi.JuzAwham `
+	- *TAGS: CENT0700, PPE, _HADITH, _MISC, _TABAQAT, _TARAJIM*
+ * `0643IbnSalahShahrazuri.TabaqatFuqaha `
+	- *TAGS: BIO, CENT0700, COL, PPE, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0645TilimsaniBurri.Jawhara `
+	- *TAGS: CENT0700, GEN, PPE, _ANSAB, _BULDAN, _TARIKH*
+ * `0646IbnQifti.IkhbarCulama `
+	- *TAGS: CENT0700, PPE, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0646IbnQifti.InbahRuwat `
+	- *TAGS: CENT0700, PPE, _TABAQAT, _TARAJIM*
+ * `0646IbnQifti.Muhammadun `
+	- *TAGS: CENT0700, PPE, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0647CabdWahidMarrakushi.Mucjib `
+	- *TAGS: CENT0700, PPE, _BULDAN, _TARIKH*
+ * `0650IbnNazifHamawi.TarikhMansuri `
+	- *TAGS: CENT0700, PPE, _TARIKH*
+ * `0657IbnIbrahimIrbili.MudhakaraFiAlqab `
+	- *TAGS: CENT0700, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0658IbnAbbar.HullaSiyara `
+	- *TAGS: CENT0700, PPE, _BULDAN, _TARIKH*
+ * `0658IbnAbbar.MucjamAshab `
+	- *TAGS: CENT0700, PPE, _AJZA, _HADITH, _TABAQAT, _TARAJIM*
+ * `0658IbnAbbar.TakmilaLiSila `
+	- *TAGS: BIO, CENT0700, COL, PPE, _TARIKH*
+ * `0658IbnAbbar.TuhfaQadim `
+	- *TAGS: CENT0700, PPE, _MISC, _TABAQAT, _TARAJIM*
+ * `0659SainDinNaccal.Mashyakha `
+	- *TAGS: CENT0700, PPE, _AJZA, _HADITH*
+ * `0660IbnCadim.BughyatTalib `
+	- *TAGS: CENT0700, PPE, _BULDAN, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0660IbnCadim.ZubdaHalab `
+	- *TAGS: CENT0700, PPE, _BULDAN, _TARIKH*
+ * `0662RashidAttar.NuzhatNazir `
+	- *TAGS: CENT0700, _AJZA, _HADITH*
+ * `0665AbuShama.Rawdatayn `
+	- *TAGS: CENT0700, PPE, _BULDAN, _TARIKH*
+ * `0668IbnAbiUsaybica.CuyunAnba `
+	- *TAGS: BIO, CENT0700, COL, PPE, _ANSAB, _MACAJIM, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT*
+ * `0673AbuMahasinYaghmuri.NurQabas `
+	- *TAGS: CENT0700, PPE, _MISC, _TABAQAT, _TARAJIM*
+ * `0676Nawawi.TahdhibAsma `
+	- *TAGS: CENT0700, PPE, _GHARIB, _LUGHA, _MACAJIM, _MISC, _MUSTALAHAT, _TABAQAT, _TARAJIM*
+ * `0677SahibTaji.HalbaFiAsmaKhayl `
+	- *TAGS: CENT0300, _GHARIB, _MACAJIM, _MASAIL, _MUSTALAHAT*
+ * `0680IbnSabuni.TakmilaIkmalIkmal `
+	- *TAGS: CENT0700, ONO, PPE, _HADITH, _MISC, _TABAQAT, _TARAJIM*
+ * `0681IbnKhallikan.WafayatAcyan `
+	- *TAGS: BIO, CENT0700, COL, DHB, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT*
+ * `0682ZakariyaQazwini.AtharBilad `
+	- *TAGS: CENT0700, PPE, _BULDAN, _JUGHRAFIYA, _RIHLAT, _TARIKH*
+ * `0684IbnShaddad.AclaqKhatira `
+	- *TAGS: CENT0700, PPE, _BULDAN, _JUGHRAFIYA, _RIHLAT, _TARAJIM, _TARIKH*
+ * `0685IbnCibri.TarikhMukhtasarDuwal `
+	- *TAGS: CENT0700, PPE, _TARIKH*
+ * `0685IbnSacidMaghribi.GhusunYanica `
+	- *TAGS: BIO, CENT0700, PPE, _TABAQAT, _TARAJIM*
+ * `0685IbnSacidMaghribi.Jughrafiya `
+	- *TAGS: CENT0700, GEO, PPE, _BULDAN, _JUGHRAFIYA, _MISC, _RIHLAT*
+ * `0685IbnSacidMaghribi.Mughrib `
+	- *TAGS: CENT0700, PPE, _BULDAN, _TARIKH*
+ * `0690IbnMujawirDimashqi.TarikhMustabsir `
+	- *TAGS: CENT0700, PPE, _BULDAN, _JUGHRAFIYA, _MISC, _RIHLAT*
+ * `0691IbnYusufLabli.Fihrist `
+	- *TAGS: CENT0700, _ADILLA, _FAHARIS, _KUTUB*
+ * `0694MuhibbDinTabari.Dhakhair `
+	- *TAGS: CENT0700, PPE, _ASHAB, _HADITH, _SHAMAIL, _SHICI, _SIRA*
+ * `0694MuhibbDinTabari.RiyadNadira `
+	- *TAGS: CENT0700, PPE, _ASHAB, _SIRA, _TABAQAT, _TARAJIM*
+ * `0695IbnCidhariMarrakushi.BayanMaghrib `
+	- *TAGS: CENT0700, _BULDAN, _TARIKH*
+ * `0696Dabbagh.MacalimIman `
+	- *TAGS: BIO, CENT0700, COL, ORPHAN, PPE*
+ * `0696IbnZahiri.Mashyakha `
+	- *TAGS: CENT0700, PPE, _AJZA, _HADITH, _TARAJIM*
 
-    * `0701SharafDinYunini.Mashyakha `
-    * `0703MuhammadMarrakushi.DhaylWaTakmila `
-    * `0705SharafDinDimyatti.MucjamShuyukh `
-    * `0709CaliCalawi.Majdi `
-    * `0711IbnManzurIfriqi.MukhtasarTarikhDimashq `
-    * `0714AhmadGhibrini.CunwanDiraya `
-    * `0723IbnFuwati.Hawadith `
-    * `0726CallamaHilli.KhulasaAqwal `
-    * `0726Yunini.DhaylMiratZaman `
-    * `0730MuhammadTujibi.Barnamaj `
-    * `0732AbuFida.MukhtasarFiAkhbar `
-    * `0732AbuFida.Yawaqit `
-    * `0732IbnYacqubJanadi.SulukFiTabaqat `
-    * `0733IbnJamaca.Mashyakha `
-    * `0733Nuwayri.NihayaArab `
-    * `0739SafiDinHanbali.Marasid `
-    * `0740IbnDawudHilli.Rijal `
-    * `0741KhatibTabrizi.Ikmal `
-    * `0742Mizzi.TahdhibKamal `
-    * `0747MuhyiDinYunini.Mashyakha `
-    * `0748Dhahabi.CibarFiKhabar `
-    * `0748Dhahabi.Culuww `
-    * `0748Dhahabi.DhaylCibar `
-    * `0748Dhahabi.DhaylDiwanDucafa `
-    * `0748Dhahabi.DhikrAsmaManTakallama `
-    * `0748Dhahabi.DiwanDucafa `
-    * `0748Dhahabi.Kashif `
-    * `0748Dhahabi.MacrifaQurraKibar `
-    * `0748Dhahabi.MizanIctidal `
-    * `0748Dhahabi.MucinFiTabaqatMuhaddithin `
-    * `0748Dhahabi.MucjamMuhaddithin `
-    * `0748Dhahabi.MucjamShuyukh `
-    * `0748Dhahabi.MughniFiDucafa `
-    * `0748Dhahabi.MukhtasarCuluww `
-    * `0748Dhahabi.MukhtasarMinDubaythi `
-    * `0748Dhahabi.Muqtana `
-    * `0748Dhahabi.Radd `
-    * `0748Dhahabi.RuwatThiqat `
-    * `0748Dhahabi.SiyarAclamNubala `
-    * `0748Dhahabi.TadhkiraHuffaz `
-    * `0748Dhahabi.TarikhIslam `
-    * `0748IbnDimyati.Mustafad `
-    * `0749IbnWardi.KharidaCajaib `
-    * `0749IbnWardi.Tarikh `
-    * `0749ShihabDinCumari.MasalikAbsar `
-    * `0749Wadiashi.Barnamaj `
-    * `0750AbuHafsQazwini.Mashyakha `
-    * `0751IbnQayyimJawziyya.IghathaLahfan `
-    * `0761IbnKaykaldi.JamicTahsil `
-    * `0761IbnKaykaldi.Mukhtalitin `
-    * `0762MughaltayIbnQalij.IkmalTahdhib `
-    * `0764IbnShakirKutubi.FawatWafayat `
-    * `0764Safadi.AcyanCasr `
-    * `0764Safadi.NaktHimyan `
-    * `0764Safadi.WafiBiWafayat `
-    * `0765AbuMahasinHusayni.DhaylTadhkira `
-    * `0765AbuMahasinHusayni.IkmalLiRijal `
-    * `0767Balawi.TajMafriq `
-    * `0768Yafici.MiratJanan `
-    * `0771Subki.MucjamShuyukh `
-    * `0771Subki.TabaqatShaficiyaKubra `
-    * `0774IbnKathir.Bidaya `
-    * `0774IbnKathir.TabaqatShaficiyyin `
-    * `0774IbnKathir.Takmil `
-    * `0774IbnRaficSallami.MashyakhaBayani `
-    * `0774IbnRaficSallami.Wafayat `
-    * `0775IbnAbiWafa.JawahirMudiya `
-    * `0776LisanDinIbnKhatib.Ihata `
-    * `0776LisanDinIbnKhatib.KatibaKamina `
-    * `0776LisanDinIbnKhatib.KhatraTayf `
-    * `0776LisanDinIbnKhatib.MicyarIkhtiyar `
-    * `0776LisanDinIbnKhatib.NafadaJirab `
-    * `0779IbnBattuta.Rihla `
-    * `0782IbnSallar.TabaqatQurra `
-    * `0793AbuHasanMalaqi.TarikhQudat `
-    * `0795IbnRajabHanbali.DhaylTabaqatHanabila `
-    * `0799IbnFarhun.DibajMudhahhab `
+* **0800AH [[ [Re]generated on 2016-08-29 (21:44:45) ]]**
 
-* **0900AH [[ [Re]generated on 2016-08-28 (21:12:48) ]]**
+ * `0701SharafDinYunini.Mashyakha `
+	- *TAGS: CENT0800, PPE, _AJZA, _HADITH*
+ * `0703MuhammadMarrakushi.DhaylWaTakmila `
+	- *TAGS: CENT0800, PPE, _MISC, _TABAQAT, _TARAJIM*
+ * `0705SharafDinDimyatti.MucjamShuyukh `
+	- *TAGS: CENT0800, PPE, _HADITH, _MAKHTUTAT*
+ * `0709CaliCalawi.Majdi `
+	- *TAGS: CENT0800, GEN, PPE, SHC, _ANSAB, _MACAJIM*
+ * `0711IbnManzurIfriqi.MukhtasarTarikhDimashq `
+	- *TAGS: BIO, CENT0800, COL, PPE, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0714AhmadGhibrini.CunwanDiraya `
+	- *TAGS: BIO, CENT0800, PPE, _TABAQAT, _TARAJIM*
+ * `0723IbnFuwati.Hawadith `
+	- *TAGS: CENT0800, PPE, _TARIKH*
+ * `0726CallamaHilli.KhulasaAqwal `
+	- *TAGS: BIO, CENT0800, PPE, _HADITH, _SHICI, _TARAJIM*
+ * `0726Yunini.DhaylMiratZaman `
+	- *TAGS: BIO, CENT0800, CHR, COL, PPE, _TARIKH*
+ * `0730MuhammadTujibi.Barnamaj `
+	- *TAGS: CENT0800, PPE, _HADITH*
+ * `0732AbuFida.MukhtasarFiAkhbar `
+	- *TAGS: CENT0800, PPE, _TARIKH*
+ * `0732AbuFida.Yawaqit `
+	- *TAGS: CENT0800, _BULDAN, _TARIKH*
+ * `0732IbnYacqubJanadi.SulukFiTabaqat `
+	- *TAGS: BIO, CENT0800, COL, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT*
+ * `0733IbnJamaca.Mashyakha `
+	- *TAGS: BIO, CENT0800, PPE, _AJZA, _HADITH*
+ * `0733Nuwayri.NihayaArab `
+	- *TAGS: CENT0800, PPE, _ADAB, _ADAB, _BALAGHA, _MISC*
+ * `0739SafiDinHanbali.Marasid `
+	- *TAGS: CENT0800, _BULDAN, _JUGHRAFIYA, _RIHLAT*
+ * `0740IbnDawudHilli.Rijal `
+	- *TAGS: BIO, CENT0800, PPE, SHC, _HADITH, _SHICI, _TARAJIM*
+ * `0741KhatibTabrizi.Ikmal `
+	- *TAGS: BIO, CENT0800, PPE, SHC, _HADITH, _SHICI, _TARAJIM*
+ * `0742Mizzi.TahdhibKamal `
+	- *TAGS: CENT0800, DHB, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM*
+ * `0747MuhyiDinYunini.Mashyakha `
+	- *TAGS: CENT0800, PPE, _AJZA, _HADITH*
+ * `0748Dhahabi.CibarFiKhabar `
+	- *TAGS: CENT0800, CHR, PPE, _TARIKH*
+ * `0748Dhahabi.Culuww `
+	- *TAGS: CENT0800, DHB, PPE, _CAQAID, _MILAL*
+ * `0748Dhahabi.DhaylCibar `
+	- *TAGS: CENT0800, PPE, _TARIKH*
+ * `0748Dhahabi.DhaylDiwanDucafa `
+	- *TAGS: CENT0800, PPE, _TABAQAT, _TARAJIM*
+ * `0748Dhahabi.DhikrAsmaManTakallama `
+	- *TAGS: CENT0800, DHB, PPE, _HADITH, _TABAQAT, _TARAJIM, _THIQAT*
+ * `0748Dhahabi.DiwanDucafa `
+	- *TAGS: CENT0800, PPE, _TABAQAT, _TARAJIM*
+ * `0748Dhahabi.Kashif `
+	- *TAGS: CENT0800, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM*
+ * `0748Dhahabi.MacrifaQurraKibar `
+	- *TAGS: BIO, CENT0800, COL, PPE, _MUFASSIRUN, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0748Dhahabi.MizanIctidal `
+	- *TAGS: CENT0800, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM*
+ * `0748Dhahabi.MucinFiTabaqatMuhaddithin `
+	- *TAGS: CENT0800, PPE, _HADITH, _TABAQAT, _TARAJIM*
+ * `0748Dhahabi.MucjamMuhaddithin `
+	- *TAGS: CENT0800, PPE, _HADITH, _MISC, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT*
+ * `0748Dhahabi.MucjamShuyukh `
+	- *TAGS: BIO, CENT0800, COL, PPE, _TABAQAT, _TARAJIM*
+ * `0748Dhahabi.MughniFiDucafa `
+	- *TAGS: CENT0800, DHB, PPE, _HADITH, _TABAQAT, _TARAJIM*
+ * `0748Dhahabi.MukhtasarCuluww `
+	- *TAGS: CENT0800, DHB, PPE, _ALBANI*
+ * `0748Dhahabi.MukhtasarMinDubaythi `
+	- *TAGS: CENT0800, PPE, _BULDAN, _HADITH, _SUNNI, _TARAJIM*
+ * `0748Dhahabi.Muqtana `
+	- *TAGS: CENT0800, DHB, PPE, _HADITH, _TABAQAT, _TARAJIM*
+ * `0748Dhahabi.Radd `
+	- *TAGS: CENT0800, _CILAL, _HADITH, _MUSHKIL, _TAKHRIJ, _TARAJIM*
+ * `0748Dhahabi.RuwatThiqat `
+	- *TAGS: CENT0800, DHB, PPE, _HADITH, _TABAQAT, _TARAJIM, _THIQAT*
+ * `0748Dhahabi.SiyarAclamNubala `
+	- *TAGS: BIO, CENT0800, COL, DHB, PPE, _FIQH, _HADITH, _SUNNI, _TABAQAT, _TARAJIM, _TARIKH, _THIQAT, _WAFAYAT*
+ * `0748Dhahabi.TadhkiraHuffaz `
+	- *TAGS: BIO, CENT0800, COL, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM, _THIQAT*
+ * `0748Dhahabi.TarikhIslam `
+	- *TAGS: BIO, CENT0800, CHR, COL, DHB, PPE, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0748IbnDimyati.Mustafad `
+	- *TAGS: CENT0800, PPE, _BULDAN, _HADITH, _SUNNI, _TARAJIM*
+ * `0749IbnWardi.KharidaCajaib `
+	- *TAGS: CENT0900, _BULDAN, _JUGHRAFIYA, _RIHLAT*
+ * `0749IbnWardi.Tarikh `
+	- *TAGS: CENT0800, PPE, _TARIKH*
+ * `0749ShihabDinCumari.MasalikAbsar `
+	- *TAGS: CENT0800, PPE, _BULDAN, _JUGHRAFIYA, _RIHLAT, _TARIKH*
+ * `0749Wadiashi.Barnamaj `
+	- *TAGS: BIB, CENT0800, PPE, _ADILLA, _FAHARIS, _KUTUB*
+ * `0750AbuHafsQazwini.Mashyakha `
+	- *TAGS: BIO, CENT0800, PPE, _CULUM, _HADITH*
+ * `0751IbnQayyimJawziyya.IghathaLahfan `
+	- *TAGS: CENT0800, SBS, _FIQH, _IBNQAYYIM, _MASAIL, _USUL*
+ * `0761IbnKaykaldi.JamicTahsil `
+	- *TAGS: CENT0800, PPE, _HADITH, _TABAQAT, _TARAJIM*
+ * `0761IbnKaykaldi.Mukhtalitin `
+	- *TAGS: CENT0800, PPE, _HADITH, _TABAQAT, _TARAJIM*
+ * `0762MughaltayIbnQalij.IkmalTahdhib `
+	- *TAGS: CENT0800, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM*
+ * `0764IbnShakirKutubi.FawatWafayat `
+	- *TAGS: CENT0800, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT*
+ * `0764Safadi.AcyanCasr `
+	- *TAGS: BIO, CENT0800, COL, PPE, _TABAQAT, _TARAJIM*
+ * `0764Safadi.NaktHimyan `
+	- *TAGS: CENT0800, PPE, _ADAB, _QISAS, _TABAQAT, _TARAIF, _TARAJIM*
+ * `0764Safadi.WafiBiWafayat `
+	- *TAGS: BIO, CENT0800, COL, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT*
+ * `0765AbuMahasinHusayni.DhaylTadhkira `
+	- *TAGS: CENT0800, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM, _THIQAT*
+ * `0765AbuMahasinHusayni.IkmalLiRijal `
+	- *TAGS: CENT0800, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM*
+ * `0767Balawi.TajMafriq `
+	- *TAGS: CENT0800, PPE, _BULDAN, _JUGHRAFIYA, _RIHLAT, _TARAJIM, _TARIKH*
+ * `0768Yafici.MiratJanan `
+	- *TAGS: CENT0800, PPE, _TARIKH*
+ * `0771Subki.MucjamShuyukh `
+	- *TAGS: CENT0800, PPE, _TABAQAT, _TARAJIM*
+ * `0771Subki.TabaqatShaficiyaKubra `
+	- *TAGS: BIO, CENT0800, COL, PPE, _FIQH, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0774IbnKathir.Bidaya `
+	- *TAGS: BIO, CENT0800, CHR, COL, PPE, _ASHAB, _IMAM, _NABI, _SHAMAIL, _SIRA, _TARIKH*
+ * `0774IbnKathir.TabaqatShaficiyyin `
+	- *TAGS: BIO, CENT0800, COL, PPE, _TABAQAT, _TARAJIM*
+ * `0774IbnKathir.Takmil `
+	- *TAGS: CENT0800, PPE, _TABAQAT, _TARAJIM*
+ * `0774IbnRaficSallami.MashyakhaBayani `
+	- *TAGS: CENT0800, PPE, _AJZA, _HADITH*
+ * `0774IbnRaficSallami.Wafayat `
+	- *TAGS: CENT0800, PPE, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0775IbnAbiWafa.JawahirMudiya `
+	- *TAGS: BIO, CENT0800, COL, PPE, _FIQH, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT*
+ * `0776LisanDinIbnKhatib.Ihata `
+	- *TAGS: CENT0800, PPE, _BULDAN, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0776LisanDinIbnKhatib.KatibaKamina `
+	- *TAGS: CENT0800, PPE, _MISC, _TABAQAT, _TARAJIM*
+ * `0776LisanDinIbnKhatib.KhatraTayf `
+	- *TAGS: CENT0800, GEO, PPE, _BULDAN, _JUGHRAFIYA, _MISC, _RIHLAT*
+ * `0776LisanDinIbnKhatib.MicyarIkhtiyar `
+	- *TAGS: CENT0800, GEO, PPE, _BULDAN, _JUGHRAFIYA, _RIHLAT*
+ * `0776LisanDinIbnKhatib.NafadaJirab `
+	- *TAGS: CENT0800, _BULDAN, _JUGHRAFIYA, _MISC, _RIHLAT*
+ * `0779IbnBattuta.Rihla `
+	- *TAGS: CENT0800, GEO, PPE, _BULDAN, _JUGHRAFIYA, _MUDHAKKARAT, _RIHLAT, _TARIKH*
+ * `0782IbnSallar.TabaqatQurra `
+	- *TAGS: BIO, CENT0800, PPE, _QIRAAT, _QURAN, _TAJWID*
+ * `0793AbuHasanMalaqi.TarikhQudat `
+	- *TAGS: CENT0800, PPE, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0795IbnRajabHanbali.DhaylTabaqatHanabila `
+	- *TAGS: BIO, CENT0800, COL, PPE, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0799IbnFarhun.DibajMudhahhab `
+	- *TAGS: CENT0800, PPE, _FIQH, _TABAQAT, _TARAJIM, _TARIKH*
 
-    * `0804IbnMulaqqin.TabaqatAwliya `
-    * `0806IbnHusaynCiraqi.DhaylMizan `
-    * `0807IbnAhmarKhazraji.NafhaNisriniyya `
-    * `0808IbnKhaldun.Rihla `
-    * `0808IbnKhaldun.Tarikh `
-    * `0809IbnQunfudh.Wafayat `
-    * `0812CaliKhazraji.CuqudLuluiyya `
-    * `0816AbuBakrMaraghi.Mashyakha `
-    * `0817IbnYacqubFiruzabadi.BulghaFiTarajim `
-    * `0821Qalqashandi.NihayaArab `
-    * `0821Qalqashandi.QalaidJuman `
-    * `0821Qalqashandi.SubhAcsha `
-    * `0821ShihabDinQalqashandi.Maathir `
-    * `0825IbnQasimSabti.IkhtisarAkhbar `
-    * `0826IbnCiraqi.Mudallisin `
-    * `0826IbnCiraqi.TuhfaTahsil `
-    * `0832AbuTayyibFasi.DhaylTaqyid `
-    * `0832AbuTayyibFasi.ShifaGharam `
-    * `0833IbnJazari.GhayaNihaya `
-    * `0842IbnNasirDinDimashqi.RaddWafir `
-    * `0842IbnNasirDinDimashqi.TawdihMushtabih `
-    * `0845Maqrizi.Bayan `
-    * `0845Maqrizi.IqazHunafa `
-    * `0845Maqrizi.Mawaciz `
-    * `0845Maqrizi.MukhtasarKamil `
-    * `0845Maqrizi.Suluk `
-    * `0851IbnQadiShuhba.TabaqatShaficiya `
-    * `0852IbnHajarCasqalani.DurarKamina `
-    * `0852IbnHajarCasqalani.FathBari `
-    * `0852IbnHajarCasqalani.InbaGhumr `
-    * `0852IbnHajarCasqalani.IsabaFiTamyiz `
-    * `0852IbnHajarCasqalani.ItharBiMacrifa `
-    * `0852IbnHajarCasqalani.LisanMizan `
-    * `0852IbnHajarCasqalani.MucjamMufahras `
-    * `0852IbnHajarCasqalani.MucjamShaykhaMaryam `
-    * `0852IbnHajarCasqalani.NuzhaAlbab `
-    * `0852IbnHajarCasqalani.RafcCisr `
-    * `0852IbnHajarCasqalani.TabaqatMudallisin `
-    * `0852IbnHajarCasqalani.TabsirMuntabih `
-    * `0852IbnHajarCasqalani.TacjilManfaca `
-    * `0852IbnHajarCasqalani.TacrifAhlTaqbis `
-    * `0852IbnHajarCasqalani.TahdhibTahdhib `
-    * `0852IbnHajarCasqalani.TaqribTahdhib `
-    * `0854IbnCarabshah.CajaibMaqdur `
-    * `0854IbnDiyaMakki.TarikhMakka `
-    * `0855Cayni.CiqdJuman `
-    * `0855Cayni.CumdaQari `
-    * `0855Cayni.MaghaniAkhyar `
-    * `0862IbnMuhammadMujari.Barnamaj `
-    * `0871IbnFahdMakki.LahzAlhaz `
-    * `0874IbnTaghribirdi.HawadithDahriya `
-    * `0874IbnTaghribirdi.ManhalSafi `
-    * `0874IbnTaghribirdi.MawridLatafa `
-    * `0874IbnTaghribirdi.NujumZahira `
-    * `0879IbnQutlubugha.TajTarajim `
-    * `0879IbnQutlubugha.Thiqat `
-    * `0884IbnMuflih.MaqsidArshad `
-    * `0884SibtIbnCajami.Ightibat `
-    * `0884SibtIbnCajami.KashfHathith `
-    * `0884SibtIbnCajami.KunuzDhahab `
-    * `0884SibtIbnCajami.TabyinLiAsma `
-    * `0900AbuCabdAllahHimyari.RawdMictar `
+* **0900AH [[ [Re]generated on 2016-08-29 (21:44:45) ]]**
 
-* **1000AH [[ [Re]generated on 2016-08-28 (21:12:48) ]]**
+ * `0804IbnMulaqqin.TabaqatAwliya `
+	- *TAGS: CENT0900, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT*
+ * `0806IbnHusaynCiraqi.DhaylMizan `
+	- *TAGS: BIO, CENT0900, PPE, _HADITH, _TABAQAT, _TARAJIM*
+ * `0807IbnAhmarKhazraji.NafhaNisriniyya `
+	- *TAGS: CENT0900, PPE, _BULDAN, _TARIKH*
+ * `0808IbnKhaldun.Rihla `
+	- *TAGS: CENT0900, GEO, PPE, _BULDAN, _JUGHRAFIYA, _RIHLAT*
+ * `0808IbnKhaldun.Tarikh `
+	- *TAGS: CENT0900, CHR, PPE, _MISC, _TARIKH*
+ * `0809IbnQunfudh.Wafayat `
+	- *TAGS: CENT0900, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT*
+ * `0812CaliKhazraji.CuqudLuluiyya `
+	- *TAGS: CENT0900, PPE, _TARIKH*
+ * `0816AbuBakrMaraghi.Mashyakha `
+	- *TAGS: CENT0900, PPE, _AJZA, _HADITH*
+ * `0817IbnYacqubFiruzabadi.BulghaFiTarajim `
+	- *TAGS: CENT0900, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT*
+ * `0821Qalqashandi.NihayaArab `
+	- *TAGS: CENT0900, PPE, _ANSAB*
+ * `0821Qalqashandi.QalaidJuman `
+	- *TAGS: CENT0900, PPE, _ANSAB, _BULDAN, _TARIKH*
+ * `0821Qalqashandi.SubhAcsha `
+	- *TAGS: CENT0900, _ADAB, _ADAB, _BALAGHA, _CARUD, _KITABA*
+ * `0821ShihabDinQalqashandi.Maathir `
+	- *TAGS: CENT0900, _MISC, _QADA, _SIYASA*
+ * `0825IbnQasimSabti.IkhtisarAkhbar `
+	- *TAGS: CENT0900, PPE, _BULDAN, _JUGHRAFIYA, _RIHLAT*
+ * `0826IbnCiraqi.Mudallisin `
+	- *TAGS: CENT0900, _TABAQAT, _TARAJIM*
+ * `0826IbnCiraqi.TuhfaTahsil `
+	- *TAGS: CENT0900, PPE, _HADITH, _TABAQAT, _TARAJIM*
+ * `0832AbuTayyibFasi.DhaylTaqyid `
+	- *TAGS: CENT0900, PPE, _FAHARIS, _KUTUB, _TABAQAT, _TARAJIM*
+ * `0832AbuTayyibFasi.ShifaGharam `
+	- *TAGS: CENT0900, PPE, _TARIKH*
+ * `0833IbnJazari.GhayaNihaya `
+	- *TAGS: CENT0900, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT*
+ * `0842IbnNasirDinDimashqi.RaddWafir `
+	- *TAGS: CENT0900, PPE, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0842IbnNasirDinDimashqi.TawdihMushtabih `
+	- *TAGS: CENT0900, PPE, _HADITH, _TABAQAT, _TARAJIM*
+ * `0845Maqrizi.Bayan `
+	- *TAGS: CENT0900, _BULDAN, _TARIKH*
+ * `0845Maqrizi.IqazHunafa `
+	- *TAGS: CENT0900, PPE, _BULDAN, _TARIKH*
+ * `0845Maqrizi.Mawaciz `
+	- *TAGS: CENT0900, PPE, _BULDAN, _JUGHRAFIYA, _RIHLAT*
+ * `0845Maqrizi.MukhtasarKamil `
+	- *TAGS: CENT0900, PPE, _HADITH, _TABAQAT, _TARAJIM*
+ * `0845Maqrizi.Suluk `
+	- *TAGS: CENT0900, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT*
+ * `0851IbnQadiShuhba.TabaqatShaficiya `
+	- *TAGS: BIO, CENT0900, COL, PPE, _FIQH, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0852IbnHajarCasqalani.DurarKamina `
+	- *TAGS: BIO, CENT0900, COL, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT*
+ * `0852IbnHajarCasqalani.FathBari `
+	- *TAGS: CENT0900, _FIQH, _HADITH, _SHARH, _SUNNI, _TARAJIM*
+ * `0852IbnHajarCasqalani.InbaGhumr `
+	- *TAGS: CENT0900, PPE, _TARIKH*
+ * `0852IbnHajarCasqalani.IsabaFiTamyiz `
+	- *TAGS: CENT0900, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM*
+ * `0852IbnHajarCasqalani.ItharBiMacrifa `
+	- *TAGS: CENT0900, PPE, _HADITH, _TABAQAT, _TARAJIM*
+ * `0852IbnHajarCasqalani.LisanMizan `
+	- *TAGS: BIO, CENT0900, COL, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM*
+ * `0852IbnHajarCasqalani.MucjamMufahras `
+	- *TAGS: CENT0900, PPE, _ADILLA, _FAHARIS, _KUTUB*
+ * `0852IbnHajarCasqalani.MucjamShaykhaMaryam `
+	- *TAGS: CENT0900, _HADITH, _MAKHTUTAT*
+ * `0852IbnHajarCasqalani.NuzhaAlbab `
+	- *TAGS: CENT0900, PPE, _HADITH, _MISC, _TABAQAT, _TARAJIM*
+ * `0852IbnHajarCasqalani.RafcCisr `
+	- *TAGS: CENT0900, PPE, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0852IbnHajarCasqalani.TabaqatMudallisin `
+	- *TAGS: BIO, CENT0900, COL, PPE, _HADITH, _SUNNI, _TARAJIM*
+ * `0852IbnHajarCasqalani.TabsirMuntabih `
+	- *TAGS: CENT0900, PPE, _HADITH, _TABAQAT, _TARAJIM*
+ * `0852IbnHajarCasqalani.TacjilManfaca `
+	- *TAGS: CENT0900, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM*
+ * `0852IbnHajarCasqalani.TacrifAhlTaqbis `
+	- *TAGS: CENT0900, _TABAQAT, _TARAJIM*
+ * `0852IbnHajarCasqalani.TahdhibTahdhib `
+	- *TAGS: CENT0900, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM*
+ * `0852IbnHajarCasqalani.TaqribTahdhib `
+	- *TAGS: CENT0900, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM*
+ * `0854IbnCarabshah.CajaibMaqdur `
+	- *TAGS: CENT0900, _TARAJIM, _TARIKH*
+ * `0854IbnDiyaMakki.TarikhMakka `
+	- *TAGS: CENT0900, PPE, _BULDAN, _TARIKH*
+ * `0855Cayni.CiqdJuman `
+	- *TAGS: CENT0900, PPE, _TARIKH*
+ * `0855Cayni.CumdaQari `
+	- *TAGS: CENT0900, PPE, _FIQH, _HADITH, _SHARH, _SUNNI, _TARAJIM*
+ * `0855Cayni.MaghaniAkhyar `
+	- *TAGS: CENT0900, PPE, _HADITH, _TABAQAT, _TARAJIM*
+ * `0862IbnMuhammadMujari.Barnamaj `
+	- *TAGS: CENT0900, _ADILLA, _FAHARIS, _KUTUB*
+ * `0871IbnFahdMakki.LahzAlhaz `
+	- *TAGS: BIO, CENT0900, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT*
+ * `0874IbnTaghribirdi.HawadithDahriya `
+	- *TAGS: CENT0900, PPE, _TARIKH*
+ * `0874IbnTaghribirdi.ManhalSafi `
+	- *TAGS: CENT0900, PPE, _TABAQAT, _TARAJIM*
+ * `0874IbnTaghribirdi.MawridLatafa `
+	- *TAGS: CENT0900, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT*
+ * `0874IbnTaghribirdi.NujumZahira `
+	- *TAGS: CENT0900, PPE, _BULDAN, _TARIKH*
+ * `0879IbnQutlubugha.TajTarajim `
+	- *TAGS: CENT0900, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT*
+ * `0879IbnQutlubugha.Thiqat `
+	- *TAGS: CENT0900, PPE, _TABAQAT, _TARAJIM*
+ * `0884IbnMuflih.MaqsidArshad `
+	- *TAGS: CENT0900, PPE, _HADITH, _TABAQAT, _TARAJIM*
+ * `0884SibtIbnCajami.Ightibat `
+	- *TAGS: CENT0900, PPE, _HADITH, _TABAQAT, _TARAJIM*
+ * `0884SibtIbnCajami.KashfHathith `
+	- *TAGS: CENT0900, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM*
+ * `0884SibtIbnCajami.KunuzDhahab `
+	- *TAGS: CENT0900, PPE, _TABAQAT, _TARAJIM*
+ * `0884SibtIbnCajami.TabyinLiAsma `
+	- *TAGS: CENT0900, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM*
+ * `0900AbuCabdAllahHimyari.RawdMictar `
+	- *TAGS: CENT0900, COL, GEO, PPE, _BULDAN, _GHARIB, _JUGHRAFIYA, _MACAJIM, _MUSTALAHAT, _RIHLAT*
 
-    * `0902Sakhawi.Buldaniyyat `
-    * `0902Sakhawi.DuLamic `
-    * `0902Sakhawi.ManhalCadhb `
-    * `0902Sakhawi.TuhfaLatifa `
-    * `0904Burayhi.TabaqatSulahaYaman `
-    * `0905Basrawi.Tarikh `
-    * `0909IbnMibradHanbali.BahrDamm `
-    * `0909IbnMibradHanbali.MucjamKutub `
-    * `0911Samhudi.KhulasaWafaWafa `
-    * `0911Samhudi.WafaWafa `
-    * `0911Suyuti.AsmaMudallisin `
-    * `0911Suyuti.AsmaMukhadramin `
-    * `0911Suyuti.BughyaWucat `
-    * `0911Suyuti.DhaylTabaqatHuffaz `
-    * `0911Suyuti.HusnMuhadara `
-    * `0911Suyuti.IscafMubatta `
-    * `0911Suyuti.ItmamDiraya `
-    * `0911Suyuti.LubbLubab `
-    * `0911Suyuti.NazmCiqyan `
-    * `0911Suyuti.RihNisrin `
-    * `0911Suyuti.Shamarikh `
-    * `0911Suyuti.TabaqatHuffaz `
-    * `0911Suyuti.TabaqatMufassirin `
-    * `0911Suyuti.TarikhKhulafa `
-    * `0922IbnShaykhTarabulusi.IscafAwqaf `
-    * `0923IbnCabdAllahKhazraji.KhulasaTahdhib `
-    * `0927Culaymi.UnsJalil `
-    * `0927Nucaymi.DarisFiMadaris `
-    * `0929IbnKayyal.KawakibNayyirat `
-    * `0938IbnCaliBalawi.Thabat `
-    * `0945ShamsDinDawudi.TabaqatMufassirin `
-    * `0953IbnTulun.MufakahaKhillan `
-    * `0966HusaynDiyarbakri.TarikhKhamis `
-    * `0968Tashkubruizadah.ShaqaiqNucmaniyya `
-    * `0973CabdWahhabShacrani.LawaqihAnwar `
-    * `0984BardDinGhazzi.MatalicBadriya `
+* **1000AH [[ [Re]generated on 2016-08-29 (21:44:45) ]]**
 
-* **1100AH [[ [Re]generated on 2016-08-28 (21:12:48) ]]**
+ * `0902Sakhawi.Buldaniyyat `
+	- *TAGS: CENT1000, PPE, _AJZA, _HADITH, _MISC, _TARAJIM*
+ * `0902Sakhawi.DuLamic `
+	- *TAGS: BIO, CENT1000, COL, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT*
+ * `0902Sakhawi.ManhalCadhb `
+	- *TAGS: CENT1000, PPE, _HADITH, _MUSTALAHAT, _TABAQAT, _TARAJIM*
+ * `0902Sakhawi.TuhfaLatifa `
+	- *TAGS: CENT1000, PPE, _BULDAN, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0904Burayhi.TabaqatSulahaYaman `
+	- *TAGS: CENT1000, PPE, _BULDAN, _TARIKH*
+ * `0905Basrawi.Tarikh `
+	- *TAGS: CENT1000, PPE, _BULDAN, _TARIKH*
+ * `0909IbnMibradHanbali.BahrDamm `
+	- *TAGS: CENT1000, _HADITH, _SUNNI, _TABAQAT, _TARAJIM*
+ * `0909IbnMibradHanbali.MucjamKutub `
+	- *TAGS: BIB, CENT1000, PPE, _ADILLA, _FAHARIS, _KUTUB*
+ * `0911Samhudi.KhulasaWafaWafa `
+	- *TAGS: CENT1000, PPE, _TARIKH*
+ * `0911Samhudi.WafaWafa `
+	- *TAGS: CENT1000, PPE, _ASHAB, _BULDAN, _JUGHRAFIYA, _RIHLAT, _SIRA*
+ * `0911Suyuti.AsmaMudallisin `
+	- *TAGS: CENT1000, PPE, _HADITH, _MUSTALAHAT, _TABAQAT, _TARAJIM*
+ * `0911Suyuti.AsmaMukhadramin `
+	- *TAGS: CENT1000, PPE, _TARAJIM, _TARIKH*
+ * `0911Suyuti.BughyaWucat `
+	- *TAGS: BIO, CENT1000, COL, PPE, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0911Suyuti.DhaylTabaqatHuffaz `
+	- *TAGS: CENT1000, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT*
+ * `0911Suyuti.HusnMuhadara `
+	- *TAGS: CENT1000, PPE, _BULDAN, _TARIKH*
+ * `0911Suyuti.IscafMubatta `
+	- *TAGS: CENT1000, PPE, _HADITH, _TABAQAT, _TARAJIM*
+ * `0911Suyuti.ItmamDiraya `
+	- *TAGS: CENT1000, _ADILLA, _FAHARIS, _KUTUB*
+ * `0911Suyuti.LubbLubab `
+	- *TAGS: CENT1000, PPE, _ANSAB, _TARAJIM, _TARIKH*
+ * `0911Suyuti.NazmCiqyan `
+	- *TAGS: CENT1000, PPE, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0911Suyuti.RihNisrin `
+	- *TAGS: CENT1000, PPE, _HADITH, _MISC, _TABAQAT, _TARAJIM*
+ * `0911Suyuti.Shamarikh `
+	- *TAGS: CENT1000, _MISC, _TARIKH*
+ * `0911Suyuti.TabaqatHuffaz `
+	- *TAGS: BIO, CENT1000, COL, PPE, _HADITH, _TABAQAT, _TARAJIM, _THIQAT*
+ * `0911Suyuti.TabaqatMufassirin `
+	- *TAGS: CENT1000, PPE, _MUFASSIRUN, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0911Suyuti.TarikhKhulafa `
+	- *TAGS: CENT1000, PPE, _BULDAN, _TARAJIM, _TARIKH*
+ * `0922IbnShaykhTarabulusi.IscafAwqaf `
+	- *TAGS: CENT1000, PPE, _BUHUTH, _MASAIL*
+ * `0923IbnCabdAllahKhazraji.KhulasaTahdhib `
+	- *TAGS: CENT1000, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM*
+ * `0927Culaymi.UnsJalil `
+	- *TAGS: CENT1000, PPE, _BULDAN, _TARIKH*
+ * `0927Nucaymi.DarisFiMadaris `
+	- *TAGS: CENT1000, COL, PPE, _MISC, _TARIKH*
+ * `0929IbnKayyal.KawakibNayyirat `
+	- *TAGS: CENT1000, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM*
+ * `0938IbnCaliBalawi.Thabat `
+	- *TAGS: BIB, CENT1000, PPE, _ADILLA, _FAHARIS, _KUTUB*
+ * `0945ShamsDinDawudi.TabaqatMufassirin `
+	- *TAGS: CENT1000, PPE, _TABAQAT, _TARAJIM*
+ * `0953IbnTulun.MufakahaKhillan `
+	- *TAGS: CENT1000, PPE, _BULDAN, _TARIKH*
+ * `0966HusaynDiyarbakri.TarikhKhamis `
+	- *TAGS: CENT1000, _SHAMAIL, _SIRA*
+ * `0968Tashkubruizadah.ShaqaiqNucmaniyya `
+	- *TAGS: BIO, CENT1000, COL, PPE, _FIQH, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0973CabdWahhabShacrani.LawaqihAnwar `
+	- *TAGS: CENT1000, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT*
+ * `0984BardDinGhazzi.MatalicBadriya `
+	- *TAGS: CENT1000, _BULDAN, _JUGHRAFIYA, _RIHLAT*
 
-    * `1010TamimiDari.TabaqatSaniya `
-    * `1011SahibMacalim.TahrirTawusi `
-    * `1016MuhibbDinHamawi.HadiAzcan `
-    * `1037CabdQadirCaydarus.TarikhNurSafir `
-    * `1041BurhanDinMaliki.BahjaMahafil `
-    * `1041Maqarri.AzharRiyad `
-    * `1041Maqarri.NafhTib `
-    * `1051Cimadi.RawdaRayya `
-    * `1061NajmDinGhazzi.KawakibSaira `
-    * `1067HajjiKhalifa.KashfZunun `
-    * `1069ShihabDinKhafaji.RayhanaAlibba `
-    * `1070MuhammadKibrit.RihlaShita `
-    * `1078RiyadZadah.AsmaKutub `
-    * `1086IbnCajamiMisri.DhaylLubbLubab `
-    * `1089IbnCimad.Shadharat `
-    * `1100IbnMuhammadAdnahwi.TabaqatMufassirin `
-    * `1100MuhammadItlidi.IclamNas `
-    * `1100MustafaTafrishi.NaqdRijal `
+* **1100AH [[ [Re]generated on 2016-08-29 (21:44:45) ]]**
 
-* **1200AH [[ [Re]generated on 2016-08-28 (21:12:48) ]]**
+ * `1010TamimiDari.TabaqatSaniya `
+	- *TAGS: BIO, CENT1100, COL, PPE, _TABAQAT, _TARAJIM, _TARIKH*
+ * `1011SahibMacalim.TahrirTawusi `
+	- *TAGS: CENT1100, PPE, SHC, _HADITH, _SHICI, _TARAJIM*
+ * `1016MuhibbDinHamawi.HadiAzcan `
+	- *TAGS: CENT1100, GEO, PPE, _BULDAN, _JUGHRAFIYA, _MISC, _RIHLAT*
+ * `1037CabdQadirCaydarus.TarikhNurSafir `
+	- *TAGS: CENT1100, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT*
+ * `1041BurhanDinMaliki.BahjaMahafil `
+	- *TAGS: CENT1100, PPE, _TABAQAT, _TARAJIM*
+ * `1041Maqarri.AzharRiyad `
+	- *TAGS: CENT1100, PPE, _TABAQAT, _TARAJIM, _TARIKH*
+ * `1041Maqarri.NafhTib `
+	- *TAGS: CENT1100, PPE, _ADAB, _ADAB, _BALAGHA, _BULDAN, _TARAJIM, _TARIKH*
+ * `1051Cimadi.RawdaRayya `
+	- *TAGS: CENT1100, PPE, _BULDAN, _HADITH, _TABAQAT, _TARAJIM, _TARIKH*
+ * `1061NajmDinGhazzi.KawakibSaira `
+	- *TAGS: CENT1100, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT*
+ * `1067HajjiKhalifa.KashfZunun `
+	- *TAGS: BIB, CENT1100, COL, PPE, _ADILLA, _FAHARIS, _KUTUB, _MACAJIM*
+ * `1069ShihabDinKhafaji.RayhanaAlibba `
+	- *TAGS: CENT1100, PPE, _MISC, _TABAQAT, _TARAJIM*
+ * `1070MuhammadKibrit.RihlaShita `
+	- *TAGS: CENT1100, GEO, PPE, _BULDAN, _JUGHRAFIYA, _RIHLAT*
+ * `1078RiyadZadah.AsmaKutub `
+	- *TAGS: BIB, CENT1100, PPE, _ADILLA, _FAHARIS, _KUTUB*
+ * `1086IbnCajamiMisri.DhaylLubbLubab `
+	- *TAGS: CENT1100, ONO, PPE, _ANSAB*
+ * `1089IbnCimad.Shadharat `
+	- *TAGS: BIO, CENT1100, CHR, COL, PPE, _TARIKH*
+ * `1100IbnMuhammadAdnahwi.TabaqatMufassirin `
+	- *TAGS: CENT1100, PPE, _MUFASSIRUN, _TABAQAT, _TARAJIM, _TARIKH*
+ * `1100MuhammadItlidi.IclamNas `
+	- *TAGS: CENT1100, _BULDAN, _TARIKH*
+ * `1100MustafaTafrishi.NaqdRijal `
+	- *TAGS: BIO, CENT1100, PPE, SHC, _HADITH, _SHICI, _TARAJIM*
 
-    * `1101MuhammadCaliArdabili.JamicRuwat `
-    * `1111MuhammadAminMuhibbi.KhulasaAthr `
-    * `1119IbnMacsum.SulafaCasr `
-    * `1120CaliKhanMadani.DarajatRafica `
-    * `1126MuhammadHanbali.Mashyakha `
-    * `1147CabdAllahSancani.TarikhYaman `
-    * `1153IbnKannan.YawmiyyatShamiyya `
-    * `1167IbnCabrRahmanGhazzi.DiwanIslam `
-    * `1172IbnKhalifaMasakini.Fahrasa `
-    * `1174AbuBarakatSuwaydi.NafhaMiskiya `
-    * `1175AhmadBudayri.HawadithDimashq `
-    * `1175MuhammadKarabisi.IklilManhaj `
-    * `1187SulaymanMahasini.HululTacab `
-    * `1195CabdRahmanAnsari.Tuhfa `
+* **1200AH [[ [Re]generated on 2016-08-29 (21:44:45) ]]**
 
-* **1300AH [[ [Re]generated on 2016-08-28 (21:12:48) ]]**
+ * `1101MuhammadCaliArdabili.JamicRuwat `
+	- *TAGS: CENT1200, PPE, SHC, _HADITH, _SHICI, _TARAJIM*
+ * `1111MuhammadAminMuhibbi.KhulasaAthr `
+	- *TAGS: CENT1200, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT*
+ * `1119IbnMacsum.SulafaCasr `
+	- *TAGS: BIO, CENT1200, PPE, _TABAQAT, _TARAJIM, _TARIKH*
+ * `1120CaliKhanMadani.DarajatRafica `
+	- *TAGS: CENT1200, PPE, SHC, _HADITH, _SHICI, _TARAJIM*
+ * `1126MuhammadHanbali.Mashyakha `
+	- *TAGS: CENT1200, PPE, _TABAQAT, _TARAJIM*
+ * `1147CabdAllahSancani.TarikhYaman `
+	- *TAGS: CENT1200, PPE, _BULDAN, _TARIKH*
+ * `1153IbnKannan.YawmiyyatShamiyya `
+	- *TAGS: CENT1200, PPE, _BULDAN, _TARIKH*
+ * `1167IbnCabrRahmanGhazzi.DiwanIslam `
+	- *TAGS: CENT1200, _SHICR_CUTHMANI, _SHICR, _TABAQAT, _TARAJIM*
+ * `1172IbnKhalifaMasakini.Fahrasa `
+	- *TAGS: CENT1200, _ADILLA, _FAHARIS, _KUTUB*
+ * `1174AbuBarakatSuwaydi.NafhaMiskiya `
+	- *TAGS: CENT1200, _BULDAN, _JUGHRAFIYA, _RIHLAT*
+ * `1175AhmadBudayri.HawadithDimashq `
+	- *TAGS: CENT1200, PPE, _BULDAN, _TARIKH*
+ * `1175MuhammadKarabisi.IklilManhaj `
+	- *TAGS: BIO, CENT1200, PPE, SHC, _HADITH, _SHICI, _TARAJIM*
+ * `1187SulaymanMahasini.HululTacab `
+	- *TAGS: CENT1200, _TARIKH*
+ * `1195CabdRahmanAnsari.Tuhfa `
+	- *TAGS: CENT1200, _ANSAB, _MISC*
 
-    * `1206Muradi.SilkDurar `
-    * `1212BahrCulum.FawaidRijaliya `
-    * `1212BahrCulum.FawaidRijaliya `
-    * `1218SalihFulani.QatfThamar `
-    * `1232IbnKhatibCumari.RawdaFayha `
-    * `1237Jabarti.CajaibAthar `
-    * `1246IbnHamadBassam.DurarMafakhir `
-    * `1250IbnCaliShaykani.BadrTalic `
-    * `1269CabdMalikCasimi.SamtNujum `
-    * `1270ShihabDinAlusi.GharaibIghtirab `
-    * `1277MuhammadTantawi.NashaNahw `
-    * `1285CabdRahmanTamimi.Maqamat `
-    * `1286IcjazHusaynKunturi.KashfHajb `
+* **1300AH [[ [Re]generated on 2016-08-29 (21:44:45) ]]**
 
-* **1400AH [[ [Re]generated on 2016-08-28 (21:12:48) ]]**
+ * `1206Muradi.SilkDurar `
+	- *TAGS: CENT1300, PPE, _TABAQAT, _TARAJIM*
+ * `1212BahrCulum.FawaidRijaliya `
+	- *TAGS: CENT1300, PPE, SHC, _HADITH, _SHICI, _TARAJIM*
+ * `1212BahrCulum.FawaidRijaliya `
+	- *TAGS: CENT1300, PPE, SHC, _HADITH, _SHICI, _TARAJIM*
+ * `1218SalihFulani.QatfThamar `
+	- *TAGS: BIB, CENT1300, PPE, _ADILLA, _FAHARIS, _KUTUB*
+ * `1232IbnKhatibCumari.RawdaFayha `
+	- *TAGS: CENT1300, PPE, _TABAQAT, _TARAJIM*
+ * `1237Jabarti.CajaibAthar `
+	- *TAGS: CENT1300, PPE, _TARIKH*
+ * `1246IbnHamadBassam.DurarMafakhir `
+	- *TAGS: CENT1300, _ANSAB, _TARAJIM, _TARIKH*
+ * `1250IbnCaliShaykani.BadrTalic `
+	- *TAGS: CENT1300, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT*
+ * `1269CabdMalikCasimi.SamtNujum `
+	- *TAGS: CENT1200, PPE, _TARIKH*
+ * `1270ShihabDinAlusi.GharaibIghtirab `
+	- *TAGS: CENT1300, _BULDAN, _JUGHRAFIYA, _RIHLAT*
+ * `1277MuhammadTantawi.NashaNahw `
+	- *TAGS: _ADILLA, _CENT00NO, _FAHARIS, _KUTUB*
+ * `1285CabdRahmanTamimi.Maqamat `
+	- *TAGS: CENT1300, _TABAQAT, _TARAJIM*
+ * `1286IcjazHusaynKunturi.KashfHajb `
+	- *TAGS: BIB, CENT1300, PPE, _FAHARIS, _KUTUB*
 
-    * `1307Qannawji.AbjadCulum `
-    * `1307Qannawji.HittaFiDhikr `
-    * `1307Qannawji.LuqtaCajlan `
-    * `1313Barujirdi.Taraif `
-    * `1313VanDyck.IktifaQunuc `
-    * `1315AbuMacaliKalbasi.RasailRijaliyya `
-    * `1315Salawi.IstiqsaLiAhkbar `
-    * `1318MuhammadSanusi.Musamarat `
-    * `1330IbnMusaTabrizi.MiratKutub `
-    * `1332ZaynabFawwaz.DurrManthur `
-    * `1335CabdRazzaqBaytar.HilyaBashar `
-    * `1338MuhammadFaridBey.Bahja `
-    * `1338MuhammadFaridBey.Tarikh `
-    * `1339IsmacilBashaBaghdadi.HadiyaCarifin `
-    * `1339IsmacilBashaBaghdadi.IdahMaknun `
-    * `1341CabdHayyTalibi.IclamBiMan `
-    * `1345IbnJacfarKattani.RisalaMustatrafa `
-    * `1346CbdQadirBadran.Munadama `
-    * `1347BashirYamut.Shacirat `
-    * `1351IbnHusaynGhazzi.NahrDhahab `
-    * `1351YusufIlyanSarkis.MucjamMatbucat `
-    * `1354HasanSadr.Takmila `
-    * `1354RashidRida.Manar `
-    * `1355AhmadTahtawi.TanbihWaIqaz `
-    * `1356AbuHudaKalbasi.SamaMaqal `
-    * `1359CabbasQummi.Kuna `
-    * `1360IbnQasimMakhluf.ShajaraNur `
-    * `1364IbnHamdMughiri.MuntakhabQabail `
-    * `1368HasanAmin.MustadrakatAcyanShica `
-    * `1371MuhsinCamili.AcyanShica `
-    * `1372KurdCali.KhitatSham `
-    * `1373AbuYaclaZuwawi.TarikhZuwawa `
-    * `1376CabdRahmanSacdi.Muallafat `
-    * `1376MuhammadHajwiThacalibi.FikrSami `
-    * `1381MuhammadSancani.MulhaqBadr `
-    * `1383CadbHayyKattani.FihrisFaharis `
-    * `1389AghaBuzurgTihrani.DharicaFiTasanifShica `
-    * `1389AghaBuzurgTihrani.DhaylKashfZunun `
-    * `1389AghaBuzurgTihrani.TASHAnwarSatica `
-    * `1389AghaBuzurgTihrani.TASHNawabighRuwat `
-    * `1396KhayrDinZirikli.Aclam `
+* **1400AH [[ [Re]generated on 2016-08-29 (21:44:45) ]]**
 
-* **1500AH [[ [Re]generated on 2016-08-28 (21:12:48) ]]**
+ * `1307Qannawji.AbjadCulum `
+	- *TAGS: CENT1400, PPE, _ADILLA, _FAHARIS, _KUTUB, _MACAJIM*
+ * `1307Qannawji.HittaFiDhikr `
+	- *TAGS: CENT1400, PPE, _ADILLA, _FAHARIS, _KUTUB*
+ * `1307Qannawji.LuqtaCajlan `
+	- *TAGS: BIB, CENT1400, PPE, _ADILLA, _FAHARIS, _KUTUB*
+ * `1313Barujirdi.Taraif `
+	- *TAGS: CENT1400, PPE, SHC, _HADITH, _SHICI, _TARAJIM*
+ * `1313VanDyck.IktifaQunuc `
+	- *TAGS: CENT1400, PPE, _ADILLA, _FAHARIS, _KUTUB*
+ * `1315AbuMacaliKalbasi.RasailRijaliyya `
+	- *TAGS: CENT1400, PPE, SHC, _HADITH, _SHICI, _TARAJIM*
+ * `1315Salawi.IstiqsaLiAhkbar `
+	- *TAGS: CENT1400, PPE, _BULDAN, _TARIKH*
+ * `1318MuhammadSanusi.Musamarat `
+	- *TAGS: CENT1400, PPE, _TABAQAT, _TARAJIM*
+ * `1330IbnMusaTabrizi.MiratKutub `
+	- *TAGS: BIB, CENT1400, PPE, _FAHARIS, _KUTUB*
+ * `1332ZaynabFawwaz.DurrManthur `
+	- *TAGS: CENT1400, PPE, _TABAQAT, _TARAJIM*
+ * `1335CabdRazzaqBaytar.HilyaBashar `
+	- *TAGS: CENT1400, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT*
+ * `1338MuhammadFaridBey.Bahja `
+	- *TAGS: CENT1400, PPE, _BULDAN, _TARIKH*
+ * `1338MuhammadFaridBey.Tarikh `
+	- *TAGS: CENT1400, PPE, _BULDAN, _TARIKH*
+ * `1339IsmacilBashaBaghdadi.HadiyaCarifin `
+	- *TAGS: BIB, BIO, CENT1400, COL, PPE, _ADILLA, _FAHARIS, _KUTUB*
+ * `1339IsmacilBashaBaghdadi.IdahMaknun `
+	- *TAGS: BIB, CENT1400, COL, PPE, _ADILLA, _FAHARIS, _KUTUB*
+ * `1341CabdHayyTalibi.IclamBiMan `
+	- *TAGS: CENT1400, PPE, _TABAQAT, _TARAJIM*
+ * `1345IbnJacfarKattani.RisalaMustatrafa `
+	- *TAGS: CENT1400, PPE, _ADILLA, _FAHARIS, _KUTUB*
+ * `1346CbdQadirBadran.Munadama `
+	- *TAGS: CENT1400, PPE, _BULDAN, _JUGHRAFIYA, _MISC, _RIHLAT, _TARIKH*
+ * `1347BashirYamut.Shacirat `
+	- *TAGS: _CENT00NO, _TABAQAT, _TARAJIM*
+ * `1351IbnHusaynGhazzi.NahrDhahab `
+	- *TAGS: CENT1400, PPE, _BULDAN, _JUGHRAFIYA, _RIHLAT*
+ * `1351YusufIlyanSarkis.MucjamMatbucat `
+	- *TAGS: BIB, CENT1400, PPE, _ADILLA, _FAHARIS, _KUTUB*
+ * `1354HasanSadr.Takmila `
+	- *TAGS: BIO, CENT1400, PPE, _HADITH, _SHICI, _TARAJIM*
+ * `1354RashidRida.Manar `
+	- *TAGS: CENT1400, _MAJALLAT, _MAJMUCAT*
+ * `1355AhmadTahtawi.TanbihWaIqaz `
+	- *TAGS: BIO, CENT1400, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT*
+ * `1356AbuHudaKalbasi.SamaMaqal `
+	- *TAGS: BIO, CENT1400, COL, PPE, SHC, _HADITH, _SHICI, _TARAJIM*
+ * `1359CabbasQummi.Kuna `
+	- *TAGS: CENT1400, ONO, PPE, _IMAM, _NABI, _SIRA*
+ * `1360IbnQasimMakhluf.ShajaraNur `
+	- *TAGS: BIO, CENT1400, COL, PPE, _MISC*
+ * `1364IbnHamdMughiri.MuntakhabQabail `
+	- *TAGS: CENT1400, _ANSAB, _BULDAN, _TARIKH*
+ * `1368HasanAmin.MustadrakatAcyanShica `
+	- *TAGS: CENT1400, PPE, _TARIKH*
+ * `1371MuhsinCamili.AcyanShica `
+	- *TAGS: CENT1400, PPE, _TARIKH*
+ * `1372KurdCali.KhitatSham `
+	- *TAGS: CENT1400, PPE, _BULDAN, _JUGHRAFIYA, _RIHLAT*
+ * `1373AbuYaclaZuwawi.TarikhZuwawa `
+	- *TAGS: CENT1400, _TARIKH*
+ * `1376CabdRahmanSacdi.Muallafat `
+	- *TAGS: CENT1400, PPE, _FAHARIS, _KUTUB*
+ * `1376MuhammadHajwiThacalibi.FikrSami `
+	- *TAGS: CENT1400, _FIQH, _QAWACID, _USUL*
+ * `1381MuhammadSancani.MulhaqBadr `
+	- *TAGS: CENT1400, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT*
+ * `1383CadbHayyKattani.FihrisFaharis `
+	- *TAGS: BIB, CENT1400, PPE, _FAHARIS, _KUTUB, _TABAQAT, _TARAJIM*
+ * `1389AghaBuzurgTihrani.DharicaFiTasanifShica `
+	- *TAGS: BIB, CENT1400, PPE, _FAHARIS, _KUTUB*
+ * `1389AghaBuzurgTihrani.DhaylKashfZunun `
+	- *TAGS: BIB, CENT1400, COL, PPE, _FAHARIS, _KUTUB*
+ * `1389AghaBuzurgTihrani.TASHAnwarSatica `
+	- *TAGS: CENT1400, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT*
+ * `1389AghaBuzurgTihrani.TASHNawabighRuwat `
+	- *TAGS: CENT1400, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT*
+ * `1396KhayrDinZirikli.Aclam `
+	- *TAGS: BIO, CENT1400, COL, PPE, _FAHARIS, _KUTUB, _TABAQAT, _TARAJIM*
 
-    * `1405CaliShahrudi.Mustadrakat `
-    * `1408CumarKahhala.MucjamMuallifin `
-    * `1408CumarKahhala.MucjamQabail `
-    * `1411SayyidKhui.MucjamRijal `
-    * `1411SayyidMarcashi.SharhIhqaq `
-    * `1414SalimIbadi.IscafAcyan `
-    * `1418SalihAhmadArkani.TihfaMajalis `
-    * `1419MahmudTanahi.MujizFiMarajic `
-    * `1421HamdJasir.MucjamQabailMCS `
-    * `1422IbnHadiWadici.RijalHakim `
-    * `1422MuhammadSalimMuhaysin.MucjamHuffazQuran `
-    * `1429BakrIbnCabdAllah.TabaqatNassabin `
-    * `1450AbuTayyibMansuri.Irshad `
-    * `1450AkramFaluji.MucjamSaghir `
-    * `1450CabdRahmanAlShaykh.Mashahir `
-    * `1450CadilNuwayhid.MucjamAclamJazair `
-    * `1450DarIftaMisriyya.FatawaDarIfta `
-    * `1450MajmacFikrIslami.MawsucaMuallifiImamiya `
-    * `1450MawsucaShicriya.MucjamShucara `
-    * `1450MuhammadHadiAmini.MucjamMatbicatNajafiya `
-    * `1450MuhammadKhayrRamadan.TakmilaMucjamMuallifin `
-    * `1450MuhammadSancani.NaylWatar `
-    * `1450Musannifun.MawsucaMujaza `
-    * `1450TarhibDawsari.MucjamMuallafatMalikiyya `
-    * `1450TarhibDawsari.MucjamMuallafatShaficiyya `
-    * `1450WizaraAwqafMisriyya.TarajimMujaza `
+* **1500AH [[ [Re]generated on 2016-08-29 (21:44:45) ]]**
 
-# Statistics on the corpus
+ * `1405CaliShahrudi.Mustadrakat `
+	- *TAGS: CENT1500, PPE, SHC, _HADITH, _SHICI, _TARAJIM*
+ * `1408CumarKahhala.MucjamMuallifin `
+	- *TAGS: BIB, BIO, CENT1500, COL, PPE, _FAHARIS, _KUTUB, _TABAQAT, _TARAJIM*
+ * `1408CumarKahhala.MucjamQabail `
+	- *TAGS: CENT1500, COL, GEN, PPE, _ANSAB, _MACAJIM*
+ * `1411SayyidKhui.MucjamRijal `
+	- *TAGS: CENT1500, PPE, _HADITH, _SHICI, _TARAJIM*
+ * `1411SayyidMarcashi.SharhIhqaq `
+	- *TAGS: CENT1500, _CAQAID, _SHICI, _TWELVERS*
+ * `1414SalimIbadi.IscafAcyan `
+	- *TAGS: CENT1500, _ANSAB*
+ * `1418SalihAhmadArkani.TihfaMajalis `
+	- *TAGS: BIB, CENT1500, PPE, _FAHARIS, _KUTUB*
+ * `1419MahmudTanahi.MujizFiMarajic `
+	- *TAGS: BIB, CENT1500, PPE, _ADILLA, _FAHARIS, _KUTUB*
+ * `1421HamdJasir.MucjamQabailMCS `
+	- *TAGS: CENT1500, _ANSAB*
+ * `1422IbnHadiWadici.RijalHakim `
+	- *TAGS: CENT1500, _TABAQAT, _TARAJIM*
+ * `1422MuhammadSalimMuhaysin.MucjamHuffazQuran `
+	- *TAGS: CENT1500, PPE, _TABAQAT, _TARAJIM*
+ * `1429BakrIbnCabdAllah.TabaqatNassabin `
+	- *TAGS: CENT1500, _TABAQAT, _TARAJIM*
+ * `1450AbuTayyibMansuri.Irshad `
+	- *TAGS: _CENT00NO, _TABAQAT, _TARAJIM*
+ * `1450AkramFaluji.MucjamSaghir `
+	- *TAGS: CENT1500, _TABAQAT, _TARAJIM*
+ * `1450CabdRahmanAlShaykh.Mashahir `
+	- *TAGS: CENT1500, PPE, _TABAQAT, _TARAJIM*
+ * `1450CadilNuwayhid.MucjamAclamJazair `
+	- *TAGS: _CENT00NO, _TABAQAT, _TARAJIM*
+ * `1450DarIftaMisriyya.FatawaDarIfta `
+	- *TAGS: CENT1500, _FATAWA*
+ * `1450MajmacFikrIslami.MawsucaMuallifiImamiya `
+	- *TAGS: CENT1500, PPE, _FAHARIS, _KUTUB*
+ * `1450MawsucaShicriya.MucjamShucara `
+	- *TAGS: _CENT1500, _TABAQAT, _TARAJIM*
+ * `1450MuhammadHadiAmini.MucjamMatbicatNajafiya `
+	- *TAGS: BIB, CENT1500, PPE, _FAHARIS, _KUTUB*
+ * `1450MuhammadKhayrRamadan.TakmilaMucjamMuallifin `
+	- *TAGS: BIB, CENT1500, COL, PPE, _TABAQAT, _TARAJIM*
+ * `1450MuhammadSancani.NaylWatar `
+	- *TAGS: BIO, CENT1500, COL, ORPHAN, PPE*
+ * `1450Musannifun.MawsucaMujaza `
+	- *TAGS: _CENT1500, _TARIKH*
+ * `1450TarhibDawsari.MucjamMuallafatMalikiyya `
+	- *TAGS: _ADILLA, _CENT00NO, _FAHARIS, _KUTUB*
+ * `1450TarhibDawsari.MucjamMuallafatShaficiyya `
+	- *TAGS: _ADILLA, _CENT00NO, _FAHARIS, _KUTUB*
+ * `1450WizaraAwqafMisriyya.TarajimMujaza `
+	- *TAGS: CENT1500, _TABAQAT, _TARAJIM*
+
+
+## Statistics on the corpus
 
 | **Category** | **Stats** |
 |:--- | ------:|
 | Number of text files | 1265 |
 | Number of books      | 625 |
 | Number of authors    | 407 |
-| Length in words (all)| 379,355,486 |
-| Length in pages (300 w/p)| 1,264,518 |
-| Length in words (unique) | 174,379,056 |
-| Length in pages (300 w/p)| 581,263 |
+| Length in words (all)| 379,338,145 |
+| Length in pages (300 w/p)| 1,264,460 |
+| Length in words (unique) | 174,377,239 |
+| Length in pages (300 w/p)| 581,257 |
+
 
 ## Summary statistics on the lengths of texts in the corpus
 
@@ -898,6 +1550,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 | *Mean* | 306,700 | 1,022 |
 | *3rd Qu.* | 266,700 | 889 |
 | *Max.* | 10,410,000 | 34,700 |
+
 
 ## Texts by length (duplicates excluded)
 
@@ -919,7 +1572,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 | 14 | 0733Nuwayri.NihayaArab | 2,455,687 | 8,185 |
 | 15 | 0711IbnManzurIfriqi.MukhtasarTarikhDimashq | 2,408,342 | 8,027 |
 | 16 | 0774IbnKathir.Bidaya | 2,329,940 | 7,766 |
-| 17 | 0764Safadi.WafiBiWafayat | 1,980,068 | 6,600 |
+| 17 | 0764Safadi.WafiBiWafayat | 1,978,264 | 6,594 |
 | 18 | 1450DarIftaMisriyya.FatawaDarIfta | 1,911,816 | 6,372 |
 | 19 | 1396KhayrDinZirikli.Aclam | 1,634,967 | 5,449 |
 | 20 | 0821Qalqashandi.SubhAcsha | 1,616,289 | 5,387 |
@@ -955,7 +1608,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 | 50 | 0256Bukhari.TarikhKabir | 791,001 | 2,636 |
 | 51 | 0430AbuNucaymIsbahani.MacrifaSahaba | 785,050 | 2,616 |
 | 52 | 0845Maqrizi.Mawaciz | 683,850 | 2,279 |
-| 53 | 0421Miskawayh.Tajarib | 679,990 | 2,266 |
+| 53 | 0421Miskawayh.Tajarib | 679,989 | 2,266 |
 | 54 | 0681IbnKhallikan.WafayatAcyan | 677,482 | 2,258 |
 | 55 | 0771Subki.TabaqatShaficiyaKubra | 676,731 | 2,255 |
 | 56 | 1450Musannifun.MawsucaMujaza | 668,172 | 2,227 |
@@ -1110,7 +1763,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 | 205 | 0695IbnCidhariMarrakushi.BayanMaghrib | 153,641 | 512 |
 | 206 | 0748Dhahabi.MucjamShuyukh | 152,971 | 509 |
 | 207 | 1422IbnHadiWadici.RijalHakim | 152,657 | 508 |
-| 208 | 0365IbnFaqihHamadhani.Buldan | 147,644 | 492 |
+| 208 | 0365IbnFaqihHamadhani.Buldan | 147,632 | 492 |
 | 209 | 0682ZakariyaQazwini.AtharBilad | 146,837 | 489 |
 | 210 | 0696IbnZahiri.Mashyakha | 146,557 | 488 |
 | 211 | 0968Tashkubruizadah.ShaqaiqNucmaniyya | 145,615 | 485 |
@@ -1529,6 +2182,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 | 624 | 0696Dabbagh.MacalimIman | 187 | 0 |
 | 625 | 1450MuhammadSancani.NaylWatar | 150 | 0 |
 
+
 ## Texts in chronological order (duplicates excluded)
 
 | TextGroup URI | Words  | Pages (300 w/p) |
@@ -1660,7 +2314,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 | 0360Tabarani.MucjamKabir | 1,590,311 | 5,301 |
 | 0365IbnCadiJurjani.AsamiManRawaCanhum | 7,679 | 25 |
 | 0365IbnCadiJurjani.KamilFiDucafa | 962,139 | 3,207 |
-| 0365IbnFaqihHamadhani.Buldan | 147,644 | 492 |
+| 0365IbnFaqihHamadhani.Buldan | 147,632 | 492 |
 | 0367IbnHawqal.SuraArd | 123,793 | 412 |
 | 0368AbuGhalibZurari.Risala | 22,769 | 75 |
 | 0368Sirafi.AkhbarNahwiyyin | 10,206 | 34 |
@@ -1704,7 +2358,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 | 0418WazirMaghribi.AdabKhawas | 22,658 | 75 |
 | 0418WazirMaghribi.Inas | 22,614 | 75 |
 | 0421IbnMuhammadMarzuqi.AzminaWaAmkina | 165,458 | 551 |
-| 0421Miskawayh.Tajarib | 679,990 | 2,266 |
+| 0421Miskawayh.Tajarib | 679,989 | 2,266 |
 | 0427HamzaJurjani.TarikhJurjan | 114,881 | 382 |
 | 0428IbnManjuwayhIsbahani.RijalSahihMuslim | 124,175 | 413 |
 | 0429AbuMansurThacalibi.YatimaDahr | 362,496 | 1,208 |
@@ -1925,7 +2579,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 | 0764IbnShakirKutubi.FawatWafayat | 288,315 | 961 |
 | 0764Safadi.AcyanCasr | 604,057 | 2,013 |
 | 0764Safadi.NaktHimyan | 74,306 | 247 |
-| 0764Safadi.WafiBiWafayat | 1,980,068 | 6,600 |
+| 0764Safadi.WafiBiWafayat | 1,978,264 | 6,594 |
 | 0765AbuMahasinHusayni.DhaylTadhkira | 15,407 | 51 |
 | 0765AbuMahasinHusayni.IkmalLiRijal | 54,306 | 181 |
 | 0767Balawi.TajMafriq | 73,852 | 246 |
@@ -2158,4 +2812,2653 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 | 1450TarhibDawsari.MucjamMuallafatMalikiyya | 6,095 | 20 |
 | 1450TarhibDawsari.MucjamMuallafatShaficiyya | 12,526 | 41 |
 | 1450WizaraAwqafMisriyya.TarajimMujaza | 26,409 | 88 |
+
+
+## Chronological Distribution of Texts - up until 1930 (5,530 texts, 729,904,604 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- **7th century CE: 29 titles, 656,855 words**
+- **8th century CE: 84 titles, 6,126,423 words**
+- **9th century CE: 506 titles, 31,731,358 words**
+- **10th century CE: 674 titles, 60,026,199 words**
+- **11th century CE: 688 titles, 71,114,785 words**
+- **12th century CE: 461 titles, 53,112,691 words**
+- **13th century CE: 447 titles, 59,578,221 words**
+- **14th century CE: 578 titles, 96,792,091 words**
+- **15th century CE: 328 titles, 72,980,538 words**
+- **16th century CE: 250 titles, 55,682,929 words**
+- **17th century CE: 160 titles, 53,548,425 words**
+- **18th century CE: 151 titles, 33,836,230 words**
+- **19th century CE: 200 titles, 59,558,191 words**
+- **20th century CE: 129 titles, 16,837,153 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 5,530 titles, 729,904,604 words**
+
+
+
+## Forms, Themes, Genres (provisional assessment)
+
+### *ADAB* (608 texts, 50,829,080 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- **7th century CE: 2 titles, 19,107 words**
+- **8th century CE: 7 titles, 209,885 words**
+- **9th century CE: 48 titles, 2,956,390 words**
+- **10th century CE: 86 titles, 6,981,561 words**
+- **11th century CE: 94 titles, 6,518,363 words**
+- **12th century CE: 85 titles, 7,929,689 words**
+- **13th century CE: 44 titles, 5,591,528 words**
+- **14th century CE: 37 titles, 4,720,991 words**
+- **15th century CE: 23 titles, 3,522,201 words**
+- **16th century CE: 32 titles, 1,187,974 words**
+- **17th century CE: 10 titles, 2,794,471 words**
+- **18th century CE: 6 titles, 1,206,440 words**
+- **19th century CE: 14 titles, 705,377 words**
+- **20th century CE: 13 titles, 1,173,560 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 608 titles, 50,829,080 words**
+
+
+### *ADHKAR* (219 texts, 11,924,910 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- **8th century CE: 1 titles, 16,317 words**
+- **9th century CE: 10 titles, 348,180 words**
+- **10th century CE: 15 titles, 775,222 words**
+- **11th century CE: 14 titles, 492,787 words**
+- **12th century CE: 33 titles, 2,606,490 words**
+- **13th century CE: 15 titles, 1,178,644 words**
+- **14th century CE: 16 titles, 996,909 words**
+- **15th century CE: 6 titles, 331,299 words**
+- **16th century CE: 12 titles, 378,561 words**
+- **17th century CE: 2 titles, 21,449 words**
+- **18th century CE: 4 titles, 905,376 words**
+- **19th century CE: 4 titles, 234,025 words**
+- **20th century CE: 2 titles, 112,685 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 219 titles, 11,924,910 words**
+
+
+### *ADILLA* (38 texts, 2,636,056 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- ~~9th century CE: 0 titles, 0 words~~
+- ~~10th century CE: 0 titles, 0 words~~
+- **11th century CE: 1 titles, 136,752 words**
+- **12th century CE: 2 titles, 128,589 words**
+- **13th century CE: 1 titles, 16,475 words**
+- **14th century CE: 1 titles, 43,380 words**
+- **15th century CE: 2 titles, 189,442 words**
+- **16th century CE: 3 titles, 126,760 words**
+- **17th century CE: 3 titles, 686,112 words**
+- **18th century CE: 1 titles, 3,496 words**
+- **19th century CE: 5 titles, 516,437 words**
+- **20th century CE: 2 titles, 318,891 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 38 titles, 2,636,056 words**
+
+
+### *AHKAM* (37 texts, 14,448,347 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- **9th century CE: 9 titles, 423,425 words**
+- **10th century CE: 8 titles, 5,606,230 words**
+- **11th century CE: 2 titles, 63,885 words**
+- **12th century CE: 7 titles, 2,234,182 words**
+- **13th century CE: 1 titles, 2,068,218 words**
+- **14th century CE: 6 titles, 2,261,621 words**
+- **15th century CE: 1 titles, 44,444 words**
+- ~~16th century CE: 0 titles, 0 words~~
+- **17th century CE: 1 titles, 9,769 words**
+- **18th century CE: 1 titles, 261,323 words**
+- **19th century CE: 1 titles, 1,475,250 words**
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 37 titles, 14,448,347 words**
+
+
+### *AHLAM* (9 texts, 931,763 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- **8th century CE: 1 titles, 211,445 words**
+- **9th century CE: 1 titles, 24,681 words**
+- ~~10th century CE: 0 titles, 0 words~~
+- ~~11th century CE: 0 titles, 0 words~~
+- ~~12th century CE: 0 titles, 0 words~~
+- **13th century CE: 1 titles, 48,509 words**
+- **14th century CE: 1 titles, 76,822 words**
+- **15th century CE: 1 titles, 182,337 words**
+- ~~16th century CE: 0 titles, 0 words~~
+- ~~17th century CE: 0 titles, 0 words~~
+- **18th century CE: 1 titles, 254,104 words**
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 9 titles, 931,763 words**
+
+
+### *AJZA* (666 texts, 8,995,458 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- **8th century CE: 21 titles, 289,272 words**
+- **9th century CE: 105 titles, 1,422,088 words**
+- **10th century CE: 187 titles, 2,499,231 words**
+- **11th century CE: 124 titles, 1,833,468 words**
+- **12th century CE: 72 titles, 989,705 words**
+- **13th century CE: 75 titles, 947,485 words**
+- **14th century CE: 35 titles, 501,890 words**
+- **15th century CE: 29 titles, 363,667 words**
+- **16th century CE: 11 titles, 43,891 words**
+- ~~17th century CE: 0 titles, 0 words~~
+- **18th century CE: 1 titles, 19,275 words**
+- **19th century CE: 1 titles, 5,943 words**
+- **20th century CE: 1 titles, 5,888 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 666 titles, 8,995,458 words**
+
+
+### *AKHLAQ* (204 texts, 12,178,946 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- **7th century CE: 2 titles, 123,285 words**
+- **8th century CE: 3 titles, 171,423 words**
+- **9th century CE: 58 titles, 1,050,123 words**
+- **10th century CE: 27 titles, 1,453,988 words**
+- **11th century CE: 23 titles, 734,655 words**
+- **12th century CE: 18 titles, 1,703,041 words**
+- **13th century CE: 11 titles, 2,664,007 words**
+- **14th century CE: 38 titles, 3,268,872 words**
+- **15th century CE: 2 titles, 28,166 words**
+- **16th century CE: 9 titles, 336,228 words**
+- **17th century CE: 1 titles, 16,342 words**
+- **18th century CE: 3 titles, 59,116 words**
+- **19th century CE: 5 titles, 299,708 words**
+- **20th century CE: 1 titles, 109,344 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 204 titles, 12,178,946 words**
+
+
+### *ALBANI* (19 texts, 1,377,404 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- **9th century CE: 4 titles, 79,862 words**
+- **10th century CE: 1 titles, 786,888 words**
+- ~~11th century CE: 0 titles, 0 words~~
+- ~~12th century CE: 0 titles, 0 words~~
+- **13th century CE: 3 titles, 5,821 words**
+- **14th century CE: 6 titles, 380,150 words**
+- ~~15th century CE: 0 titles, 0 words~~
+- ~~16th century CE: 0 titles, 0 words~~
+- ~~17th century CE: 0 titles, 0 words~~
+- ~~18th century CE: 0 titles, 0 words~~
+- **19th century CE: 1 titles, 20,581 words**
+- **20th century CE: 2 titles, 13,303 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 19 titles, 1,377,404 words**
+
+
+### *AMALI* (12 texts, 159,787 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- **9th century CE: 2 titles, 13,840 words**
+- **10th century CE: 3 titles, 73,010 words**
+- **11th century CE: 3 titles, 6,784 words**
+- **12th century CE: 1 titles, 3,881 words**
+- ~~13th century CE: 0 titles, 0 words~~
+- ~~14th century CE: 0 titles, 0 words~~
+- **15th century CE: 3 titles, 62,272 words**
+- ~~16th century CE: 0 titles, 0 words~~
+- ~~17th century CE: 0 titles, 0 words~~
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 12 titles, 159,787 words**
+
+
+### *AMTHAL* (15 texts, 1,298,264 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- **8th century CE: 1 titles, 41,459 words**
+- **9th century CE: 2 titles, 48,761 words**
+- **10th century CE: 4 titles, 219,925 words**
+- **11th century CE: 3 titles, 216,614 words**
+- **12th century CE: 2 titles, 332,602 words**
+- **13th century CE: 1 titles, 179,688 words**
+- **14th century CE: 1 titles, 54,758 words**
+- ~~15th century CE: 0 titles, 0 words~~
+- ~~16th century CE: 0 titles, 0 words~~
+- **17th century CE: 1 titles, 204,457 words**
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 15 titles, 1,298,264 words**
+
+
+### *ANSAB* (36 texts, 5,718,637 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- **9th century CE: 10 titles, 1,618,087 words**
+- **10th century CE: 2 titles, 263,420 words**
+- **11th century CE: 4 titles, 265,652 words**
+- **12th century CE: 6 titles, 1,185,749 words**
+- **13th century CE: 5 titles, 1,936,171 words**
+- **14th century CE: 1 titles, 132,990 words**
+- **15th century CE: 2 titles, 124,664 words**
+- **16th century CE: 1 titles, 56,484 words**
+- **17th century CE: 1 titles, 21,216 words**
+- **18th century CE: 1 titles, 66,073 words**
+- **19th century CE: 1 titles, 9,883 words**
+- **20th century CE: 1 titles, 10,017 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 36 titles, 5,718,637 words**
+
+
+### *ASHAB* (61 texts, 10,958,798 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- **8th century CE: 1 titles, 45,305 words**
+- **9th century CE: 7 titles, 1,110,637 words**
+- **10th century CE: 7 titles, 133,091 words**
+- **11th century CE: 5 titles, 821,086 words**
+- **12th century CE: 5 titles, 655,365 words**
+- **13th century CE: 7 titles, 800,175 words**
+- **14th century CE: 8 titles, 3,573,708 words**
+- **15th century CE: 4 titles, 60,587 words**
+- **16th century CE: 10 titles, 2,877,118 words**
+- **17th century CE: 2 titles, 659,204 words**
+- **18th century CE: 4 titles, 154,586 words**
+- ~~19th century CE: 0 titles, 0 words~~
+- **20th century CE: 1 titles, 67,936 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 61 titles, 10,958,798 words**
+
+
+### *BALAGHA* (357 texts, 33,394,022 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- **7th century CE: 2 titles, 19,107 words**
+- **8th century CE: 6 titles, 193,568 words**
+- **9th century CE: 35 titles, 2,455,107 words**
+- **10th century CE: 61 titles, 4,238,596 words**
+- **11th century CE: 75 titles, 5,205,739 words**
+- **12th century CE: 49 titles, 4,911,336 words**
+- **13th century CE: 27 titles, 3,174,857 words**
+- **14th century CE: 20 titles, 3,650,248 words**
+- **15th century CE: 15 titles, 2,999,855 words**
+- **16th century CE: 16 titles, 592,089 words**
+- **17th century CE: 6 titles, 2,335,652 words**
+- **18th century CE: 2 titles, 301,064 words**
+- **19th century CE: 10 titles, 471,352 words**
+- **20th century CE: 11 titles, 1,060,875 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 357 titles, 33,394,022 words**
+
+
+### *BIB* (12 texts, 1,399,550 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- ~~9th century CE: 0 titles, 0 words~~
+- ~~10th century CE: 0 titles, 0 words~~
+- **11th century CE: 2 titles, 144,167 words**
+- ~~12th century CE: 0 titles, 0 words~~
+- ~~13th century CE: 0 titles, 0 words~~
+- **14th century CE: 1 titles, 43,380 words**
+- ~~15th century CE: 0 titles, 0 words~~
+- **16th century CE: 2 titles, 73,707 words**
+- **17th century CE: 2 titles, 590,059 words**
+- ~~18th century CE: 0 titles, 0 words~~
+- **19th century CE: 3 titles, 197,207 words**
+- **20th century CE: 2 titles, 351,030 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 12 titles, 1,399,550 words**
+
+
+### *BIO* (79 texts, 40,769,399 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- **9th century CE: 6 titles, 1,394,996 words**
+- **10th century CE: 7 titles, 273,989 words**
+- **11th century CE: 5 titles, 3,102,403 words**
+- **12th century CE: 12 titles, 11,270,914 words**
+- **13th century CE: 10 titles, 3,174,230 words**
+- **14th century CE: 24 titles, 16,235,580 words**
+- **15th century CE: 7 titles, 3,022,431 words**
+- **16th century CE: 3 titles, 411,086 words**
+- **17th century CE: 3 titles, 1,540,941 words**
+- **18th century CE: 2 titles, 342,829 words**
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 79 titles, 40,769,399 words**
+
+
+### *BUHUTH* (183 texts, 4,789,334 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- **8th century CE: 3 titles, 90,498 words**
+- **9th century CE: 6 titles, 274,845 words**
+- **10th century CE: 4 titles, 180,218 words**
+- **11th century CE: 5 titles, 314,658 words**
+- **12th century CE: 5 titles, 72,614 words**
+- **13th century CE: 4 titles, 225,838 words**
+- **14th century CE: 12 titles, 144,597 words**
+- **15th century CE: 8 titles, 158,071 words**
+- **16th century CE: 20 titles, 354,473 words**
+- **17th century CE: 6 titles, 53,289 words**
+- **18th century CE: 11 titles, 137,296 words**
+- **19th century CE: 3 titles, 176,161 words**
+- **20th century CE: 1 titles, 62,571 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 183 titles, 4,789,334 words**
+
+
+### *BULDAN* (152 texts, 32,712,979 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- **8th century CE: 2 titles, 4,799 words**
+- **9th century CE: 20 titles, 3,084,580 words**
+- **10th century CE: 22 titles, 1,067,593 words**
+- **11th century CE: 13 titles, 3,618,066 words**
+- **12th century CE: 13 titles, 9,885,026 words**
+- **13th century CE: 26 titles, 5,386,136 words**
+- **14th century CE: 13 titles, 2,572,378 words**
+- **15th century CE: 15 titles, 3,213,426 words**
+- **16th century CE: 8 titles, 1,396,072 words**
+- **17th century CE: 5 titles, 985,256 words**
+- **18th century CE: 4 titles, 249,582 words**
+- **19th century CE: 2 titles, 575,071 words**
+- **20th century CE: 4 titles, 338,413 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 152 titles, 32,712,979 words**
+
+
+### *CAQAID* (519 texts, 28,190,335 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- **7th century CE: 1 titles, 25,843 words**
+- **8th century CE: 3 titles, 128,651 words**
+- **9th century CE: 34 titles, 699,441 words**
+- **10th century CE: 51 titles, 1,558,222 words**
+- **11th century CE: 52 titles, 4,052,321 words**
+- **12th century CE: 31 titles, 1,549,422 words**
+- **13th century CE: 33 titles, 1,065,767 words**
+- **14th century CE: 67 titles, 6,613,406 words**
+- **15th century CE: 10 titles, 1,102,986 words**
+- **16th century CE: 8 titles, 413,894 words**
+- **17th century CE: 18 titles, 1,517,606 words**
+- **18th century CE: 37 titles, 1,301,671 words**
+- **19th century CE: 48 titles, 2,158,295 words**
+- **20th century CE: 30 titles, 2,315,656 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 519 titles, 28,190,335 words**
+
+
+### *CARUD* (9 texts, 1,958,412 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- **9th century CE: 1 titles, 68,578 words**
+- **10th century CE: 2 titles, 136,376 words**
+- **11th century CE: 2 titles, 82,279 words**
+- **12th century CE: 2 titles, 88,931 words**
+- **13th century CE: 1 titles, 77,618 words**
+- ~~14th century CE: 0 titles, 0 words~~
+- **15th century CE: 1 titles, 1,504,630 words**
+- ~~16th century CE: 0 titles, 0 words~~
+- ~~17th century CE: 0 titles, 0 words~~
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 9 titles, 1,958,412 words**
+
+
+### *CHR* (13 texts, 13,844,874 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- ~~9th century CE: 0 titles, 0 words~~
+- **10th century CE: 2 titles, 1,645,771 words**
+- ~~11th century CE: 0 titles, 0 words~~
+- **12th century CE: 1 titles, 1,414,449 words**
+- **13th century CE: 1 titles, 1,377,588 words**
+- **14th century CE: 6 titles, 6,747,646 words**
+- **15th century CE: 2 titles, 1,646,674 words**
+- ~~16th century CE: 0 titles, 0 words~~
+- **17th century CE: 1 titles, 1,012,746 words**
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 13 titles, 13,844,874 words**
+
+
+### *CILAL* (71 texts, 6,584,897 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- **9th century CE: 15 titles, 484,960 words**
+- **10th century CE: 9 titles, 2,099,368 words**
+- **11th century CE: 7 titles, 146,969 words**
+- **12th century CE: 11 titles, 1,700,275 words**
+- **13th century CE: 4 titles, 352,567 words**
+- **14th century CE: 7 titles, 413,434 words**
+- ~~15th century CE: 0 titles, 0 words~~
+- **16th century CE: 4 titles, 649,219 words**
+- **17th century CE: 3 titles, 65,752 words**
+- **18th century CE: 2 titles, 276,756 words**
+- **19th century CE: 3 titles, 57,089 words**
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 71 titles, 6,584,897 words**
+
+
+### *CIRFAN* (7 texts, 3,487,980 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- ~~9th century CE: 0 titles, 0 words~~
+- ~~10th century CE: 0 titles, 0 words~~
+- ~~11th century CE: 0 titles, 0 words~~
+- ~~12th century CE: 0 titles, 0 words~~
+- **13th century CE: 2 titles, 1,870,333 words**
+- ~~14th century CE: 0 titles, 0 words~~
+- **15th century CE: 2 titles, 387,628 words**
+- ~~16th century CE: 0 titles, 0 words~~
+- **17th century CE: 3 titles, 1,230,019 words**
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 7 titles, 3,487,980 words**
+
+
+### *COL* (78 texts, 45,261,680 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- **9th century CE: 4 titles, 1,099,770 words**
+- **10th century CE: 5 titles, 1,738,117 words**
+- **11th century CE: 4 titles, 3,014,033 words**
+- **12th century CE: 22 titles, 13,109,092 words**
+- **13th century CE: 11 titles, 4,623,803 words**
+- **14th century CE: 17 titles, 15,749,228 words**
+- **15th century CE: 7 titles, 3,284,070 words**
+- **16th century CE: 4 titles, 632,777 words**
+- **17th century CE: 3 titles, 1,730,558 words**
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- **20th century CE: 1 titles, 280,232 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 78 titles, 45,261,680 words**
+
+
+### *CULUM* (427 texts, 64,867,950 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- **7th century CE: 1 titles, 15,330 words**
+- **8th century CE: 7 titles, 601,640 words**
+- **9th century CE: 20 titles, 1,386,096 words**
+- **10th century CE: 32 titles, 8,763,797 words**
+- **11th century CE: 49 titles, 6,809,780 words**
+- **12th century CE: 31 titles, 5,467,849 words**
+- **13th century CE: 25 titles, 7,507,767 words**
+- **14th century CE: 41 titles, 7,815,414 words**
+- **15th century CE: 42 titles, 10,648,247 words**
+- **16th century CE: 22 titles, 4,013,299 words**
+- **17th century CE: 9 titles, 323,446 words**
+- **18th century CE: 11 titles, 545,057 words**
+- **19th century CE: 4 titles, 5,107,008 words**
+- **20th century CE: 6 titles, 486,830 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 427 titles, 64,867,950 words**
+
+
+### *DACIF* (44 texts, 4,118,004 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- **9th century CE: 6 titles, 313,864 words**
+- **10th century CE: 5 titles, 1,149,393 words**
+- **11th century CE: 1 titles, 4,804 words**
+- **12th century CE: 8 titles, 1,228,988 words**
+- **13th century CE: 3 titles, 58,198 words**
+- **14th century CE: 7 titles, 116,023 words**
+- **15th century CE: 1 titles, 154,496 words**
+- **16th century CE: 3 titles, 581,473 words**
+- **17th century CE: 3 titles, 65,752 words**
+- **18th century CE: 2 titles, 276,756 words**
+- **19th century CE: 5 titles, 168,257 words**
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 44 titles, 4,118,004 words**
+
+
+### *DACWA* (86 texts, 2,317,706 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- ~~9th century CE: 0 titles, 0 words~~
+- ~~10th century CE: 0 titles, 0 words~~
+- ~~11th century CE: 0 titles, 0 words~~
+- **12th century CE: 2 titles, 29,281 words**
+- ~~13th century CE: 0 titles, 0 words~~
+- ~~14th century CE: 0 titles, 0 words~~
+- ~~15th century CE: 0 titles, 0 words~~
+- ~~16th century CE: 0 titles, 0 words~~
+- ~~17th century CE: 0 titles, 0 words~~
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- **20th century CE: 1 titles, 28,757 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 86 titles, 2,317,706 words**
+
+
+### *FADAIL* (3 texts, 16,177 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- ~~9th century CE: 0 titles, 0 words~~
+- **10th century CE: 1 titles, 8,687 words**
+- **11th century CE: 1 titles, 4,535 words**
+- ~~12th century CE: 0 titles, 0 words~~
+- ~~13th century CE: 0 titles, 0 words~~
+- ~~14th century CE: 0 titles, 0 words~~
+- ~~15th century CE: 0 titles, 0 words~~
+- ~~16th century CE: 0 titles, 0 words~~
+- ~~17th century CE: 0 titles, 0 words~~
+- **18th century CE: 1 titles, 2,955 words**
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 3 titles, 16,177 words**
+
+
+### *FAHARIS* (54 texts, 8,211,931 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- ~~9th century CE: 0 titles, 0 words~~
+- **10th century CE: 1 titles, 29,675 words**
+- **11th century CE: 3 titles, 367,553 words**
+- **12th century CE: 3 titles, 425,058 words**
+- **13th century CE: 5 titles, 1,428,773 words**
+- **14th century CE: 3 titles, 3,148,891 words**
+- **15th century CE: 4 titles, 412,099 words**
+- **16th century CE: 4 titles, 128,592 words**
+- **17th century CE: 4 titles, 770,296 words**
+- **18th century CE: 1 titles, 3,496 words**
+- **19th century CE: 6 titles, 638,087 words**
+- **20th century CE: 3 titles, 389,689 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 54 titles, 8,211,931 words**
+
+
+### *FALSAFA* (93 texts, 4,909,218 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- **8th century CE: 1 titles, 1,748 words**
+- **9th century CE: 32 titles, 482,392 words**
+- **10th century CE: 35 titles, 386,348 words**
+- **11th century CE: 13 titles, 496,423 words**
+- **12th century CE: 2 titles, 24,519 words**
+- **13th century CE: 3 titles, 1,878,480 words**
+- ~~14th century CE: 0 titles, 0 words~~
+- **15th century CE: 2 titles, 387,628 words**
+- ~~16th century CE: 0 titles, 0 words~~
+- **17th century CE: 3 titles, 1,230,019 words**
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- **20th century CE: 1 titles, 10,386 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 93 titles, 4,909,218 words**
+
+
+### *FARQ* (8 texts, 460,423 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- **9th century CE: 2 titles, 88,948 words**
+- **10th century CE: 1 titles, 96,387 words**
+- **11th century CE: 1 titles, 8,825 words**
+- ~~12th century CE: 0 titles, 0 words~~
+- ~~13th century CE: 0 titles, 0 words~~
+- ~~14th century CE: 0 titles, 0 words~~
+- ~~15th century CE: 0 titles, 0 words~~
+- ~~16th century CE: 0 titles, 0 words~~
+- ~~17th century CE: 0 titles, 0 words~~
+- ~~18th century CE: 0 titles, 0 words~~
+- **19th century CE: 1 titles, 5,529 words**
+- **20th century CE: 1 titles, 106,644 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 8 titles, 460,423 words**
+
+
+### *FASAHA* (39 texts, 4,652,773 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- **9th century CE: 5 titles, 340,543 words**
+- **10th century CE: 7 titles, 478,820 words**
+- **11th century CE: 15 titles, 835,623 words**
+- **12th century CE: 5 titles, 430,128 words**
+- **13th century CE: 4 titles, 1,518,949 words**
+- ~~14th century CE: 0 titles, 0 words~~
+- ~~15th century CE: 0 titles, 0 words~~
+- **16th century CE: 2 titles, 73,513 words**
+- **17th century CE: 1 titles, 975,197 words**
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 39 titles, 4,652,773 words**
+
+
+### *FATAWA* (31 texts, 6,771,578 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- ~~9th century CE: 0 titles, 0 words~~
+- ~~10th century CE: 0 titles, 0 words~~
+- ~~11th century CE: 0 titles, 0 words~~
+- ~~12th century CE: 0 titles, 0 words~~
+- **13th century CE: 1 titles, 27,528 words**
+- **14th century CE: 3 titles, 592,878 words**
+- **15th century CE: 2 titles, 24,713 words**
+- **16th century CE: 4 titles, 1,539,515 words**
+- ~~17th century CE: 0 titles, 0 words~~
+- **18th century CE: 2 titles, 244,948 words**
+- **19th century CE: 14 titles, 2,154,716 words**
+- **20th century CE: 1 titles, 147,609 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 31 titles, 6,771,578 words**
+
+
+### *FAWAID* (14 texts, 203,216 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- **8th century CE: 1 titles, 1,423 words**
+- **9th century CE: 1 titles, 7,761 words**
+- **10th century CE: 2 titles, 4,018 words**
+- **11th century CE: 6 titles, 153,804 words**
+- **12th century CE: 2 titles, 27,690 words**
+- ~~13th century CE: 0 titles, 0 words~~
+- **14th century CE: 2 titles, 8,520 words**
+- ~~15th century CE: 0 titles, 0 words~~
+- ~~16th century CE: 0 titles, 0 words~~
+- ~~17th century CE: 0 titles, 0 words~~
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 14 titles, 203,216 words**
+
+
+### *FIQH* (776 texts, 255,621,672 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- **7th century CE: 1 titles, 30,942 words**
+- **8th century CE: 9 titles, 1,894,834 words**
+- **9th century CE: 56 titles, 10,572,765 words**
+- **10th century CE: 71 titles, 12,379,338 words**
+- **11th century CE: 86 titles, 25,601,998 words**
+- **12th century CE: 51 titles, 12,593,546 words**
+- **13th century CE: 65 titles, 20,924,847 words**
+- **14th century CE: 101 titles, 35,792,813 words**
+- **15th century CE: 47 titles, 25,348,530 words**
+- **16th century CE: 70 titles, 27,005,289 words**
+- **17th century CE: 34 titles, 9,589,355 words**
+- **18th century CE: 41 titles, 22,371,227 words**
+- **19th century CE: 65 titles, 35,370,893 words**
+- **20th century CE: 27 titles, 4,773,862 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 776 titles, 255,621,672 words**
+
+
+### *FIRAQ* (19 texts, 2,093,490 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- ~~9th century CE: 0 titles, 0 words~~
+- **10th century CE: 3 titles, 143,968 words**
+- **11th century CE: 3 titles, 521,151 words**
+- **12th century CE: 2 titles, 134,392 words**
+- **13th century CE: 3 titles, 146,670 words**
+- **14th century CE: 4 titles, 1,009,219 words**
+- **15th century CE: 1 titles, 35,438 words**
+- ~~16th century CE: 0 titles, 0 words~~
+- ~~17th century CE: 0 titles, 0 words~~
+- ~~18th century CE: 0 titles, 0 words~~
+- **19th century CE: 1 titles, 8,499 words**
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 19 titles, 2,093,490 words**
+
+
+### *GEN* (12 texts, 1,732,134 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- **9th century CE: 8 titles, 1,360,907 words**
+- ~~10th century CE: 0 titles, 0 words~~
+- **11th century CE: 1 titles, 22,410 words**
+- **12th century CE: 1 titles, 22,125 words**
+- **13th century CE: 1 titles, 193,702 words**
+- **14th century CE: 1 titles, 132,990 words**
+- ~~15th century CE: 0 titles, 0 words~~
+- ~~16th century CE: 0 titles, 0 words~~
+- ~~17th century CE: 0 titles, 0 words~~
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 12 titles, 1,732,134 words**
+
+
+### *GEO* (32 texts, 3,354,197 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- ~~9th century CE: 0 titles, 0 words~~
+- **10th century CE: 11 titles, 408,545 words**
+- **11th century CE: 2 titles, 336,660 words**
+- **12th century CE: 3 titles, 157,585 words**
+- **13th century CE: 6 titles, 1,445,549 words**
+- **14th century CE: 4 titles, 438,394 words**
+- **15th century CE: 3 titles, 411,167 words**
+- ~~16th century CE: 0 titles, 0 words~~
+- **17th century CE: 2 titles, 67,554 words**
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 32 titles, 3,354,197 words**
+
+
+### *GHARIB* (126 texts, 28,196,667 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- **8th century CE: 1 titles, 456,502 words**
+- **9th century CE: 23 titles, 1,070,048 words**
+- **10th century CE: 21 titles, 4,345,423 words**
+- **11th century CE: 18 titles, 4,136,424 words**
+- **12th century CE: 15 titles, 2,947,637 words**
+- **13th century CE: 13 titles, 2,847,675 words**
+- **14th century CE: 7 titles, 4,062,644 words**
+- **15th century CE: 7 titles, 1,217,218 words**
+- **16th century CE: 5 titles, 52,175 words**
+- **17th century CE: 2 titles, 432,615 words**
+- **18th century CE: 4 titles, 5,431,435 words**
+- **19th century CE: 3 titles, 975,182 words**
+- **20th century CE: 1 titles, 28,889 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 126 titles, 28,196,667 words**
+
+
+### *GRAR* (150 texts, 2,385,551 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- **8th century CE: 1 titles, 1,748 words**
+- **9th century CE: 39 titles, 617,499 words**
+- **10th century CE: 35 titles, 386,348 words**
+- **11th century CE: 20 titles, 570,655 words**
+- **12th century CE: 2 titles, 24,519 words**
+- **13th century CE: 24 titles, 535,632 words**
+- **14th century CE: 16 titles, 128,573 words**
+- **15th century CE: 8 titles, 40,897 words**
+- ~~16th century CE: 0 titles, 0 words~~
+- ~~17th century CE: 0 titles, 0 words~~
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- **20th century CE: 1 titles, 10,386 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 150 titles, 2,385,551 words**
+
+
+### *HAD* (3 texts, 1,559,638 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- **9th century CE: 1 titles, 10,042 words**
+- **10th century CE: 2 titles, 1,549,596 words**
+- ~~11th century CE: 0 titles, 0 words~~
+- ~~12th century CE: 0 titles, 0 words~~
+- ~~13th century CE: 0 titles, 0 words~~
+- ~~14th century CE: 0 titles, 0 words~~
+- ~~15th century CE: 0 titles, 0 words~~
+- ~~16th century CE: 0 titles, 0 words~~
+- ~~17th century CE: 0 titles, 0 words~~
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 3 titles, 1,559,638 words**
+
+
+### *HADITH* (1,999 texts, 224,854,392 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- **7th century CE: 4 titles, 260,901 words**
+- **8th century CE: 41 titles, 3,530,626 words**
+- **9th century CE: 258 titles, 19,306,273 words**
+- **10th century CE: 397 titles, 30,831,210 words**
+- **11th century CE: 356 titles, 30,415,812 words**
+- **12th century CE: 196 titles, 16,482,593 words**
+- **13th century CE: 178 titles, 11,915,776 words**
+- **14th century CE: 145 titles, 20,449,082 words**
+- **15th century CE: 147 titles, 30,695,218 words**
+- **16th century CE: 66 titles, 15,921,981 words**
+- **17th century CE: 44 titles, 27,042,668 words**
+- **18th century CE: 29 titles, 5,064,161 words**
+- **19th century CE: 20 titles, 3,422,793 words**
+- **20th century CE: 16 titles, 4,489,353 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 1,999 titles, 224,854,392 words**
+
+
+### *HANAFI* (53 texts, 28,270,970 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- **8th century CE: 3 titles, 73,365 words**
+- **9th century CE: 6 titles, 616,960 words**
+- ~~10th century CE: 0 titles, 0 words~~
+- **11th century CE: 3 titles, 2,659,560 words**
+- **12th century CE: 6 titles, 2,122,393 words**
+- **13th century CE: 5 titles, 3,538,249 words**
+- **14th century CE: 7 titles, 4,583,455 words**
+- **15th century CE: 3 titles, 3,422,672 words**
+- **16th century CE: 3 titles, 3,457,828 words**
+- **17th century CE: 7 titles, 1,360,431 words**
+- **18th century CE: 1 titles, 334,180 words**
+- **19th century CE: 5 titles, 4,148,500 words**
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 53 titles, 28,270,970 words**
+
+
+### *HANBALI* (52 texts, 19,111,058 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- **9th century CE: 6 titles, 387,262 words**
+- **10th century CE: 5 titles, 454,998 words**
+- ~~11th century CE: 0 titles, 0 words~~
+- **12th century CE: 2 titles, 32,913 words**
+- **13th century CE: 5 titles, 2,548,949 words**
+- **14th century CE: 8 titles, 7,025,324 words**
+- **15th century CE: 3 titles, 2,248,171 words**
+- **16th century CE: 3 titles, 532,703 words**
+- **17th century CE: 6 titles, 2,016,521 words**
+- **18th century CE: 8 titles, 845,866 words**
+- **19th century CE: 1 titles, 1,063,300 words**
+- **20th century CE: 1 titles, 112,736 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 52 titles, 19,111,058 words**
+
+
+### *HIS* (2 texts, 98,467 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- ~~9th century CE: 0 titles, 0 words~~
+- **10th century CE: 1 titles, 12,993 words**
+- ~~11th century CE: 0 titles, 0 words~~
+- **12th century CE: 1 titles, 85,474 words**
+- ~~13th century CE: 0 titles, 0 words~~
+- ~~14th century CE: 0 titles, 0 words~~
+- ~~15th century CE: 0 titles, 0 words~~
+- ~~16th century CE: 0 titles, 0 words~~
+- ~~17th century CE: 0 titles, 0 words~~
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 2 titles, 98,467 words**
+
+
+### *IBNABIDUNYA* (59 texts, 808,380 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- **9th century CE: 59 titles, 808,380 words**
+- ~~10th century CE: 0 titles, 0 words~~
+- ~~11th century CE: 0 titles, 0 words~~
+- ~~12th century CE: 0 titles, 0 words~~
+- ~~13th century CE: 0 titles, 0 words~~
+- ~~14th century CE: 0 titles, 0 words~~
+- ~~15th century CE: 0 titles, 0 words~~
+- ~~16th century CE: 0 titles, 0 words~~
+- ~~17th century CE: 0 titles, 0 words~~
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 59 titles, 808,380 words**
+
+
+### *IBNQAYYIM* (36 texts, 4,224,213 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- ~~9th century CE: 0 titles, 0 words~~
+- ~~10th century CE: 0 titles, 0 words~~
+- ~~11th century CE: 0 titles, 0 words~~
+- ~~12th century CE: 0 titles, 0 words~~
+- ~~13th century CE: 0 titles, 0 words~~
+- **14th century CE: 36 titles, 4,224,213 words**
+- ~~15th century CE: 0 titles, 0 words~~
+- ~~16th century CE: 0 titles, 0 words~~
+- ~~17th century CE: 0 titles, 0 words~~
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 36 titles, 4,224,213 words**
+
+
+### *IBNTAYMIYYA* (75 texts, 9,437,074 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- ~~9th century CE: 0 titles, 0 words~~
+- ~~10th century CE: 0 titles, 0 words~~
+- ~~11th century CE: 0 titles, 0 words~~
+- ~~12th century CE: 0 titles, 0 words~~
+- ~~13th century CE: 0 titles, 0 words~~
+- **14th century CE: 75 titles, 9,437,074 words**
+- ~~15th century CE: 0 titles, 0 words~~
+- ~~16th century CE: 0 titles, 0 words~~
+- ~~17th century CE: 0 titles, 0 words~~
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 75 titles, 9,437,074 words**
+
+
+### *ICRAB* (3 texts, 772,636 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- ~~9th century CE: 0 titles, 0 words~~
+- **10th century CE: 1 titles, 415,797 words**
+- **11th century CE: 1 titles, 116,026 words**
+- ~~12th century CE: 0 titles, 0 words~~
+- **13th century CE: 1 titles, 240,813 words**
+- ~~14th century CE: 0 titles, 0 words~~
+- ~~15th century CE: 0 titles, 0 words~~
+- ~~16th century CE: 0 titles, 0 words~~
+- ~~17th century CE: 0 titles, 0 words~~
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 3 titles, 772,636 words**
+
+
+### *IMAM* (60 texts, 11,323,852 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- **8th century CE: 3 titles, 184,928 words**
+- **9th century CE: 3 titles, 568,993 words**
+- **10th century CE: 3 titles, 635,431 words**
+- **11th century CE: 5 titles, 158,345 words**
+- **12th century CE: 8 titles, 911,335 words**
+- **13th century CE: 8 titles, 875,639 words**
+- **14th century CE: 10 titles, 3,434,571 words**
+- **15th century CE: 6 titles, 721,387 words**
+- **16th century CE: 2 titles, 2,068,905 words**
+- **17th century CE: 2 titles, 803,170 words**
+- **18th century CE: 2 titles, 36,022 words**
+- **19th century CE: 3 titles, 757,754 words**
+- **20th century CE: 5 titles, 167,372 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 60 titles, 11,323,852 words**
+
+
+### *JUGHRAFIYA* (69 texts, 7,959,023 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- **9th century CE: 1 titles, 2,282 words**
+- **10th century CE: 15 titles, 662,259 words**
+- **11th century CE: 7 titles, 570,333 words**
+- **12th century CE: 6 titles, 401,777 words**
+- **13th century CE: 11 titles, 1,848,229 words**
+- **14th century CE: 9 titles, 1,971,009 words**
+- **15th century CE: 6 titles, 1,172,741 words**
+- **16th century CE: 3 titles, 614,971 words**
+- **17th century CE: 2 titles, 67,554 words**
+- **18th century CE: 1 titles, 69,554 words**
+- **19th century CE: 1 titles, 112,731 words**
+- **20th century CE: 2 titles, 129,002 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 69 titles, 7,959,023 words**
+
+
+### *KITABA* (9 texts, 1,958,412 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- **9th century CE: 1 titles, 68,578 words**
+- **10th century CE: 2 titles, 136,376 words**
+- **11th century CE: 2 titles, 82,279 words**
+- **12th century CE: 2 titles, 88,931 words**
+- **13th century CE: 1 titles, 77,618 words**
+- ~~14th century CE: 0 titles, 0 words~~
+- **15th century CE: 1 titles, 1,504,630 words**
+- ~~16th century CE: 0 titles, 0 words~~
+- ~~17th century CE: 0 titles, 0 words~~
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 9 titles, 1,958,412 words**
+
+
+### *KUTUB* (45 texts, 3,153,519 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- ~~9th century CE: 0 titles, 0 words~~
+- **10th century CE: 1 titles, 29,675 words**
+- **11th century CE: 2 titles, 144,167 words**
+- **12th century CE: 2 titles, 128,589 words**
+- **13th century CE: 2 titles, 126,710 words**
+- **14th century CE: 2 titles, 46,408 words**
+- **15th century CE: 3 titles, 364,104 words**
+- **16th century CE: 3 titles, 126,760 words**
+- **17th century CE: 3 titles, 686,112 words**
+- **18th century CE: 1 titles, 3,496 words**
+- **19th century CE: 6 titles, 638,087 words**
+- **20th century CE: 3 titles, 389,689 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 45 titles, 3,153,519 words**
+
+
+### *LUGHA* (69 texts, 15,148,642 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- **8th century CE: 1 titles, 456,502 words**
+- **9th century CE: 6 titles, 603,726 words**
+- **10th century CE: 7 titles, 182,480 words**
+- **11th century CE: 8 titles, 1,440,823 words**
+- **12th century CE: 4 titles, 171,372 words**
+- **13th century CE: 10 titles, 2,073,783 words**
+- **14th century CE: 5 titles, 3,750,454 words**
+- **15th century CE: 1 titles, 579,698 words**
+- **16th century CE: 6 titles, 239,767 words**
+- **17th century CE: 1 titles, 586,354 words**
+- **18th century CE: 2 titles, 4,350,401 words**
+- **19th century CE: 2 titles, 116,582 words**
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 69 titles, 15,148,642 words**
+
+
+### *MACAJIM* (173 texts, 38,507,742 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- **8th century CE: 2 titles, 476,460 words**
+- **9th century CE: 40 titles, 5,686,476 words**
+- **10th century CE: 41 titles, 8,277,379 words**
+- **11th century CE: 23 titles, 4,546,279 words**
+- **12th century CE: 15 titles, 3,266,102 words**
+- **13th century CE: 16 titles, 3,465,350 words**
+- **14th century CE: 6 titles, 3,630,088 words**
+- **15th century CE: 7 titles, 1,217,218 words**
+- **16th century CE: 5 titles, 52,175 words**
+- **17th century CE: 3 titles, 990,090 words**
+- **18th century CE: 4 titles, 5,431,435 words**
+- **19th century CE: 4 titles, 1,247,001 words**
+- **20th century CE: 1 titles, 28,889 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 173 titles, 38,507,742 words**
+
+
+### *MAJALIS* (12 texts, 159,787 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- **9th century CE: 2 titles, 13,840 words**
+- **10th century CE: 3 titles, 73,010 words**
+- **11th century CE: 3 titles, 6,784 words**
+- **12th century CE: 1 titles, 3,881 words**
+- ~~13th century CE: 0 titles, 0 words~~
+- ~~14th century CE: 0 titles, 0 words~~
+- **15th century CE: 3 titles, 62,272 words**
+- ~~16th century CE: 0 titles, 0 words~~
+- ~~17th century CE: 0 titles, 0 words~~
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 12 titles, 159,787 words**
+
+
+### *MAJALLAT* (6 texts, 9,765,526 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- ~~9th century CE: 0 titles, 0 words~~
+- ~~10th century CE: 0 titles, 0 words~~
+- **11th century CE: 1 titles, 65,541 words**
+- ~~12th century CE: 0 titles, 0 words~~
+- ~~13th century CE: 0 titles, 0 words~~
+- **14th century CE: 1 titles, 313,586 words**
+- ~~15th century CE: 0 titles, 0 words~~
+- ~~16th century CE: 0 titles, 0 words~~
+- ~~17th century CE: 0 titles, 0 words~~
+- ~~18th century CE: 0 titles, 0 words~~
+- **19th century CE: 3 titles, 1,093,849 words**
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 6 titles, 9,765,526 words**
+
+
+### *MAJMUCAT* (44 texts, 18,468,777 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- **8th century CE: 2 titles, 303,136 words**
+- **9th century CE: 1 titles, 170,879 words**
+- **10th century CE: 2 titles, 445,570 words**
+- **11th century CE: 5 titles, 1,774,838 words**
+- **12th century CE: 3 titles, 279,197 words**
+- **13th century CE: 5 titles, 557,996 words**
+- **14th century CE: 12 titles, 1,363,798 words**
+- **15th century CE: 5 titles, 1,823,726 words**
+- **16th century CE: 2 titles, 2,198,479 words**
+- **17th century CE: 1 titles, 9,197 words**
+- **18th century CE: 1 titles, 143,312 words**
+- **19th century CE: 3 titles, 1,093,849 words**
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 44 titles, 18,468,777 words**
+
+
+### *MAKHTUTAT* (300 texts, 1,975,198 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- **8th century CE: 2 titles, 11,989 words**
+- **9th century CE: 16 titles, 74,770 words**
+- **10th century CE: 57 titles, 257,661 words**
+- **11th century CE: 88 titles, 476,913 words**
+- **12th century CE: 66 titles, 571,884 words**
+- **13th century CE: 28 titles, 286,314 words**
+- **14th century CE: 14 titles, 94,675 words**
+- **15th century CE: 20 titles, 91,423 words**
+- **16th century CE: 7 titles, 60,617 words**
+- ~~17th century CE: 0 titles, 0 words~~
+- **18th century CE: 2 titles, 48,952 words**
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 300 titles, 1,975,198 words**
+
+
+### *MALIKI* (44 texts, 24,962,848 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- **8th century CE: 2 titles, 1,151,308 words**
+- **9th century CE: 1 titles, 6,087 words**
+- **10th century CE: 5 titles, 2,091,441 words**
+- **11th century CE: 3 titles, 2,766,621 words**
+- **12th century CE: 5 titles, 4,011,653 words**
+- **13th century CE: 2 titles, 1,325,252 words**
+- **14th century CE: 4 titles, 561,759 words**
+- **15th century CE: 3 titles, 763,044 words**
+- **16th century CE: 4 titles, 1,509,129 words**
+- **17th century CE: 3 titles, 3,197,848 words**
+- **18th century CE: 3 titles, 2,150,734 words**
+- **19th century CE: 5 titles, 4,911,364 words**
+- **20th century CE: 1 titles, 177,397 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 44 titles, 24,962,848 words**
+
+
+### *MANSUKH* (8 texts, 213,315 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- **8th century CE: 1 titles, 3,261 words**
+- ~~9th century CE: 0 titles, 0 words~~
+- **10th century CE: 1 titles, 90,849 words**
+- **11th century CE: 2 titles, 25,121 words**
+- **12th century CE: 2 titles, 70,568 words**
+- ~~13th century CE: 0 titles, 0 words~~
+- **14th century CE: 1 titles, 4,209 words**
+- ~~15th century CE: 0 titles, 0 words~~
+- ~~16th century CE: 0 titles, 0 words~~
+- **17th century CE: 1 titles, 19,307 words**
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 8 titles, 213,315 words**
+
+
+### *MANTIQ* (7 texts, 3,487,980 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- ~~9th century CE: 0 titles, 0 words~~
+- ~~10th century CE: 0 titles, 0 words~~
+- ~~11th century CE: 0 titles, 0 words~~
+- ~~12th century CE: 0 titles, 0 words~~
+- **13th century CE: 2 titles, 1,870,333 words**
+- ~~14th century CE: 0 titles, 0 words~~
+- **15th century CE: 2 titles, 387,628 words**
+- ~~16th century CE: 0 titles, 0 words~~
+- **17th century CE: 3 titles, 1,230,019 words**
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 7 titles, 3,487,980 words**
+
+
+### *MASAIL* (285 texts, 9,044,295 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- **8th century CE: 4 titles, 117,551 words**
+- **9th century CE: 24 titles, 872,725 words**
+- **10th century CE: 22 titles, 532,227 words**
+- **11th century CE: 20 titles, 934,826 words**
+- **12th century CE: 9 titles, 111,801 words**
+- **13th century CE: 15 titles, 1,264,579 words**
+- **14th century CE: 25 titles, 1,056,018 words**
+- **15th century CE: 11 titles, 466,517 words**
+- **16th century CE: 25 titles, 534,978 words**
+- **17th century CE: 7 titles, 60,347 words**
+- **18th century CE: 18 titles, 218,970 words**
+- **19th century CE: 5 titles, 222,208 words**
+- **20th century CE: 4 titles, 105,937 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 285 titles, 9,044,295 words**
+
+
+### *MASANID* (39 texts, 8,094,316 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- **8th century CE: 1 titles, 19,958 words**
+- **9th century CE: 15 titles, 3,322,911 words**
+- **10th century CE: 20 titles, 4,575,089 words**
+- **11th century CE: 3 titles, 176,358 words**
+- ~~12th century CE: 0 titles, 0 words~~
+- ~~13th century CE: 0 titles, 0 words~~
+- ~~14th century CE: 0 titles, 0 words~~
+- ~~15th century CE: 0 titles, 0 words~~
+- ~~16th century CE: 0 titles, 0 words~~
+- ~~17th century CE: 0 titles, 0 words~~
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 39 titles, 8,094,316 words**
+
+
+### *MAWDUC* (44 texts, 4,118,004 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- **9th century CE: 6 titles, 313,864 words**
+- **10th century CE: 5 titles, 1,149,393 words**
+- **11th century CE: 1 titles, 4,804 words**
+- **12th century CE: 8 titles, 1,228,988 words**
+- **13th century CE: 3 titles, 58,198 words**
+- **14th century CE: 7 titles, 116,023 words**
+- **15th century CE: 1 titles, 154,496 words**
+- **16th century CE: 3 titles, 581,473 words**
+- **17th century CE: 3 titles, 65,752 words**
+- **18th century CE: 2 titles, 276,756 words**
+- **19th century CE: 5 titles, 168,257 words**
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 44 titles, 4,118,004 words**
+
+
+### *MILAL* (230 texts, 12,713,631 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- **8th century CE: 2 titles, 7,598 words**
+- **9th century CE: 23 titles, 464,663 words**
+- **10th century CE: 38 titles, 1,289,107 words**
+- **11th century CE: 39 titles, 2,873,359 words**
+- **12th century CE: 19 titles, 1,015,259 words**
+- **13th century CE: 16 titles, 512,816 words**
+- **14th century CE: 43 titles, 5,059,850 words**
+- **15th century CE: 4 titles, 197,786 words**
+- **16th century CE: 4 titles, 295,951 words**
+- **17th century CE: 5 titles, 86,504 words**
+- **18th century CE: 18 titles, 170,202 words**
+- **19th century CE: 12 titles, 336,647 words**
+- **20th century CE: 5 titles, 309,736 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 230 titles, 12,713,631 words**
+
+
+### *MISC* (321 texts, 26,457,643 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- **8th century CE: 3 titles, 222,454 words**
+- **9th century CE: 12 titles, 564,427 words**
+- **10th century CE: 39 titles, 3,105,199 words**
+- **11th century CE: 57 titles, 3,360,982 words**
+- **12th century CE: 52 titles, 4,306,746 words**
+- **13th century CE: 39 titles, 3,153,454 words**
+- **14th century CE: 38 titles, 4,626,265 words**
+- **15th century CE: 15 titles, 2,182,981 words**
+- **16th century CE: 22 titles, 1,036,484 words**
+- **17th century CE: 9 titles, 612,280 words**
+- **18th century CE: 7 titles, 1,102,622 words**
+- **19th century CE: 10 titles, 352,892 words**
+- **20th century CE: 7 titles, 631,542 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 321 titles, 26,457,643 words**
+
+
+### *MUDHAKKARAT* (11 texts, 955,128 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- ~~9th century CE: 0 titles, 0 words~~
+- **10th century CE: 5 titles, 167,892 words**
+- ~~11th century CE: 0 titles, 0 words~~
+- **12th century CE: 1 titles, 189,565 words**
+- **13th century CE: 1 titles, 73,841 words**
+- **14th century CE: 2 titles, 413,699 words**
+- ~~15th century CE: 0 titles, 0 words~~
+- ~~16th century CE: 0 titles, 0 words~~
+- ~~17th century CE: 0 titles, 0 words~~
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- **20th century CE: 1 titles, 21,388 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 11 titles, 955,128 words**
+
+
+### *MUFASSIRUN* (3 texts, 146,094 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- ~~9th century CE: 0 titles, 0 words~~
+- ~~10th century CE: 0 titles, 0 words~~
+- ~~11th century CE: 0 titles, 0 words~~
+- ~~12th century CE: 0 titles, 0 words~~
+- ~~13th century CE: 0 titles, 0 words~~
+- **14th century CE: 1 titles, 95,375 words**
+- ~~15th century CE: 0 titles, 0 words~~
+- **16th century CE: 1 titles, 11,388 words**
+- **17th century CE: 1 titles, 39,331 words**
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 3 titles, 146,094 words**
+
+
+### *MUKHADRAM* (8 texts, 75,727 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- **7th century CE: 3 titles, 28,157 words**
+- ~~8th century CE: 0 titles, 0 words~~
+- ~~9th century CE: 0 titles, 0 words~~
+- ~~10th century CE: 0 titles, 0 words~~
+- ~~11th century CE: 0 titles, 0 words~~
+- ~~12th century CE: 0 titles, 0 words~~
+- ~~13th century CE: 0 titles, 0 words~~
+- ~~14th century CE: 0 titles, 0 words~~
+- ~~15th century CE: 0 titles, 0 words~~
+- ~~16th century CE: 0 titles, 0 words~~
+- ~~17th century CE: 0 titles, 0 words~~
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 8 titles, 75,727 words**
+
+
+### *MUSHKIL* (10 texts, 1,966,407 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- **9th century CE: 2 titles, 61,975 words**
+- **10th century CE: 1 titles, 844,012 words**
+- **11th century CE: 1 titles, 59,081 words**
+- **12th century CE: 1 titles, 324,113 words**
+- **13th century CE: 1 titles, 327,540 words**
+- **14th century CE: 4 titles, 349,686 words**
+- ~~15th century CE: 0 titles, 0 words~~
+- ~~16th century CE: 0 titles, 0 words~~
+- ~~17th century CE: 0 titles, 0 words~~
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 10 titles, 1,966,407 words**
+
+
+### *MUSTALAHAT* (224 texts, 31,919,937 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- **8th century CE: 1 titles, 456,502 words**
+- **9th century CE: 25 titles, 1,196,381 words**
+- **10th century CE: 34 titles, 3,760,800 words**
+- **11th century CE: 36 titles, 5,761,202 words**
+- **12th century CE: 25 titles, 2,604,002 words**
+- **13th century CE: 19 titles, 2,986,962 words**
+- **14th century CE: 14 titles, 4,030,913 words**
+- **15th century CE: 25 titles, 2,251,075 words**
+- **16th century CE: 15 titles, 583,057 words**
+- **17th century CE: 6 titles, 620,121 words**
+- **18th century CE: 8 titles, 5,788,532 words**
+- **19th century CE: 6 titles, 1,295,648 words**
+- **20th century CE: 4 titles, 391,942 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 224 titles, 31,919,937 words**
+
+
+### *MUSTAQILLA* (6 texts, 2,465,091 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- ~~9th century CE: 0 titles, 0 words~~
+- ~~10th century CE: 0 titles, 0 words~~
+- ~~11th century CE: 0 titles, 0 words~~
+- **12th century CE: 1 titles, 308,981 words**
+- ~~13th century CE: 0 titles, 0 words~~
+- ~~14th century CE: 0 titles, 0 words~~
+- **15th century CE: 2 titles, 484,386 words**
+- ~~16th century CE: 0 titles, 0 words~~
+- ~~17th century CE: 0 titles, 0 words~~
+- **18th century CE: 1 titles, 483,418 words**
+- **19th century CE: 2 titles, 1,188,306 words**
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 6 titles, 2,465,091 words**
+
+
+### *NABI* (60 texts, 11,323,852 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- **8th century CE: 3 titles, 184,928 words**
+- **9th century CE: 3 titles, 568,993 words**
+- **10th century CE: 3 titles, 635,431 words**
+- **11th century CE: 5 titles, 158,345 words**
+- **12th century CE: 8 titles, 911,335 words**
+- **13th century CE: 8 titles, 875,639 words**
+- **14th century CE: 10 titles, 3,434,571 words**
+- **15th century CE: 6 titles, 721,387 words**
+- **16th century CE: 2 titles, 2,068,905 words**
+- **17th century CE: 2 titles, 803,170 words**
+- **18th century CE: 2 titles, 36,022 words**
+- **19th century CE: 3 titles, 757,754 words**
+- **20th century CE: 5 titles, 167,372 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 60 titles, 11,323,852 words**
+
+
+### *NAHW* (143 texts, 19,242,451 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- **8th century CE: 3 titles, 759,638 words**
+- **9th century CE: 6 titles, 758,470 words**
+- **10th century CE: 17 titles, 814,400 words**
+- **11th century CE: 20 titles, 2,292,858 words**
+- **12th century CE: 10 titles, 387,864 words**
+- **13th century CE: 17 titles, 1,933,136 words**
+- **14th century CE: 22 titles, 4,494,202 words**
+- **15th century CE: 9 titles, 1,247,701 words**
+- **16th century CE: 10 titles, 358,726 words**
+- **17th century CE: 4 titles, 608,646 words**
+- **18th century CE: 2 titles, 4,869,766 words**
+- **19th century CE: 2 titles, 25,295 words**
+- **20th century CE: 1 titles, 11,064 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 143 titles, 19,242,451 words**
+
+
+### *NASIKH* (8 texts, 213,315 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- **8th century CE: 1 titles, 3,261 words**
+- ~~9th century CE: 0 titles, 0 words~~
+- **10th century CE: 1 titles, 90,849 words**
+- **11th century CE: 2 titles, 25,121 words**
+- **12th century CE: 2 titles, 70,568 words**
+- ~~13th century CE: 0 titles, 0 words~~
+- **14th century CE: 1 titles, 4,209 words**
+- ~~15th century CE: 0 titles, 0 words~~
+- ~~16th century CE: 0 titles, 0 words~~
+- **17th century CE: 1 titles, 19,307 words**
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 8 titles, 213,315 words**
+
+
+### *NO_TAGS* (3 texts, 89,252 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- ~~9th century CE: 0 titles, 0 words~~
+- ~~10th century CE: 0 titles, 0 words~~
+- ~~11th century CE: 0 titles, 0 words~~
+- ~~12th century CE: 0 titles, 0 words~~
+- ~~13th century CE: 0 titles, 0 words~~
+- ~~14th century CE: 0 titles, 0 words~~
+- ~~15th century CE: 0 titles, 0 words~~
+- ~~16th century CE: 0 titles, 0 words~~
+- ~~17th century CE: 0 titles, 0 words~~
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 3 titles, 89,252 words**
+
+
+### *ONO* (4 texts, 1,237,148 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- ~~9th century CE: 0 titles, 0 words~~
+- ~~10th century CE: 0 titles, 0 words~~
+- ~~11th century CE: 0 titles, 0 words~~
+- **12th century CE: 1 titles, 834,012 words**
+- **13th century CE: 2 titles, 381,920 words**
+- ~~14th century CE: 0 titles, 0 words~~
+- ~~15th century CE: 0 titles, 0 words~~
+- ~~16th century CE: 0 titles, 0 words~~
+- **17th century CE: 1 titles, 21,216 words**
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 4 titles, 1,237,148 words**
+
+
+### *POE* (14 texts, 2,583,148 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- ~~9th century CE: 0 titles, 0 words~~
+- ~~10th century CE: 0 titles, 0 words~~
+- ~~11th century CE: 0 titles, 0 words~~
+- **12th century CE: 12 titles, 1,293,728 words**
+- **13th century CE: 2 titles, 1,289,420 words**
+- ~~14th century CE: 0 titles, 0 words~~
+- ~~15th century CE: 0 titles, 0 words~~
+- ~~16th century CE: 0 titles, 0 words~~
+- ~~17th century CE: 0 titles, 0 words~~
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 14 titles, 2,583,148 words**
+
+
+### *QADA* (51 texts, 3,726,081 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- **9th century CE: 1 titles, 4,667 words**
+- ~~10th century CE: 0 titles, 0 words~~
+- **11th century CE: 11 titles, 735,988 words**
+- **12th century CE: 5 titles, 235,118 words**
+- **13th century CE: 4 titles, 102,170 words**
+- **14th century CE: 10 titles, 789,982 words**
+- **15th century CE: 6 titles, 587,448 words**
+- **16th century CE: 3 titles, 14,182 words**
+- **17th century CE: 1 titles, 304,193 words**
+- ~~18th century CE: 0 titles, 0 words~~
+- **19th century CE: 1 titles, 521,964 words**
+- **20th century CE: 3 titles, 88,639 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 51 titles, 3,726,081 words**
+
+
+### *QAWACID* (119 texts, 16,819,321 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- **9th century CE: 2 titles, 177,679 words**
+- **10th century CE: 2 titles, 326,081 words**
+- **11th century CE: 17 titles, 2,028,529 words**
+- **12th century CE: 9 titles, 606,748 words**
+- **13th century CE: 16 titles, 1,942,257 words**
+- **14th century CE: 19 titles, 4,224,042 words**
+- **15th century CE: 6 titles, 3,375,310 words**
+- **16th century CE: 7 titles, 1,093,651 words**
+- **17th century CE: 2 titles, 447,605 words**
+- **18th century CE: 6 titles, 155,300 words**
+- **19th century CE: 4 titles, 790,876 words**
+- **20th century CE: 3 titles, 295,227 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 119 titles, 16,819,321 words**
+
+
+### *QIRAAT* (29 texts, 2,385,777 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- **9th century CE: 2 titles, 19,171 words**
+- **10th century CE: 3 titles, 164,650 words**
+- **11th century CE: 3 titles, 147,684 words**
+- **12th century CE: 2 titles, 179,564 words**
+- **13th century CE: 2 titles, 447,891 words**
+- **14th century CE: 4 titles, 252,140 words**
+- **15th century CE: 3 titles, 354,009 words**
+- **16th century CE: 2 titles, 281,824 words**
+- ~~17th century CE: 0 titles, 0 words~~
+- **18th century CE: 2 titles, 316,791 words**
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 29 titles, 2,385,777 words**
+
+
+### *QISAS* (54 texts, 6,175,973 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- **9th century CE: 5 titles, 357,438 words**
+- **10th century CE: 11 titles, 1,684,315 words**
+- **11th century CE: 10 titles, 657,055 words**
+- **12th century CE: 11 titles, 1,212,778 words**
+- **13th century CE: 1 titles, 59,132 words**
+- **14th century CE: 4 titles, 374,109 words**
+- **15th century CE: 5 titles, 910,745 words**
+- **16th century CE: 4 titles, 432,793 words**
+- **17th century CE: 2 titles, 256,916 words**
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 54 titles, 6,175,973 words**
+
+
+### *QURAN* (306 texts, 64,746,401 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- **7th century CE: 2 titles, 108,445 words**
+- **8th century CE: 8 titles, 693,458 words**
+- **9th century CE: 17 titles, 1,112,291 words**
+- **10th century CE: 29 titles, 8,135,996 words**
+- **11th century CE: 38 titles, 6,767,528 words**
+- **12th century CE: 28 titles, 7,639,257 words**
+- **13th century CE: 20 titles, 7,251,433 words**
+- **14th century CE: 30 titles, 7,354,603 words**
+- **15th century CE: 22 titles, 9,051,956 words**
+- **16th century CE: 17 titles, 3,995,653 words**
+- **17th century CE: 9 titles, 2,532,080 words**
+- **18th century CE: 10 titles, 824,933 words**
+- **19th century CE: 4 titles, 5,238,487 words**
+- **20th century CE: 3 titles, 166,927 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 306 titles, 64,746,401 words**
+
+
+### *RAQAIQ* (188 texts, 10,269,908 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- **8th century CE: 1 titles, 16,317 words**
+- **9th century CE: 9 titles, 282,039 words**
+- **10th century CE: 14 titles, 771,481 words**
+- **11th century CE: 13 titles, 355,629 words**
+- **12th century CE: 28 titles, 2,558,803 words**
+- **13th century CE: 14 titles, 1,153,698 words**
+- **14th century CE: 13 titles, 983,884 words**
+- **15th century CE: 5 titles, 320,080 words**
+- **16th century CE: 10 titles, 365,106 words**
+- **17th century CE: 1 titles, 5,107 words**
+- **18th century CE: 3 titles, 870,170 words**
+- **19th century CE: 4 titles, 234,025 words**
+- **20th century CE: 2 titles, 112,685 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 188 titles, 10,269,908 words**
+
+
+### *RIHLAT* (70 texts, 7,980,411 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- **9th century CE: 1 titles, 2,282 words**
+- **10th century CE: 15 titles, 662,259 words**
+- **11th century CE: 7 titles, 570,333 words**
+- **12th century CE: 6 titles, 401,777 words**
+- **13th century CE: 11 titles, 1,848,229 words**
+- **14th century CE: 9 titles, 1,971,009 words**
+- **15th century CE: 6 titles, 1,172,741 words**
+- **16th century CE: 3 titles, 614,971 words**
+- **17th century CE: 2 titles, 67,554 words**
+- **18th century CE: 1 titles, 69,554 words**
+- **19th century CE: 1 titles, 112,731 words**
+- **20th century CE: 3 titles, 150,390 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 70 titles, 7,980,411 words**
+
+
+### *RUDUD* (65 texts, 4,134,417 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- **8th century CE: 1 titles, 1,418 words**
+- **9th century CE: 3 titles, 97,763 words**
+- **10th century CE: 3 titles, 142,666 words**
+- **11th century CE: 5 titles, 112,094 words**
+- **12th century CE: 5 titles, 288,531 words**
+- **13th century CE: 1 titles, 21,700 words**
+- **14th century CE: 14 titles, 1,785,050 words**
+- **15th century CE: 3 titles, 161,610 words**
+- **16th century CE: 3 titles, 187,172 words**
+- **17th century CE: 4 titles, 105,933 words**
+- **18th century CE: 4 titles, 46,843 words**
+- **19th century CE: 6 titles, 94,066 words**
+- **20th century CE: 10 titles, 842,402 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 65 titles, 4,134,417 words**
+
+
+### *SAHIH* (10 texts, 4,806,999 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- **9th century CE: 2 titles, 1,090,940 words**
+- **10th century CE: 3 titles, 1,188,183 words**
+- **11th century CE: 3 titles, 1,730,031 words**
+- ~~12th century CE: 0 titles, 0 words~~
+- **13th century CE: 1 titles, 595,389 words**
+- ~~14th century CE: 0 titles, 0 words~~
+- **15th century CE: 1 titles, 202,456 words**
+- ~~16th century CE: 0 titles, 0 words~~
+- ~~17th century CE: 0 titles, 0 words~~
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 10 titles, 4,806,999 words**
+
+
+### *SARF* (125 texts, 6,904,155 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- **8th century CE: 2 titles, 303,136 words**
+- **9th century CE: 2 titles, 268,707 words**
+- **10th century CE: 17 titles, 814,400 words**
+- **11th century CE: 16 titles, 1,079,132 words**
+- **12th century CE: 10 titles, 387,864 words**
+- **13th century CE: 14 titles, 778,257 words**
+- **14th century CE: 19 titles, 981,731 words**
+- **15th century CE: 8 titles, 668,003 words**
+- **16th century CE: 10 titles, 358,726 words**
+- **17th century CE: 3 titles, 22,292 words**
+- **18th century CE: 1 titles, 524,863 words**
+- **19th century CE: 2 titles, 25,295 words**
+- **20th century CE: 1 titles, 11,064 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 125 titles, 6,904,155 words**
+
+
+### *SARH* (21 texts, 12,848,371 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- **8th century CE: 1 titles, 456,502 words**
+- **9th century CE: 5 titles, 587,591 words**
+- ~~10th century CE: 0 titles, 0 words~~
+- **11th century CE: 4 titles, 1,213,726 words**
+- ~~12th century CE: 0 titles, 0 words~~
+- **13th century CE: 4 titles, 1,415,965 words**
+- **14th century CE: 4 titles, 3,663,632 words**
+- **15th century CE: 1 titles, 579,698 words**
+- ~~16th century CE: 0 titles, 0 words~~
+- **17th century CE: 1 titles, 586,354 words**
+- **18th century CE: 1 titles, 4,344,903 words**
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 21 titles, 12,848,371 words**
+
+
+### *SHAFICI* (67 texts, 46,379,011 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- **9th century CE: 7 titles, 1,925,304 words**
+- ~~10th century CE: 0 titles, 0 words~~
+- **11th century CE: 7 titles, 5,704,498 words**
+- **12th century CE: 5 titles, 1,907,928 words**
+- **13th century CE: 7 titles, 6,324,457 words**
+- **14th century CE: 3 titles, 483,862 words**
+- **15th century CE: 4 titles, 484,155 words**
+- **16th century CE: 21 titles, 12,761,665 words**
+- **17th century CE: 1 titles, 590,267 words**
+- **18th century CE: 3 titles, 6,606,897 words**
+- **19th century CE: 5 titles, 3,947,008 words**
+- **20th century CE: 1 titles, 186,843 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 67 titles, 46,379,011 words**
+
+
+### *SHAMAIL* (89 texts, 16,634,819 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- **8th century CE: 1 titles, 79,120 words**
+- **9th century CE: 5 titles, 742,916 words**
+- **10th century CE: 2 titles, 168,433 words**
+- **11th century CE: 7 titles, 1,701,532 words**
+- **12th century CE: 5 titles, 948,938 words**
+- **13th century CE: 5 titles, 555,467 words**
+- **14th century CE: 8 titles, 3,323,030 words**
+- **15th century CE: 7 titles, 1,618,141 words**
+- **16th century CE: 9 titles, 3,339,882 words**
+- **17th century CE: 3 titles, 1,511,000 words**
+- **18th century CE: 5 titles, 572,406 words**
+- **19th century CE: 1 titles, 146,888 words**
+- **20th century CE: 2 titles, 120,102 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 89 titles, 16,634,819 words**
+
+
+### *SHARH* (84 texts, 37,821,300 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- **8th century CE: 1 titles, 1,221,983 words**
+- **9th century CE: 8 titles, 984,601 words**
+- **10th century CE: 2 titles, 335,221 words**
+- **11th century CE: 6 titles, 5,410,008 words**
+- **12th century CE: 4 titles, 1,141,752 words**
+- **13th century CE: 8 titles, 1,044,491 words**
+- **14th century CE: 12 titles, 2,118,910 words**
+- **15th century CE: 7 titles, 9,702,633 words**
+- **16th century CE: 10 titles, 4,508,162 words**
+- **17th century CE: 7 titles, 5,635,204 words**
+- **18th century CE: 5 titles, 2,238,457 words**
+- **19th century CE: 3 titles, 1,336,770 words**
+- **20th century CE: 2 titles, 1,372,981 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 84 titles, 37,821,300 words**
+
+
+### *SHC* (18 texts, 3,549,125 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- ~~9th century CE: 0 titles, 0 words~~
+- **10th century CE: 1 titles, 21,065 words**
+- **11th century CE: 3 titles, 369,208 words**
+- **12th century CE: 2 titles, 256,292 words**
+- ~~13th century CE: 0 titles, 0 words~~
+- **14th century CE: 3 titles, 280,267 words**
+- ~~15th century CE: 0 titles, 0 words~~
+- ~~16th century CE: 0 titles, 0 words~~
+- **17th century CE: 3 titles, 1,119,469 words**
+- **18th century CE: 4 titles, 687,525 words**
+- **19th century CE: 2 titles, 815,299 words**
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 18 titles, 3,549,125 words**
+
+
+### *SHICI* (448 texts, 107,414,120 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- **7th century CE: 6 titles, 317,686 words**
+- **8th century CE: 8 titles, 607,856 words**
+- **9th century CE: 10 titles, 1,098,703 words**
+- **10th century CE: 45 titles, 6,607,596 words**
+- **11th century CE: 89 titles, 9,608,844 words**
+- **12th century CE: 25 titles, 5,006,848 words**
+- **13th century CE: 47 titles, 4,541,156 words**
+- **14th century CE: 35 titles, 9,506,644 words**
+- **15th century CE: 16 titles, 3,289,582 words**
+- **16th century CE: 20 titles, 7,263,281 words**
+- **17th century CE: 48 titles, 25,919,253 words**
+- **18th century CE: 25 titles, 8,778,817 words**
+- **19th century CE: 44 titles, 18,941,125 words**
+- **20th century CE: 30 titles, 5,926,729 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 448 titles, 107,414,120 words**
+
+
+### *SHICR* (196 texts, 8,626,024 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- **7th century CE: 19 titles, 107,439 words**
+- **8th century CE: 14 titles, 238,833 words**
+- **9th century CE: 14 titles, 728,032 words**
+- **10th century CE: 12 titles, 432,001 words**
+- **11th century CE: 20 titles, 1,846,674 words**
+- **12th century CE: 9 titles, 399,309 words**
+- **13th century CE: 11 titles, 674,105 words**
+- **14th century CE: 6 titles, 523,335 words**
+- ~~15th century CE: 0 titles, 0 words~~
+- **16th century CE: 1 titles, 5,661 words**
+- **17th century CE: 3 titles, 1,044,278 words**
+- **18th century CE: 4 titles, 156,481 words**
+- **19th century CE: 4 titles, 154,066 words**
+- **20th century CE: 5 titles, 456,705 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 196 titles, 8,626,024 words**
+
+
+### *SHICRANDALUSI* (16 texts, 351,649 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- ~~9th century CE: 0 titles, 0 words~~
+- **10th century CE: 1 titles, 34,483 words**
+- **11th century CE: 3 titles, 21,401 words**
+- **12th century CE: 1 titles, 5,351 words**
+- **13th century CE: 1 titles, 21,396 words**
+- **14th century CE: 2 titles, 76,426 words**
+- ~~15th century CE: 0 titles, 0 words~~
+- ~~16th century CE: 0 titles, 0 words~~
+- ~~17th century CE: 0 titles, 0 words~~
+- **18th century CE: 1 titles, 58,380 words**
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 16 titles, 351,649 words**
+
+
+### *SHICRCABBASI* (53 texts, 2,085,222 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- **8th century CE: 1 titles, 2,989 words**
+- **9th century CE: 9 titles, 461,588 words**
+- **10th century CE: 4 titles, 132,001 words**
+- **11th century CE: 6 titles, 238,798 words**
+- **12th century CE: 3 titles, 91,059 words**
+- **13th century CE: 5 titles, 120,984 words**
+- **14th century CE: 1 titles, 36,812 words**
+- ~~15th century CE: 0 titles, 0 words~~
+- ~~16th century CE: 0 titles, 0 words~~
+- ~~17th century CE: 0 titles, 0 words~~
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 53 titles, 2,085,222 words**
+
+
+### *SHICRCUTHMANI* (12 texts, 809,558 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- ~~9th century CE: 0 titles, 0 words~~
+- ~~10th century CE: 0 titles, 0 words~~
+- ~~11th century CE: 0 titles, 0 words~~
+- ~~12th century CE: 0 titles, 0 words~~
+- ~~13th century CE: 0 titles, 0 words~~
+- **14th century CE: 2 titles, 221,371 words**
+- ~~15th century CE: 0 titles, 0 words~~
+- ~~16th century CE: 0 titles, 0 words~~
+- **17th century CE: 2 titles, 69,081 words**
+- **18th century CE: 2 titles, 91,062 words**
+- **19th century CE: 2 titles, 128,579 words**
+- **20th century CE: 1 titles, 30,739 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 12 titles, 809,558 words**
+
+
+### *SHICRISLAMI* (3 texts, 12,212 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- **7th century CE: 1 titles, 1,941 words**
+- ~~8th century CE: 0 titles, 0 words~~
+- ~~9th century CE: 0 titles, 0 words~~
+- ~~10th century CE: 0 titles, 0 words~~
+- ~~11th century CE: 0 titles, 0 words~~
+- ~~12th century CE: 0 titles, 0 words~~
+- ~~13th century CE: 0 titles, 0 words~~
+- ~~14th century CE: 0 titles, 0 words~~
+- ~~15th century CE: 0 titles, 0 words~~
+- ~~16th century CE: 0 titles, 0 words~~
+- ~~17th century CE: 0 titles, 0 words~~
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 3 titles, 12,212 words**
+
+
+### *SHICRJAHILI* (29 texts, 107,906 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- **7th century CE: 14 titles, 74,537 words**
+- **8th century CE: 1 titles, 3,145 words**
+- **9th century CE: 1 titles, 629 words**
+- ~~10th century CE: 0 titles, 0 words~~
+- ~~11th century CE: 0 titles, 0 words~~
+- ~~12th century CE: 0 titles, 0 words~~
+- ~~13th century CE: 0 titles, 0 words~~
+- ~~14th century CE: 0 titles, 0 words~~
+- ~~15th century CE: 0 titles, 0 words~~
+- ~~16th century CE: 0 titles, 0 words~~
+- ~~17th century CE: 0 titles, 0 words~~
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 29 titles, 107,906 words**
+
+
+### *SHICRUMAWI* (21 texts, 254,022 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- **7th century CE: 1 titles, 2,804 words**
+- **8th century CE: 10 titles, 168,109 words**
+- ~~9th century CE: 0 titles, 0 words~~
+- ~~10th century CE: 0 titles, 0 words~~
+- ~~11th century CE: 0 titles, 0 words~~
+- ~~12th century CE: 0 titles, 0 words~~
+- ~~13th century CE: 0 titles, 0 words~~
+- ~~14th century CE: 0 titles, 0 words~~
+- ~~15th century CE: 0 titles, 0 words~~
+- ~~16th century CE: 0 titles, 0 words~~
+- ~~17th century CE: 0 titles, 0 words~~
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 21 titles, 254,022 words**
+
+
+### *SIRA* (166 texts, 24,328,846 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- **8th century CE: 4 titles, 230,233 words**
+- **9th century CE: 11 titles, 1,564,212 words**
+- **10th century CE: 11 titles, 870,331 words**
+- **11th century CE: 13 titles, 1,881,774 words**
+- **12th century CE: 14 titles, 2,067,885 words**
+- **13th century CE: 17 titles, 1,744,136 words**
+- **14th century CE: 15 titles, 4,168,796 words**
+- **15th century CE: 13 titles, 2,339,528 words**
+- **16th century CE: 15 titles, 4,154,291 words**
+- **17th century CE: 5 titles, 1,672,794 words**
+- **18th century CE: 8 titles, 635,786 words**
+- **19th century CE: 4 titles, 904,642 words**
+- **20th century CE: 7 titles, 287,474 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 166 titles, 24,328,846 words**
+
+
+### *SIYASA* (66 texts, 5,383,972 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- **8th century CE: 1 titles, 11,433 words**
+- **9th century CE: 5 titles, 238,423 words**
+- ~~10th century CE: 0 titles, 0 words~~
+- **11th century CE: 12 titles, 759,550 words**
+- **12th century CE: 5 titles, 235,118 words**
+- **13th century CE: 4 titles, 102,170 words**
+- **14th century CE: 18 titles, 952,052 words**
+- **15th century CE: 6 titles, 587,448 words**
+- **16th century CE: 3 titles, 14,182 words**
+- **17th century CE: 1 titles, 304,193 words**
+- ~~18th century CE: 0 titles, 0 words~~
+- **19th century CE: 2 titles, 1,749,034 words**
+- **20th century CE: 3 titles, 88,639 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 66 titles, 5,383,972 words**
+
+
+### *SUALAT* (64 texts, 4,517,643 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- **9th century CE: 16 titles, 515,025 words**
+- **10th century CE: 10 titles, 1,292,035 words**
+- **11th century CE: 5 titles, 83,084 words**
+- **12th century CE: 10 titles, 1,376,162 words**
+- **13th century CE: 3 titles, 25,027 words**
+- **14th century CE: 3 titles, 100,309 words**
+- ~~15th century CE: 0 titles, 0 words~~
+- **16th century CE: 4 titles, 649,219 words**
+- **17th century CE: 3 titles, 65,752 words**
+- **18th century CE: 1 titles, 15,433 words**
+- **19th century CE: 3 titles, 57,089 words**
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 64 titles, 4,517,643 words**
+
+
+### *SULUK* (88 texts, 6,377,189 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- **8th century CE: 1 titles, 9,586 words**
+- **9th century CE: 3 titles, 58,239 words**
+- **10th century CE: 6 titles, 465,262 words**
+- **11th century CE: 10 titles, 360,884 words**
+- **12th century CE: 12 titles, 1,622,284 words**
+- **13th century CE: 3 titles, 90,736 words**
+- **14th century CE: 33 titles, 2,925,743 words**
+- **15th century CE: 2 titles, 28,166 words**
+- **16th century CE: 7 titles, 311,789 words**
+- **17th century CE: 1 titles, 16,342 words**
+- **18th century CE: 2 titles, 48,092 words**
+- **19th century CE: 4 titles, 170,074 words**
+- **20th century CE: 1 titles, 109,344 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 88 titles, 6,377,189 words**
+
+
+### *SUNAN* (16 texts, 5,570,177 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- **9th century CE: 8 titles, 1,196,149 words**
+- **10th century CE: 5 titles, 2,074,402 words**
+- **11th century CE: 2 titles, 2,249,667 words**
+- ~~12th century CE: 0 titles, 0 words~~
+- ~~13th century CE: 0 titles, 0 words~~
+- ~~14th century CE: 0 titles, 0 words~~
+- ~~15th century CE: 0 titles, 0 words~~
+- ~~16th century CE: 0 titles, 0 words~~
+- ~~17th century CE: 0 titles, 0 words~~
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 16 titles, 5,570,177 words**
+
+
+### *SUNNI* (362 texts, 114,529,616 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- **8th century CE: 9 titles, 680,173 words**
+- **9th century CE: 81 titles, 10,982,136 words**
+- **10th century CE: 80 titles, 16,393,874 words**
+- **11th century CE: 61 titles, 15,302,943 words**
+- **12th century CE: 21 titles, 13,570,825 words**
+- **13th century CE: 24 titles, 10,489,844 words**
+- **14th century CE: 29 titles, 15,608,560 words**
+- **15th century CE: 29 titles, 16,550,971 words**
+- **16th century CE: 14 titles, 6,195,895 words**
+- **17th century CE: 3 titles, 1,835,177 words**
+- **18th century CE: 7 titles, 515,627 words**
+- **19th century CE: 2 titles, 5,053,898 words**
+- **20th century CE: 2 titles, 1,349,693 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 362 titles, 114,529,616 words**
+
+
+### *TABAQAT* (351 texts, 74,811,081 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- **8th century CE: 2 titles, 4,799 words**
+- **9th century CE: 40 titles, 4,219,795 words**
+- **10th century CE: 58 titles, 4,677,487 words**
+- **11th century CE: 39 titles, 8,638,308 words**
+- **12th century CE: 28 titles, 11,997,906 words**
+- **13th century CE: 29 titles, 6,812,821 words**
+- **14th century CE: 50 titles, 20,599,483 words**
+- **15th century CE: 40 titles, 10,494,696 words**
+- **16th century CE: 20 titles, 1,786,368 words**
+- **17th century CE: 12 titles, 1,916,318 words**
+- **18th century CE: 6 titles, 597,271 words**
+- **19th century CE: 4 titles, 522,964 words**
+- **20th century CE: 5 titles, 1,509,023 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 351 titles, 74,811,081 words**
+
+
+### *TAFSIR* (207 texts, 84,047,256 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- **8th century CE: 8 titles, 901,167 words**
+- **9th century CE: 13 titles, 1,116,982 words**
+- **10th century CE: 23 titles, 9,199,726 words**
+- **11th century CE: 27 titles, 7,106,368 words**
+- **12th century CE: 22 titles, 7,661,236 words**
+- **13th century CE: 20 titles, 7,893,906 words**
+- **14th century CE: 23 titles, 9,178,285 words**
+- **15th century CE: 13 titles, 8,112,759 words**
+- **16th century CE: 11 titles, 5,199,679 words**
+- **17th century CE: 10 titles, 4,583,698 words**
+- **18th century CE: 9 titles, 3,294,587 words**
+- **19th century CE: 7 titles, 11,873,202 words**
+- **20th century CE: 2 titles, 1,458,280 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 207 titles, 84,047,256 words**
+
+
+### *TAJWID* (16 texts, 1,411,578 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- **9th century CE: 1 titles, 12,707 words**
+- ~~10th century CE: 0 titles, 0 words~~
+- ~~11th century CE: 0 titles, 0 words~~
+- **12th century CE: 1 titles, 165,640 words**
+- ~~13th century CE: 0 titles, 0 words~~
+- **14th century CE: 3 titles, 249,424 words**
+- **15th century CE: 2 titles, 350,976 words**
+- **16th century CE: 2 titles, 281,824 words**
+- ~~17th century CE: 0 titles, 0 words~~
+- **18th century CE: 1 titles, 128,954 words**
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 16 titles, 1,411,578 words**
+
+
+### *TAKHRIJ* (77 texts, 25,299,880 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- ~~9th century CE: 0 titles, 0 words~~
+- **10th century CE: 2 titles, 230,094 words**
+- **11th century CE: 1 titles, 457,750 words**
+- **12th century CE: 3 titles, 612,516 words**
+- **13th century CE: 3 titles, 1,680,962 words**
+- **14th century CE: 16 titles, 4,402,122 words**
+- **15th century CE: 25 titles, 10,037,751 words**
+- **16th century CE: 6 titles, 4,832,402 words**
+- **17th century CE: 4 titles, 499,033 words**
+- **18th century CE: 1 titles, 261,323 words**
+- **19th century CE: 4 titles, 488,002 words**
+- **20th century CE: 1 titles, 51,274 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 77 titles, 25,299,880 words**
+
+
+### *TARAIF* (54 texts, 6,175,973 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- **9th century CE: 5 titles, 357,438 words**
+- **10th century CE: 11 titles, 1,684,315 words**
+- **11th century CE: 10 titles, 657,055 words**
+- **12th century CE: 11 titles, 1,212,778 words**
+- **13th century CE: 1 titles, 59,132 words**
+- **14th century CE: 4 titles, 374,109 words**
+- **15th century CE: 5 titles, 910,745 words**
+- **16th century CE: 4 titles, 432,793 words**
+- **17th century CE: 2 titles, 256,916 words**
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 54 titles, 6,175,973 words**
+
+
+### *TARAJIM* (768 texts, 151,346,090 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- **8th century CE: 14 titles, 413,129 words**
+- **9th century CE: 103 titles, 12,645,847 words**
+- **10th century CE: 164 titles, 17,829,604 words**
+- **11th century CE: 94 titles, 17,576,228 words**
+- **12th century CE: 63 titles, 15,815,884 words**
+- **13th century CE: 51 titles, 11,670,393 words**
+- **14th century CE: 83 titles, 24,375,733 words**
+- **15th century CE: 71 titles, 25,405,455 words**
+- **16th century CE: 39 titles, 7,659,816 words**
+- **17th century CE: 26 titles, 9,400,189 words**
+- **18th century CE: 17 titles, 2,861,595 words**
+- **19th century CE: 11 titles, 1,509,853 words**
+- **20th century CE: 9 titles, 2,934,168 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 768 titles, 151,346,090 words**
+
+
+### *TARIKH* (310 texts, 74,474,408 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- **8th century CE: 2 titles, 4,799 words**
+- **9th century CE: 37 titles, 4,344,252 words**
+- **10th century CE: 41 titles, 5,260,659 words**
+- **11th century CE: 29 titles, 4,737,481 words**
+- **12th century CE: 37 titles, 14,997,022 words**
+- **13th century CE: 30 titles, 7,831,288 words**
+- **14th century CE: 40 titles, 18,840,746 words**
+- **15th century CE: 33 titles, 9,489,822 words**
+- **16th century CE: 16 titles, 1,705,260 words**
+- **17th century CE: 12 titles, 3,894,897 words**
+- **18th century CE: 7 titles, 395,846 words**
+- **19th century CE: 4 titles, 1,174,238 words**
+- **20th century CE: 5 titles, 812,131 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 310 titles, 74,474,408 words**
+
+
+### *TASAWWUF* (9 texts, 2,412,869 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- ~~9th century CE: 0 titles, 0 words~~
+- **10th century CE: 3 titles, 421,781 words**
+- **11th century CE: 1 titles, 113,883 words**
+- **12th century CE: 3 titles, 44,938 words**
+- **13th century CE: 1 titles, 1,826,396 words**
+- **14th century CE: 1 titles, 5,871 words**
+- ~~15th century CE: 0 titles, 0 words~~
+- ~~16th century CE: 0 titles, 0 words~~
+- ~~17th century CE: 0 titles, 0 words~~
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 9 titles, 2,412,869 words**
+
+
+### *TAZKIYA* (34 texts, 3,209,984 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- ~~9th century CE: 0 titles, 0 words~~
+- ~~10th century CE: 0 titles, 0 words~~
+- ~~11th century CE: 0 titles, 0 words~~
+- ~~12th century CE: 0 titles, 0 words~~
+- **13th century CE: 4 titles, 686,978 words**
+- **14th century CE: 28 titles, 2,382,348 words**
+- ~~15th century CE: 0 titles, 0 words~~
+- ~~16th century CE: 0 titles, 0 words~~
+- ~~17th century CE: 0 titles, 0 words~~
+- **18th century CE: 1 titles, 11,024 words**
+- **19th century CE: 1 titles, 129,634 words**
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 34 titles, 3,209,984 words**
+
+
+### *THIQAT* (13 texts, 3,327,383 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- **9th century CE: 2 titles, 117,398 words**
+- **10th century CE: 4 titles, 588,135 words**
+- ~~11th century CE: 0 titles, 0 words~~
+- ~~12th century CE: 0 titles, 0 words~~
+- ~~13th century CE: 0 titles, 0 words~~
+- **14th century CE: 6 titles, 2,550,137 words**
+- ~~15th century CE: 0 titles, 0 words~~
+- **16th century CE: 1 titles, 71,713 words**
+- ~~17th century CE: 0 titles, 0 words~~
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 13 titles, 3,327,383 words**
+
+
+### *TIBB* (77 texts, 5,223,263 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- **9th century CE: 10 titles, 708,510 words**
+- **10th century CE: 2 titles, 1,294,196 words**
+- **11th century CE: 8 titles, 787,810 words**
+- ~~12th century CE: 0 titles, 0 words~~
+- **13th century CE: 26 titles, 1,015,160 words**
+- **14th century CE: 17 titles, 215,823 words**
+- **15th century CE: 9 titles, 476,779 words**
+- **16th century CE: 1 titles, 363,021 words**
+- **17th century CE: 1 titles, 303,945 words**
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 77 titles, 5,223,263 words**
+
+
+### *TWELVERS* (58 texts, 5,318,002 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- **7th century CE: 1 titles, 25,843 words**
+- **8th century CE: 1 titles, 121,053 words**
+- **9th century CE: 2 titles, 50,166 words**
+- **10th century CE: 6 titles, 160,864 words**
+- **11th century CE: 5 titles, 454,119 words**
+- **12th century CE: 2 titles, 84,876 words**
+- **13th century CE: 6 titles, 330,135 words**
+- **14th century CE: 9 titles, 846,798 words**
+- **15th century CE: 2 titles, 139,488 words**
+- **16th century CE: 1 titles, 52,433 words**
+- **17th century CE: 6 titles, 1,316,857 words**
+- **18th century CE: 5 titles, 541,320 words**
+- **19th century CE: 4 titles, 394,232 words**
+- **20th century CE: 8 titles, 799,818 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 58 titles, 5,318,002 words**
+
+
+### *USUL* (221 texts, 28,522,664 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- **8th century CE: 2 titles, 38,486 words**
+- **9th century CE: 11 titles, 452,927 words**
+- **10th century CE: 15 titles, 942,405 words**
+- **11th century CE: 28 titles, 2,655,382 words**
+- **12th century CE: 12 titles, 939,490 words**
+- **13th century CE: 22 titles, 4,188,458 words**
+- **14th century CE: 40 titles, 6,525,495 words**
+- **15th century CE: 8 titles, 3,666,169 words**
+- **16th century CE: 15 titles, 1,160,544 words**
+- **17th century CE: 6 titles, 665,346 words**
+- **18th century CE: 14 titles, 1,073,169 words**
+- **19th century CE: 13 titles, 4,103,310 words**
+- **20th century CE: 5 titles, 588,052 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 221 titles, 28,522,664 words**
+
+
+### *USULIYYA* (23 texts, 1,295,289 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- ~~9th century CE: 0 titles, 0 words~~
+- ~~10th century CE: 0 titles, 0 words~~
+- **11th century CE: 6 titles, 92,816 words**
+- **12th century CE: 1 titles, 17,517 words**
+- **13th century CE: 5 titles, 906,339 words**
+- **14th century CE: 2 titles, 38,781 words**
+- ~~15th century CE: 0 titles, 0 words~~
+- **16th century CE: 2 titles, 154,624 words**
+- **17th century CE: 1 titles, 7,058 words**
+- **18th century CE: 5 titles, 61,024 words**
+- **19th century CE: 1 titles, 17,130 words**
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 23 titles, 1,295,289 words**
+
+
+### *WAFAYAT* (29 texts, 11,154,222 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- ~~9th century CE: 0 titles, 0 words~~
+- ~~10th century CE: 0 titles, 0 words~~
+- **11th century CE: 1 titles, 67,697 words**
+- **12th century CE: 1 titles, 326,827 words**
+- **13th century CE: 2 titles, 913,713 words**
+- **14th century CE: 6 titles, 4,960,098 words**
+- **15th century CE: 11 titles, 3,118,996 words**
+- **16th century CE: 3 titles, 257,154 words**
+- **17th century CE: 3 titles, 975,284 words**
+- ~~18th century CE: 0 titles, 0 words~~
+- **19th century CE: 1 titles, 189,890 words**
+- **20th century CE: 1 titles, 344,563 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 29 titles, 11,154,222 words**
+
+
+### *ZAHIRI* (1 texts, 1,480,381 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- ~~9th century CE: 0 titles, 0 words~~
+- ~~10th century CE: 0 titles, 0 words~~
+- **11th century CE: 1 titles, 1,480,381 words**
+- ~~12th century CE: 0 titles, 0 words~~
+- ~~13th century CE: 0 titles, 0 words~~
+- ~~14th century CE: 0 titles, 0 words~~
+- ~~15th century CE: 0 titles, 0 words~~
+- ~~16th century CE: 0 titles, 0 words~~
+- ~~17th century CE: 0 titles, 0 words~~
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 1 titles, 1,480,381 words**
+
+
+### *ZAYDI* (3 texts, 1,481,320 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- **8th century CE: 1 titles, 101,083 words**
+- ~~9th century CE: 0 titles, 0 words~~
+- **10th century CE: 1 titles, 225,391 words**
+- ~~11th century CE: 0 titles, 0 words~~
+- ~~12th century CE: 0 titles, 0 words~~
+- ~~13th century CE: 0 titles, 0 words~~
+- ~~14th century CE: 0 titles, 0 words~~
+- **15th century CE: 1 titles, 1,154,846 words**
+- ~~16th century CE: 0 titles, 0 words~~
+- ~~17th century CE: 0 titles, 0 words~~
+- ~~18th century CE: 0 titles, 0 words~~
+- ~~19th century CE: 0 titles, 0 words~~
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 3 titles, 1,481,320 words**
+
+
+### *ZAYDIYYA* (5 texts, 85,596 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- **9th century CE: 1 titles, 11,849 words**
+- ~~10th century CE: 0 titles, 0 words~~
+- ~~11th century CE: 0 titles, 0 words~~
+- ~~12th century CE: 0 titles, 0 words~~
+- **13th century CE: 1 titles, 8,291 words**
+- ~~14th century CE: 0 titles, 0 words~~
+- ~~15th century CE: 0 titles, 0 words~~
+- ~~16th century CE: 0 titles, 0 words~~
+- **17th century CE: 1 titles, 20,815 words**
+- **18th century CE: 1 titles, 8,956 words**
+- ~~19th century CE: 0 titles, 0 words~~
+- **20th century CE: 1 titles, 35,685 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 5 titles, 85,596 words**
 

@@ -1,14 +1,14 @@
-# Statistics on the corpus
+## Statistics on the corpus
 
 | **Category** | **Stats** |
 |:--- | ------:|
 | Number of text files | 1265 |
 | Number of books      | 625 |
 | Number of authors    | 407 |
-| Length in words (all)| 379,355,486 |
-| Length in pages (300 w/p)| 1,264,518 |
-| Length in words (unique) | 174,379,056 |
-| Length in pages (300 w/p)| 581,263 |
+| Length in words (all)| 379,338,145 |
+| Length in pages (300 w/p)| 1,264,460 |
+| Length in words (unique) | 174,377,239 |
+| Length in pages (300 w/p)| 581,257 |
 
 
 ## Summary statistics on the lengths of texts in the corpus
@@ -43,7 +43,7 @@
 | 14 | 0733Nuwayri.NihayaArab | 2,455,687 | 8,185 |
 | 15 | 0711IbnManzurIfriqi.MukhtasarTarikhDimashq | 2,408,342 | 8,027 |
 | 16 | 0774IbnKathir.Bidaya | 2,329,940 | 7,766 |
-| 17 | 0764Safadi.WafiBiWafayat | 1,980,068 | 6,600 |
+| 17 | 0764Safadi.WafiBiWafayat | 1,978,264 | 6,594 |
 | 18 | 1450DarIftaMisriyya.FatawaDarIfta | 1,911,816 | 6,372 |
 | 19 | 1396KhayrDinZirikli.Aclam | 1,634,967 | 5,449 |
 | 20 | 0821Qalqashandi.SubhAcsha | 1,616,289 | 5,387 |
@@ -79,7 +79,7 @@
 | 50 | 0256Bukhari.TarikhKabir | 791,001 | 2,636 |
 | 51 | 0430AbuNucaymIsbahani.MacrifaSahaba | 785,050 | 2,616 |
 | 52 | 0845Maqrizi.Mawaciz | 683,850 | 2,279 |
-| 53 | 0421Miskawayh.Tajarib | 679,990 | 2,266 |
+| 53 | 0421Miskawayh.Tajarib | 679,989 | 2,266 |
 | 54 | 0681IbnKhallikan.WafayatAcyan | 677,482 | 2,258 |
 | 55 | 0771Subki.TabaqatShaficiyaKubra | 676,731 | 2,255 |
 | 56 | 1450Musannifun.MawsucaMujaza | 668,172 | 2,227 |
@@ -234,7 +234,7 @@
 | 205 | 0695IbnCidhariMarrakushi.BayanMaghrib | 153,641 | 512 |
 | 206 | 0748Dhahabi.MucjamShuyukh | 152,971 | 509 |
 | 207 | 1422IbnHadiWadici.RijalHakim | 152,657 | 508 |
-| 208 | 0365IbnFaqihHamadhani.Buldan | 147,644 | 492 |
+| 208 | 0365IbnFaqihHamadhani.Buldan | 147,632 | 492 |
 | 209 | 0682ZakariyaQazwini.AtharBilad | 146,837 | 489 |
 | 210 | 0696IbnZahiri.Mashyakha | 146,557 | 488 |
 | 211 | 0968Tashkubruizadah.ShaqaiqNucmaniyya | 145,615 | 485 |
@@ -785,7 +785,7 @@
 | 0360Tabarani.MucjamKabir | 1,590,311 | 5,301 |
 | 0365IbnCadiJurjani.AsamiManRawaCanhum | 7,679 | 25 |
 | 0365IbnCadiJurjani.KamilFiDucafa | 962,139 | 3,207 |
-| 0365IbnFaqihHamadhani.Buldan | 147,644 | 492 |
+| 0365IbnFaqihHamadhani.Buldan | 147,632 | 492 |
 | 0367IbnHawqal.SuraArd | 123,793 | 412 |
 | 0368AbuGhalibZurari.Risala | 22,769 | 75 |
 | 0368Sirafi.AkhbarNahwiyyin | 10,206 | 34 |
@@ -829,7 +829,7 @@
 | 0418WazirMaghribi.AdabKhawas | 22,658 | 75 |
 | 0418WazirMaghribi.Inas | 22,614 | 75 |
 | 0421IbnMuhammadMarzuqi.AzminaWaAmkina | 165,458 | 551 |
-| 0421Miskawayh.Tajarib | 679,990 | 2,266 |
+| 0421Miskawayh.Tajarib | 679,989 | 2,266 |
 | 0427HamzaJurjani.TarikhJurjan | 114,881 | 382 |
 | 0428IbnManjuwayhIsbahani.RijalSahihMuslim | 124,175 | 413 |
 | 0429AbuMansurThacalibi.YatimaDahr | 362,496 | 1,208 |
@@ -1050,7 +1050,7 @@
 | 0764IbnShakirKutubi.FawatWafayat | 288,315 | 961 |
 | 0764Safadi.AcyanCasr | 604,057 | 2,013 |
 | 0764Safadi.NaktHimyan | 74,306 | 247 |
-| 0764Safadi.WafiBiWafayat | 1,980,068 | 6,600 |
+| 0764Safadi.WafiBiWafayat | 1,978,264 | 6,594 |
 | 0765AbuMahasinHusayni.DhaylTadhkira | 15,407 | 51 |
 | 0765AbuMahasinHusayni.IkmalLiRijal | 54,306 | 181 |
 | 0767Balawi.TajMafriq | 73,852 | 246 |
