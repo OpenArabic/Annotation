@@ -1,20 +1,21 @@
 ## Status Report
  
-* 55 titles
-* 29,283,660 words
-* 137,695 logical units
+* 59 titles
+* 30,941,236 words
+* 156,003 logical units
 * 11,981 bios
 
-### `*.inProgress` (5 titles: 7,728,642 words; 33,212 units; 0 bios)
+### `*.inProgress` (6 titles: 8,408,580 words; 35,706 units; 0 bios)
 
 - `0230IbnSacd.TabaqatKubra (920,980 words; 6,386 units; 0 bios)`
 - `0256Bukhari.TarikhKabir (519,629 words; 15,061 units; 0 bios)`
 - `0310Tabari.JamicBayan (2,850,544 words; 0 units; 0 bios)`
 - `0310Tabari.Tarikh (1,468,698 words; 554 units; 0 bios)`
+- `0421Miskawayh.Tajarib (679,938 words; 2,494 units; 0 bios)`
 - `0764Safadi.WafiBiWafayat (1,968,791 words; 11,211 units; 0 bios)`
 
 
-### `*.completed` (45 titles: 19,349,072 words; 86,418 units; 1 bios)
+### `*.completed` (45 titles: 19,093,865 words; 90,769 units; 1 bios)
 
 - `0292Yacqubi.TarikhYacqubi (192,205 words; 139 units; 0 bios)`
 - `0355MuhammadKindi.WulatMisr (50,870 words; 131 units; 0 bios)`
@@ -59,15 +60,18 @@
 - `0748Dhahabi.DhaylCibar (37,477 words; 161 units; 0 bios)`
 - `0748Dhahabi.DhaylDiwanDucafa (12,664 words; 603 units; 0 bios)`
 - `0748Dhahabi.DhikrAsmaManTakallama (9,038 words; 403 units; 0 bios)`
+- `0748Dhahabi.DiwanDucafa (105,267 words; 6,009 units; 0 bios)`
 - `0774IbnKathir.TabaqatShaficiyyin (180,888 words; 965 units; 0 bios)`
-- `0900AbuCabdAllahHimyari.RawdMictar (360,474 words; 1,658 units; 0 bios)`
 
 
-### `*.mARkdown` (5 titles: 2,205,946 words; 18,065 units; 11,980 bios)
+### `*.mARkdown` (8 titles: 3,438,791 words; 29,528 units; 11,980 bios)
 
 - `0276IbnQutaybaDinawari.AdabKatib (69,366 words; 299 units; 0 bios)`
+- `0561Samcani.Ansab (827,145 words; 4,951 units; 0 bios)`
 - `0561Samcani.Ansab (879,572 words; 5,063 units; 0 bios)`
 - `0681IbnKhallikan.WafayatAcyan (677,511 words; 1,528 units; 862 bios)`
+- `0900AbuCabdAllahHimyari.RawdMictar (354,673 words; 1,659 units; 0 bios)`
+- `0911Suyuti.LubbLubab (51,027 words; 4,853 units; 0 bios)`
 - `1339IsmacilBashaBaghdadi.HadiyaCarifin (421,313 words; 8,842 units; 8,814 bios)`
 - `1450MawsucaShicriya.MucjamShucara (158,184 words; 2,333 units; 2,304 bios)`
 
