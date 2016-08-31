@@ -1,9 +1,9 @@
 ## Status Report
  
-* 54 titles
-* 28,404,088 words
-* 132,632 logical units
-* 109,903 bios
+* 55 titles
+* 29,283,660 words
+* 137,695 logical units
+* 114,361 bios
 
 ### `*.inProgress` (5 titles: 7,728,642 words; 33,212 units; 24,351 bios)
 
@@ -63,9 +63,10 @@
 - `0900AbuCabdAllahHimyari.RawdMictar (360,474 words; 1,658 units; 1,614 bios)`
 
 
-### `*.mARkdown` (4 titles: 1,326,374 words; 13,002 units; 11,981 bios)
+### `*.mARkdown` (5 titles: 2,205,946 words; 18,065 units; 16,439 bios)
 
 - `0276IbnQutaybaDinawari.AdabKatib (69,366 words; 299 units; 0 bios)`
+- `0561Samcani.Ansab (879,572 words; 5,063 units; 4,458 bios)`
 - `0681IbnKhallikan.WafayatAcyan (677,511 words; 1,528 units; 862 bios)`
 - `1339IsmacilBashaBaghdadi.HadiyaCarifin (421,313 words; 8,842 units; 8,814 bios)`
 - `1450MawsucaShicriya.MucjamShucara (158,184 words; 2,333 units; 2,305 bios)`
