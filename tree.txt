@@ -8002,6 +8002,8 @@
 ├── Makefile
 ├── Makefile_GitIgnoreUpdate
 ├── Makefile_repoUpdate
+├── OCR_TrainingData
+│   └── README.md
 ├── passim
 │   ├── README.md
 │   ├── converter.py
@@ -8316,7 +8318,6 @@
 │       ├── small_clean
 │       └── small_orig
 ├── pull_auto.sh
-├── push_auto.sh
-└── tree.txt
+└── push_auto.sh
 
-2334 directories, 5985 files
+2335 directories, 5985 files
