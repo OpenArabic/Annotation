@@ -7979,7 +7979,6 @@
 │               └── text_questionnaire.md
 ├── Annotation
 │   ├── README.md
-│   ├── folders.md
 │   ├── meta
 │   │   ├── OpenArabic_Biblio_Master_withTexts.tsv
 │   │   ├── OpenArabic_Biblio_Master_withTexts.txt
@@ -8322,5 +8321,5 @@
 ├── push_auto.sh
 └── test.md
 
-2335 directories, 5986 files
+2335 directories, 5985 files
 ```
