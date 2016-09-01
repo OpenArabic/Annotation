@@ -7997,10 +7997,9 @@
 │   │   ├── readme_07_stats_AUT.md
 │   │   ├── readme_08_thematicReport_AUT.md
 │   │   └── text_questionnaire.md
-│   ├── searches
-│   │   ├── search_biographical.txt
-│   │   └── search_biographical_results.txt
-│   └── tree.md
+│   └── searches
+│       ├── search_biographical.txt
+│       └── search_biographical_results.txt
 ├── Makefile
 ├── Makefile_GitIgnoreUpdate
 ├── Makefile_repoUpdate
@@ -8323,5 +8322,5 @@
 ├── push_auto.sh
 └── test.md
 
-2335 directories, 5987 files
+2335 directories, 5986 files
 ```
