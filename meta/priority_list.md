@@ -6,8 +6,8 @@
 * 0 `0748Dhahabi.DhaylDiwanDucafa`	%6 completed (Jonas)
 * 0 `0748Dhahabi.DhikrAsmaManTakallama`	%7 completed (Jonas)
 * 0 `0748Dhahabi.DiwanDucafa`	%8 completed (Jonas)
-* 0 `0748Dhahabi.Kashif`	%9 in progress (Jonas)
-* 0 `0748Dhahabi.MacrifaQurraKibar`	%10
+* 0 `0748Dhahabi.Kashif`	%9 completed (Jonas)
+* 0 `0748Dhahabi.MacrifaQurraKibar`	%10 in progress (Jonas)
 * 0 `0748Dhahabi.MizanIctidal`	%11
 * 0 `0748Dhahabi.MucinFiTabaqatMuhaddithin`	%12
 * 0 `0748Dhahabi.MucjamMuhaddithin`	%13
