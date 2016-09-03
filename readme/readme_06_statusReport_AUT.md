@@ -1,9 +1,9 @@
 ## Status Report
  
 * 61 titles
-* 31,079,991 words
-* 156,109 logical units
-* 13,132 bios
+* 31,080,296 words
+* 155,709 logical units
+* 13,811 bios
 
 ### `*.inProgress` (7 titles: 8,505,810 words; 35,706 units; 0 bios)
 
@@ -16,10 +16,9 @@
 - `0764Safadi.WafiBiWafayat (1,968,791 words; 11,211 units; 0 bios)`
 
 
-### `*.completed` (42 titles: 18,523,103 words; 84,505 units; 1 bios)
+### `*.completed` (41 titles: 18,412,445 words; 83,407 units; 1 bios)
 
 - `0292Yacqubi.TarikhYacqubi (192,205 words; 139 units; 0 bios)`
-- `0369AbuShaykhIsbahani.TabaqatMuhaddithin (110,658 words; 1,098 units; 0 bios)`
 - `0379MuhammadRabci.TarikhMawlidCulama (35,122 words; 301 units; 0 bios)`
 - `0390Muqaddasi.AhsanTaqasim (103,553 words; 67 units; 0 bios)`
 - `0403IbnFaradi.TarikhCulamaAndalus (118,911 words; 1,977 units; 0 bios)`
@@ -62,11 +61,12 @@
 - `0748Dhahabi.DiwanDucafa (105,267 words; 6,009 units; 0 bios)`
 
 
-### `*.mARkdown` (12 titles: 4,051,078 words; 35,898 units; 13,131 bios)
+### `*.mARkdown` (13 titles: 4,162,041 words; 36,596 units; 13,810 bios)
 
 - `0276IbnQutaybaDinawari.AdabKatib (69,366 words; 299 units; 0 bios)`
 - `0355MuhammadKindi.QudatMisr (36,490 words; 101 units; 100 bios)`
-- `0355MuhammadKindi.WulatMisr (50,538 words; 135 units; 132 bios)`
+- `0355MuhammadKindi.WulatMisr (50,998 words; 132 units; 128 bios)`
+- `0369AbuShaykhIsbahani.TabaqatMuhaddithin (110,503 words; 701 units; 683 bios)`
 - `0561Samcani.Ansab (827,145 words; 4,951 units; 0 bios)`
 - `0561Samcani.Ansab (879,572 words; 5,063 units; 0 bios)`
 - `0630IbnAthirCizzDin.LubabFiTahdhibAnsab (343,452 words; 5,169 units; 0 bios)`
