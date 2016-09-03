@@ -1,9 +1,9 @@
 ## Status Report
  
-* 63 titles
-* 34,700,425 words
-* 190,136 logical units
-* 50,024 bios
+* 62 titles
+* 34,591,932 words
+* 189,428 logical units
+* 51,217 bios
 
 ### `*.inProgress` (7 titles: 8,505,810 words; 35,706 units; 0 bios)
 
@@ -16,16 +16,15 @@
 - `0764Safadi.WafiBiWafayat (1,968,791 words; 11,211 units; 0 bios)`
 
 
-### `*.completed` (40 titles: 18,079,506 words; 78,465 units; 1 bios)
+### `*.completed` (39 titles: 17,971,013 words; 77,757 units; 1,194 bios)
 
 - `0292Yacqubi.TarikhYacqubi (192,205 words; 139 units; 0 bios)`
-- `0369AbuShaykhIsbahani.TabaqatMuhaddithin (109,719 words; 707 units; 0 bios)`
 - `0379MuhammadRabci.TarikhMawlidCulama (35,122 words; 301 units; 0 bios)`
 - `0390Muqaddasi.AhsanTaqasim (103,553 words; 67 units; 0 bios)`
 - `0403IbnFaradi.TarikhCulamaAndalus (118,911 words; 1,977 units; 0 bios)`
 - `0405HakimNaysaburi.TalkhisTarikhNaysabur (32,641 words; 2,522 units; 0 bios)`
 - `0412Sulami.TabaqatSufiya (68,554 words; 193 units; 0 bios)`
-- `0427HamzaJurjani.TarikhJurjan (106,677 words; 1,357 units; 0 bios)`
+- `0427HamzaJurjani.TarikhJurjan (107,903 words; 1,356 units; 1,193 bios)`
 - `0430AbuNucaymIsbahani.HilyaAwliya (1,188,077 words; 678 units; 0 bios)`
 - `0430AbuNucaymIsbahani.TarikhIsbahan (228,661 words; 1,959 units; 0 bios)`
 - `0442Tanukhi.TarikhCulamaNahwiyyin (10,765 words; 95 units; 0 bios)`
