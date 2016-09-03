@@ -48,8 +48,8 @@ For the list of books currently in our corpus, see below.
 | *Texts* | *Status* |
 |:--- | ------:|
 | In Progress (`.inProgress`) | 7 |
-| Tagged (`.completed`) | 44 |
-| Vetted (`.mARkdown`) | 9 |
+| Tagged (`.completed`) | 43 |
+| Vetted (`.mARkdown`) | 10 |
 | Converted to TEI XML  (`.xml`) | _pending_ |
 
 
@@ -125,6 +125,8 @@ Based on temporary tags derived from The Coverage of the Arabic Collection: The 
 			- [http://bib-alex.com/](http://bib-alex.com/), which has scanned books from the Bibliotheca Alexandrina (unfortunately, most files are stored on file-sharing services and lots of links are already dead)
 			- [http://wqf.me/](http://wqf.me/) for manuscripts (search is rather complicated though); most links lead to [archive.org](archive.org) as well.
 
+**Adding PDFs:** Ideally, we need to start collecting PDFs on which our texts are based and rename them according to some clear pattern that will be appendable to the URI scheme: + `_EditorName_Edition_Place_YEAR_XXX.pdff`, where `XXX` is the ordinal number of a volume (prepending zeros) and the extension is changed to `.pdff` since by default `*.pdf` files are excluded from repositories.
+
 
 
 ## General description of the workflow with mARkdown
@@ -182,8 +184,8 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 ## Status Report
  
 * 60 titles
-* 31,039,385 words
-* 156,003 logical units
+* 31,043,833 words
+* 156,004 logical units
 * 12,900 bios
 
 ### `*.inProgress` (7 titles: 8,505,810 words; 35,706 units; 0 bios)
@@ -197,7 +199,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - `0764Safadi.WafiBiWafayat (1,968,791 words; 11,211 units; 0 bios)`
 
 
-### `*.completed` (44 titles: 18,912,977 words; 89,804 units; 1 bios)
+### `*.completed` (43 titles: 18,573,973 words; 84,636 units; 1 bios)
 
 - `0292Yacqubi.TarikhYacqubi (192,205 words; 139 units; 0 bios)`
 - `0355MuhammadKindi.WulatMisr (50,870 words; 131 units; 0 bios)`
@@ -232,7 +234,6 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - `0597IbnJawzi.Muntazam (1,529,901 words; 7,351 units; 0 bios)`
 - `0600KatibMarrakushi.Istibsar (60,658 words; 200 units; 0 bios)`
 - `0626YaqutHamawi.MucjamBuldan (1,273,690 words; 13,668 units; 0 bios)`
-- `0630IbnAthirCizzDin.LubabFiTahdhibAnsab (339,004 words; 5,168 units; 0 bios)`
 - `0658IbnAbbar.HullaSiyara (98,490 words; 228 units; 0 bios)`
 - `0658IbnAbbar.TakmilaLiSila (303,300 words; 3,925 units; 0 bios)`
 - `0658IbnAbbar.TuhfaQadim (28,899 words; 114 units; 0 bios)`
@@ -245,11 +246,12 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - `0748Dhahabi.DiwanDucafa (105,267 words; 6,009 units; 0 bios)`
 
 
-### `*.mARkdown` (9 titles: 3,620,598 words; 30,493 units; 12,899 bios)
+### `*.mARkdown` (10 titles: 3,964,050 words; 35,662 units; 12,899 bios)
 
 - `0276IbnQutaybaDinawari.AdabKatib (69,366 words; 299 units; 0 bios)`
 - `0561Samcani.Ansab (827,145 words; 4,951 units; 0 bios)`
 - `0561Samcani.Ansab (879,572 words; 5,063 units; 0 bios)`
+- `0630IbnAthirCizzDin.LubabFiTahdhibAnsab (343,452 words; 5,169 units; 0 bios)`
 - `0681IbnKhallikan.WafayatAcyan (677,511 words; 1,528 units; 862 bios)`
 - `0774IbnKathir.TabaqatShaficiyyin (181,807 words; 965 units; 919 bios)`
 - `0900AbuCabdAllahHimyari.RawdMictar (354,673 words; 1,659 units; 0 bios)`
@@ -265,11 +267,11 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 ## List of books by centuries (640 titles)
 
 
-* **0100AH [[ [Re]generated on 2016-09-02 (18:06:20) ]]**
+* **0100AH [[ [Re]generated on 2016-09-03 (19:19:47) ]]**
 
  * _no texts at the moment_
 
-* **0200AH [[ [Re]generated on 2016-09-02 (18:06:20) ]]**
+* **0200AH [[ [Re]generated on 2016-09-03 (19:19:47) ]]**
 
  * `0110HasanBasri.FadailMakka `
 	- *TAGS: CENT0200, PPE, _AJZA, _BULDAN, _HADITH, _TABAQAT, _TARAJIM, _TARIKH*
@@ -278,7 +280,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `0200AbuShis.Diwan `
 	- *TAGS: CENT0200, _SHICR_CABBASI, _SHICR*
 
-* **0300AH [[ [Re]generated on 2016-09-02 (18:06:20) ]]**
+* **0300AH [[ [Re]generated on 2016-09-03 (19:19:47) ]]**
 
  * `0204IbnKalbi.AnsabKhayl `
 	- *TAGS: CENT0300, GEN, PPE, _ADAB, _BALAGHA, _GHARIB, _MACAJIM, _MUSTALAHAT*
@@ -461,7 +463,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `0300MuallifMajhul.AkhbarDawlaCabbasiya `
 	- *TAGS: CENT0300, PPE, _TARIKH*
 
-* **0400AH [[ [Re]generated on 2016-09-02 (18:06:20) ]]**
+* **0400AH [[ [Re]generated on 2016-09-03 (19:19:47) ]]**
 
  * `0301Bardiji.TabaqatAsma `
 	- *TAGS: CENT0400, PPE, _HADITH, _TABAQAT, _TARAJIM*
@@ -628,7 +630,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `0400IshaqMunajjim.AkamMarjan `
 	- *TAGS: CENT0400, _BULDAN, _JUGHRAFIYA, _RIHLAT*
 
-* **0500AH [[ [Re]generated on 2016-09-02 (18:06:20) ]]**
+* **0500AH [[ [Re]generated on 2016-09-03 (19:19:47) ]]**
 
  * `0402MuhammadSaydawi.MucjamShuyukh `
 	- *TAGS: CENT0500, _HADITH, _MACAJIM, _MASANID, _TABAQAT, _TARAJIM*
@@ -747,7 +749,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `0498AbuCaliJayyani.TaqyidMuhmal `
 	- *TAGS: CENT0500, PPE, _HADITH, _MISC, _TABAQAT, _TARAJIM*
 
-* **0600AH [[ [Re]generated on 2016-09-02 (18:06:20) ]]**
+* **0600AH [[ [Re]generated on 2016-09-03 (19:19:47) ]]**
 
  * `0507AbuBakrShashi.HilyaCulama `
 	- *TAGS: CENT0600, PPE, _FIQH, _SHAFICI*
@@ -866,7 +868,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `0600KatibMarrakushi.Istibsar `
 	- *TAGS: CENT0600, _BULDAN, _JUGHRAFIYA, _RIHLAT*
 
-* **0700AH [[ [Re]generated on 2016-09-02 (18:06:20) ]]**
+* **0700AH [[ [Re]generated on 2016-09-03 (19:19:47) ]]**
 
  * `0606IbnMamati.LataifDhakhira `
 	- *TAGS: CENT0700, PPE, _TABAQAT, _TARAJIM*
@@ -993,7 +995,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `0696IbnZahiri.Mashyakha `
 	- *TAGS: CENT0700, PPE, _AJZA, _HADITH, _TARAJIM*
 
-* **0800AH [[ [Re]generated on 2016-09-02 (18:06:20) ]]**
+* **0800AH [[ [Re]generated on 2016-09-03 (19:19:47) ]]**
 
  * `0701SharafDinYunini.Mashyakha `
 	- *TAGS: CENT0800, PPE, _AJZA, _HADITH*
@@ -1150,7 +1152,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `0799IbnFarhun.DibajMudhahhab `
 	- *TAGS: CENT0800, PPE, _FIQH, _TABAQAT, _TARAJIM, _TARIKH*
 
-* **0900AH [[ [Re]generated on 2016-09-02 (18:06:20) ]]**
+* **0900AH [[ [Re]generated on 2016-09-03 (19:19:47) ]]**
 
  * `0804IbnMulaqqin.TabaqatAwliya `
 	- *TAGS: CENT0900, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT*
@@ -1277,7 +1279,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `0900AbuCabdAllahHimyari.RawdMictar `
 	- *TAGS: CENT0900, COL, GEO, PPE, _BULDAN, _GHARIB, _JUGHRAFIYA, _MACAJIM, _MUSTALAHAT, _RIHLAT*
 
-* **1000AH [[ [Re]generated on 2016-09-02 (18:06:20) ]]**
+* **1000AH [[ [Re]generated on 2016-09-03 (19:19:47) ]]**
 
  * `0902Sakhawi.Buldaniyyat `
 	- *TAGS: CENT1000, PPE, _AJZA, _HADITH, _MISC, _TARAJIM*
@@ -1352,7 +1354,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `0984BardDinGhazzi.MatalicBadriya `
 	- *TAGS: CENT1000, _BULDAN, _JUGHRAFIYA, _RIHLAT*
 
-* **1100AH [[ [Re]generated on 2016-09-02 (18:06:20) ]]**
+* **1100AH [[ [Re]generated on 2016-09-03 (19:19:47) ]]**
 
  * `1010TamimiDari.TabaqatSaniya `
 	- *TAGS: BIO, CENT1100, COL, PPE, _TABAQAT, _TARAJIM, _TARIKH*
@@ -1391,7 +1393,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `1100MustafaTafrishi.NaqdRijal `
 	- *TAGS: BIO, CENT1100, PPE, SHC, _HADITH, _SHICI, _TARAJIM*
 
-* **1200AH [[ [Re]generated on 2016-09-02 (18:06:20) ]]**
+* **1200AH [[ [Re]generated on 2016-09-03 (19:19:47) ]]**
 
  * `1101MuhammadCaliArdabili.JamicRuwat `
 	- *TAGS: CENT1200, PPE, SHC, _HADITH, _SHICI, _TARAJIM*
@@ -1422,7 +1424,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `1195CabdRahmanAnsari.Tuhfa `
 	- *TAGS: CENT1200, _ANSAB, _MISC*
 
-* **1300AH [[ [Re]generated on 2016-09-02 (18:06:20) ]]**
+* **1300AH [[ [Re]generated on 2016-09-03 (19:19:47) ]]**
 
  * `1206Muradi.SilkDurar `
 	- *TAGS: CENT1300, PPE, _TABAQAT, _TARAJIM*
@@ -1451,7 +1453,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `1286IcjazHusaynKunturi.KashfHajb `
 	- *TAGS: BIB, CENT1300, PPE, _FAHARIS, _KUTUB*
 
-* **1400AH [[ [Re]generated on 2016-09-02 (18:06:20) ]]**
+* **1400AH [[ [Re]generated on 2016-09-03 (19:19:47) ]]**
 
  * `1307Qannawji.AbjadCulum `
 	- *TAGS: CENT1400, PPE, _ADILLA, _FAHARIS, _KUTUB, _MACAJIM*
@@ -1536,7 +1538,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `1396KhayrDinZirikli.Aclam `
 	- *TAGS: BIO, CENT1400, COL, PPE, _FAHARIS, _KUTUB, _TABAQAT, _TARAJIM*
 
-* **1500AH [[ [Re]generated on 2016-09-02 (18:06:20) ]]**
+* **1500AH [[ [Re]generated on 2016-09-03 (19:19:47) ]]**
 
  * `1405CaliShahrudi.Mustadrakat `
 	- *TAGS: CENT1500, PPE, SHC, _HADITH, _SHICI, _TARAJIM*

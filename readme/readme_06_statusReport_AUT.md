@@ -1,8 +1,8 @@
 ## Status Report
  
 * 60 titles
-* 31,039,385 words
-* 156,003 logical units
+* 31,043,833 words
+* 156,004 logical units
 * 12,900 bios
 
 ### `*.inProgress` (7 titles: 8,505,810 words; 35,706 units; 0 bios)
@@ -16,7 +16,7 @@
 - `0764Safadi.WafiBiWafayat (1,968,791 words; 11,211 units; 0 bios)`
 
 
-### `*.completed` (44 titles: 18,912,977 words; 89,804 units; 1 bios)
+### `*.completed` (43 titles: 18,573,973 words; 84,636 units; 1 bios)
 
 - `0292Yacqubi.TarikhYacqubi (192,205 words; 139 units; 0 bios)`
 - `0355MuhammadKindi.WulatMisr (50,870 words; 131 units; 0 bios)`
@@ -51,7 +51,6 @@
 - `0597IbnJawzi.Muntazam (1,529,901 words; 7,351 units; 0 bios)`
 - `0600KatibMarrakushi.Istibsar (60,658 words; 200 units; 0 bios)`
 - `0626YaqutHamawi.MucjamBuldan (1,273,690 words; 13,668 units; 0 bios)`
-- `0630IbnAthirCizzDin.LubabFiTahdhibAnsab (339,004 words; 5,168 units; 0 bios)`
 - `0658IbnAbbar.HullaSiyara (98,490 words; 228 units; 0 bios)`
 - `0658IbnAbbar.TakmilaLiSila (303,300 words; 3,925 units; 0 bios)`
 - `0658IbnAbbar.TuhfaQadim (28,899 words; 114 units; 0 bios)`
@@ -64,11 +63,12 @@
 - `0748Dhahabi.DiwanDucafa (105,267 words; 6,009 units; 0 bios)`
 
 
-### `*.mARkdown` (9 titles: 3,620,598 words; 30,493 units; 12,899 bios)
+### `*.mARkdown` (10 titles: 3,964,050 words; 35,662 units; 12,899 bios)
 
 - `0276IbnQutaybaDinawari.AdabKatib (69,366 words; 299 units; 0 bios)`
 - `0561Samcani.Ansab (827,145 words; 4,951 units; 0 bios)`
 - `0561Samcani.Ansab (879,572 words; 5,063 units; 0 bios)`
+- `0630IbnAthirCizzDin.LubabFiTahdhibAnsab (343,452 words; 5,169 units; 0 bios)`
 - `0681IbnKhallikan.WafayatAcyan (677,511 words; 1,528 units; 862 bios)`
 - `0774IbnKathir.TabaqatShaficiyyin (181,807 words; 965 units; 919 bios)`
 - `0900AbuCabdAllahHimyari.RawdMictar (354,673 words; 1,659 units; 0 bios)`
