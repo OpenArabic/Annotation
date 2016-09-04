@@ -1,11 +1,11 @@
 ## Status Report
  
-* 63 titles
-* 35,268,878 words
-* 190,856 logical units
+* 64 titles
+* 36,604,320 words
+* 205,308 logical units
 * 52,629 bios
 
-### `*.inProgress` (7 titles: 8,505,810 words; 35,706 units; 0 bios)
+### `*.inProgress` (8 titles: 9,841,252 words; 50,158 units; 0 bios)
 
 - `0230IbnSacd.TabaqatKubra (920,980 words; 6,386 units; 0 bios)`
 - `0256Bukhari.TarikhKabir (519,629 words; 15,061 units; 0 bios)`
@@ -14,6 +14,7 @@
 - `0421Miskawayh.Tajarib (679,938 words; 2,494 units; 0 bios)`
 - `0748Dhahabi.MacrifaQurraKibar (97,230 words; 0 units; 0 bios)`
 - `0764Safadi.WafiBiWafayat (1,968,791 words; 11,211 units; 0 bios)`
+- `0902Sakhawi.DuLamic (1,335,442 words; 14,452 units; 0 bios)`
 
 
 ### `*.completed` (38 titles: 17,863,110 words; 76,401 units; 1 bios)
