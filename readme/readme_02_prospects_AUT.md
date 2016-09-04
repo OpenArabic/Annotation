@@ -11,5 +11,5 @@
 |:--- | ------:|
 | In Progress (`.inProgress`) | 7 |
 | Tagged (`.completed`) | 39 |
-| Vetted (`.mARkdown`) | 16 |
+| Vetted (`.mARkdown`) | 17 |
 | Converted to TEI XML  (`.xml`) | _pending_ |
