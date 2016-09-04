@@ -16,7 +16,7 @@
 - `0764Safadi.WafiBiWafayat (1,968,791 words; 11,211 units; 0 bios)`
 
 
-### `*.completed` (39 titles: 17,971,013 words; 77,757 units; 1,194 bios)
+### `*.completed` (38 titles: 17,863,110 words; 76,401 units; 1 bios)
 
 - `0292Yacqubi.TarikhYacqubi (192,205 words; 139 units; 0 bios)`
 - `0379MuhammadRabci.TarikhMawlidCulama (35,122 words; 301 units; 0 bios)`
@@ -24,7 +24,6 @@
 - `0403IbnFaradi.TarikhCulamaAndalus (118,911 words; 1,977 units; 0 bios)`
 - `0405HakimNaysaburi.TalkhisTarikhNaysabur (32,641 words; 2,522 units; 0 bios)`
 - `0412Sulami.TabaqatSufiya (68,554 words; 193 units; 0 bios)`
-- `0427HamzaJurjani.TarikhJurjan (107,903 words; 1,356 units; 1,193 bios)`
 - `0430AbuNucaymIsbahani.HilyaAwliya (1,188,077 words; 678 units; 0 bios)`
 - `0430AbuNucaymIsbahani.TarikhIsbahan (228,661 words; 1,959 units; 0 bios)`
 - `0442Tanukhi.TarikhCulamaNahwiyyin (10,765 words; 95 units; 0 bios)`
@@ -59,12 +58,13 @@
 - `0748Dhahabi.DiwanDucafa (105,267 words; 6,009 units; 0 bios)`
 
 
-### `*.mARkdown` (17 titles: 8,792,055 words; 77,393 units; 51,435 bios)
+### `*.mARkdown` (18 titles: 8,899,958 words; 78,749 units; 52,628 bios)
 
 - `0276IbnQutaybaDinawari.AdabKatib (69,366 words; 299 units; 0 bios)`
 - `0355MuhammadKindi.QudatMisr (36,490 words; 101 units; 100 bios)`
 - `0355MuhammadKindi.WulatMisr (50,998 words; 132 units; 128 bios)`
 - `0369AbuShaykhIsbahani.TabaqatMuhaddithin (110,503 words; 701 units; 683 bios)`
+- `0427HamzaJurjani.TarikhJurjan (107,903 words; 1,356 units; 1,193 bios)`
 - `0561Samcani.Ansab (827,145 words; 4,951 units; 0 bios)`
 - `0561Samcani.Ansab (879,572 words; 5,063 units; 0 bios)`
 - `0578IbnBashkuwal.Sila (140,896 words; 1,725 units; 1,543 bios)`
