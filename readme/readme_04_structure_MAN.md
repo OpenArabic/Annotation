@@ -18,5 +18,5 @@
 			- [http://bib-alex.com/](http://bib-alex.com/), which has scanned books from the Bibliotheca Alexandrina (unfortunately, most files are stored on file-sharing services and lots of links are already dead)
 			- [http://wqf.me/](http://wqf.me/) for manuscripts (search is rather complicated though); most links lead to [archive.org](archive.org) as well.
 
-**Adding PDFs:** Ideally, we need to start collecting PDFs on which our texts are based and rename them according to some clear pattern that will be appendable to the URI scheme: + `_EditorName_Edition_Place_YEAR_XXX.pdff`, where `XXX` is the ordinal number of a volume (prepending zeros) and the extension is changed to `.pdff` since by default `*.pdf` files are excluded from repositories.
+**Adding PDFs:** Ideally, we need to start collecting PDFs on which our texts are based and rename them according to some clear pattern that will be appendable to the URI scheme: + `./print/Place_YEAR_XXX.pdff`, where `XXX` is the ordinal number of a volume (prepending zeros) and the extension is changed to `.pdff` since by default `*.pdf` files are excluded from repositories.
 
