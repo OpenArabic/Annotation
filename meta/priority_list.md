@@ -7,18 +7,18 @@
 * 0 `0748Dhahabi.DhikrAsmaManTakallama`	%7 completed (Jonas)
 * 0 `0748Dhahabi.DiwanDucafa`	%8 completed (Jonas)
 * 0 `0748Dhahabi.Kashif`	%9 completed (Jonas)
-* 0 `0748Dhahabi.MacrifaQurraKibar`	%10 in progress (Jonas)
-* 0 `0748Dhahabi.MizanIctidal`	%11
+* 0 `0748Dhahabi.MacrifaQurraKibar`	%10 completed (Jonas)
+* 0 `0748Dhahabi.MizanIctidal`	%11 in progress (Jonas)
 * 0 `0748Dhahabi.MucinFiTabaqatMuhaddithin`	%12
 * 0 `0748Dhahabi.MucjamMuhaddithin`	%13
 * 0 `0748Dhahabi.MucjamShuyukh`	%14
 * 0 `0748Dhahabi.MughniFiDucafa`	%15
 * 0 `0748Dhahabi.MukhtasarCuluww`	%16
-* 0 `0748Dhahabi.MukhtasarMinDubaythi`	%17
+* 0 `0748Dhahabi.MukhtasarMinDubaythi`	%17 (jonas)
 * 0 `0748Dhahabi.Muqtana`	%18
 * 0 `0748Dhahabi.RuwatThiqat`	%19
 * 0 `0748Dhahabi.SiyarAclamNubala`	%20
-* 0 `0748Dhahabi.TadhkiraHuffaz`	%21
+* 0 `0748Dhahabi.TadhkiraHuffaz`	%21 (Jonas)
 * 0 ~~`0748Dhahabi.TarikhIslam`~~	%22
 
 # Computationally generated priority list	%24
@@ -27,14 +27,14 @@
 * 1 `0764Safadi.WafiBiWafayat`	%27
 * 1 `0902Sakhawi.DuLamic`	%28
 * 1 ~~`0463KhatibBaghdadi.TarikhBaghdad`~~	%29
-* 1 `0463KhatibBaghdadi.TarikhBaghdad.Shamela0023764-ara1`	%29
+* 1 `0463KhatibBaghdadi.TarikhBaghdad.Shamela0023764-ara1`	%29 (Jonas)
 * 2 `1371MuhsinCamili.AcyanShica`	%30
 * 2 `1396KhayrDinZirikli.Aclam`	%31
 * 1 `0874IbnTaghribirdi.NujumZahira`	%32
 * 1 `0742Mizzi.TahdhibKamal`	%33
 * 3 `1408CumarKahhala.MucjamMuallifin`	%34
-* 1 `1089IbnCimad.Shadharat`	%35
-* 1 `0774IbnKathir.Bidaya`	%36
+* 1 `1089IbnCimad.Shadharat`	%35 (Jonas)
+* 1 `0774IbnKathir.Bidaya`	%36 (JOnas)
 * 3 `1389AghaBuzurgTihrani.DharicaFiTasanifShica`	%37
 * 1 `0597IbnJawzi.Muntazam`	%38
 * 1 `0852IbnHajarCasqalani.TahdhibTahdhib`	%39
