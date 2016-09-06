@@ -18,7 +18,7 @@
 * 0 `0748Dhahabi.Muqtana`	%18
 * 0 `0748Dhahabi.RuwatThiqat`	%19
 * 0 `0748Dhahabi.SiyarAclamNubala`	%20
-* 0 `0748Dhahabi.TadhkiraHuffaz`	%21 (Jonas)
+* 0 `0748Dhahabi.TadhkiraHuffaz`	%21 in progress (Jonas)
 * 0 ~~`0748Dhahabi.TarikhIslam`~~	%22
 
 # Computationally generated priority list	%24
