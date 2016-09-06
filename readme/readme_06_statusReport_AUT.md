@@ -1,11 +1,11 @@
 ## Status Report
  
-* 65 titles
-* 36,722,986 words
+* 66 titles
+* 37,013,880 words
 * 208,825 logical units
-* 54,288 bios
+* 54,289 bios
 
-### `*.inProgress` (8 titles: 9,862,094 words; 51,987 units; 0 bios)
+### `*.inProgress` (9 titles: 10,187,267 words; 51,987 units; 0 bios)
 
 - `0230IbnSacd.TabaqatKubra (920,980 words; 6,386 units; 0 bios)`
 - `0256Bukhari.TarikhKabir (519,629 words; 15,061 units; 0 bios)`
@@ -13,6 +13,7 @@
 - `0310Tabari.Tarikh (1,468,698 words; 554 units; 0 bios)`
 - `0403IbnFaradi.TarikhCulamaAndalus (118,072 words; 1,829 units; 0 bios)`
 - `0421Miskawayh.Tajarib (679,938 words; 2,494 units; 0 bios)`
+- `0748Dhahabi.TadhkiraHuffaz (325,173 words; 0 units; 0 bios)`
 - `0764Safadi.WafiBiWafayat (1,968,791 words; 11,211 units; 0 bios)`
 - `0902Sakhawi.DuLamic (1,335,442 words; 14,452 units; 0 bios)`
 
@@ -59,7 +60,7 @@
 - `0748Dhahabi.MukhtasarMinDubaythi (96,058 words; 1,641 units; 0 bios)`
 
 
-### `*.mARkdown` (19 titles: 9,020,632 words; 80,736 units; 54,287 bios)
+### `*.mARkdown` (19 titles: 8,986,353 words; 80,736 units; 54,288 bios)
 
 - `0276IbnQutaybaDinawari.AdabKatib (69,366 words; 299 units; 0 bios)`
 - `0355MuhammadKindi.QudatMisr (36,490 words; 101 units; 100 bios)`
@@ -76,9 +77,9 @@
 - `0748Dhahabi.TarikhIslam (3,505,301 words; 33,719 units; 31,090 bios)`
 - `0771Subki.TabaqatShaficiyaKubra (676,946 words; 1,428 units; 1,412 bios)`
 - `0774IbnKathir.TabaqatShaficiyyin (181,807 words; 965 units; 919 bios)`
-- `0900AbuCabdAllahHimyari.RawdMictar (354,673 words; 1,659 units; 0 bios)`
+- `0900AbuCabdAllahHimyari.RawdMictar (320,394 words; 1,659 units; 0 bios)`
 - `0911Suyuti.LubbLubab (51,027 words; 4,853 units; 0 bios)`
 - `1339IsmacilBashaBaghdadi.HadiyaCarifin (421,313 words; 8,842 units; 8,814 bios)`
-- `1450MawsucaShicriya.MucjamShucara (158,184 words; 2,333 units; 2,304 bios)`
+- `1450MawsucaShicriya.MucjamShucara (158,184 words; 2,333 units; 2,305 bios)`
 
 

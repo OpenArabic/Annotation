@@ -1135,6 +1135,12 @@
 |           |-- 2_preprocessed_images
 |           |-- 3_transcription_ready
 |           `-- 4_training_data
+|-- PDF
+|   |-- 0300AH
+|   |-- 0400AH
+|   |-- 0500AH
+|   |-- 0600AH
+|   `-- 0800AH
 `-- passim
     |-- model_files
     |   |-- input
@@ -1154,4 +1160,4 @@
         |-- small_clean
         `-- small_orig
 
-1154 directories
+1160 directories
