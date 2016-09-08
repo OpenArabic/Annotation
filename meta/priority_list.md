@@ -27,13 +27,13 @@
 * 1 `0764Safadi.WafiBiWafayat`	%27
 * 1 `0902Sakhawi.DuLamic`	%28
 * 1 ~~`0463KhatibBaghdadi.TarikhBaghdad`~~	%29
-* 1 `0463KhatibBaghdadi.TarikhBaghdad.Shamela0023764-ara1`	%29 in progress (Jonas)
+* 1 `0463KhatibBaghdadi.TarikhBaghdad.Shamela0023764-ara1`	%29 completed (Jonas)
 * 2 `1371MuhsinCamili.AcyanShica`	%30
 * 2 `1396KhayrDinZirikli.Aclam`	%31
 * 1 `0874IbnTaghribirdi.NujumZahira`	%32
 * 1 `0742Mizzi.TahdhibKamal`	%33
 * 3 `1408CumarKahhala.MucjamMuallifin`	%34
-* 1 `1089IbnCimad.Shadharat`	%35 (Jonas)
+* 1 `1089IbnCimad.Shadharat`	%35 in progress  (Jonas)
 * 1 `0774IbnKathir.Bidaya`	%36 (Jonas)
 * 3 `1389AghaBuzurgTihrani.DharicaFiTasanifShica`	%37
 * 1 `0597IbnJawzi.Muntazam`	%38
