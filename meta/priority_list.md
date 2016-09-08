@@ -14,7 +14,7 @@
 * 0 `0748Dhahabi.MucjamShuyukh`	%14
 * 0 `0748Dhahabi.MughniFiDucafa`	%15
 * 0 `0748Dhahabi.MukhtasarCuluww`	%16
-* 0 `0748Dhahabi.MukhtasarMinDubaythi`	%17 (completed Jonas)
+* 0 `0748Dhahabi.MukhtasarMinDubaythi`	%17 completed (Jonas)
 * 0 `0748Dhahabi.Muqtana`	%18
 * 0 `0748Dhahabi.RuwatThiqat`	%19
 * 0 `0748Dhahabi.SiyarAclamNubala`	%20
@@ -33,8 +33,8 @@
 * 1 `0874IbnTaghribirdi.NujumZahira`	%32
 * 1 `0742Mizzi.TahdhibKamal`	%33
 * 3 `1408CumarKahhala.MucjamMuallifin`	%34
-* 1 `1089IbnCimad.Shadharat`	%35 in progress  (Jonas)
-* 1 `0774IbnKathir.Bidaya`	%36 (Jonas)
+* 1 `1089IbnCimad.Shadharat`	%35 completed (Jonas)
+* 1 `0774IbnKathir.Bidaya`	%36 in progress (Jonas)
 * 3 `1389AghaBuzurgTihrani.DharicaFiTasanifShica`	%37
 * 1 `0597IbnJawzi.Muntazam`	%38
 * 1 `0852IbnHajarCasqalani.TahdhibTahdhib`	%39
