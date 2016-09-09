@@ -34,7 +34,7 @@
 * 1 `0742Mizzi.TahdhibKamal`	%33
 * 3 `1408CumarKahhala.MucjamMuallifin`	%34
 * 1 `1089IbnCimad.Shadharat`	%35 completed (Jonas)
-* 1 `0774IbnKathir.Bidaya`	%36 in progress (Jonas)
+* 1 `0774IbnKathir.Bidaya`	%36 stoped working on this text because it was difficult -> see Readme (Jonas)
 * 3 `1389AghaBuzurgTihrani.DharicaFiTasanifShica`	%37
 * 1 `0597IbnJawzi.Muntazam`	%38
 * 1 `0852IbnHajarCasqalani.TahdhibTahdhib`	%39
