@@ -179,10 +179,13 @@
 |       |   `-- 0322AbuJacfarCuqayli.DucafaKabir
 |       |-- 0322KatibBaghdadi
 |       |   `-- 0322KatibBaghdadi.TarikhAimma
-|       |-- 0328IbnCabRabbihi
-|       |   |-- 0328IbnCabRabbihi.CiqdFarid
-|       |   `-- 0328IbnCabRabbihi.Diwan
+|       |-- 0324Ashcari
+|       |   |-- 0324Ashcari.Ibana
+|       |   |-- 0324Ashcari.MaqalatIslamiyyin
+|       |   `-- 0324Ashcari.RisalaIlaAhlThughr
 |       |-- 0328IbnCabdRabbihi
+|       |   |-- 0328IbnCabdRabbihi.CiqdFarid
+|       |   |-- 0328IbnCabdRabbihi.Diwan
 |       |   `-- 0328IbnCabdRabbihi.TabaicNisa
 |       |-- 0330Sirafi
 |       |   `-- 0330Sirafi.Rihla
@@ -196,6 +199,7 @@
 |       |   `-- 0334IbnSacidQushayri.TarikhRaqqa
 |       |-- 0335Suli
 |       |   |-- 0335Suli.AdabKuttab
+|       |   |-- 0335Suli.AkhbarAbiTamam
 |       |   |-- 0335Suli.AkhbarRadi
 |       |   |-- 0335Suli.AshcarAwladKhulafa
 |       |   `-- 0335Suli.JuzMinAhadith
@@ -225,8 +229,6 @@
 |       |   |-- 0355MuhammadKindi.FadailMisr
 |       |   |-- 0355MuhammadKindi.QudatMisr
 |       |   `-- 0355MuhammadKindi.WulatMisr
-|       |-- 0355Suli
-|       |   `-- 0355Suli.AkhbarAbiTamam
 |       |-- 0360Khawlani
 |       |   `-- 0360Khawlani.TarikhDaraya
 |       |-- 0360Tabarani
@@ -1178,4 +1180,4 @@
     |   `-- small_orig
     `-- test
 
-1178 directories
+1180 directories
