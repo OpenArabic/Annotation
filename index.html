@@ -31,6 +31,8 @@
         <h1>
 <a id="openarabic-project--avh-lehrstuhl-für-digital-humanities-u-leipzig-led-and-curated-by-maxim-romanov" class="anchor" href="#openarabic-project--avh-lehrstuhl-f%C3%BCr-digital-humanities-u-leipzig-led-and-curated-by-maxim-romanov" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>OpenArabic Project (@ AvH Lehrstuhl für Digital Humanities, U Leipzig, led and curated by Maxim Romanov)</h1>
 
+
+
 <h1>
 <a id="contents" class="anchor" href="#contents" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Contents</h1>
 
@@ -38,27 +40,29 @@
 <li><a href="#general-description">General Description</a></li>
 <li><a href="#prospects-and-progress">Prospects and Progress</a></li>
 <li><a href="#text-description-tags">Text Description Tags</a></li>
+<li><a href="#preliminary-analysis-of-categories-of-texts">Preliminary Analysis of Categories of Texts</a></li>
 <li><a href="#folder-structure">Folder structure</a></li>
 <li><a href="#general-description-of-the-workflow-with-markdown">General description of the workflow with mARkdown</a></li>
 <li><a href="#status-report">Status Report</a></li>
-<li><a href="#list-of-books-by-centuries-626-titles">List of books by centuries (626 titles)</a></li>
+<li><a href="#list-of-books-by-centuries-648-titles">List of books by centuries (648 titles)</a></li>
 <li><a href="#statistics-on-the-corpus">Statistics on the corpus</a></li>
 <li><a href="#summary-statistics-on-the-lengths-of-texts-in-the-corpus">Summary statistics on the lengths of texts in the corpus</a></li>
 <li><a href="#texts-by-length-duplicates-excluded">Texts by length (duplicates excluded)</a></li>
 <li><a href="#texts-in-chronological-order-duplicates-excluded">Texts in chronological order (duplicates excluded)</a></li>
-<li><a href="#themes-and-genres-report">Themes and Genres Report</a></li>
+<li><a href="#chronological-distribution-of-texts---up-until-1930-5467-texts-726946794-words">Chronological Distribution of Texts - up until 1930 (5,467 texts, 726,946,794 words)</a></li>
+<li><a href="#forms-themes-genres-provisional-assessment">Forms, Themes, Genres (provisional assessment)</a></li>
 </ul>
 
 <h2>
 <a id="general-description" class="anchor" href="#general-description" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>General Description</h2>
 
-<p>The goal of the project is to build a machine-actionable corpus of premodern texts in Arabic to encourage computational analysis of Arabic literary tradition. Currently, most of the text are historical texts (chronicles, biographical collections, geographical treatises and gazetteers, thematic dictionaries); if you are interested in having other genres and forms, please, get in touch with us.</p>
+<p>The goal of OpenArabic is to build a machine-actionable corpus of premodern texts in Arabic to encourage computational analysis of the Arabic literary tradition. Currently, most of the texts are historical in nature (chronicles, biographical collections, geographical treatises and gazetteers, adab, and thematic dictionaries). If you are interested in having other genres and forms, please, get in touch with us.</p>
 
-<p>Most of the texts are coming from open online collections of premodern and modern Arabic texts, such as <a href="http://shamela.ws/">http://shamela.ws/</a> and <a href="http://shiaonlinelibrary.com/">http://shiaonlinelibrary.com/</a> (These texts have <code>Shamela+NUMBER</code> and <code>Shia+NUMBER</code>; some texts are coming from <em>al-Jāmiʿ al-kabīr</em>, which has been published on an external HDD and is not available online (<code>JK+NUMBER</code>). Initial metadata from these collections is preserved in the beginning of each file.</p>
+<p>Most of the texts derive from open-access online collections of premodern and modern Arabic texts such as <a href="http://shamela.ws/">http://shamela.ws/</a> and <a href="http://shiaonlinelibrary.com/">http://shiaonlinelibrary.com/</a> (These texts have <code>Shamela+NUMBER</code> and <code>Shia+NUMBER</code>; some texts are coming from <em>al-Jāmiʿ al-kabīr</em>, which has been published on an external HDD and is not available online (<code>JK+NUMBER</code>). Initial metadata from these collections is preserved at the beginning of each file.</p>
 
-<p>Currently uploaded have been automatically converted from their initial formats into <code>mARkdown</code> format—a flavor of <code>markdown</code> for tagging premodern Arabic text; they all require further editing, so that the structure of each text is tagged properly; the detailed description of <code>mARkdown</code> scheme and the tagging workflow can be found <a href="http://maximromanov.github.io/mARkdown/">http://maximromanov.github.io/mARkdown/</a>. When manual tagging is complete text will be converted into CTS-compliant XML format.</p>
+<p>Currently uploaded texts have been automatically converted from their initial formats into a <code>mARkdown</code> format—a flavor of <code>markdown</code> for tagging premodern Arabic text. All of our texts require further editing to properly tag their structures. A detailed description of the <code>mARkdown</code> scheme and the tagging workflow can be found at <a href="http://maximromanov.github.io/mARkdown/">http://maximromanov.github.io/mARkdown/</a>. When manual tagging is complete our texts will be converted into a CTS-compliant XML format.</p>
 
-<p>For the list of added books, see below (Mostly premodern chronicles, biographical collections, encyclopaedic dictionaries, gazetteers).</p>
+<p>For the list of books currently in our corpus, see below.</p>
 
 <h2>
 <a id="prospects-and-progress" class="anchor" href="#prospects-and-progress" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Prospects and Progress</h2>
@@ -81,7 +85,7 @@
 </tr>
 <tr>
 <td align="left">Added texts (listed below)</td>
-<td align="right">626</td>
+<td align="right">648</td>
 </tr>
 <tr>
 <td align="left">Orphans (no TXT)</td>
@@ -100,15 +104,15 @@
 <tbody>
 <tr>
 <td align="left">In Progress (<code>.inProgress</code>)</td>
-<td align="right">5</td>
+<td align="right">11</td>
 </tr>
 <tr>
 <td align="left">Tagged (<code>.completed</code>)</td>
-<td align="right">41</td>
+<td align="right">37</td>
 </tr>
 <tr>
 <td align="left">Vetted (<code>.mARkdown</code>)</td>
-<td align="right">4</td>
+<td align="right">20</td>
 </tr>
 <tr>
 <td align="left">Converted to TEI XML  (<code>.xml</code>)</td>
@@ -164,6 +168,38 @@
 <p><strong>NB</strong>: Title descriptions also have temporary tags (they start with <code>_</code>, an undescore), which are generated and updated automatically from the initial metadata. These tags are usefully suggestive, but not entirely reliable.</p>
 
 <h2>
+<a id="preliminary-analysis-of-categories-of-texts" class="anchor" href="#preliminary-analysis-of-categories-of-texts" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Preliminary Analysis of Categories of Texts</h2>
+
+<p>Based on temporary tags derived from <em>The Coverage of the Arabic Collection</em> (the detailed statistics can be found at (<a href="https://github.com/OpenArabic/Annotation">https://github.com/OpenArabic/Annotation</a>), in Sections: “Chronological Distribution of Texts” and “Forms, Themes, Genres (provisional assessment)”. Descriptive statistics numbers for “Forms, Themes, Genres (provisional assessment)” are overlapping as most books belong to multiple forms/genres/categories, and often cover multiple themes. At the moment we have <em>ca.</em> 7,700 unique Arabic texts with a smaller subset of <em>ca.</em> 5,500 unique texts written before 1930 CE (the year 1350 of the Islamic lunar calendar). This selection of texts covers most thoroughly the period from the 9th till 16th century CE (250–700 titles and 30–90 million words per century), but also offers a decent coverage of 7th–8th and 17th–early 20th centuries. Based on our provisional assessment of this collection using metadata that we were able to gather together with texts, the thematic coverage is quite broad broad and includes all major genres that flourished in the Arabic-Islamic written tradition: </p>
+
+<ul>
+<li>The broad category of “fine literature”/belles-lettres (<em>adab</em>) includes ca. 600 texts, with over 50 million words; its subcategories—also quite broadly defined—cover such areas as “ethics,” (<em>aḫlāq</em>)—204 titles, with 12 million words; rhetoric (<em>balāġaŧ</em>)—357 texts, with 33,3 million words; poetic theory, or “science of versification” (<em>ʿarūḍ</em>)—9 texts, with 1,9 million words; poetic collections (<em>šiʿr</em>)—196 texts with 8,6 million words (collections of poetry, <em>dīwān</em>s, cover all major historical periods/regions: pre-Islamic, early Islamic, Umayyad, ʿAbbāsid, Andalusi, ʿUṯmānī/Ottoman); collections of sayings and proverbs (<em>amṯāl</em>)—15 texts, with 1,3 million words;</li>
+<li>Geographical texts and travelogues: general geographies (<em>buldān</em>/<em>juġrafīyaŧ</em>)—152 texts, with 32,7 million words; travelogues (<em>riḥlāt</em>)—70 texts, 7,9 million words;</li>
+<li>Historical texts and chronicles (<em>tawāriḫ</em>)—310 texts, 74,4 million words;</li>
+<li>Biographical texts and collections of biographies (<em>siyar</em>, <em>tarājim</em> and <em>ṭabaqāt</em>)—768 texts, with 151 million words;</li>
+<li>Administrative practice (<em>ṣināʿaŧ al-kitābaŧ</em>)— ... ; and governance (<em>siyāsaŧ</em>)—66 texts, with 5,3 million words; </li>
+<li>Genealogical texts (<em>ansāb</em>)—36 texts, with 5,7 million words;</li>
+<li> <em>Islamic religious texts I.</em> The Qurʾān and Qurʾānic sciences, which include: exegesis (<em>tafsīr</em>)—207 texts, 84 million words; <em>qiraʾāt</em>, recitations—29 texts, 2,4 million words; <em>tajwīd</em>, “art of recitation”—16 texts, 1,4 million words;</li>
+<li>
+<em>Islamic religious texts II.</em>—Tradition and traditionalist sciences (<em>ḥadīṯ</em>); collections of reliable transmitters (<em>ṯiqāt</em>)—13 texts, 3,3 million words; “analysis of sources” (<em>taḫrīj</em>)—77 texts, 25,3 million words;</li>
+<li>
+<em>Islamic religious texts IIIa.</em> Islamic law and legal sciences: legal theory (<em>fiqh</em>)—776 texts, with 255 million words; collections of legal decisions (<em>fatāwá</em>)—31 text, with 6,7 million words; <em>IIIb.</em> Teachings of different legal schools: Ḥanafīs—...; Mālikīs—...; Šāfiʿīs—67 texts, 46,3 words; Ḥanbalīs—...; Jaʿfarīs (“Twelvers”)—...; Ẓāhirīs—1 text, 1,5 million words; Zaydīs—3 texts, 1,5 million words;</li>
+<li>
+<em>Islamic religious texts IV.</em> Theological treatises and dogmatics (<em>ʿaqāʾid</em>): 519 texts, 28,2 million words;</li>
+<li>Doxographical texts: “religious communities” (<em>milal</em>)—230 texts, 12,7 million words; “religious divisions” (<em>firaq</em>)—19 texts, 2 million words; refutations (<em>rudūd</em>)—65 texts, 4,1 million words;</li>
+<li>Medical texts (<em>ṭibb</em>), including both Greek and Islamic traditions—77 texts, with 5,2 million words; (<strong>NB</strong>: Including a collection of texts prepared by Professor Peter Pormann and his team at U Manchester within the “Arabic Commentaries on the Hippocratic Aphorisms” project—64 texts, with <em>ca.</em> 1 million words);</li>
+<li>Texts by smaller religious communities: Twelver Shiʿites—58 texts, 5,3 million words; Zaydī Shiʿites—5 texts, <em>ca.</em> 85,000 words); Ṣūfī texts—9 texts, 2,4 million words; </li>
+<li>Greek/Hellenistic tradition—altogether 150 texts, with 2,4 million words, including philosophical (<em>falsafaŧ</em>) and natural sciences texts—93 texts, 4,9 million words (<strong>NB</strong>: Including texts from “A Digital Corpus for Graeco-Arabic Studies” (<a href="http://www.graeco-arabic-studies.org/">http://www.graeco-arabic-studies.org/</a>), whose Arabic section includes 77 texts, with <em>ca.</em> 1 million words);</li>
+<li>Bibliographical texts and collections (<em>fahāris</em>)—54 texts, with 8,2 million words;</li>
+<li>Arabic language: grammar (<em>naḥw</em>)—143 texts, with 19 million words; morphology (<em>ṣarf</em>)—143 texts, 19 million words; lexicons of rare words (<em>ġarīb</em>)—126 texts, with 28 million words;</li>
+<li>Early modern journals (<em>majallaŧ</em>): ...; </li>
+<li>Memoires (<em>muḏakkarāt</em>)—11 texts, <em>ca.</em> 1 million words; </li>
+<li>Reference books of different kind: technical terminology of various disciplines (<em>muṣṭalaḥāt</em>)—224 texts, 31,9 million words; </li>
+</ul>
+
+<p><strong>NB</strong>: These categories based on the currently available metadata; creating detailed metadata on authors and their books, by the end of the project we will provide a very detailed and precise description of the coverage of this collection. </p>
+
+<h2>
 <a id="folder-structure" class="anchor" href="#folder-structure" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Folder structure</h2>
 
 <ul>
@@ -212,6 +248,8 @@
 </ul>
 </li>
 </ul>
+
+<p><strong>Adding PDFs:</strong> Ideally, we need to start collecting PDFs on which our texts are based and rename them according to some clear pattern that will be appendable to the URI scheme: + <code>./print/Place_YEAR_XXX.pdff</code>, where <code>XXX</code> is the ordinal number of a volume (prepending zeros) and the extension is changed to <code>.pdff</code> since by default <code>*.pdf</code> files are excluded from repositories.</p>
 
 <h2>
 <a id="general-description-of-the-workflow-with-markdown" class="anchor" href="#general-description-of-the-workflow-with-markdown" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>General description of the workflow with mARkdown</h2>
@@ -328,76 +366,94 @@
 <a id="status-report" class="anchor" href="#status-report" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Status Report</h2>
 
 <ul>
-<li>50 titles</li>
-<li>28,293,672 words</li>
-<li>130,688 logical units</li>
-<li>108,771 bios</li>
+<li>68 titles</li>
+<li>41,596,715 words</li>
+<li>223,443 logical units</li>
+<li>56,798 bios</li>
 </ul>
 
 <h3>
-<a id="inprogress-5-titles-7728642-words-33212-units-24351-bios" class="anchor" href="#inprogress-5-titles-7728642-words-33212-units-24351-bios" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><code>*.inProgress</code> (5 titles: 7,728,642 words; 33,212 units; 24,351 bios)</h3>
+<a id="inprogress-11-titles-14764275-words-68267-units-0-bios" class="anchor" href="#inprogress-11-titles-14764275-words-68267-units-0-bios" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><code>*.inProgress</code> (11 titles: 14,764,275 words; 68,267 units; 0 bios)</h3>
 
 <ul>
-<li><code>0230IbnSacd.TabaqatKubra (920,980 words; 6,386 units; 4,081 bios)</code></li>
-<li><code>0256Bukhari.TarikhKabir (519,629 words; 15,061 units; 10,845 bios)</code></li>
+<li><code>0230IbnSacd.TabaqatKubra (920,980 words; 6,386 units; 0 bios)</code></li>
+<li><code>0256Bukhari.TarikhKabir (519,629 words; 15,061 units; 0 bios)</code></li>
+<li><code>0282AbuHanifaDinawari.AkhbarTiwal  (93,184 words; 857 units; 0 bios)</code></li>
+<li><code>0282AbuHanifaDinawari.AkhbarTiwal (93,182 words; 458 units; 0 bios)</code></li>
 <li><code>0310Tabari.JamicBayan (2,850,544 words; 0 units; 0 bios)</code></li>
 <li><code>0310Tabari.Tarikh (1,468,698 words; 554 units; 0 bios)</code></li>
-<li><code>0764Safadi.WafiBiWafayat (1,968,791 words; 11,211 units; 9,425 bios)</code></li>
+<li><code>0421Miskawayh.Tajarib (679,938 words; 2,494 units; 0 bios)</code></li>
+<li><code>0463KhatibBaghdadi.TarikhBaghdad (2,621,786 words; 13,309 units; 0 bios)</code></li>
+<li><code>0764Safadi.WafiBiWafayat (1,968,791 words; 11,211 units; 0 bios)</code></li>
+<li><code>0774IbnKathir.Bidaya (2,212,101 words; 3,485 units; 0 bios)</code></li>
+<li><code>0902Sakhawi.DuLamic (1,335,442 words; 14,452 units; 0 bios)</code></li>
 </ul>
 
 <h3>
-<a id="completed-41-titles-19238656-words-84474-units-72439-bios" class="anchor" href="#completed-41-titles-19238656-words-84474-units-72439-bios" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><code>*.completed</code> (41 titles: 19,238,656 words; 84,474 units; 72,439 bios)</h3>
+<a id="completed-37-titles-17807619-words-73580-units-1-bios" class="anchor" href="#completed-37-titles-17807619-words-73580-units-1-bios" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><code>*.completed</code> (37 titles: 17,807,619 words; 73,580 units; 1 bios)</h3>
 
 <ul>
 <li><code>0292Yacqubi.TarikhYacqubi (192,205 words; 139 units; 0 bios)</code></li>
-<li><code>0355MuhammadKindi.WulatMisr (50,870 words; 131 units; 128 bios)</code></li>
-<li><code>0369AbuShaykhIsbahani.TabaqatMuhaddithin (110,658 words; 1,098 units; 356 bios)</code></li>
-<li><code>0379MuhammadRabci.TarikhMawlidCulama (35,122 words; 301 units; 301 bios)</code></li>
+<li><code>0379MuhammadRabci.TarikhMawlidCulama (35,125 words; 338 units; 0 bios)</code></li>
 <li><code>0390Muqaddasi.AhsanTaqasim (103,553 words; 67 units; 0 bios)</code></li>
-<li><code>0403IbnFaradi.TarikhCulamaAndalus (118,911 words; 1,977 units; 1,653 bios)</code></li>
-<li><code>0405HakimNaysaburi.TalkhisTarikhNaysabur (32,641 words; 2,522 units; 2,509 bios)</code></li>
-<li><code>0412Sulami.TabaqatSufiya (68,554 words; 193 units; 186 bios)</code></li>
-<li><code>0427HamzaJurjani.TarikhJurjan (106,677 words; 1,357 units; 1,193 bios)</code></li>
-<li><code>0430AbuNucaymIsbahani.HilyaAwliya (1,188,077 words; 678 units; 674 bios)</code></li>
-<li><code>0430AbuNucaymIsbahani.TarikhIsbahan (228,661 words; 1,959 units; 1,890 bios)</code></li>
-<li><code>0442Tanukhi.TarikhCulamaNahwiyyin (10,765 words; 95 units; 95 bios)</code></li>
-<li><code>0446AbuYaclaKhalili.IrshadFiMacrifaCulama (81,543 words; 994 units; 921 bios)</code></li>
-<li><code>0450Najashi.Rijal (88,987 words; 1,330 units; 1,268 bios)</code></li>
+<li><code>0412Sulami.TabaqatSufiya (68,554 words; 193 units; 0 bios)</code></li>
+<li><code>0430AbuNucaymIsbahani.HilyaAwliya (1,188,077 words; 678 units; 0 bios)</code></li>
+<li><code>0430AbuNucaymIsbahani.TarikhIsbahan (228,661 words; 1,959 units; 0 bios)</code></li>
+<li><code>0442Tanukhi.TarikhCulamaNahwiyyin (10,765 words; 95 units; 0 bios)</code></li>
+<li><code>0446AbuYaclaKhalili.IrshadFiMacrifaCulama (81,543 words; 994 units; 0 bios)</code></li>
+<li><code>0450Najashi.Rijal (88,987 words; 1,330 units; 0 bios)</code></li>
 <li><code>0458Bayhaqi.DalailNubuwwa (528,431 words; 678 units; 0 bios)</code></li>
-<li><code>0460ShaykhTusi.IkhtiyarMacrifaRijal (224,038 words; 416 units; 416 bios)</code></li>
-<li><code>0460ShaykhTusi.Rijal (75,644 words; 6,745 units; 6,428 bios)</code></li>
-<li><code>0463IbnCabdBarr.IsticabFiMacrifaAshab (397,653 words; 4,049 units; 3,612 bios)</code></li>
-<li><code>0463KhatibBaghdadi.TarikhBaghdad (1,883,359 words; 8,484 units; 7,838 bios)</code></li>
-<li><code>0466CabdAzizKattani.DhaylTarikhMawlidCulama (18,115 words; 463 units; 352 bios)</code></li>
-<li><code>0476AbuIshaqShirazi.TabaqatFuqaha (30,392 words; 508 units; 437 bios)</code></li>
-<li><code>0482AbuIshaqHabbal.WafayatMisriyyin (6,616 words; 497 units; 420 bios)</code></li>
-<li><code>0521IbnAbiYacla.TabaqatHanabila (169,915 words; 880 units; 703 bios)</code></li>
-<li><code>0524IbnAkfani.DhaylDhaylTarikhMawlidCulama (4,082 words; 84 units; 63 bios)</code></li>
-<li><code>0544CiyadIbnMusaYahsubi.TartibMadarik (320,968 words; 1,177 units; 1,020 bios)</code></li>
-<li><code>0555IbnQalanisi.Tarikh (120,986 words; 157 units; 4 bios)</code></li>
-<li><code>0565IbnZaydBayhaqi.TarikhBayhaq (121,031 words; 299 units; 139 bios)</code></li>
-<li><code>0571IbnCasakir.TarikhDimashq (8,193,674 words; 10,910 units; 9,641 bios)</code></li>
-<li><code>0577IbnAnbari.NuzhaAlibba (43,678 words; 183 units; 181 bios)</code></li>
-<li><code>0578IbnBashkuwal.Sila (139,358 words; 1,724 units; 1,543 bios)</code></li>
-<li><code>0597IbnJawzi.Muntazam (1,529,901 words; 7,351 units; 4,331 bios)</code></li>
-<li><code>0600KatibMarrakushi.Istibsar (60,658 words; 200 units; 130 bios)</code></li>
-<li><code>0626YaqutHamawi.MucjamBuldan (1,273,690 words; 13,668 units; 12,973 bios)</code></li>
-<li><code>0630IbnAthirCizzDin.LubabFiTahdhibAnsab (339,004 words; 5,168 units; 4,592 bios)</code></li>
-<li><code>0658IbnAbbar.HullaSiyara (98,490 words; 228 units; 216 bios)</code></li>
-<li><code>0658IbnAbbar.TakmilaLiSila (303,300 words; 3,925 units; 3,580 bios)</code></li>
-<li><code>0658IbnAbbar.TuhfaQadim (28,899 words; 114 units; 113 bios)</code></li>
+<li><code>0460ShaykhTusi.IkhtiyarMacrifaRijal (224,038 words; 416 units; 0 bios)</code></li>
+<li><code>0460ShaykhTusi.Rijal (75,644 words; 6,745 units; 0 bios)</code></li>
+<li><code>0463IbnCabdBarr.IsticabFiMacrifaAshab (397,653 words; 4,049 units; 1 bios)</code></li>
+<li><code>0463KhatibBaghdadi.TarikhBaghdad (1,883,359 words; 8,484 units; 0 bios)</code></li>
+<li><code>0466CabdAzizKattani.DhaylTarikhMawlidCulama (18,115 words; 463 units; 0 bios)</code></li>
+<li><code>0476AbuIshaqShirazi.TabaqatFuqaha (30,392 words; 508 units; 0 bios)</code></li>
+<li><code>0482AbuIshaqHabbal.WafayatMisriyyin (6,616 words; 497 units; 0 bios)</code></li>
+<li><code>0521IbnAbiYacla.TabaqatHanabila (169,915 words; 880 units; 0 bios)</code></li>
+<li><code>0524IbnAkfani.DhaylDhaylTarikhMawlidCulama (4,082 words; 84 units; 0 bios)</code></li>
+<li><code>0544CiyadIbnMusaYahsubi.TartibMadarik (320,968 words; 1,177 units; 0 bios)</code></li>
+<li><code>0555IbnQalanisi.Tarikh (120,986 words; 157 units; 0 bios)</code></li>
+<li><code>0565IbnZaydBayhaqi.TarikhBayhaq (121,031 words; 299 units; 0 bios)</code></li>
+<li><code>0571IbnCasakir.TarikhDimashq (8,193,674 words; 10,910 units; 0 bios)</code></li>
+<li><code>0577IbnAnbari.NuzhaAlibba (43,678 words; 183 units; 0 bios)</code></li>
+<li><code>0597IbnJawzi.Muntazam (1,529,901 words; 7,351 units; 0 bios)</code></li>
+<li><code>0600KatibMarrakushi.Istibsar (60,658 words; 200 units; 0 bios)</code></li>
+<li><code>0626YaqutHamawi.MucjamBuldan (1,273,690 words; 13,668 units; 0 bios)</code></li>
+<li><code>0658IbnAbbar.HullaSiyara (98,490 words; 228 units; 0 bios)</code></li>
+<li><code>0658IbnAbbar.TuhfaQadim (28,899 words; 114 units; 0 bios)</code></li>
 <li><code>0685IbnCibri.TarikhMukhtasarDuwal (97,240 words; 234 units; 0 bios)</code></li>
 <li><code>0748Dhahabi.CibarFiKhabar (270,948 words; 868 units; 0 bios)</code></li>
-<li><code>0774IbnKathir.TabaqatShaficiyyin (180,888 words; 965 units; 919 bios)</code></li>
-<li><code>0900AbuCabdAllahHimyari.RawdMictar (360,474 words; 1,658 units; 1,614 bios)</code></li>
+<li><code>0748Dhahabi.Culuww (51,237 words; 777 units; 0 bios)</code></li>
+<li><code>0748Dhahabi.DhaylCibar (37,477 words; 161 units; 0 bios)</code></li>
+<li><code>0748Dhahabi.DhaylDiwanDucafa (12,664 words; 603 units; 0 bios)</code></li>
+<li><code>0748Dhahabi.DhikrAsmaManTakallama (9,038 words; 403 units; 0 bios)</code></li>
+<li><code>0748Dhahabi.DiwanDucafa (105,267 words; 6,009 units; 0 bios)</code></li>
+<li><code>0748Dhahabi.MukhtasarMinDubaythi (96,058 words; 1,641 units; 0 bios)</code></li>
 </ul>
 
 <h3>
-<a id="markdown-4-titles-1326374-words-13002-units-11981-bios" class="anchor" href="#markdown-4-titles-1326374-words-13002-units-11981-bios" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><code>*.mARkdown</code> (4 titles: 1,326,374 words; 13,002 units; 11,981 bios)</h3>
+<a id="markdown-20-titles-9024821-words-81596-units-56797-bios" class="anchor" href="#markdown-20-titles-9024821-words-81596-units-56797-bios" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><code>*.mARkdown</code> (20 titles: 9,024,821 words; 81,596 units; 56,797 bios)</h3>
 
 <ul>
 <li><code>0276IbnQutaybaDinawari.AdabKatib (69,366 words; 299 units; 0 bios)</code></li>
+<li><code>0355MuhammadKindi.QudatMisr (36,490 words; 101 units; 100 bios)</code></li>
+<li><code>0355MuhammadKindi.WulatMisr (50,998 words; 132 units; 128 bios)</code></li>
+<li><code>0369AbuShaykhIsbahani.TabaqatMuhaddithin (110,503 words; 701 units; 683 bios)</code></li>
+<li><code>0403IbnFaradi.TarikhCulamaAndalus (120,674 words; 1,987 units; 1,659 bios)</code></li>
+<li><code>0405HakimNaysaburi.TalkhisTarikhNaysabur (35,152 words; 2,519 units; 2,509 bios)</code></li>
+<li><code>0427HamzaJurjani.TarikhJurjan (107,903 words; 1,356 units; 1,193 bios)</code></li>
+<li><code>0561Samcani.Ansab (827,145 words; 4,951 units; 0 bios)</code></li>
+<li><code>0561Samcani.Ansab (879,572 words; 5,063 units; 0 bios)</code></li>
+<li><code>0578IbnBashkuwal.Sila (140,896 words; 1,725 units; 1,543 bios)</code></li>
+<li><code>0630IbnAthirCizzDin.LubabFiTahdhibAnsab (343,452 words; 5,169 units; 0 bios)</code></li>
+<li><code>0658IbnAbbar.TakmilaLiSila (306,871 words; 3,925 units; 3,580 bios)</code></li>
 <li><code>0681IbnKhallikan.WafayatAcyan (677,511 words; 1,528 units; 862 bios)</code></li>
+<li><code>0748Dhahabi.TarikhIslam (3,505,301 words; 33,719 units; 31,090 bios)</code></li>
+<li><code>0771Subki.TabaqatShaficiyaKubra (676,946 words; 1,428 units; 1,412 bios)</code></li>
+<li><code>0774IbnKathir.TabaqatShaficiyyin (181,807 words; 965 units; 919 bios)</code></li>
+<li><code>0900AbuCabdAllahHimyari.RawdMictar (323,710 words; 0 units; 0 bios)</code></li>
+<li><code>0911Suyuti.LubbLubab (51,027 words; 4,853 units; 0 bios)</code></li>
 <li><code>1339IsmacilBashaBaghdadi.HadiyaCarifin (421,313 words; 8,842 units; 8,814 bios)</code></li>
 <li><code>1450MawsucaShicriya.MucjamShucara (158,184 words; 2,333 units; 2,305 bios)</code></li>
 </ul>
@@ -406,18 +462,18 @@
 <a id="text-currently-included-in-the-coprus" class="anchor" href="#text-currently-included-in-the-coprus" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Text currently included in the Coprus</h1>
 
 <h2>
-<a id="list-of-books-by-centuries-626-titles" class="anchor" href="#list-of-books-by-centuries-626-titles" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>List of books by centuries (626 titles)</h2>
+<a id="list-of-books-by-centuries-648-titles" class="anchor" href="#list-of-books-by-centuries-648-titles" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>List of books by centuries (648 titles)</h2>
 
 <ul>
 <li>
-<p><strong>0100AH [[ [Re]generated on 2016-08-29 (17:33:46) ]]</strong></p>
+<p><strong>0100AH [[ [Re]generated on 2016-09-10 (15:52:04) ]]</strong></p>
 
 <ul>
 <li><em>no texts at the moment</em></li>
 </ul>
 </li>
 <li>
-<p><strong>0200AH [[ [Re]generated on 2016-08-29 (17:33:46) ]]</strong></p>
+<p><strong>0200AH [[ [Re]generated on 2016-09-10 (15:52:04) ]]</strong></p>
 
 <ul>
 <li>
@@ -444,7 +500,7 @@
 </ul>
 </li>
 <li>
-<p><strong>0300AH [[ [Re]generated on 2016-08-29 (17:33:46) ]]</strong></p>
+<p><strong>0300AH [[ [Re]generated on 2016-09-10 (15:52:04) ]]</strong></p>
 
 <ul>
 <li>
@@ -847,10 +903,101 @@
 </ul>
 </li>
 <li>
+<code>0276IbnQutaybaDinawari.AnwaFiMawasim</code>
+
+<ul>
+<li><em>TAGS: CENT0300, _MISC</em></li>
+</ul>
+</li>
+<li>
+<code>0276IbnQutaybaDinawari.AshribaWaIkhtilafFiha</code>
+
+<ul>
+<li><em>TAGS: CENT0300, _BUHUTH, _FIQH, _MASAIL</em></li>
+</ul>
+</li>
+<li>
+<code>0276IbnQutaybaDinawari.CuyunAkhbar</code>
+
+<ul>
+<li><em>TAGS: CENT0300, _ADAB, _ADAB, _BALAGHA, _QISAS, _TARAIF</em></li>
+</ul>
+</li>
+<li>
+<code>0276IbnQutaybaDinawari.GharibHadith</code>
+
+<ul>
+<li><em>TAGS: CENT0300, _FIQH, _GHARIB, _HADITH, _LUGHA, _MACAJIM, _MUSTALAHAT, _NAHW, _SARF</em></li>
+</ul>
+</li>
+<li>
+<code>0276IbnQutaybaDinawari.GharibQuran</code>
+
+<ul>
+<li><em>TAGS: CENT0300, _CULUM, _QURAN</em></li>
+</ul>
+</li>
+<li>
+<code>0276IbnQutaybaDinawari.IkhtilafFiLafz</code>
+
+<ul>
+<li><em>TAGS: CENT0300, _AJZA, _HADITH</em></li>
+</ul>
+</li>
+<li>
+<code>0276IbnQutaybaDinawari.ImamaWaSiyasa</code>
+
+<ul>
+<li><em>TAGS: CENT0300, _IMAM, _NABI, _SIRA, _SIYASA</em></li>
+</ul>
+</li>
+<li>
+<code>0276IbnQutaybaDinawari.Jarathim</code>
+
+<ul>
+<li><em>TAGS: CENT0300, _FIQH, _GHARIB, _MACAJIM, _MUSTALAHAT</em></li>
+</ul>
+</li>
+<li>
+<code>0276IbnQutaybaDinawari.MacaniKabir</code>
+
+<ul>
+<li><em>TAGS: CENT0300, _ADAB, _BALAGHA, _GHARIB, _MACAJIM, _MASAIL, _MUSTALAHAT</em></li>
+</ul>
+</li>
+<li>
 <code>0276IbnQutaybaDinawari.Macarif</code>
 
 <ul>
 <li><em>TAGS: CENT0300, PPE, _ANSAB, _MACAJIM, _TARIKH</em></li>
+</ul>
+</li>
+<li>
+<code>0276IbnQutaybaDinawari.RisalaKhatt</code>
+
+<ul>
+<li><em>TAGS: CENT0300, _GHARIB, _MACAJIM, _MUSTALAHAT</em></li>
+</ul>
+</li>
+<li>
+<code>0276IbnQutaybaDinawari.ShicrWaShucara</code>
+
+<ul>
+<li><em>TAGS: CENT0300, _ADAB, _ADAB, _BALAGHA, _SHICR</em></li>
+</ul>
+</li>
+<li>
+<code>0276IbnQutaybaDinawari.TawilMukhtalafHadith</code>
+
+<ul>
+<li><em>TAGS: CENT0300, _HADITH, _MISC, _MUSTALAHAT, _SHARH, _SUNNI</em></li>
+</ul>
+</li>
+<li>
+<code>0276IbnQutaybaDinawari.TawilMushkilQuran</code>
+
+<ul>
+<li><em>TAGS: CENT0300, _CULUM, _QURAN</em></li>
 </ul>
 </li>
 <li>
@@ -989,7 +1136,7 @@
 </ul>
 </li>
 <li>
-<p><strong>0400AH [[ [Re]generated on 2016-08-29 (17:33:46) ]]</strong></p>
+<p><strong>0400AH [[ [Re]generated on 2016-09-10 (15:52:04) ]]</strong></p>
 
 <ul>
 <li>
@@ -1147,6 +1294,27 @@
 </ul>
 </li>
 <li>
+<code>0328IbnCabRabbihi.CiqdFarid</code>
+
+<ul>
+<li><em>TAGS: CENT0400, _ADAB, _ADAB, _BALAGHA, _QISAS, _TARAIF</em></li>
+</ul>
+</li>
+<li>
+<code>0328IbnCabRabbihi.Diwan</code>
+
+<ul>
+<li><em>TAGS: _SHICR_ANDALUSI, _CENT00NO, _SHICR</em></li>
+</ul>
+</li>
+<li>
+<code>0328IbnCabdRabbihi.TabaicNisa</code>
+
+<ul>
+<li><em>TAGS: CENT0400, _ADAB, _ADAB, _BALAGHA, _QISAS, _TARAIF</em></li>
+</ul>
+</li>
+<li>
 <code>0330Sirafi.Rihla</code>
 
 <ul>
@@ -1186,6 +1354,34 @@
 
 <ul>
 <li><em>TAGS: CENT0400, PPE, _AJZA, _HADITH</em></li>
+</ul>
+</li>
+<li>
+<code>0335Suli.AdabKuttab</code>
+
+<ul>
+<li><em>TAGS: CENT0400, _ADAB, _ADAB, _BALAGHA, _CARUD, _KITABA</em></li>
+</ul>
+</li>
+<li>
+<code>0335Suli.AkhbarRadi</code>
+
+<ul>
+<li><em>TAGS: CENT0400, _ADAB, _BALAGHA, _TARAJIM, _TARIKH</em></li>
+</ul>
+</li>
+<li>
+<code>0335Suli.AshcarAwladKhulafa</code>
+
+<ul>
+<li><em>TAGS: CENT0400, _ADAB, _ADAB, _BALAGHA, _SHICR</em></li>
+</ul>
+</li>
+<li>
+<code>0335Suli.JuzMinAhadith</code>
+
+<ul>
+<li><em>TAGS: CENT0400, _AJZA, _HADITH</em></li>
 </ul>
 </li>
 <li>
@@ -1298,6 +1494,13 @@
 
 <ul>
 <li><em>TAGS: BIO, CENT0400, COL, PPE, _BULDAN, _TABAQAT, _TARAJIM, _TARIKH</em></li>
+</ul>
+</li>
+<li>
+<code>0355Suli.AkhbarAbiTamam</code>
+
+<ul>
+<li><em>TAGS: CENT0400, _ADAB, _BALAGHA, _TARAJIM, _TARIKH</em></li>
 </ul>
 </li>
 <li>
@@ -1569,7 +1772,7 @@
 </ul>
 </li>
 <li>
-<p><strong>0500AH [[ [Re]generated on 2016-08-29 (17:33:46) ]]</strong></p>
+<p><strong>0500AH [[ [Re]generated on 2016-09-10 (15:52:04) ]]</strong></p>
 
 <ul>
 <li>
@@ -1954,7 +2157,7 @@
 <code>0487AbuCubaydBakri.MucjamMaIstacjama</code>
 
 <ul>
-<li><em>TAGS: CENT0500, _BULDAN, _FAHARIS, _GHARIB, _JUGHRAFIYA, _LUGHA, _MACAJIM, _MUSTALAHAT, _NAHW, _RIHLAT, _SARH</em></li>
+<li><em>TAGS: CENT0500, _BULDAN, _FAHARIS, _GHARIB, _JUGHRAFIYA, _LUGHA, _MACAJIM, _MUSTALAHAT, _NAHW, _RIHLAT, _SARF</em></li>
 </ul>
 </li>
 <li>
@@ -1981,7 +2184,7 @@
 </ul>
 </li>
 <li>
-<p><strong>0600AH [[ [Re]generated on 2016-08-29 (17:33:46) ]]</strong></p>
+<p><strong>0600AH [[ [Re]generated on 2016-09-10 (15:52:04) ]]</strong></p>
 
 <ul>
 <li>
@@ -2073,6 +2276,13 @@
 
 <ul>
 <li><em>TAGS: CENT0600, GEO, PPE, _BULDAN, _JUGHRAFIYA, _RIHLAT</em></li>
+</ul>
+</li>
+<li>
+<code>0540AbuMansurJawaliqi.SharhAdabKatib</code>
+
+<ul>
+<li><em>TAGS: CENT0600, _ADAB, _ADAB, _BALAGHA, _CARUD, _KITABA</em></li>
 </ul>
 </li>
 <li>
@@ -2386,7 +2596,7 @@
 </ul>
 </li>
 <li>
-<p><strong>0700AH [[ [Re]generated on 2016-08-29 (17:33:46) ]]</strong></p>
+<p><strong>0700AH [[ [Re]generated on 2016-09-10 (15:52:04) ]]</strong></p>
 
 <ul>
 <li>
@@ -2826,7 +3036,7 @@
 </ul>
 </li>
 <li>
-<p><strong>0800AH [[ [Re]generated on 2016-08-29 (17:33:46) ]]</strong></p>
+<p><strong>0800AH [[ [Re]generated on 2016-09-10 (15:52:04) ]]</strong></p>
 
 <ul>
 <li>
@@ -3371,7 +3581,7 @@
 </ul>
 </li>
 <li>
-<p><strong>0900AH [[ [Re]generated on 2016-08-29 (17:33:46) ]]</strong></p>
+<p><strong>0900AH [[ [Re]generated on 2016-09-10 (15:52:04) ]]</strong></p>
 
 <ul>
 <li>
@@ -3811,7 +4021,7 @@
 </ul>
 </li>
 <li>
-<p><strong>1000AH [[ [Re]generated on 2016-08-29 (17:33:46) ]]</strong></p>
+<p><strong>1000AH [[ [Re]generated on 2016-09-10 (15:52:04) ]]</strong></p>
 
 <ul>
 <li>
@@ -4069,7 +4279,7 @@
 </ul>
 </li>
 <li>
-<p><strong>1100AH [[ [Re]generated on 2016-08-29 (17:33:46) ]]</strong></p>
+<p><strong>1100AH [[ [Re]generated on 2016-09-10 (15:52:04) ]]</strong></p>
 
 <ul>
 <li>
@@ -4201,7 +4411,7 @@
 </ul>
 </li>
 <li>
-<p><strong>1200AH [[ [Re]generated on 2016-08-29 (17:33:46) ]]</strong></p>
+<p><strong>1200AH [[ [Re]generated on 2016-09-10 (15:52:04) ]]</strong></p>
 
 <ul>
 <li>
@@ -4305,7 +4515,7 @@
 </ul>
 </li>
 <li>
-<p><strong>1300AH [[ [Re]generated on 2016-08-29 (17:33:46) ]]</strong></p>
+<p><strong>1300AH [[ [Re]generated on 2016-09-10 (15:52:04) ]]</strong></p>
 
 <ul>
 <li>
@@ -4402,7 +4612,7 @@
 </ul>
 </li>
 <li>
-<p><strong>1400AH [[ [Re]generated on 2016-08-29 (17:33:46) ]]</strong></p>
+<p><strong>1400AH [[ [Re]generated on 2016-09-10 (15:52:04) ]]</strong></p>
 
 <ul>
 <li>
@@ -4695,7 +4905,7 @@
 </ul>
 </li>
 <li>
-<p><strong>1500AH [[ [Re]generated on 2016-08-29 (17:33:46) ]]</strong></p>
+<p><strong>1500AH [[ [Re]generated on 2016-09-10 (15:52:04) ]]</strong></p>
 
 <ul>
 <li>
@@ -4909,19 +5119,19 @@
 </tr>
 <tr>
 <td align="left">Length in words (all)</td>
-<td align="right">379,355,486</td>
+<td align="right">379,338,145</td>
 </tr>
 <tr>
 <td align="left">Length in pages (300 w/p)</td>
-<td align="right">1,264,518</td>
+<td align="right">1,264,460</td>
 </tr>
 <tr>
 <td align="left">Length in words (unique)</td>
-<td align="right">174,379,056</td>
+<td align="right">174,377,239</td>
 </tr>
 <tr>
 <td align="left">Length in pages (300 w/p)</td>
-<td align="right">581,263</td>
+<td align="right">581,257</td>
 </tr>
 </tbody>
 </table>
@@ -5083,8 +5293,8 @@
 <tr>
 <td align="right">17</td>
 <td align="left">0764Safadi.WafiBiWafayat</td>
-<td align="right">1,980,068</td>
-<td align="right">6,600</td>
+<td align="right">1,978,264</td>
+<td align="right">6,594</td>
 </tr>
 <tr>
 <td align="right">18</td>
@@ -5299,7 +5509,7 @@
 <tr>
 <td align="right">53</td>
 <td align="left">0421Miskawayh.Tajarib</td>
-<td align="right">679,990</td>
+<td align="right">679,989</td>
 <td align="right">2,266</td>
 </tr>
 <tr>
@@ -6229,7 +6439,7 @@
 <tr>
 <td align="right">208</td>
 <td align="left">0365IbnFaqihHamadhani.Buldan</td>
-<td align="right">147,644</td>
+<td align="right">147,632</td>
 <td align="right">492</td>
 </tr>
 <tr>
@@ -9386,7 +9596,7 @@
 </tr>
 <tr>
 <td align="left">0365IbnFaqihHamadhani.Buldan</td>
-<td align="right">147,644</td>
+<td align="right">147,632</td>
 <td align="right">492</td>
 </tr>
 <tr>
@@ -9606,7 +9816,7 @@
 </tr>
 <tr>
 <td align="left">0421Miskawayh.Tajarib</td>
-<td align="right">679,990</td>
+<td align="right">679,989</td>
 <td align="right">2,266</td>
 </tr>
 <tr>
@@ -10711,8 +10921,8 @@
 </tr>
 <tr>
 <td align="left">0764Safadi.WafiBiWafayat</td>
-<td align="right">1,980,068</td>
-<td align="right">6,600</td>
+<td align="right">1,978,264</td>
+<td align="right">6,594</td>
 </tr>
 <tr>
 <td align="left">0765AbuMahasinHusayni.DhaylTadhkira</td>
@@ -11878,10 +12088,33 @@
 </table>
 
 <h2>
-<a id="themes-and-genres-report" class="anchor" href="#themes-and-genres-report" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Themes and Genres Report</h2>
+<a id="chronological-distribution-of-texts---up-until-1930-5467-texts-726946794-words" class="anchor" href="#chronological-distribution-of-texts---up-until-1930-5467-texts-726946794-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Chronological Distribution of Texts - up until 1930 (5,467 texts, 726,946,794 words)</h2>
+
+<ul>
+<li><del>6th century CE: 0 titles, 0 words</del></li>
+<li><strong>7th century CE: 29 titles, 656,855 words</strong></li>
+<li><strong>8th century CE: 84 titles, 6,126,423 words</strong></li>
+<li><strong>9th century CE: 506 titles, 31,731,358 words</strong></li>
+<li><strong>10th century CE: 674 titles, 60,026,199 words</strong></li>
+<li><strong>11th century CE: 688 titles, 71,114,785 words</strong></li>
+<li><strong>12th century CE: 461 titles, 53,112,691 words</strong></li>
+<li><strong>13th century CE: 447 titles, 59,578,221 words</strong></li>
+<li><strong>14th century CE: 578 titles, 96,792,091 words</strong></li>
+<li><strong>15th century CE: 328 titles, 72,980,538 words</strong></li>
+<li><strong>16th century CE: 251 titles, 59,867,783 words</strong></li>
+<li><strong>17th century CE: 160 titles, 53,548,425 words</strong></li>
+<li><strong>18th century CE: 151 titles, 33,836,230 words</strong></li>
+<li><strong>19th century CE: 200 titles, 59,558,191 words</strong></li>
+<li><strong>20th century CE: 129 titles, 16,837,153 words</strong></li>
+<li><del>21st century CE: 0 titles, 0 words</del></li>
+<li><strong>TOTAL: 5,467 titles, 726,946,794 words</strong></li>
+</ul>
+
+<h2>
+<a id="forms-themes-genres-provisional-assessment" class="anchor" href="#forms-themes-genres-provisional-assessment" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Forms, Themes, Genres (provisional assessment)</h2>
 
 <h3>
-<a id="adab-608-texts-50829080-words" class="anchor" href="#adab-608-texts-50829080-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>ADAB</em> (608 texts, 50,829,080 words)</h3>
+<a id="adab-595-texts-49369652-words" class="anchor" href="#adab-595-texts-49369652-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>ADAB</em> (595 texts, 49,369,652 words)</h3>
 
 <ul>
 <li><del>6th century CE: 0 titles, 0 words</del></li>
@@ -11900,11 +12133,11 @@
 <li><strong>19th century CE: 14 titles, 705,377 words</strong></li>
 <li><strong>20th century CE: 13 titles, 1,173,560 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 608 titles, 50,829,080 words</strong></li>
+<li><strong>TOTAL: 595 titles, 49,369,652 words</strong></li>
 </ul>
 
 <h3>
-<a id="adhkar-219-texts-11924910-words" class="anchor" href="#adhkar-219-texts-11924910-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>ADHKAR</em> (219 texts, 11,924,910 words)</h3>
+<a id="adhkar-209-texts-10829997-words" class="anchor" href="#adhkar-209-texts-10829997-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>ADHKAR</em> (209 texts, 10,829,997 words)</h3>
 
 <ul>
 <li><del>6th century CE: 0 titles, 0 words</del></li>
@@ -11923,11 +12156,11 @@
 <li><strong>19th century CE: 4 titles, 234,025 words</strong></li>
 <li><strong>20th century CE: 2 titles, 112,685 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 219 titles, 11,924,910 words</strong></li>
+<li><strong>TOTAL: 209 titles, 10,829,997 words</strong></li>
 </ul>
 
 <h3>
-<a id="adilla-38-texts-2636056-words" class="anchor" href="#adilla-38-texts-2636056-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>ADILLA</em> (38 texts, 2,636,056 words)</h3>
+<a id="adilla-37-texts-2626920-words" class="anchor" href="#adilla-37-texts-2626920-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>ADILLA</em> (37 texts, 2,626,920 words)</h3>
 
 <ul>
 <li><del>6th century CE: 0 titles, 0 words</del></li>
@@ -11946,7 +12179,7 @@
 <li><strong>19th century CE: 5 titles, 516,437 words</strong></li>
 <li><strong>20th century CE: 2 titles, 318,891 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 38 titles, 2,636,056 words</strong></li>
+<li><strong>TOTAL: 37 titles, 2,626,920 words</strong></li>
 </ul>
 
 <h3>
@@ -11969,7 +12202,7 @@
 <li><strong>19th century CE: 1 titles, 1,475,250 words</strong></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 37 titles, 14,448,347 words</strong></li>
+<li><strong>TOTAL: 37 titles, 14,448,347 words</strong></li>
 </ul>
 
 <h3>
@@ -11992,7 +12225,7 @@
 <li><del>19th century CE: 0 titles, 0 words</del></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 9 titles, 931,763 words</strong></li>
+<li><strong>TOTAL: 9 titles, 931,763 words</strong></li>
 </ul>
 
 <h3>
@@ -12015,7 +12248,7 @@
 <li><strong>19th century CE: 1 titles, 5,943 words</strong></li>
 <li><strong>20th century CE: 1 titles, 5,888 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 666 titles, 8,995,458 words</strong></li>
+<li><strong>TOTAL: 666 titles, 8,995,458 words</strong></li>
 </ul>
 
 <h3>
@@ -12038,7 +12271,7 @@
 <li><strong>19th century CE: 5 titles, 299,708 words</strong></li>
 <li><strong>20th century CE: 1 titles, 109,344 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 204 titles, 12,178,946 words</strong></li>
+<li><strong>TOTAL: 204 titles, 12,178,946 words</strong></li>
 </ul>
 
 <h3>
@@ -12061,7 +12294,7 @@
 <li><strong>19th century CE: 1 titles, 20,581 words</strong></li>
 <li><strong>20th century CE: 2 titles, 13,303 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 19 titles, 1,377,404 words</strong></li>
+<li><strong>TOTAL: 19 titles, 1,377,404 words</strong></li>
 </ul>
 
 <h3>
@@ -12084,7 +12317,7 @@
 <li><del>19th century CE: 0 titles, 0 words</del></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 12 titles, 159,787 words</strong></li>
+<li><strong>TOTAL: 12 titles, 159,787 words</strong></li>
 </ul>
 
 <h3>
@@ -12107,7 +12340,7 @@
 <li><del>19th century CE: 0 titles, 0 words</del></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 15 titles, 1,298,264 words</strong></li>
+<li><strong>TOTAL: 15 titles, 1,298,264 words</strong></li>
 </ul>
 
 <h3>
@@ -12130,7 +12363,7 @@
 <li><strong>19th century CE: 1 titles, 9,883 words</strong></li>
 <li><strong>20th century CE: 1 titles, 10,017 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 36 titles, 5,718,637 words</strong></li>
+<li><strong>TOTAL: 36 titles, 5,718,637 words</strong></li>
 </ul>
 
 <h3>
@@ -12153,11 +12386,11 @@
 <li><del>19th century CE: 0 titles, 0 words</del></li>
 <li><strong>20th century CE: 1 titles, 67,936 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 61 titles, 10,958,798 words</strong></li>
+<li><strong>TOTAL: 61 titles, 10,958,798 words</strong></li>
 </ul>
 
 <h3>
-<a id="balagha-357-texts-33394022-words" class="anchor" href="#balagha-357-texts-33394022-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>BALAGHA</em> (357 texts, 33,394,022 words)</h3>
+<a id="balagha-354-texts-33029507-words" class="anchor" href="#balagha-354-texts-33029507-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>BALAGHA</em> (354 texts, 33,029,507 words)</h3>
 
 <ul>
 <li><del>6th century CE: 0 titles, 0 words</del></li>
@@ -12176,7 +12409,7 @@
 <li><strong>19th century CE: 10 titles, 471,352 words</strong></li>
 <li><strong>20th century CE: 11 titles, 1,060,875 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 357 titles, 33,394,022 words</strong></li>
+<li><strong>TOTAL: 354 titles, 33,029,507 words</strong></li>
 </ul>
 
 <h3>
@@ -12199,7 +12432,7 @@
 <li><strong>19th century CE: 3 titles, 197,207 words</strong></li>
 <li><strong>20th century CE: 2 titles, 351,030 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 12 titles, 1,399,550 words</strong></li>
+<li><strong>TOTAL: 12 titles, 1,399,550 words</strong></li>
 </ul>
 
 <h3>
@@ -12222,11 +12455,11 @@
 <li><del>19th century CE: 0 titles, 0 words</del></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 79 titles, 40,769,399 words</strong></li>
+<li><strong>TOTAL: 79 titles, 40,769,399 words</strong></li>
 </ul>
 
 <h3>
-<a id="buhuth-183-texts-4789334-words" class="anchor" href="#buhuth-183-texts-4789334-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>BUHUTH</em> (183 texts, 4,789,334 words)</h3>
+<a id="buhuth-175-texts-4638412-words" class="anchor" href="#buhuth-175-texts-4638412-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>BUHUTH</em> (175 texts, 4,638,412 words)</h3>
 
 <ul>
 <li><del>6th century CE: 0 titles, 0 words</del></li>
@@ -12245,11 +12478,11 @@
 <li><strong>19th century CE: 3 titles, 176,161 words</strong></li>
 <li><strong>20th century CE: 1 titles, 62,571 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 183 titles, 4,789,334 words</strong></li>
+<li><strong>TOTAL: 175 titles, 4,638,412 words</strong></li>
 </ul>
 
 <h3>
-<a id="buldan-152-texts-32712979-words" class="anchor" href="#buldan-152-texts-32712979-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>BULDAN</em> (152 texts, 32,712,979 words)</h3>
+<a id="buldan-151-texts-32709465-words" class="anchor" href="#buldan-151-texts-32709465-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>BULDAN</em> (151 texts, 32,709,465 words)</h3>
 
 <ul>
 <li><del>6th century CE: 0 titles, 0 words</del></li>
@@ -12268,11 +12501,11 @@
 <li><strong>19th century CE: 2 titles, 575,071 words</strong></li>
 <li><strong>20th century CE: 4 titles, 338,413 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 152 titles, 32,712,979 words</strong></li>
+<li><strong>TOTAL: 151 titles, 32,709,465 words</strong></li>
 </ul>
 
 <h3>
-<a id="caqaid-519-texts-28190335-words" class="anchor" href="#caqaid-519-texts-28190335-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>CAQAID</em> (519 texts, 28,190,335 words)</h3>
+<a id="caqaid-513-texts-27980760-words" class="anchor" href="#caqaid-513-texts-27980760-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>CAQAID</em> (513 texts, 27,980,760 words)</h3>
 
 <ul>
 <li><del>6th century CE: 0 titles, 0 words</del></li>
@@ -12291,7 +12524,7 @@
 <li><strong>19th century CE: 48 titles, 2,158,295 words</strong></li>
 <li><strong>20th century CE: 30 titles, 2,315,656 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 519 titles, 28,190,335 words</strong></li>
+<li><strong>TOTAL: 513 titles, 27,980,760 words</strong></li>
 </ul>
 
 <h3>
@@ -12314,7 +12547,7 @@
 <li><del>19th century CE: 0 titles, 0 words</del></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 9 titles, 1,958,412 words</strong></li>
+<li><strong>TOTAL: 9 titles, 1,958,412 words</strong></li>
 </ul>
 
 <h3>
@@ -12337,11 +12570,11 @@
 <li><del>19th century CE: 0 titles, 0 words</del></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 13 titles, 13,844,874 words</strong></li>
+<li><strong>TOTAL: 13 titles, 13,844,874 words</strong></li>
 </ul>
 
 <h3>
-<a id="cilal-71-texts-6584897-words" class="anchor" href="#cilal-71-texts-6584897-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>CILAL</em> (71 texts, 6,584,897 words)</h3>
+<a id="cilal-69-texts-6380949-words" class="anchor" href="#cilal-69-texts-6380949-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>CILAL</em> (69 texts, 6,380,949 words)</h3>
 
 <ul>
 <li><del>6th century CE: 0 titles, 0 words</del></li>
@@ -12360,7 +12593,7 @@
 <li><strong>19th century CE: 3 titles, 57,089 words</strong></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 71 titles, 6,584,897 words</strong></li>
+<li><strong>TOTAL: 69 titles, 6,380,949 words</strong></li>
 </ul>
 
 <h3>
@@ -12383,7 +12616,7 @@
 <li><del>19th century CE: 0 titles, 0 words</del></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 7 titles, 3,487,980 words</strong></li>
+<li><strong>TOTAL: 7 titles, 3,487,980 words</strong></li>
 </ul>
 
 <h3>
@@ -12406,11 +12639,11 @@
 <li><del>19th century CE: 0 titles, 0 words</del></li>
 <li><strong>20th century CE: 1 titles, 280,232 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 78 titles, 45,261,680 words</strong></li>
+<li><strong>TOTAL: 78 titles, 45,261,680 words</strong></li>
 </ul>
 
 <h3>
-<a id="culum-427-texts-64867950-words" class="anchor" href="#culum-427-texts-64867950-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>CULUM</em> (427 texts, 64,867,950 words)</h3>
+<a id="culum-414-texts-64564759-words" class="anchor" href="#culum-414-texts-64564759-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>CULUM</em> (414 texts, 64,564,759 words)</h3>
 
 <ul>
 <li><del>6th century CE: 0 titles, 0 words</del></li>
@@ -12429,7 +12662,7 @@
 <li><strong>19th century CE: 4 titles, 5,107,008 words</strong></li>
 <li><strong>20th century CE: 6 titles, 486,830 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 427 titles, 64,867,950 words</strong></li>
+<li><strong>TOTAL: 414 titles, 64,564,759 words</strong></li>
 </ul>
 
 <h3>
@@ -12452,11 +12685,11 @@
 <li><strong>19th century CE: 5 titles, 168,257 words</strong></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 44 titles, 4,118,004 words</strong></li>
+<li><strong>TOTAL: 44 titles, 4,118,004 words</strong></li>
 </ul>
 
 <h3>
-<a id="dacwa-86-texts-2317706-words" class="anchor" href="#dacwa-86-texts-2317706-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>DACWA</em> (86 texts, 2,317,706 words)</h3>
+<a id="dacwa-81-texts-2288511-words" class="anchor" href="#dacwa-81-texts-2288511-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>DACWA</em> (81 texts, 2,288,511 words)</h3>
 
 <ul>
 <li><del>6th century CE: 0 titles, 0 words</del></li>
@@ -12475,7 +12708,7 @@
 <li><del>19th century CE: 0 titles, 0 words</del></li>
 <li><strong>20th century CE: 1 titles, 28,757 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 86 titles, 2,317,706 words</strong></li>
+<li><strong>TOTAL: 81 titles, 2,288,511 words</strong></li>
 </ul>
 
 <h3>
@@ -12498,11 +12731,11 @@
 <li><del>19th century CE: 0 titles, 0 words</del></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 3 titles, 16,177 words</strong></li>
+<li><strong>TOTAL: 3 titles, 16,177 words</strong></li>
 </ul>
 
 <h3>
-<a id="faharis-54-texts-8211931-words" class="anchor" href="#faharis-54-texts-8211931-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>FAHARIS</em> (54 texts, 8,211,931 words)</h3>
+<a id="faharis-53-texts-8202795-words" class="anchor" href="#faharis-53-texts-8202795-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>FAHARIS</em> (53 texts, 8,202,795 words)</h3>
 
 <ul>
 <li><del>6th century CE: 0 titles, 0 words</del></li>
@@ -12521,7 +12754,7 @@
 <li><strong>19th century CE: 6 titles, 638,087 words</strong></li>
 <li><strong>20th century CE: 3 titles, 389,689 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 54 titles, 8,211,931 words</strong></li>
+<li><strong>TOTAL: 53 titles, 8,202,795 words</strong></li>
 </ul>
 
 <h3>
@@ -12544,7 +12777,7 @@
 <li><del>19th century CE: 0 titles, 0 words</del></li>
 <li><strong>20th century CE: 1 titles, 10,386 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 93 titles, 4,909,218 words</strong></li>
+<li><strong>TOTAL: 93 titles, 4,909,218 words</strong></li>
 </ul>
 
 <h3>
@@ -12567,7 +12800,7 @@
 <li><strong>19th century CE: 1 titles, 5,529 words</strong></li>
 <li><strong>20th century CE: 1 titles, 106,644 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 8 titles, 460,423 words</strong></li>
+<li><strong>TOTAL: 8 titles, 460,423 words</strong></li>
 </ul>
 
 <h3>
@@ -12590,7 +12823,7 @@
 <li><del>19th century CE: 0 titles, 0 words</del></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 39 titles, 4,652,773 words</strong></li>
+<li><strong>TOTAL: 39 titles, 4,652,773 words</strong></li>
 </ul>
 
 <h3>
@@ -12613,7 +12846,7 @@
 <li><strong>19th century CE: 14 titles, 2,154,716 words</strong></li>
 <li><strong>20th century CE: 1 titles, 147,609 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 31 titles, 6,771,578 words</strong></li>
+<li><strong>TOTAL: 31 titles, 6,771,578 words</strong></li>
 </ul>
 
 <h3>
@@ -12636,11 +12869,11 @@
 <li><del>19th century CE: 0 titles, 0 words</del></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 14 titles, 203,216 words</strong></li>
+<li><strong>TOTAL: 14 titles, 203,216 words</strong></li>
 </ul>
 
 <h3>
-<a id="fiqh-776-texts-255621672-words" class="anchor" href="#fiqh-776-texts-255621672-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>FIQH</em> (776 texts, 255,621,672 words)</h3>
+<a id="fiqh-772-texts-255496356-words" class="anchor" href="#fiqh-772-texts-255496356-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>FIQH</em> (772 texts, 255,496,356 words)</h3>
 
 <ul>
 <li><del>6th century CE: 0 titles, 0 words</del></li>
@@ -12653,13 +12886,13 @@
 <li><strong>13th century CE: 65 titles, 20,924,847 words</strong></li>
 <li><strong>14th century CE: 101 titles, 35,792,813 words</strong></li>
 <li><strong>15th century CE: 47 titles, 25,348,530 words</strong></li>
-<li><strong>16th century CE: 70 titles, 27,005,289 words</strong></li>
+<li><strong>16th century CE: 71 titles, 31,190,143 words</strong></li>
 <li><strong>17th century CE: 34 titles, 9,589,355 words</strong></li>
 <li><strong>18th century CE: 41 titles, 22,371,227 words</strong></li>
 <li><strong>19th century CE: 65 titles, 35,370,893 words</strong></li>
 <li><strong>20th century CE: 27 titles, 4,773,862 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 776 titles, 255,621,672 words</strong></li>
+<li><strong>TOTAL: 772 titles, 255,496,356 words</strong></li>
 </ul>
 
 <h3>
@@ -12682,7 +12915,7 @@
 <li><strong>19th century CE: 1 titles, 8,499 words</strong></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 19 titles, 2,093,490 words</strong></li>
+<li><strong>TOTAL: 19 titles, 2,093,490 words</strong></li>
 </ul>
 
 <h3>
@@ -12705,7 +12938,7 @@
 <li><del>19th century CE: 0 titles, 0 words</del></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 12 titles, 1,732,134 words</strong></li>
+<li><strong>TOTAL: 12 titles, 1,732,134 words</strong></li>
 </ul>
 
 <h3>
@@ -12728,11 +12961,11 @@
 <li><del>19th century CE: 0 titles, 0 words</del></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 32 titles, 3,354,197 words</strong></li>
+<li><strong>TOTAL: 32 titles, 3,354,197 words</strong></li>
 </ul>
 
 <h3>
-<a id="gharib-126-texts-28196667-words" class="anchor" href="#gharib-126-texts-28196667-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>GHARIB</em> (126 texts, 28,196,667 words)</h3>
+<a id="gharib-125-texts-28187290-words" class="anchor" href="#gharib-125-texts-28187290-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>GHARIB</em> (125 texts, 28,187,290 words)</h3>
 
 <ul>
 <li><del>6th century CE: 0 titles, 0 words</del></li>
@@ -12751,7 +12984,7 @@
 <li><strong>19th century CE: 3 titles, 975,182 words</strong></li>
 <li><strong>20th century CE: 1 titles, 28,889 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 126 titles, 28,196,667 words</strong></li>
+<li><strong>TOTAL: 125 titles, 28,187,290 words</strong></li>
 </ul>
 
 <h3>
@@ -12774,7 +13007,7 @@
 <li><del>19th century CE: 0 titles, 0 words</del></li>
 <li><strong>20th century CE: 1 titles, 10,386 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 150 titles, 2,385,551 words</strong></li>
+<li><strong>TOTAL: 150 titles, 2,385,551 words</strong></li>
 </ul>
 
 <h3>
@@ -12797,11 +13030,11 @@
 <li><del>19th century CE: 0 titles, 0 words</del></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 3 titles, 1,559,638 words</strong></li>
+<li><strong>TOTAL: 3 titles, 1,559,638 words</strong></li>
 </ul>
 
 <h3>
-<a id="hadith-1999-texts-224854392-words" class="anchor" href="#hadith-1999-texts-224854392-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>HADITH</em> (1,999 texts, 224,854,392 words)</h3>
+<a id="hadith-1988-texts-224585188-words" class="anchor" href="#hadith-1988-texts-224585188-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>HADITH</em> (1,988 texts, 224,585,188 words)</h3>
 
 <ul>
 <li><del>6th century CE: 0 titles, 0 words</del></li>
@@ -12820,7 +13053,7 @@
 <li><strong>19th century CE: 20 titles, 3,422,793 words</strong></li>
 <li><strong>20th century CE: 16 titles, 4,489,353 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 1,999 titles, 224,854,392 words</strong></li>
+<li><strong>TOTAL: 1,988 titles, 224,585,188 words</strong></li>
 </ul>
 
 <h3>
@@ -12843,7 +13076,7 @@
 <li><strong>19th century CE: 5 titles, 4,148,500 words</strong></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 53 titles, 28,270,970 words</strong></li>
+<li><strong>TOTAL: 53 titles, 28,270,970 words</strong></li>
 </ul>
 
 <h3>
@@ -12866,7 +13099,7 @@
 <li><strong>19th century CE: 1 titles, 1,063,300 words</strong></li>
 <li><strong>20th century CE: 1 titles, 112,736 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 52 titles, 19,111,058 words</strong></li>
+<li><strong>TOTAL: 52 titles, 19,111,058 words</strong></li>
 </ul>
 
 <h3>
@@ -12889,7 +13122,7 @@
 <li><del>19th century CE: 0 titles, 0 words</del></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 2 titles, 98,467 words</strong></li>
+<li><strong>TOTAL: 2 titles, 98,467 words</strong></li>
 </ul>
 
 <h3>
@@ -12912,7 +13145,7 @@
 <li><del>19th century CE: 0 titles, 0 words</del></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 59 titles, 808,380 words</strong></li>
+<li><strong>TOTAL: 59 titles, 808,380 words</strong></li>
 </ul>
 
 <h3>
@@ -12935,7 +13168,7 @@
 <li><del>19th century CE: 0 titles, 0 words</del></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 36 titles, 4,224,213 words</strong></li>
+<li><strong>TOTAL: 36 titles, 4,224,213 words</strong></li>
 </ul>
 
 <h3>
@@ -12958,7 +13191,7 @@
 <li><del>19th century CE: 0 titles, 0 words</del></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 75 titles, 9,437,074 words</strong></li>
+<li><strong>TOTAL: 75 titles, 9,437,074 words</strong></li>
 </ul>
 
 <h3>
@@ -12981,7 +13214,7 @@
 <li><del>19th century CE: 0 titles, 0 words</del></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 3 titles, 772,636 words</strong></li>
+<li><strong>TOTAL: 3 titles, 772,636 words</strong></li>
 </ul>
 
 <h3>
@@ -13004,11 +13237,11 @@
 <li><strong>19th century CE: 3 titles, 757,754 words</strong></li>
 <li><strong>20th century CE: 5 titles, 167,372 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 60 titles, 11,323,852 words</strong></li>
+<li><strong>TOTAL: 60 titles, 11,323,852 words</strong></li>
 </ul>
 
 <h3>
-<a id="jughrafiya-69-texts-7959023-words" class="anchor" href="#jughrafiya-69-texts-7959023-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>JUGHRAFIYA</em> (69 texts, 7,959,023 words)</h3>
+<a id="jughrafiya-68-texts-7955509-words" class="anchor" href="#jughrafiya-68-texts-7955509-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>JUGHRAFIYA</em> (68 texts, 7,955,509 words)</h3>
 
 <ul>
 <li><del>6th century CE: 0 titles, 0 words</del></li>
@@ -13027,7 +13260,7 @@
 <li><strong>19th century CE: 1 titles, 112,731 words</strong></li>
 <li><strong>20th century CE: 2 titles, 129,002 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 69 titles, 7,959,023 words</strong></li>
+<li><strong>TOTAL: 68 titles, 7,955,509 words</strong></li>
 </ul>
 
 <h3>
@@ -13050,11 +13283,11 @@
 <li><del>19th century CE: 0 titles, 0 words</del></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 9 titles, 1,958,412 words</strong></li>
+<li><strong>TOTAL: 9 titles, 1,958,412 words</strong></li>
 </ul>
 
 <h3>
-<a id="kutub-45-texts-3153519-words" class="anchor" href="#kutub-45-texts-3153519-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>KUTUB</em> (45 texts, 3,153,519 words)</h3>
+<a id="kutub-44-texts-3144383-words" class="anchor" href="#kutub-44-texts-3144383-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>KUTUB</em> (44 texts, 3,144,383 words)</h3>
 
 <ul>
 <li><del>6th century CE: 0 titles, 0 words</del></li>
@@ -13073,11 +13306,11 @@
 <li><strong>19th century CE: 6 titles, 638,087 words</strong></li>
 <li><strong>20th century CE: 3 titles, 389,689 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 45 titles, 3,153,519 words</strong></li>
+<li><strong>TOTAL: 44 titles, 3,144,383 words</strong></li>
 </ul>
 
 <h3>
-<a id="lugha-69-texts-15148642-words" class="anchor" href="#lugha-69-texts-15148642-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>LUGHA</em> (69 texts, 15,148,642 words)</h3>
+<a id="lugha-68-texts-15104707-words" class="anchor" href="#lugha-68-texts-15104707-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>LUGHA</em> (68 texts, 15,104,707 words)</h3>
 
 <ul>
 <li><del>6th century CE: 0 titles, 0 words</del></li>
@@ -13096,11 +13329,11 @@
 <li><strong>19th century CE: 2 titles, 116,582 words</strong></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 69 titles, 15,148,642 words</strong></li>
+<li><strong>TOTAL: 68 titles, 15,104,707 words</strong></li>
 </ul>
 
 <h3>
-<a id="macajim-173-texts-38507742-words" class="anchor" href="#macajim-173-texts-38507742-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>MACAJIM</em> (173 texts, 38,507,742 words)</h3>
+<a id="macajim-172-texts-38498365-words" class="anchor" href="#macajim-172-texts-38498365-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>MACAJIM</em> (172 texts, 38,498,365 words)</h3>
 
 <ul>
 <li><del>6th century CE: 0 titles, 0 words</del></li>
@@ -13119,7 +13352,7 @@
 <li><strong>19th century CE: 4 titles, 1,247,001 words</strong></li>
 <li><strong>20th century CE: 1 titles, 28,889 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 173 titles, 38,507,742 words</strong></li>
+<li><strong>TOTAL: 172 titles, 38,498,365 words</strong></li>
 </ul>
 
 <h3>
@@ -13142,7 +13375,7 @@
 <li><del>19th century CE: 0 titles, 0 words</del></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 12 titles, 159,787 words</strong></li>
+<li><strong>TOTAL: 12 titles, 159,787 words</strong></li>
 </ul>
 
 <h3>
@@ -13165,7 +13398,7 @@
 <li><strong>19th century CE: 3 titles, 1,093,849 words</strong></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 6 titles, 9,765,526 words</strong></li>
+<li><strong>TOTAL: 6 titles, 9,765,526 words</strong></li>
 </ul>
 
 <h3>
@@ -13188,7 +13421,7 @@
 <li><strong>19th century CE: 3 titles, 1,093,849 words</strong></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 44 titles, 18,468,777 words</strong></li>
+<li><strong>TOTAL: 44 titles, 18,468,777 words</strong></li>
 </ul>
 
 <h3>
@@ -13211,11 +13444,11 @@
 <li><del>19th century CE: 0 titles, 0 words</del></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 300 titles, 1,975,198 words</strong></li>
+<li><strong>TOTAL: 300 titles, 1,975,198 words</strong></li>
 </ul>
 
 <h3>
-<a id="maliki-44-texts-24962848-words" class="anchor" href="#maliki-44-texts-24962848-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>MALIKI</em> (44 texts, 24,962,848 words)</h3>
+<a id="maliki-43-texts-24866518-words" class="anchor" href="#maliki-43-texts-24866518-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>MALIKI</em> (43 texts, 24,866,518 words)</h3>
 
 <ul>
 <li><del>6th century CE: 0 titles, 0 words</del></li>
@@ -13234,7 +13467,7 @@
 <li><strong>19th century CE: 5 titles, 4,911,364 words</strong></li>
 <li><strong>20th century CE: 1 titles, 177,397 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 44 titles, 24,962,848 words</strong></li>
+<li><strong>TOTAL: 43 titles, 24,866,518 words</strong></li>
 </ul>
 
 <h3>
@@ -13257,7 +13490,7 @@
 <li><del>19th century CE: 0 titles, 0 words</del></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 8 titles, 213,315 words</strong></li>
+<li><strong>TOTAL: 8 titles, 213,315 words</strong></li>
 </ul>
 
 <h3>
@@ -13280,11 +13513,11 @@
 <li><del>19th century CE: 0 titles, 0 words</del></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 7 titles, 3,487,980 words</strong></li>
+<li><strong>TOTAL: 7 titles, 3,487,980 words</strong></li>
 </ul>
 
 <h3>
-<a id="masail-285-texts-9044295-words" class="anchor" href="#masail-285-texts-9044295-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>MASAIL</em> (285 texts, 9,044,295 words)</h3>
+<a id="masail-277-texts-8893373-words" class="anchor" href="#masail-277-texts-8893373-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>MASAIL</em> (277 texts, 8,893,373 words)</h3>
 
 <ul>
 <li><del>6th century CE: 0 titles, 0 words</del></li>
@@ -13303,7 +13536,7 @@
 <li><strong>19th century CE: 5 titles, 222,208 words</strong></li>
 <li><strong>20th century CE: 4 titles, 105,937 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 285 titles, 9,044,295 words</strong></li>
+<li><strong>TOTAL: 277 titles, 8,893,373 words</strong></li>
 </ul>
 
 <h3>
@@ -13326,7 +13559,7 @@
 <li><del>19th century CE: 0 titles, 0 words</del></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 39 titles, 8,094,316 words</strong></li>
+<li><strong>TOTAL: 39 titles, 8,094,316 words</strong></li>
 </ul>
 
 <h3>
@@ -13349,7 +13582,7 @@
 <li><strong>19th century CE: 5 titles, 168,257 words</strong></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 44 titles, 4,118,004 words</strong></li>
+<li><strong>TOTAL: 44 titles, 4,118,004 words</strong></li>
 </ul>
 
 <h3>
@@ -13372,11 +13605,11 @@
 <li><strong>19th century CE: 12 titles, 336,647 words</strong></li>
 <li><strong>20th century CE: 5 titles, 309,736 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 230 titles, 12,713,631 words</strong></li>
+<li><strong>TOTAL: 230 titles, 12,713,631 words</strong></li>
 </ul>
 
 <h3>
-<a id="misc-321-texts-26457643-words" class="anchor" href="#misc-321-texts-26457643-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>MISC</em> (321 texts, 26,457,643 words)</h3>
+<a id="misc-320-texts-26285719-words" class="anchor" href="#misc-320-texts-26285719-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>MISC</em> (320 texts, 26,285,719 words)</h3>
 
 <ul>
 <li><del>6th century CE: 0 titles, 0 words</del></li>
@@ -13395,7 +13628,7 @@
 <li><strong>19th century CE: 10 titles, 352,892 words</strong></li>
 <li><strong>20th century CE: 7 titles, 631,542 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 321 titles, 26,457,643 words</strong></li>
+<li><strong>TOTAL: 320 titles, 26,285,719 words</strong></li>
 </ul>
 
 <h3>
@@ -13418,7 +13651,7 @@
 <li><del>19th century CE: 0 titles, 0 words</del></li>
 <li><strong>20th century CE: 1 titles, 21,388 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 11 titles, 955,128 words</strong></li>
+<li><strong>TOTAL: 11 titles, 955,128 words</strong></li>
 </ul>
 
 <h3>
@@ -13441,7 +13674,7 @@
 <li><del>19th century CE: 0 titles, 0 words</del></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 3 titles, 146,094 words</strong></li>
+<li><strong>TOTAL: 3 titles, 146,094 words</strong></li>
 </ul>
 
 <h3>
@@ -13464,7 +13697,7 @@
 <li><del>19th century CE: 0 titles, 0 words</del></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 8 titles, 75,727 words</strong></li>
+<li><strong>TOTAL: 8 titles, 75,727 words</strong></li>
 </ul>
 
 <h3>
@@ -13487,11 +13720,11 @@
 <li><del>19th century CE: 0 titles, 0 words</del></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 10 titles, 1,966,407 words</strong></li>
+<li><strong>TOTAL: 10 titles, 1,966,407 words</strong></li>
 </ul>
 
 <h3>
-<a id="mustalahat-224-texts-31919937-words" class="anchor" href="#mustalahat-224-texts-31919937-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>MUSTALAHAT</em> (224 texts, 31,919,937 words)</h3>
+<a id="mustalahat-223-texts-31910560-words" class="anchor" href="#mustalahat-223-texts-31910560-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>MUSTALAHAT</em> (223 texts, 31,910,560 words)</h3>
 
 <ul>
 <li><del>6th century CE: 0 titles, 0 words</del></li>
@@ -13510,7 +13743,7 @@
 <li><strong>19th century CE: 6 titles, 1,295,648 words</strong></li>
 <li><strong>20th century CE: 4 titles, 391,942 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 224 titles, 31,919,937 words</strong></li>
+<li><strong>TOTAL: 223 titles, 31,910,560 words</strong></li>
 </ul>
 
 <h3>
@@ -13533,7 +13766,7 @@
 <li><strong>19th century CE: 2 titles, 1,188,306 words</strong></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 6 titles, 2,465,091 words</strong></li>
+<li><strong>TOTAL: 6 titles, 2,465,091 words</strong></li>
 </ul>
 
 <h3>
@@ -13556,11 +13789,11 @@
 <li><strong>19th century CE: 3 titles, 757,754 words</strong></li>
 <li><strong>20th century CE: 5 titles, 167,372 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 60 titles, 11,323,852 words</strong></li>
+<li><strong>TOTAL: 60 titles, 11,323,852 words</strong></li>
 </ul>
 
 <h3>
-<a id="nahw-143-texts-19242451-words" class="anchor" href="#nahw-143-texts-19242451-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>NAHW</em> (143 texts, 19,242,451 words)</h3>
+<a id="nahw-141-texts-19160223-words" class="anchor" href="#nahw-141-texts-19160223-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>NAHW</em> (141 texts, 19,160,223 words)</h3>
 
 <ul>
 <li><del>6th century CE: 0 titles, 0 words</del></li>
@@ -13579,7 +13812,7 @@
 <li><strong>19th century CE: 2 titles, 25,295 words</strong></li>
 <li><strong>20th century CE: 1 titles, 11,064 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 143 titles, 19,242,451 words</strong></li>
+<li><strong>TOTAL: 141 titles, 19,160,223 words</strong></li>
 </ul>
 
 <h3>
@@ -13602,7 +13835,7 @@
 <li><del>19th century CE: 0 titles, 0 words</del></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 8 titles, 213,315 words</strong></li>
+<li><strong>TOTAL: 8 titles, 213,315 words</strong></li>
 </ul>
 
 <h3>
@@ -13625,7 +13858,7 @@
 <li><del>19th century CE: 0 titles, 0 words</del></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 3 titles, 89,252 words</strong></li>
+<li><strong>TOTAL: 3 titles, 89,252 words</strong></li>
 </ul>
 
 <h3>
@@ -13648,7 +13881,7 @@
 <li><del>19th century CE: 0 titles, 0 words</del></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 4 titles, 1,237,148 words</strong></li>
+<li><strong>TOTAL: 4 titles, 1,237,148 words</strong></li>
 </ul>
 
 <h3>
@@ -13671,11 +13904,11 @@
 <li><del>19th century CE: 0 titles, 0 words</del></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 14 titles, 2,583,148 words</strong></li>
+<li><strong>TOTAL: 14 titles, 2,583,148 words</strong></li>
 </ul>
 
 <h3>
-<a id="qada-51-texts-3726081-words" class="anchor" href="#qada-51-texts-3726081-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>QADA</em> (51 texts, 3,726,081 words)</h3>
+<a id="qada-50-texts-3702180-words" class="anchor" href="#qada-50-texts-3702180-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>QADA</em> (50 texts, 3,702,180 words)</h3>
 
 <ul>
 <li><del>6th century CE: 0 titles, 0 words</del></li>
@@ -13694,11 +13927,11 @@
 <li><strong>19th century CE: 1 titles, 521,964 words</strong></li>
 <li><strong>20th century CE: 3 titles, 88,639 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 51 titles, 3,726,081 words</strong></li>
+<li><strong>TOTAL: 50 titles, 3,702,180 words</strong></li>
 </ul>
 
 <h3>
-<a id="qawacid-119-texts-16819321-words" class="anchor" href="#qawacid-119-texts-16819321-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>QAWACID</em> (119 texts, 16,819,321 words)</h3>
+<a id="qawacid-117-texts-16799712-words" class="anchor" href="#qawacid-117-texts-16799712-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>QAWACID</em> (117 texts, 16,799,712 words)</h3>
 
 <ul>
 <li><del>6th century CE: 0 titles, 0 words</del></li>
@@ -13717,7 +13950,7 @@
 <li><strong>19th century CE: 4 titles, 790,876 words</strong></li>
 <li><strong>20th century CE: 3 titles, 295,227 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 119 titles, 16,819,321 words</strong></li>
+<li><strong>TOTAL: 117 titles, 16,799,712 words</strong></li>
 </ul>
 
 <h3>
@@ -13740,7 +13973,7 @@
 <li><del>19th century CE: 0 titles, 0 words</del></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 29 titles, 2,385,777 words</strong></li>
+<li><strong>TOTAL: 29 titles, 2,385,777 words</strong></li>
 </ul>
 
 <h3>
@@ -13763,11 +13996,11 @@
 <li><del>19th century CE: 0 titles, 0 words</del></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 54 titles, 6,175,973 words</strong></li>
+<li><strong>TOTAL: 54 titles, 6,175,973 words</strong></li>
 </ul>
 
 <h3>
-<a id="quran-306-texts-64746401-words" class="anchor" href="#quran-306-texts-64746401-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>QURAN</em> (306 texts, 64,746,401 words)</h3>
+<a id="quran-301-texts-64635832-words" class="anchor" href="#quran-301-texts-64635832-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>QURAN</em> (301 texts, 64,635,832 words)</h3>
 
 <ul>
 <li><del>6th century CE: 0 titles, 0 words</del></li>
@@ -13786,11 +14019,11 @@
 <li><strong>19th century CE: 4 titles, 5,238,487 words</strong></li>
 <li><strong>20th century CE: 3 titles, 166,927 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 306 titles, 64,746,401 words</strong></li>
+<li><strong>TOTAL: 301 titles, 64,635,832 words</strong></li>
 </ul>
 
 <h3>
-<a id="raqaiq-188-texts-10269908-words" class="anchor" href="#raqaiq-188-texts-10269908-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>RAQAIQ</em> (188 texts, 10,269,908 words)</h3>
+<a id="raqaiq-182-texts-10109743-words" class="anchor" href="#raqaiq-182-texts-10109743-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>RAQAIQ</em> (182 texts, 10,109,743 words)</h3>
 
 <ul>
 <li><del>6th century CE: 0 titles, 0 words</del></li>
@@ -13809,11 +14042,11 @@
 <li><strong>19th century CE: 4 titles, 234,025 words</strong></li>
 <li><strong>20th century CE: 2 titles, 112,685 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 188 titles, 10,269,908 words</strong></li>
+<li><strong>TOTAL: 182 titles, 10,109,743 words</strong></li>
 </ul>
 
 <h3>
-<a id="rihlat-70-texts-7980411-words" class="anchor" href="#rihlat-70-texts-7980411-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>RIHLAT</em> (70 texts, 7,980,411 words)</h3>
+<a id="rihlat-69-texts-7976897-words" class="anchor" href="#rihlat-69-texts-7976897-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>RIHLAT</em> (69 texts, 7,976,897 words)</h3>
 
 <ul>
 <li><del>6th century CE: 0 titles, 0 words</del></li>
@@ -13832,7 +14065,7 @@
 <li><strong>19th century CE: 1 titles, 112,731 words</strong></li>
 <li><strong>20th century CE: 3 titles, 150,390 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 70 titles, 7,980,411 words</strong></li>
+<li><strong>TOTAL: 69 titles, 7,976,897 words</strong></li>
 </ul>
 
 <h3>
@@ -13855,7 +14088,7 @@
 <li><strong>19th century CE: 6 titles, 94,066 words</strong></li>
 <li><strong>20th century CE: 10 titles, 842,402 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 65 titles, 4,134,417 words</strong></li>
+<li><strong>TOTAL: 65 titles, 4,134,417 words</strong></li>
 </ul>
 
 <h3>
@@ -13878,53 +14111,30 @@
 <li><del>19th century CE: 0 titles, 0 words</del></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 10 titles, 4,806,999 words</strong></li>
+<li><strong>TOTAL: 10 titles, 4,806,999 words</strong></li>
 </ul>
 
 <h3>
-<a id="sarf-125-texts-6904155-words" class="anchor" href="#sarf-125-texts-6904155-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>SARF</em> (125 texts, 6,904,155 words)</h3>
+<a id="sarf-141-texts-19160223-words" class="anchor" href="#sarf-141-texts-19160223-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>SARF</em> (141 texts, 19,160,223 words)</h3>
 
 <ul>
 <li><del>6th century CE: 0 titles, 0 words</del></li>
 <li><del>7th century CE: 0 titles, 0 words</del></li>
-<li><strong>8th century CE: 2 titles, 303,136 words</strong></li>
-<li><strong>9th century CE: 2 titles, 268,707 words</strong></li>
+<li><strong>8th century CE: 3 titles, 759,638 words</strong></li>
+<li><strong>9th century CE: 6 titles, 758,470 words</strong></li>
 <li><strong>10th century CE: 17 titles, 814,400 words</strong></li>
-<li><strong>11th century CE: 16 titles, 1,079,132 words</strong></li>
+<li><strong>11th century CE: 20 titles, 2,292,858 words</strong></li>
 <li><strong>12th century CE: 10 titles, 387,864 words</strong></li>
-<li><strong>13th century CE: 14 titles, 778,257 words</strong></li>
-<li><strong>14th century CE: 19 titles, 981,731 words</strong></li>
-<li><strong>15th century CE: 8 titles, 668,003 words</strong></li>
+<li><strong>13th century CE: 17 titles, 1,933,136 words</strong></li>
+<li><strong>14th century CE: 22 titles, 4,494,202 words</strong></li>
+<li><strong>15th century CE: 9 titles, 1,247,701 words</strong></li>
 <li><strong>16th century CE: 10 titles, 358,726 words</strong></li>
-<li><strong>17th century CE: 3 titles, 22,292 words</strong></li>
-<li><strong>18th century CE: 1 titles, 524,863 words</strong></li>
+<li><strong>17th century CE: 4 titles, 608,646 words</strong></li>
+<li><strong>18th century CE: 2 titles, 4,869,766 words</strong></li>
 <li><strong>19th century CE: 2 titles, 25,295 words</strong></li>
 <li><strong>20th century CE: 1 titles, 11,064 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 125 titles, 6,904,155 words</strong></li>
-</ul>
-
-<h3>
-<a id="sarh-21-texts-12848371-words" class="anchor" href="#sarh-21-texts-12848371-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>SARH</em> (21 texts, 12,848,371 words)</h3>
-
-<ul>
-<li><del>6th century CE: 0 titles, 0 words</del></li>
-<li><del>7th century CE: 0 titles, 0 words</del></li>
-<li><strong>8th century CE: 1 titles, 456,502 words</strong></li>
-<li><strong>9th century CE: 5 titles, 587,591 words</strong></li>
-<li><del>10th century CE: 0 titles, 0 words</del></li>
-<li><strong>11th century CE: 4 titles, 1,213,726 words</strong></li>
-<li><del>12th century CE: 0 titles, 0 words</del></li>
-<li><strong>13th century CE: 4 titles, 1,415,965 words</strong></li>
-<li><strong>14th century CE: 4 titles, 3,663,632 words</strong></li>
-<li><strong>15th century CE: 1 titles, 579,698 words</strong></li>
-<li><del>16th century CE: 0 titles, 0 words</del></li>
-<li><strong>17th century CE: 1 titles, 586,354 words</strong></li>
-<li><strong>18th century CE: 1 titles, 4,344,903 words</strong></li>
-<li><del>19th century CE: 0 titles, 0 words</del></li>
-<li><del>20th century CE: 0 titles, 0 words</del></li>
-<li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 21 titles, 12,848,371 words</strong></li>
+<li><strong>TOTAL: 141 titles, 19,160,223 words</strong></li>
 </ul>
 
 <h3>
@@ -13941,17 +14151,17 @@
 <li><strong>13th century CE: 7 titles, 6,324,457 words</strong></li>
 <li><strong>14th century CE: 3 titles, 483,862 words</strong></li>
 <li><strong>15th century CE: 4 titles, 484,155 words</strong></li>
-<li><strong>16th century CE: 21 titles, 12,761,665 words</strong></li>
+<li><strong>16th century CE: 22 titles, 16,946,519 words</strong></li>
 <li><strong>17th century CE: 1 titles, 590,267 words</strong></li>
 <li><strong>18th century CE: 3 titles, 6,606,897 words</strong></li>
 <li><strong>19th century CE: 5 titles, 3,947,008 words</strong></li>
 <li><strong>20th century CE: 1 titles, 186,843 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 67 titles, 46,379,011 words</strong></li>
+<li><strong>TOTAL: 67 titles, 46,379,011 words</strong></li>
 </ul>
 
 <h3>
-<a id="shamail-89-texts-16634819-words" class="anchor" href="#shamail-89-texts-16634819-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>SHAMAIL</em> (89 texts, 16,634,819 words)</h3>
+<a id="shamail-88-texts-16572274-words" class="anchor" href="#shamail-88-texts-16572274-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>SHAMAIL</em> (88 texts, 16,572,274 words)</h3>
 
 <ul>
 <li><del>6th century CE: 0 titles, 0 words</del></li>
@@ -13970,11 +14180,11 @@
 <li><strong>19th century CE: 1 titles, 146,888 words</strong></li>
 <li><strong>20th century CE: 2 titles, 120,102 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 89 titles, 16,634,819 words</strong></li>
+<li><strong>TOTAL: 88 titles, 16,572,274 words</strong></li>
 </ul>
 
 <h3>
-<a id="sharh-84-texts-37821300-words" class="anchor" href="#sharh-84-texts-37821300-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>SHARH</em> (84 texts, 37,821,300 words)</h3>
+<a id="sharh-83-texts-37817466-words" class="anchor" href="#sharh-83-texts-37817466-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>SHARH</em> (83 texts, 37,817,466 words)</h3>
 
 <ul>
 <li><del>6th century CE: 0 titles, 0 words</del></li>
@@ -13993,7 +14203,7 @@
 <li><strong>19th century CE: 3 titles, 1,336,770 words</strong></li>
 <li><strong>20th century CE: 2 titles, 1,372,981 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 84 titles, 37,821,300 words</strong></li>
+<li><strong>TOTAL: 83 titles, 37,817,466 words</strong></li>
 </ul>
 
 <h3>
@@ -14016,7 +14226,7 @@
 <li><strong>19th century CE: 2 titles, 815,299 words</strong></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 18 titles, 3,549,125 words</strong></li>
+<li><strong>TOTAL: 18 titles, 3,549,125 words</strong></li>
 </ul>
 
 <h3>
@@ -14039,7 +14249,7 @@
 <li><strong>19th century CE: 44 titles, 18,941,125 words</strong></li>
 <li><strong>20th century CE: 30 titles, 5,926,729 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 448 titles, 107,414,120 words</strong></li>
+<li><strong>TOTAL: 448 titles, 107,414,120 words</strong></li>
 </ul>
 
 <h3>
@@ -14062,7 +14272,7 @@
 <li><strong>19th century CE: 4 titles, 154,066 words</strong></li>
 <li><strong>20th century CE: 5 titles, 456,705 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 196 titles, 8,626,024 words</strong></li>
+<li><strong>TOTAL: 196 titles, 8,626,024 words</strong></li>
 </ul>
 
 <h3>
@@ -14085,7 +14295,7 @@
 <li><del>19th century CE: 0 titles, 0 words</del></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 16 titles, 351,649 words</strong></li>
+<li><strong>TOTAL: 16 titles, 351,649 words</strong></li>
 </ul>
 
 <h3>
@@ -14108,7 +14318,7 @@
 <li><del>19th century CE: 0 titles, 0 words</del></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 53 titles, 2,085,222 words</strong></li>
+<li><strong>TOTAL: 53 titles, 2,085,222 words</strong></li>
 </ul>
 
 <h3>
@@ -14131,7 +14341,7 @@
 <li><strong>19th century CE: 2 titles, 128,579 words</strong></li>
 <li><strong>20th century CE: 1 titles, 30,739 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 12 titles, 809,558 words</strong></li>
+<li><strong>TOTAL: 12 titles, 809,558 words</strong></li>
 </ul>
 
 <h3>
@@ -14154,7 +14364,7 @@
 <li><del>19th century CE: 0 titles, 0 words</del></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 3 titles, 12,212 words</strong></li>
+<li><strong>TOTAL: 3 titles, 12,212 words</strong></li>
 </ul>
 
 <h3>
@@ -14177,7 +14387,7 @@
 <li><del>19th century CE: 0 titles, 0 words</del></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 29 titles, 107,906 words</strong></li>
+<li><strong>TOTAL: 29 titles, 107,906 words</strong></li>
 </ul>
 
 <h3>
@@ -14200,11 +14410,11 @@
 <li><del>19th century CE: 0 titles, 0 words</del></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 21 titles, 254,022 words</strong></li>
+<li><strong>TOTAL: 21 titles, 254,022 words</strong></li>
 </ul>
 
 <h3>
-<a id="sira-166-texts-24328846-words" class="anchor" href="#sira-166-texts-24328846-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>SIRA</em> (166 texts, 24,328,846 words)</h3>
+<a id="sira-165-texts-24266301-words" class="anchor" href="#sira-165-texts-24266301-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>SIRA</em> (165 texts, 24,266,301 words)</h3>
 
 <ul>
 <li><del>6th century CE: 0 titles, 0 words</del></li>
@@ -14223,11 +14433,11 @@
 <li><strong>19th century CE: 4 titles, 904,642 words</strong></li>
 <li><strong>20th century CE: 7 titles, 287,474 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 166 titles, 24,328,846 words</strong></li>
+<li><strong>TOTAL: 165 titles, 24,266,301 words</strong></li>
 </ul>
 
 <h3>
-<a id="siyasa-66-texts-5383972-words" class="anchor" href="#siyasa-66-texts-5383972-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>SIYASA</em> (66 texts, 5,383,972 words)</h3>
+<a id="siyasa-65-texts-5360071-words" class="anchor" href="#siyasa-65-texts-5360071-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>SIYASA</em> (65 texts, 5,360,071 words)</h3>
 
 <ul>
 <li><del>6th century CE: 0 titles, 0 words</del></li>
@@ -14246,11 +14456,11 @@
 <li><strong>19th century CE: 2 titles, 1,749,034 words</strong></li>
 <li><strong>20th century CE: 3 titles, 88,639 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 66 titles, 5,383,972 words</strong></li>
+<li><strong>TOTAL: 65 titles, 5,360,071 words</strong></li>
 </ul>
 
 <h3>
-<a id="sualat-64-texts-4517643-words" class="anchor" href="#sualat-64-texts-4517643-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>SUALAT</em> (64 texts, 4,517,643 words)</h3>
+<a id="sualat-62-texts-4313695-words" class="anchor" href="#sualat-62-texts-4313695-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>SUALAT</em> (62 texts, 4,313,695 words)</h3>
 
 <ul>
 <li><del>6th century CE: 0 titles, 0 words</del></li>
@@ -14269,7 +14479,7 @@
 <li><strong>19th century CE: 3 titles, 57,089 words</strong></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 64 titles, 4,517,643 words</strong></li>
+<li><strong>TOTAL: 62 titles, 4,313,695 words</strong></li>
 </ul>
 
 <h3>
@@ -14292,7 +14502,7 @@
 <li><strong>19th century CE: 4 titles, 170,074 words</strong></li>
 <li><strong>20th century CE: 1 titles, 109,344 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 88 titles, 6,377,189 words</strong></li>
+<li><strong>TOTAL: 88 titles, 6,377,189 words</strong></li>
 </ul>
 
 <h3>
@@ -14315,7 +14525,7 @@
 <li><del>19th century CE: 0 titles, 0 words</del></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 16 titles, 5,570,177 words</strong></li>
+<li><strong>TOTAL: 16 titles, 5,570,177 words</strong></li>
 </ul>
 
 <h3>
@@ -14338,7 +14548,7 @@
 <li><strong>19th century CE: 2 titles, 5,053,898 words</strong></li>
 <li><strong>20th century CE: 2 titles, 1,349,693 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 362 titles, 114,529,616 words</strong></li>
+<li><strong>TOTAL: 362 titles, 114,529,616 words</strong></li>
 </ul>
 
 <h3>
@@ -14361,11 +14571,11 @@
 <li><strong>19th century CE: 4 titles, 522,964 words</strong></li>
 <li><strong>20th century CE: 5 titles, 1,509,023 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 351 titles, 74,811,081 words</strong></li>
+<li><strong>TOTAL: 351 titles, 74,811,081 words</strong></li>
 </ul>
 
 <h3>
-<a id="tafsir-207-texts-84047256-words" class="anchor" href="#tafsir-207-texts-84047256-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>TAFSIR</em> (207 texts, 84,047,256 words)</h3>
+<a id="tafsir-206-texts-84044786-words" class="anchor" href="#tafsir-206-texts-84044786-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>TAFSIR</em> (206 texts, 84,044,786 words)</h3>
 
 <ul>
 <li><del>6th century CE: 0 titles, 0 words</del></li>
@@ -14384,7 +14594,7 @@
 <li><strong>19th century CE: 7 titles, 11,873,202 words</strong></li>
 <li><strong>20th century CE: 2 titles, 1,458,280 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 207 titles, 84,047,256 words</strong></li>
+<li><strong>TOTAL: 206 titles, 84,044,786 words</strong></li>
 </ul>
 
 <h3>
@@ -14407,11 +14617,11 @@
 <li><del>19th century CE: 0 titles, 0 words</del></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 16 titles, 1,411,578 words</strong></li>
+<li><strong>TOTAL: 16 titles, 1,411,578 words</strong></li>
 </ul>
 
 <h3>
-<a id="takhrij-77-texts-25299880-words" class="anchor" href="#takhrij-77-texts-25299880-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>TAKHRIJ</em> (77 texts, 25,299,880 words)</h3>
+<a id="takhrij-75-texts-25227132-words" class="anchor" href="#takhrij-75-texts-25227132-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>TAKHRIJ</em> (75 texts, 25,227,132 words)</h3>
 
 <ul>
 <li><del>6th century CE: 0 titles, 0 words</del></li>
@@ -14430,7 +14640,7 @@
 <li><strong>19th century CE: 4 titles, 488,002 words</strong></li>
 <li><strong>20th century CE: 1 titles, 51,274 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 77 titles, 25,299,880 words</strong></li>
+<li><strong>TOTAL: 75 titles, 25,227,132 words</strong></li>
 </ul>
 
 <h3>
@@ -14453,7 +14663,7 @@
 <li><del>19th century CE: 0 titles, 0 words</del></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 54 titles, 6,175,973 words</strong></li>
+<li><strong>TOTAL: 54 titles, 6,175,973 words</strong></li>
 </ul>
 
 <h3>
@@ -14476,7 +14686,7 @@
 <li><strong>19th century CE: 11 titles, 1,509,853 words</strong></li>
 <li><strong>20th century CE: 9 titles, 2,934,168 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 768 titles, 151,346,090 words</strong></li>
+<li><strong>TOTAL: 768 titles, 151,346,090 words</strong></li>
 </ul>
 
 <h3>
@@ -14499,7 +14709,7 @@
 <li><strong>19th century CE: 4 titles, 1,174,238 words</strong></li>
 <li><strong>20th century CE: 5 titles, 812,131 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 310 titles, 74,474,408 words</strong></li>
+<li><strong>TOTAL: 310 titles, 74,474,408 words</strong></li>
 </ul>
 
 <h3>
@@ -14522,7 +14732,7 @@
 <li><del>19th century CE: 0 titles, 0 words</del></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 9 titles, 2,412,869 words</strong></li>
+<li><strong>TOTAL: 9 titles, 2,412,869 words</strong></li>
 </ul>
 
 <h3>
@@ -14545,7 +14755,7 @@
 <li><strong>19th century CE: 1 titles, 129,634 words</strong></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 34 titles, 3,209,984 words</strong></li>
+<li><strong>TOTAL: 34 titles, 3,209,984 words</strong></li>
 </ul>
 
 <h3>
@@ -14568,7 +14778,7 @@
 <li><del>19th century CE: 0 titles, 0 words</del></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 13 titles, 3,327,383 words</strong></li>
+<li><strong>TOTAL: 13 titles, 3,327,383 words</strong></li>
 </ul>
 
 <h3>
@@ -14591,7 +14801,7 @@
 <li><del>19th century CE: 0 titles, 0 words</del></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 77 titles, 5,223,263 words</strong></li>
+<li><strong>TOTAL: 77 titles, 5,223,263 words</strong></li>
 </ul>
 
 <h3>
@@ -14614,11 +14824,11 @@
 <li><strong>19th century CE: 4 titles, 394,232 words</strong></li>
 <li><strong>20th century CE: 8 titles, 799,818 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 58 titles, 5,318,002 words</strong></li>
+<li><strong>TOTAL: 58 titles, 5,318,002 words</strong></li>
 </ul>
 
 <h3>
-<a id="usul-221-texts-28522664-words" class="anchor" href="#usul-221-texts-28522664-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>USUL</em> (221 texts, 28,522,664 words)</h3>
+<a id="usul-219-texts-28503055-words" class="anchor" href="#usul-219-texts-28503055-words" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><em>USUL</em> (219 texts, 28,503,055 words)</h3>
 
 <ul>
 <li><del>6th century CE: 0 titles, 0 words</del></li>
@@ -14637,7 +14847,7 @@
 <li><strong>19th century CE: 13 titles, 4,103,310 words</strong></li>
 <li><strong>20th century CE: 5 titles, 588,052 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 221 titles, 28,522,664 words</strong></li>
+<li><strong>TOTAL: 219 titles, 28,503,055 words</strong></li>
 </ul>
 
 <h3>
@@ -14660,7 +14870,7 @@
 <li><strong>19th century CE: 1 titles, 17,130 words</strong></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 23 titles, 1,295,289 words</strong></li>
+<li><strong>TOTAL: 23 titles, 1,295,289 words</strong></li>
 </ul>
 
 <h3>
@@ -14683,7 +14893,7 @@
 <li><strong>19th century CE: 1 titles, 189,890 words</strong></li>
 <li><strong>20th century CE: 1 titles, 344,563 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 29 titles, 11,154,222 words</strong></li>
+<li><strong>TOTAL: 29 titles, 11,154,222 words</strong></li>
 </ul>
 
 <h3>
@@ -14706,7 +14916,7 @@
 <li><del>19th century CE: 0 titles, 0 words</del></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 1 titles, 1,480,381 words</strong></li>
+<li><strong>TOTAL: 1 titles, 1,480,381 words</strong></li>
 </ul>
 
 <h3>
@@ -14729,7 +14939,7 @@
 <li><del>19th century CE: 0 titles, 0 words</del></li>
 <li><del>20th century CE: 0 titles, 0 words</del></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 3 titles, 1,481,320 words</strong></li>
+<li><strong>TOTAL: 3 titles, 1,481,320 words</strong></li>
 </ul>
 
 <h3>
@@ -14752,7 +14962,7 @@
 <li><del>19th century CE: 0 titles, 0 words</del></li>
 <li><strong>20th century CE: 1 titles, 35,685 words</strong></li>
 <li><del>21st century CE: 0 titles, 0 words</del></li>
-<li><strong>total CE: 5 titles, 85,596 words</strong></li>
+<li><strong>TOTAL: 5 titles, 85,596 words</strong></li>
 </ul>
       </section>
       <footer>
