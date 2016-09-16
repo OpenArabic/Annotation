@@ -179,6 +179,14 @@
 |       |   `-- 0322AbuJacfarCuqayli.DucafaKabir
 |       |-- 0322KatibBaghdadi
 |       |   `-- 0322KatibBaghdadi.TarikhAimma
+|       |-- 0324Ashcari
+|       |   |-- 0324Ashcari.Ibana
+|       |   |-- 0324Ashcari.MaqalatIslamiyyin
+|       |   `-- 0324Ashcari.RisalaIlaAhlThughr
+|       |-- 0328IbnCabdRabbihi
+|       |   |-- 0328IbnCabdRabbihi.CiqdFarid
+|       |   |-- 0328IbnCabdRabbihi.Diwan
+|       |   `-- 0328IbnCabdRabbihi.TabaicNisa
 |       |-- 0330Sirafi
 |       |   `-- 0330Sirafi.Rihla
 |       |-- 0333AbuCarabTamimi
@@ -189,6 +197,12 @@
 |       |   `-- 0334IbnHaikHamdani.SifaJaziraCarab
 |       |-- 0334IbnSacidQushayri
 |       |   `-- 0334IbnSacidQushayri.TarikhRaqqa
+|       |-- 0335Suli
+|       |   |-- 0335Suli.AdabKuttab
+|       |   |-- 0335Suli.AkhbarAbiTamam
+|       |   |-- 0335Suli.AkhbarRadi
+|       |   |-- 0335Suli.AshcarAwladKhulafa
+|       |   `-- 0335Suli.JuzMinAhadith
 |       |-- 0337IbnIshaqZajjaji
 |       |   `-- 0337IbnIshaqZajjaji.Akhbar
 |       |-- 0346Istakhri
@@ -1088,7 +1102,7 @@
 |   |   |   |-- 2_preprocessed_images
 |   |   |   |-- 3_transcription_ready
 |   |   |   `-- 4_trainingdata
-|   |   |-- place_publisher_1
+|   |   |-- new_scans
 |   |   |   |-- 1_images
 |   |   |   |-- 2_preprocessed_images
 |   |   |   |-- 3_transcription_ready
@@ -1098,11 +1112,12 @@
 |   |   |   |-- 2_preprocessed_images
 |   |   |   |-- 3_transcription_ready
 |   |   |   `-- 4_training_data
-|   |   `-- place_publisher_3
-|   |       |-- 1_images
-|   |       |-- 2_preprocessed_images
-|   |       |-- 3_transcription_ready
-|   |       `-- 4_training_data
+|   |   |-- place_publisher_3
+|   |   |   |-- 1_images
+|   |   |   |-- 2_preprocessed_images
+|   |   |   |-- 3_transcription_ready
+|   |   |   `-- 4_training_data
+|   |   `-- raw
 |   |-- per
 |   |   |-- place_publisher_1
 |   |   |   |-- 1_images
@@ -1135,6 +1150,15 @@
 |           |-- 2_preprocessed_images
 |           |-- 3_transcription_ready
 |           `-- 4_training_data
+|-- PDF
+|   |-- 0300AH
+|   |-- 0400AH
+|   |-- 0500AH
+|   |-- 0600AH
+|   |-- 0700AH
+|   |-- 0800AH
+|   |-- 0900AH
+|   `-- 1000AH
 `-- passim
     |-- model_files
     |   |-- input
@@ -1142,16 +1166,18 @@
     |-- passim_new
     |   |-- large_clean
     |   |-- large_orig
+    |   |-- large_orig_output
     |   |-- mech_clean
     |   |-- mech_orig
     |   |-- small_clean
     |   `-- small_orig
-    `-- passim_old
-        |-- large_clean
-        |-- large_orig
-        |-- mech_clean
-        |-- mech_orig
-        |-- small_clean
-        `-- small_orig
+    |-- passim_old
+    |   |-- large_clean
+    |   |-- large_orig
+    |   |-- mech_clean
+    |   |-- mech_orig
+    |   |-- small_clean
+    |   `-- small_orig
+    `-- test
 
-1154 directories
+1180 directories
