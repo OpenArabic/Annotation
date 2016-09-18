@@ -16,7 +16,7 @@
 - [Folder structure](#folder-structure)
 - [General description of the workflow with mARkdown](#general-description-of-the-workflow-with-markdown)
 - [Status Report](#status-report)
-- [List of books by centuries (651 titles)](#list-of-books-by-centuries-651-titles)
+- [List of books by centuries (673 titles)](#list-of-books-by-centuries-673-titles)
 - [Statistics on the corpus](#statistics-on-the-corpus)
 - [Summary statistics on the lengths of texts in the corpus](#summary-statistics-on-the-lengths-of-texts-in-the-corpus)
 - [Texts by length (duplicates excluded)](#texts-by-length-duplicates-excluded)
@@ -42,15 +42,15 @@ For the list of books currently in our corpus, see below.
 | *Texts* | *Status* |
 |:--- | ------:|
 | Total in the Collection | 10,393 |
-| Unique texts | 7,781 |
-| Added texts (listed below) | 651 |
+| Unique texts | 7,779 |
+| Added texts (listed below) | 673 |
 | Orphans (no TXT) | 2 |
 
 | *Texts* | *Status* |
 |:--- | ------:|
-| In Progress (`.inProgress`) | 11 |
+| In Progress (`.inProgress`) | 20 |
 | Tagged (`.completed`) | 37 |
-| Vetted (`.mARkdown`) | 21 |
+| Vetted (`.mARkdown`) | 20 |
 | Converted to TEI XML  (`.xml`) | _pending_ |
 
 
@@ -185,23 +185,32 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 
 ## Status Report
  
-* 69 titles
-* 41,920,425 words
-* 223,443 logical units
+* 77 titles
+* 44,106,378 words
+* 236,598 logical units
 * 56,798 bios
 
-### `*.inProgress` (11 titles: 14,764,275 words; 68,267 units; 0 bios)
+### `*.inProgress` (20 titles: 17,273,938 words; 81,422 units; 0 bios)
 
 - `0230IbnSacd.TabaqatKubra (920,980 words; 6,386 units; 0 bios)`
+- `0255Jahiz.Hayawan (455,781 words; 3,414 units; 0 bios)`
 - `0256Bukhari.TarikhKabir (519,629 words; 15,061 units; 0 bios)`
-- `0282AbuHanifaDinawari.AkhbarTiwal  (93,184 words; 857 units; 0 bios)`
+- `0276IbnQutaybaDinawari.CuyunAkhbar (232,763 words; 310 units; 0 bios)`
+- `0282AbuHanifaDinawari.AkhbarTiwal  (93,184 words; 858 units; 0 bios)`
 - `0282AbuHanifaDinawari.AkhbarTiwal (93,182 words; 458 units; 0 bios)`
 - `0310Tabari.JamicBayan (2,850,544 words; 0 units; 0 bios)`
-- `0310Tabari.Tarikh (1,468,698 words; 554 units; 0 bios)`
-- `0421Miskawayh.Tajarib (679,938 words; 2,494 units; 0 bios)`
+- `0310Tabari.Tarikh (1,468,697 words; 576 units; 0 bios)`
+- `0324Ashcari.MaqalatIslamiyyin (94,221 words; 5 units; 0 bios)`
+- `0324Ashcari.MaqalatIslamiyyin (100,191 words; 2,474 units; 0 bios)`
+- `0328IbnCabdRabbihi.CiqdFarid (562,475 words; 3,607 units; 0 bios)`
+- `0335Suli.AkhbarRadi (165,915 words; 255 units; 0 bios)`
+- `0400IbnTahirMaqdisi.BadWaTarikh (197,351 words; 639 units; 0 bios)`
+- `0421Miskawayh.Tajarib (679,938 words; 2,490 units; 0 bios)`
 - `0463KhatibBaghdadi.TarikhBaghdad (2,621,786 words; 13,309 units; 0 bios)`
+- `0646IbnQifti.IkhbarCulama (96,909 words; 85 units; 0 bios)`
+- `0764Safadi.AcyanCasr (604,057 words; 2,367 units; 0 bios)`
 - `0764Safadi.WafiBiWafayat (1,968,791 words; 11,211 units; 0 bios)`
-- `0774IbnKathir.Bidaya (2,212,101 words; 3,485 units; 0 bios)`
+- `0774IbnKathir.Bidaya (2,212,102 words; 3,465 units; 0 bios)`
 - `0902Sakhawi.DuLamic (1,335,442 words; 14,452 units; 0 bios)`
 
 
@@ -246,7 +255,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - `0748Dhahabi.MukhtasarMinDubaythi (96,058 words; 1,641 units; 0 bios)`
 
 
-### `*.mARkdown` (21 titles: 9,348,531 words; 81,596 units; 56,797 bios)
+### `*.mARkdown` (20 titles: 9,024,821 words; 81,596 units; 56,797 bios)
 
 - `0276IbnQutaybaDinawari.AdabKatib (69,366 words; 299 units; 0 bios)`
 - `0355MuhammadKindi.QudatMisr (36,490 words; 101 units; 100 bios)`
@@ -265,7 +274,6 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - `0771Subki.TabaqatShaficiyaKubra (676,946 words; 1,428 units; 1,412 bios)`
 - `0774IbnKathir.TabaqatShaficiyyin (181,807 words; 965 units; 919 bios)`
 - `0900AbuCabdAllahHimyari.RawdMictar (323,710 words; 0 units; 0 bios)`
-- `Working Copy of 0900AbuCabdAllahHimyari.RawdMictar (323,710 words; 0 units; 0 bios)`
 - `0911Suyuti.LubbLubab (51,027 words; 4,853 units; 0 bios)`
 - `1339IsmacilBashaBaghdadi.HadiyaCarifin (421,313 words; 8,842 units; 8,814 bios)`
 - `1450MawsucaShicriya.MucjamShucara (158,184 words; 2,333 units; 2,305 bios)`
@@ -275,14 +283,14 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 
 # Text currently included in the Coprus
 
-## List of books by centuries (651 titles)
+## List of books by centuries (673 titles)
 
 
-* **0100AH [[ [Re]generated on 2016-09-11 (11:41:35) ]]**
+* **0100AH [[ [Re]generated on 2016-09-17 (18:16:51) ]]**
 
  * _no texts at the moment_
 
-* **0200AH [[ [Re]generated on 2016-09-11 (11:41:35) ]]**
+* **0200AH [[ [Re]generated on 2016-09-17 (18:16:51) ]]**
 
  * `0110HasanBasri.FadailMakka `
 	- *TAGS: CENT0200, PPE, _AJZA, _BULDAN, _HADITH, _TABAQAT, _TARAJIM, _TARIKH*
@@ -291,7 +299,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `0200AbuShis.Diwan `
 	- *TAGS: CENT0200, _SHICR_CABBASI, _SHICR*
 
-* **0300AH [[ [Re]generated on 2016-09-11 (11:41:35) ]]**
+* **0300AH [[ [Re]generated on 2016-09-17 (18:16:51) ]]**
 
  * `0204IbnKalbi.AnsabKhayl `
 	- *TAGS: CENT0300, GEN, PPE, _ADAB, _BALAGHA, _GHARIB, _MACAJIM, _MUSTALAHAT*
@@ -474,7 +482,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `0300MuallifMajhul.AkhbarDawlaCabbasiya `
 	- *TAGS: CENT0300, PPE, _TARIKH*
 
-* **0400AH [[ [Re]generated on 2016-09-11 (11:41:35) ]]**
+* **0400AH [[ [Re]generated on 2016-09-17 (18:16:51) ]]**
 
  * `0301Bardiji.TabaqatAsma `
 	- *TAGS: CENT0400, PPE, _HADITH, _TABAQAT, _TARAJIM*
@@ -663,7 +671,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `0400IshaqMunajjim.AkamMarjan `
 	- *TAGS: CENT0400, _BULDAN, _JUGHRAFIYA, _RIHLAT*
 
-* **0500AH [[ [Re]generated on 2016-09-11 (11:41:35) ]]**
+* **0500AH [[ [Re]generated on 2016-09-17 (18:16:51) ]]**
 
  * `0402MuhammadSaydawi.MucjamShuyukh `
 	- *TAGS: CENT0500, _HADITH, _MACAJIM, _MASANID, _TABAQAT, _TARAJIM*
@@ -737,6 +745,8 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 	- *TAGS: BIB, CENT0500, PPE, _FAHARIS, _KUTUB*
  * `0456IbnHazm.UmmahatKhulafa `
 	- *TAGS: CENT0500, PPE, _TARAJIM, _TARIKH*
+ * `0458Bayhaqi.AsmaWaSifat `
+	- *TAGS: CENT0500, _CAQAID, _HADITH, _MILAL*
  * `0458Bayhaqi.DalailNubuwwa `
 	- *TAGS: CENT0500, DHB, PPE, _ASHAB, _CAQAID, _HADITH, _SHAMAIL, _SIRA*
  * `0460ShaykhTusi.IkhtiyarMacrifaRijal `
@@ -782,8 +792,50 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `0498AbuCaliJayyani.TaqyidMuhmal `
 	- *TAGS: CENT0500, PPE, _HADITH, _MISC, _TABAQAT, _TARAJIM*
 
-* **0600AH [[ [Re]generated on 2016-09-11 (11:41:35) ]]**
+* **0600AH [[ [Re]generated on 2016-09-17 (18:16:51) ]]**
 
+ * `0505Ghazali.AsnafMaghrurin `
+	- *TAGS: CENT0600, _ADAB, _ADHKAR, _AKHLAQ, _MISC, _RAQAIQ, _SULUK*
+ * `0505Ghazali.BidayatHidaya `
+	- *TAGS: CENT0600, _ADAB, _ADHKAR, _RAQAIQ*
+ * `0505Ghazali.Fadaih `
+	- *TAGS: CENT0600, _CAQAID, _MILAL, _RUDUD*
+ * `0505Ghazali.IhyaCulumDin `
+	- *TAGS: CENT0600, _ADAB, _ADHKAR, _AKHLAQ, _MISC, _RAQAIQ, _SULUK*
+ * `0505Ghazali.Iqtisad `
+	- *TAGS: CENT0600, _CAQAID, _MILAL*
+ * `0505Ghazali.JawahirQuran `
+	- *TAGS: CENT0600, _CAQAID, _CULUM, _QURAN, _TAFSIR*
+ * `0505Ghazali.KimiyaSacada `
+	- *TAGS: CENT0600, _ADAB, _ADHKAR, _RAQAIQ*
+ * `0505Ghazali.MacarijQuds `
+	- *TAGS: CENT0600, _CAQAID, _MILAL*
+ * `0505Ghazali.MahkNazar `
+	- *TAGS: CENT0600, _MISC*
+ * `0505Ghazali.Mankhul `
+	- *TAGS: CENT0600, _FIQH, _QAWACID, _SUNNI, _USUL*
+ * `0505Ghazali.MaqsadAsna `
+	- *TAGS: CENT0600, _CAQAID, _MILAL, _MISC*
+ * `0505Ghazali.MicyarCilm `
+	- *TAGS: CENT0600, _MISC*
+ * `0505Ghazali.MishkatAnwar `
+	- *TAGS: CENT0600, _AKHLAQ, _TASAWWUF, _ADAB, _ADHKAR, _RAQAIQ*
+ * `0505Ghazali.MizanCamal `
+	- *TAGS: CENT0600, _ADAB, _ADHKAR, _AKHLAQ, _MISC, _RAQAIQ, _SULUK*
+ * `0505Ghazali.Munqidh `
+	- *TAGS: CENT0600, _ADAB, _ADHKAR, _AKHLAQ, _RAQAIQ, _TASAWWUF*
+ * `0505Ghazali.Mustasfa `
+	- *TAGS: CENT0600, _FIQH, _QAWACID, _SUNNI, _USUL*
+ * `0505Ghazali.QawaidCaqaid `
+	- *TAGS: CENT0600, _CAQAID, _MILAL*
+ * `0505Ghazali.SirrCalamin `
+	- *TAGS: CENT0600, _AKHLAQ, _TASAWWUF*
+ * `0505Ghazali.Tahafut `
+	- *TAGS: CENT0600, _MISC*
+ * `0505Ghazali.TibrMasbuk `
+	- *TAGS: CENT0600, _QADA, _SIYASA*
+ * `0505Ghazali.Wasit `
+	- *TAGS: CENT0600, _FIQH, _SHAFICI*
  * `0507AbuBakrShashi.HilyaCulama `
 	- *TAGS: CENT0600, PPE, _FIQH, _SHAFICI*
  * `0507IbnQaysarani.AnsabMuttafiqa `
@@ -901,7 +953,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `0600KatibMarrakushi.Istibsar `
 	- *TAGS: CENT0600, _BULDAN, _JUGHRAFIYA, _RIHLAT*
 
-* **0700AH [[ [Re]generated on 2016-09-11 (11:41:35) ]]**
+* **0700AH [[ [Re]generated on 2016-09-17 (18:16:51) ]]**
 
  * `0606IbnMamati.LataifDhakhira `
 	- *TAGS: CENT0700, PPE, _TABAQAT, _TARAJIM*
@@ -1028,7 +1080,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `0696IbnZahiri.Mashyakha `
 	- *TAGS: CENT0700, PPE, _AJZA, _HADITH, _TARAJIM*
 
-* **0800AH [[ [Re]generated on 2016-09-11 (11:41:35) ]]**
+* **0800AH [[ [Re]generated on 2016-09-17 (18:16:51) ]]**
 
  * `0701SharafDinYunini.Mashyakha `
 	- *TAGS: CENT0800, PPE, _AJZA, _HADITH*
@@ -1185,7 +1237,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `0799IbnFarhun.DibajMudhahhab `
 	- *TAGS: CENT0800, PPE, _FIQH, _TABAQAT, _TARAJIM, _TARIKH*
 
-* **0900AH [[ [Re]generated on 2016-09-11 (11:41:35) ]]**
+* **0900AH [[ [Re]generated on 2016-09-17 (18:16:51) ]]**
 
  * `0804IbnMulaqqin.TabaqatAwliya `
 	- *TAGS: CENT0900, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT*
@@ -1312,7 +1364,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `0900AbuCabdAllahHimyari.RawdMictar `
 	- *TAGS: CENT0900, COL, GEO, PPE, _BULDAN, _GHARIB, _JUGHRAFIYA, _MACAJIM, _MUSTALAHAT, _RIHLAT*
 
-* **1000AH [[ [Re]generated on 2016-09-11 (11:41:35) ]]**
+* **1000AH [[ [Re]generated on 2016-09-17 (18:16:51) ]]**
 
  * `0902Sakhawi.Buldaniyyat `
 	- *TAGS: CENT1000, PPE, _AJZA, _HADITH, _MISC, _TARAJIM*
@@ -1387,7 +1439,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `0984BardDinGhazzi.MatalicBadriya `
 	- *TAGS: CENT1000, _BULDAN, _JUGHRAFIYA, _RIHLAT*
 
-* **1100AH [[ [Re]generated on 2016-09-11 (11:41:35) ]]**
+* **1100AH [[ [Re]generated on 2016-09-17 (18:16:51) ]]**
 
  * `1010TamimiDari.TabaqatSaniya `
 	- *TAGS: BIO, CENT1100, COL, PPE, _TABAQAT, _TARAJIM, _TARIKH*
@@ -1426,7 +1478,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `1100MustafaTafrishi.NaqdRijal `
 	- *TAGS: BIO, CENT1100, PPE, SHC, _HADITH, _SHICI, _TARAJIM*
 
-* **1200AH [[ [Re]generated on 2016-09-11 (11:41:35) ]]**
+* **1200AH [[ [Re]generated on 2016-09-17 (18:16:51) ]]**
 
  * `1101MuhammadCaliArdabili.JamicRuwat `
 	- *TAGS: CENT1200, PPE, SHC, _HADITH, _SHICI, _TARAJIM*
@@ -1457,7 +1509,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `1195CabdRahmanAnsari.Tuhfa `
 	- *TAGS: CENT1200, _ANSAB, _MISC*
 
-* **1300AH [[ [Re]generated on 2016-09-11 (11:41:35) ]]**
+* **1300AH [[ [Re]generated on 2016-09-17 (18:16:51) ]]**
 
  * `1206Muradi.SilkDurar `
 	- *TAGS: CENT1300, PPE, _TABAQAT, _TARAJIM*
@@ -1486,7 +1538,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `1286IcjazHusaynKunturi.KashfHajb `
 	- *TAGS: BIB, CENT1300, PPE, _FAHARIS, _KUTUB*
 
-* **1400AH [[ [Re]generated on 2016-09-11 (11:41:35) ]]**
+* **1400AH [[ [Re]generated on 2016-09-17 (18:16:51) ]]**
 
  * `1307Qannawji.AbjadCulum `
 	- *TAGS: CENT1400, PPE, _ADILLA, _FAHARIS, _KUTUB, _MACAJIM*
@@ -1571,7 +1623,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `1396KhayrDinZirikli.Aclam `
 	- *TAGS: BIO, CENT1400, COL, PPE, _FAHARIS, _KUTUB, _TABAQAT, _TARAJIM*
 
-* **1500AH [[ [Re]generated on 2016-09-11 (11:41:35) ]]**
+* **1500AH [[ [Re]generated on 2016-09-17 (18:16:51) ]]**
 
  * `1405CaliShahrudi.Mustadrakat `
 	- *TAGS: CENT1500, PPE, SHC, _HADITH, _SHICI, _TARAJIM*
@@ -2938,7 +2990,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 
 ## Forms, Themes, Genres (provisional assessment)
 
-### *ADAB* (595 texts, 49,369,652 words)
+### *ADAB* (596 texts, 49,379,852 words)
 
 - ~~6th century CE: 0 titles, 0 words~~
 - **7th century CE: 2 titles, 19,107 words**
@@ -2946,7 +2998,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **9th century CE: 48 titles, 2,956,390 words**
 - **10th century CE: 86 titles, 6,981,561 words**
 - **11th century CE: 94 titles, 6,518,363 words**
-- **12th century CE: 85 titles, 7,929,689 words**
+- **12th century CE: 86 titles, 7,939,889 words**
 - **13th century CE: 44 titles, 5,591,528 words**
 - **14th century CE: 37 titles, 4,720,991 words**
 - **15th century CE: 23 titles, 3,522,201 words**
@@ -2956,10 +3008,10 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 14 titles, 705,377 words**
 - **20th century CE: 13 titles, 1,173,560 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **TOTAL: 595 titles, 49,369,652 words**
+- **TOTAL: 596 titles, 49,379,852 words**
 
 
-### *ADHKAR* (209 texts, 10,829,997 words)
+### *ADHKAR* (210 texts, 10,840,197 words)
 
 - ~~6th century CE: 0 titles, 0 words~~
 - ~~7th century CE: 0 titles, 0 words~~
@@ -2967,7 +3019,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **9th century CE: 10 titles, 348,180 words**
 - **10th century CE: 15 titles, 775,222 words**
 - **11th century CE: 14 titles, 492,787 words**
-- **12th century CE: 33 titles, 2,606,490 words**
+- **12th century CE: 34 titles, 2,616,690 words**
 - **13th century CE: 15 titles, 1,178,644 words**
 - **14th century CE: 16 titles, 996,909 words**
 - **15th century CE: 6 titles, 331,299 words**
@@ -2977,7 +3029,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 4 titles, 234,025 words**
 - **20th century CE: 2 titles, 112,685 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **TOTAL: 209 titles, 10,829,997 words**
+- **TOTAL: 210 titles, 10,840,197 words**
 
 
 ### *ADILLA* (37 texts, 2,626,920 words)
@@ -3064,7 +3116,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **TOTAL: 666 titles, 8,995,458 words**
 
 
-### *AKHLAQ* (204 texts, 12,178,946 words)
+### *AKHLAQ* (205 texts, 12,196,922 words)
 
 - ~~6th century CE: 0 titles, 0 words~~
 - **7th century CE: 2 titles, 123,285 words**
@@ -3072,7 +3124,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **9th century CE: 58 titles, 1,050,123 words**
 - **10th century CE: 27 titles, 1,453,988 words**
 - **11th century CE: 23 titles, 734,655 words**
-- **12th century CE: 18 titles, 1,703,041 words**
+- **12th century CE: 19 titles, 1,721,017 words**
 - **13th century CE: 11 titles, 2,664,007 words**
 - **14th century CE: 38 titles, 3,268,872 words**
 - **15th century CE: 2 titles, 28,166 words**
@@ -3082,7 +3134,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 5 titles, 299,708 words**
 - **20th century CE: 1 titles, 109,344 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **TOTAL: 204 titles, 12,178,946 words**
+- **TOTAL: 205 titles, 12,196,922 words**
 
 
 ### *ALBANI* (19 texts, 1,377,404 words)
@@ -3295,7 +3347,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **TOTAL: 151 titles, 32,709,465 words**
 
 
-### *CAQAID* (513 texts, 27,980,760 words)
+### *CAQAID* (514 texts, 28,012,585 words)
 
 - ~~6th century CE: 0 titles, 0 words~~
 - **7th century CE: 1 titles, 25,843 words**
@@ -3303,7 +3355,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **9th century CE: 34 titles, 699,441 words**
 - **10th century CE: 51 titles, 1,558,222 words**
 - **11th century CE: 52 titles, 4,052,321 words**
-- **12th century CE: 31 titles, 1,549,422 words**
+- **12th century CE: 32 titles, 1,581,247 words**
 - **13th century CE: 33 titles, 1,065,767 words**
 - **14th century CE: 67 titles, 6,613,406 words**
 - **15th century CE: 10 titles, 1,102,986 words**
@@ -3313,7 +3365,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 48 titles, 2,158,295 words**
 - **20th century CE: 30 titles, 2,315,656 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **TOTAL: 513 titles, 27,980,760 words**
+- **TOTAL: 514 titles, 28,012,585 words**
 
 
 ### *CARUD* (9 texts, 1,958,412 words)
@@ -4681,7 +4733,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **TOTAL: 301 titles, 64,635,832 words**
 
 
-### *RAQAIQ* (182 texts, 10,109,743 words)
+### *RAQAIQ* (183 texts, 10,119,943 words)
 
 - ~~6th century CE: 0 titles, 0 words~~
 - ~~7th century CE: 0 titles, 0 words~~
@@ -4689,7 +4741,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **9th century CE: 9 titles, 282,039 words**
 - **10th century CE: 14 titles, 771,481 words**
 - **11th century CE: 13 titles, 355,629 words**
-- **12th century CE: 28 titles, 2,558,803 words**
+- **12th century CE: 29 titles, 2,569,003 words**
 - **13th century CE: 14 titles, 1,153,698 words**
 - **14th century CE: 13 titles, 983,884 words**
 - **15th century CE: 5 titles, 320,080 words**
@@ -4699,7 +4751,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 4 titles, 234,025 words**
 - **20th century CE: 2 titles, 112,685 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **TOTAL: 182 titles, 10,109,743 words**
+- **TOTAL: 183 titles, 10,119,943 words**
 
 
 ### *RIHLAT* (69 texts, 7,976,897 words)
@@ -5185,7 +5237,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **TOTAL: 351 titles, 74,811,081 words**
 
 
-### *TAFSIR* (206 texts, 84,044,786 words)
+### *TAFSIR* (207 texts, 84,076,611 words)
 
 - ~~6th century CE: 0 titles, 0 words~~
 - ~~7th century CE: 0 titles, 0 words~~
@@ -5193,7 +5245,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **9th century CE: 13 titles, 1,116,982 words**
 - **10th century CE: 23 titles, 9,199,726 words**
 - **11th century CE: 27 titles, 7,106,368 words**
-- **12th century CE: 22 titles, 7,661,236 words**
+- **12th century CE: 23 titles, 7,693,061 words**
 - **13th century CE: 20 titles, 7,893,906 words**
 - **14th century CE: 23 titles, 9,178,285 words**
 - **15th century CE: 13 titles, 8,112,759 words**
@@ -5203,7 +5255,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 7 titles, 11,873,202 words**
 - **20th century CE: 2 titles, 1,458,280 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **TOTAL: 206 titles, 84,044,786 words**
+- **TOTAL: 207 titles, 84,076,611 words**
 
 
 ### *TAJWID* (16 texts, 1,411,578 words)
@@ -5311,7 +5363,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **TOTAL: 310 titles, 74,474,408 words**
 
 
-### *TASAWWUF* (9 texts, 2,412,869 words)
+### *TASAWWUF* (10 texts, 2,430,845 words)
 
 - ~~6th century CE: 0 titles, 0 words~~
 - ~~7th century CE: 0 titles, 0 words~~
@@ -5319,7 +5371,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~9th century CE: 0 titles, 0 words~~
 - **10th century CE: 3 titles, 421,781 words**
 - **11th century CE: 1 titles, 113,883 words**
-- **12th century CE: 3 titles, 44,938 words**
+- **12th century CE: 4 titles, 62,914 words**
 - **13th century CE: 1 titles, 1,826,396 words**
 - **14th century CE: 1 titles, 5,871 words**
 - ~~15th century CE: 0 titles, 0 words~~
@@ -5329,7 +5381,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~19th century CE: 0 titles, 0 words~~
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **TOTAL: 9 titles, 2,412,869 words**
+- **TOTAL: 10 titles, 2,430,845 words**
 
 
 ### *TAZKIYA* (34 texts, 3,209,984 words)
