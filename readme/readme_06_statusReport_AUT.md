@@ -1,22 +1,31 @@
 ## Status Report
  
-* 69 titles
-* 41,920,425 words
-* 223,443 logical units
+* 77 titles
+* 44,106,378 words
+* 236,598 logical units
 * 56,798 bios
 
-### `*.inProgress` (11 titles: 14,764,275 words; 68,267 units; 0 bios)
+### `*.inProgress` (20 titles: 17,273,938 words; 81,422 units; 0 bios)
 
 - `0230IbnSacd.TabaqatKubra (920,980 words; 6,386 units; 0 bios)`
+- `0255Jahiz.Hayawan (455,781 words; 3,414 units; 0 bios)`
 - `0256Bukhari.TarikhKabir (519,629 words; 15,061 units; 0 bios)`
-- `0282AbuHanifaDinawari.AkhbarTiwal  (93,184 words; 857 units; 0 bios)`
+- `0276IbnQutaybaDinawari.CuyunAkhbar (232,763 words; 310 units; 0 bios)`
+- `0282AbuHanifaDinawari.AkhbarTiwal  (93,184 words; 858 units; 0 bios)`
 - `0282AbuHanifaDinawari.AkhbarTiwal (93,182 words; 458 units; 0 bios)`
 - `0310Tabari.JamicBayan (2,850,544 words; 0 units; 0 bios)`
-- `0310Tabari.Tarikh (1,468,698 words; 554 units; 0 bios)`
-- `0421Miskawayh.Tajarib (679,938 words; 2,494 units; 0 bios)`
+- `0310Tabari.Tarikh (1,468,697 words; 576 units; 0 bios)`
+- `0324Ashcari.MaqalatIslamiyyin (94,221 words; 5 units; 0 bios)`
+- `0324Ashcari.MaqalatIslamiyyin (100,191 words; 2,474 units; 0 bios)`
+- `0328IbnCabdRabbihi.CiqdFarid (562,475 words; 3,607 units; 0 bios)`
+- `0335Suli.AkhbarRadi (165,915 words; 255 units; 0 bios)`
+- `0400IbnTahirMaqdisi.BadWaTarikh (197,351 words; 639 units; 0 bios)`
+- `0421Miskawayh.Tajarib (679,938 words; 2,490 units; 0 bios)`
 - `0463KhatibBaghdadi.TarikhBaghdad (2,621,786 words; 13,309 units; 0 bios)`
+- `0646IbnQifti.IkhbarCulama (96,909 words; 85 units; 0 bios)`
+- `0764Safadi.AcyanCasr (604,057 words; 2,367 units; 0 bios)`
 - `0764Safadi.WafiBiWafayat (1,968,791 words; 11,211 units; 0 bios)`
-- `0774IbnKathir.Bidaya (2,212,101 words; 3,485 units; 0 bios)`
+- `0774IbnKathir.Bidaya (2,212,102 words; 3,465 units; 0 bios)`
 - `0902Sakhawi.DuLamic (1,335,442 words; 14,452 units; 0 bios)`
 
 
@@ -61,7 +70,7 @@
 - `0748Dhahabi.MukhtasarMinDubaythi (96,058 words; 1,641 units; 0 bios)`
 
 
-### `*.mARkdown` (21 titles: 9,348,531 words; 81,596 units; 56,797 bios)
+### `*.mARkdown` (20 titles: 9,024,821 words; 81,596 units; 56,797 bios)
 
 - `0276IbnQutaybaDinawari.AdabKatib (69,366 words; 299 units; 0 bios)`
 - `0355MuhammadKindi.QudatMisr (36,490 words; 101 units; 100 bios)`
@@ -80,7 +89,6 @@
 - `0771Subki.TabaqatShaficiyaKubra (676,946 words; 1,428 units; 1,412 bios)`
 - `0774IbnKathir.TabaqatShaficiyyin (181,807 words; 965 units; 919 bios)`
 - `0900AbuCabdAllahHimyari.RawdMictar (323,710 words; 0 units; 0 bios)`
-- `Working Copy of 0900AbuCabdAllahHimyari.RawdMictar (323,710 words; 0 units; 0 bios)`
 - `0911Suyuti.LubbLubab (51,027 words; 4,853 units; 0 bios)`
 - `1339IsmacilBashaBaghdadi.HadiyaCarifin (421,313 words; 8,842 units; 8,814 bios)`
 - `1450MawsucaShicriya.MucjamShucara (158,184 words; 2,333 units; 2,305 bios)`

@@ -355,6 +355,7 @@
 |       |   |-- 0456IbnHazm.RisalaFiMaratibCulum
 |       |   `-- 0456IbnHazm.UmmahatKhulafa
 |       |-- 0458Bayhaqi
+|       |   |-- 0458Bayhaqi.AsmaWaSifat
 |       |   `-- 0458Bayhaqi.DalailNubuwwa
 |       |-- 0460ShaykhTusi
 |       |   |-- 0460ShaykhTusi.IkhtiyarMacrifaRijal
@@ -391,6 +392,28 @@
 |           `-- 0498AbuCaliJayyani.TaqyidMuhmal
 |-- 0600AH
 |   `-- data
+|       |-- 0505Ghazali
+|       |   |-- 0505Ghazali.AsnafMaghrurin
+|       |   |-- 0505Ghazali.BidayatHidaya
+|       |   |-- 0505Ghazali.Fadaih
+|       |   |-- 0505Ghazali.IhyaCulumDin
+|       |   |-- 0505Ghazali.Iqtisad
+|       |   |-- 0505Ghazali.JawahirQuran
+|       |   |-- 0505Ghazali.KimiyaSacada
+|       |   |-- 0505Ghazali.MacarijQuds
+|       |   |-- 0505Ghazali.MahkNazar
+|       |   |-- 0505Ghazali.Mankhul
+|       |   |-- 0505Ghazali.MaqsadAsna
+|       |   |-- 0505Ghazali.MicyarCilm
+|       |   |-- 0505Ghazali.MishkatAnwar
+|       |   |-- 0505Ghazali.MizanCamal
+|       |   |-- 0505Ghazali.Munqidh
+|       |   |-- 0505Ghazali.Mustasfa
+|       |   |-- 0505Ghazali.QawaidCaqaid
+|       |   |-- 0505Ghazali.SirrCalamin
+|       |   |-- 0505Ghazali.Tahafut
+|       |   |-- 0505Ghazali.TibrMasbuk
+|       |   `-- 0505Ghazali.Wasit
 |       |-- 0507AbuBakrShashi
 |       |   `-- 0507AbuBakrShashi.HilyaCulama
 |       |-- 0507IbnQaysarani
@@ -1097,39 +1120,64 @@
 |   `-- searches
 |-- OCR_TrainingData
 |   |-- ara
-|   |   |-- bayrut_calam_kutub
+|   |   |-- _bayrut_calam_kutub
 |   |   |   |-- 1_images
 |   |   |   |-- 2_preprocessed_images
 |   |   |   |-- 3_transcription_ready
 |   |   |   `-- 4_trainingdata
+|   |   |-- book_Bayhaqi.Asma
+|   |   |   |-- 1_images
+|   |   |   |-- 2_preprocessed_images
+|   |   |   |-- 3_transcription_ready
+|   |   |   `-- 4_training_data
+|   |   |-- book_IbnQutayba.ImamaWaSiyasa
+|   |   |   |-- 1_images
+|   |   |   |-- 2_preprocessed_images
+|   |   |   |-- 3_transcription_ready
+|   |   |   `-- 4_training_data
+|   |   |-- book_Jahiz.BayanWaTabyin
+|   |   |   |-- 1_images
+|   |   |   |-- 2_preprocessed_images
+|   |   |   |-- 3_transcription_ready
+|   |   |   `-- 4_training_data
+|   |   |-- book_Muctamad
+|   |   |   |-- 1_images
+|   |   |   |-- 2_preprocessed_images
+|   |   |   |-- 3_transcription_ready
+|   |   |   `-- 4_training_data
+|   |   |-- book_Taghribirdi.NujumZahira
+|   |   |   |-- 1_images
+|   |   |   |-- 2_preprocessed_images
+|   |   |   |-- 3_transcription_ready
+|   |   |   `-- 4_training_data
+|   |   |-- irshad_najam
+|   |   |   |-- 1_images
+|   |   |   |-- 2_preprocessed_images
+|   |   |   |-- 3_transcription_ready
+|   |   |   `-- 4_training_data
 |   |   |-- new_scans
-|   |   |   |-- 1_images
-|   |   |   |-- 2_preprocessed_images
-|   |   |   |-- 3_transcription_ready
-|   |   |   `-- 4_training_data
-|   |   |-- place_publisher_2
-|   |   |   |-- 1_images
-|   |   |   |-- 2_preprocessed_images
-|   |   |   |-- 3_transcription_ready
-|   |   |   `-- 4_training_data
-|   |   |-- place_publisher_3
 |   |   |   |-- 1_images
 |   |   |   |-- 2_preprocessed_images
 |   |   |   |-- 3_transcription_ready
 |   |   |   `-- 4_training_data
 |   |   `-- raw
 |   |-- per
-|   |   |-- place_publisher_1
+|   |   |-- ghazaliyyat
 |   |   |   |-- 1_images
 |   |   |   |-- 2_preprocessed_images
 |   |   |   |-- 3_transcription_ready
 |   |   |   `-- 4_training_data
-|   |   |-- place_publisher_2
+|   |   |-- kalila_wa_dimna
 |   |   |   |-- 1_images
 |   |   |   |-- 2_preprocessed_images
 |   |   |   |-- 3_transcription_ready
 |   |   |   `-- 4_training_data
-|   |   `-- place_publisher_3
+|   |   |-- khosrow_we_shirin
+|   |   |   |-- 1_images
+|   |   |   |-- 2_preprocessed_images
+|   |   |   |-- 3_transcription_ready
+|   |   |   `-- 4_training_data
+|   |   `-- place_publisher_2
 |   |       |-- 1_images
 |   |       |-- 2_preprocessed_images
 |   |       |-- 3_transcription_ready
@@ -1159,25 +1207,34 @@
 |   |-- 0800AH
 |   |-- 0900AH
 |   `-- 1000AH
-`-- passim
-    |-- model_files
-    |   |-- input
-    |   `-- output
-    |-- passim_new
-    |   |-- large_clean
-    |   |-- large_orig
-    |   |-- large_orig_output
-    |   |-- mech_clean
-    |   |-- mech_orig
-    |   |-- small_clean
-    |   `-- small_orig
-    |-- passim_old
-    |   |-- large_clean
-    |   |-- large_orig
-    |   |-- mech_clean
-    |   |-- mech_orig
-    |   |-- small_clean
-    |   `-- small_orig
-    `-- test
+|-- passim
+|   |-- model_files
+|   |   |-- input
+|   |   `-- output
+|   |-- passim_new
+|   |   |-- large_clean
+|   |   |-- large_orig
+|   |   |-- mech_clean
+|   |   |-- mech_orig
+|   |   |-- small_clean
+|   |   `-- small_orig
+|   |-- passim_old
+|   |   |-- large_clean
+|   |   |-- large_orig
+|   |   |-- mech_clean
+|   |   |-- mech_orig
+|   |   |-- small_clean
+|   |   `-- small_orig
+|   `-- test
+`-- passim_micro_runs
+    |-- in
+    |-- out
+    |   |-- align.json
+    |   |-- clusters.parquet
+    |   |-- conf
+    |   |-- out.json
+    |   |-- pairs.parquet
+    |   `-- pass.parquet
+    `-- spark-warehouse
 
-1180 directories
+1237 directories
