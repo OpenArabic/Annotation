@@ -640,6 +640,10 @@
 |       |   `-- 0726CallamaHilli.KhulasaAqwal
 |       |-- 0726Yunini
 |       |   `-- 0726Yunini.DhaylMiratZaman
+|       |-- 0728IbnTaymiyya
+|       |   |-- 0728IbnTaymiyya.FatawaHamawiyya
+|       |   |-- 0728IbnTaymiyya.MajmucFatawa
+|       |   `-- 0728IbnTaymiyya.RasailWaFatawa
 |       |-- 0730MuhammadTujibi
 |       |   `-- 0730MuhammadTujibi.Barnamaj
 |       |-- 0732AbuFida
@@ -732,6 +736,8 @@
 |       |   |-- 0776LisanDinIbnKhatib.KhatraTayf
 |       |   |-- 0776LisanDinIbnKhatib.MicyarIkhtiyar
 |       |   `-- 0776LisanDinIbnKhatib.NafadaJirab
+|       |-- 0777BadrDinBacli
+|       |   `-- 0777BadrDinBacli.MukhtasarFatawaMisriyya
 |       |-- 0779IbnBattuta
 |       |   `-- 0779IbnBattuta.Rihla
 |       |-- 0782IbnSallar
@@ -762,11 +768,10 @@
 |       |-- 0817IbnYacqubFiruzabadi
 |       |   `-- 0817IbnYacqubFiruzabadi.BulghaFiTarajim
 |       |-- 0821Qalqashandi
+|       |   |-- 0821Qalqashandi.Maathir
 |       |   |-- 0821Qalqashandi.NihayaArab
 |       |   |-- 0821Qalqashandi.QalaidJuman
 |       |   `-- 0821Qalqashandi.SubhAcsha
-|       |-- 0821ShihabDinQalqashandi
-|       |   `-- 0821ShihabDinQalqashandi.Maathir
 |       |-- 0825IbnQasimSabti
 |       |   `-- 0825IbnQasimSabti.IkhtisarAkhbar
 |       |-- 0826IbnCiraqi
@@ -1118,86 +1123,126 @@
 |   |-- meta
 |   |-- readme
 |   `-- searches
-|-- OCR_TrainingData
+|-- OCR_GS_Data
+|   `-- ara
+|       `-- book_IbnFaqihHamadhani.Buldan
+|           |-- 5_goldStandard_a_checked
+|           `-- 5_goldStandard_b_checked
+|-- OCR_TrainingData_Clean
 |   |-- ara
-|   |   |-- _bayrut_calam_kutub
-|   |   |   |-- 1_images
-|   |   |   |-- 2_preprocessed_images
-|   |   |   |-- 3_transcription_ready
-|   |   |   `-- 4_trainingdata
 |   |   |-- book_Bayhaqi.Asma
-|   |   |   |-- 1_images
 |   |   |   |-- 2_preprocessed_images
 |   |   |   |-- 3_transcription_ready
 |   |   |   `-- 4_training_data
+|   |   |-- book_IbnAthir.Kamil
+|   |   |   |-- 2_preprocessed_images
+|   |   |   |-- 3_transcription_ready
+|   |   |   `-- 4_training_data
+|   |   |-- book_IbnFaqihHamadhani.Buldan
+|   |   |   |-- 2_preprocessed_images
+|   |   |   |-- 3_transcription_ready_a
+|   |   |   |-- 4_trainingdata_a
+|   |   |   |-- 4_trainingdata_b
+|   |   |   |-- 5_goldStandard_a_checked
+|   |   |   `-- 5_goldStandard_b_checked
+|   |   |-- book_IbnQutayba.Adab
+|   |   |   |-- 2_preprocessed_images
+|   |   |   |-- 3_transcription_ready
+|   |   |   |-- 4_training_data
+|   |   |   `-- 5_goldstandard
 |   |   |-- book_IbnQutayba.ImamaWaSiyasa
-|   |   |   |-- 1_images
 |   |   |   |-- 2_preprocessed_images
 |   |   |   |-- 3_transcription_ready
 |   |   |   `-- 4_training_data
 |   |   |-- book_Jahiz.BayanWaTabyin
-|   |   |   |-- 1_images
 |   |   |   |-- 2_preprocessed_images
 |   |   |   |-- 3_transcription_ready
 |   |   |   `-- 4_training_data
+|   |   |-- book_Jahiz.Hayawan
+|   |   |   |-- 2_preprocessed_images
+|   |   |   |-- 3_transcription_ready
+|   |   |   |-- 4_training_data
+|   |   |   `-- 5_goldstandard
 |   |   |-- book_Muctamad
-|   |   |   |-- 1_images
 |   |   |   |-- 2_preprocessed_images
 |   |   |   |-- 3_transcription_ready
 |   |   |   `-- 4_training_data
 |   |   |-- book_Taghribirdi.NujumZahira
+|   |   |   |-- 2_preprocessed_images
+|   |   |   |-- 3_transcription_ready
+|   |   |   `-- 4_training_data
+|   |   |-- book_Yacqubi.Tarikh
+|   |   |   |-- 2_preprocessed_images
+|   |   |   |-- 3_transcription_ready
+|   |   |   |-- 4_training_data
+|   |   |   `-- 5_goldstandard
+|   |   |-- lq_Dhahabi.Tarikh
 |   |   |   |-- 1_images
 |   |   |   |-- 2_preprocessed_images
 |   |   |   |-- 3_transcription_ready
 |   |   |   `-- 4_training_data
-|   |   |-- irshad_najam
+|   |   |-- lq_IbnJawzi.Muntazam
+|   |   |   |-- 1_images
+|   |   |   |-- 2_preprocessed_images
+|   |   |   |-- 3_transcription_ready
+|   |   |   |-- 4_training_data
+|   |   |   |-- 5_goldstandard
+|   |   |   `-- 6_DoubleChecked
+|   |   |-- lq_IbnKathir.Bidaya
 |   |   |   |-- 1_images
 |   |   |   |-- 2_preprocessed_images
 |   |   |   |-- 3_transcription_ready
 |   |   |   `-- 4_training_data
-|   |   |-- new_scans
+|   |   |-- z.dummy_folder
 |   |   |   |-- 1_images
 |   |   |   |-- 2_preprocessed_images
 |   |   |   |-- 3_transcription_ready
 |   |   |   `-- 4_training_data
-|   |   `-- raw
-|   |-- per
-|   |   |-- ghazaliyyat
-|   |   |   |-- 1_images
-|   |   |   |-- 2_preprocessed_images
-|   |   |   |-- 3_transcription_ready
-|   |   |   `-- 4_training_data
-|   |   |-- kalila_wa_dimna
-|   |   |   |-- 1_images
-|   |   |   |-- 2_preprocessed_images
-|   |   |   |-- 3_transcription_ready
-|   |   |   `-- 4_training_data
-|   |   |-- khosrow_we_shirin
-|   |   |   |-- 1_images
-|   |   |   |-- 2_preprocessed_images
-|   |   |   |-- 3_transcription_ready
-|   |   |   `-- 4_training_data
-|   |   `-- place_publisher_2
-|   |       |-- 1_images
+|   |   `-- z_irshad_for_najam
 |   |       |-- 2_preprocessed_images
 |   |       |-- 3_transcription_ready
 |   |       `-- 4_training_data
-|   `-- per-ara
-|       |-- place_publisher_1
-|       |   |-- 1_images
+|   `-- per
+|       |-- ghazaliyyat
 |       |   |-- 2_preprocessed_images
 |       |   |-- 3_transcription_ready
 |       |   `-- 4_training_data
-|       |-- place_publisher_2
-|       |   |-- 1_images
+|       |-- kalila_wa_dimna
 |       |   |-- 2_preprocessed_images
 |       |   |-- 3_transcription_ready
 |       |   `-- 4_training_data
-|       `-- place_publisher_3
+|       |-- khosrow_wa_shirin
+|       |   |-- 2_preprocessed_images
+|       |   |-- 3_transcription_ready
+|       |   |-- 4_training_data
+|       |   `-- 5_goldstandard
+|       `-- z.dummy_folder
 |           |-- 1_images
 |           |-- 2_preprocessed_images
 |           |-- 3_transcription_ready
 |           `-- 4_training_data
+|-- OCR_TrainingData_RawScans
+|   |-- ara
+|   |   |-- book_Bayhaqi.Asma
+|   |   |   `-- out
+|   |   |-- book_IbnAthir.Kamil
+|   |   |-- book_IbnFaqihHamadhani.Buldan
+|   |   |-- book_IbnQutayba.Adab
+|   |   |-- book_IbnQutayba.ImamaWaSiyasa
+|   |   |   `-- out
+|   |   |-- book_Jahiz.BayanWaTabyin
+|   |   |   `-- out
+|   |   |-- book_Jahiz.Hayawan
+|   |   |   `-- out
+|   |   |-- book_Muctamad
+|   |   |   `-- out
+|   |   |-- book_Taghribirdi.NujumZahira
+|   |   `-- book_Yacqubi.Tarikh
+|   `-- per
+|       |-- ghazaliyyat
+|       |   `-- out
+|       `-- kalila_wa_dimna
+|           `-- out
 |-- PDF
 |   |-- 0300AH
 |   |-- 0400AH
@@ -1237,4 +1282,4 @@
     |   `-- pass.parquet
     `-- spark-warehouse
 
-1237 directories
+1282 directories
