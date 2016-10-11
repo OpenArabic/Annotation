@@ -1,10 +1,55 @@
 ./corpus/
 |-- 0100AH
 |   `-- data
+|       |-- 0001HarithIbnHilliza
+|       |   `-- 0001HarithIbnHilliza.Diwan
+|       |-- 0001HatimTai
+|       |   `-- 0001HatimTai.Diwan
+|       |-- 0001ImruQays
+|       |   `-- 0001ImruQays.Diwan
+|       |-- 0001NabighaDhubyani
+|       |   `-- 0001NabighaDhubyani.Diwan
+|       |-- 0001TarafaIbnCabd
+|       |   `-- 0001TarafaIbnCabd.Diwan
+|       |-- 0001TufaylGhanawi
+|       |   `-- 0001TufaylGhanawi.Diwan
+|       |-- 0040CaliIbnAbiTalib
+|       |   `-- 0040CaliIbnAbiTalib.NahjBalagha
+|       |-- 0041LabidIbnRabica
+|       |   `-- 0041LabidIbnRabica.Diwan
+|       `-- 0094ZaynCabidin
+|           `-- 0094ZaynCabidin.SahifaSajjadiya
 |-- 0200AH
 |   `-- data
 |       |-- 0110HasanBasri
 |       |   `-- 0110HasanBasri.FadailMakka
+|       |-- 0156IbnAbiCuruba
+|       |   `-- 0156IbnAbiCuruba.Manasik
+|       |-- 0161SufyanThawri
+|       |   `-- 0161SufyanThawri.Tafsir
+|       |-- 0168IbnTahman
+|       |   `-- 0168IbnTahman.Mashyakha
+|       |-- 0168MufaddalDabbi
+|       |   |-- 0168MufaddalDabbi.AmthalCarab
+|       |   `-- 0168MufaddalDabbi.Mufaddaliyat
+|       |-- 0170AbuZaydQurashi
+|       |   `-- 0170AbuZaydQurashi.JamharaAshcarCarab
+|       |-- 0170KhalilFarahidi
+|       |   |-- 0170KhalilFarahidi.Cayn
+|       |   `-- 0170KhalilFarahidi.JumalFiNahw
+|       |-- 0175LaythIbnSacd
+|       |   `-- 0175LaythIbnSacd.MajlisMinFawaid
+|       |-- 0179MalikIbnAnas
+|       |   |-- 0179MalikIbnAnas.MudawwanaKubra
+|       |   `-- 0179MalikIbnAnas.Muwatta
+|       |-- 0180Sibawayh
+|       |   `-- 0180Sibawayh.KitabSibawayh
+|       |-- 0181IbnMubarak
+|       |   |-- 0181IbnMubarak.Jihad
+|       |   |-- 0181IbnMubarak.Musnad
+|       |   `-- 0181IbnMubarak.Zuhd
+|       |-- 0182AbuYusufYacqub
+|       |   `-- 0182AbuYusufYacqub.Athar
 |       |-- 0195MuarrijSadusi
 |       |   `-- 0195MuarrijSadusi.HadhfMinNasabQuraysh
 |       `-- 0200AbuShis
@@ -205,6 +250,9 @@
 |       |   `-- 0335Suli.JuzMinAhadith
 |       |-- 0337IbnIshaqZajjaji
 |       |   `-- 0337IbnIshaqZajjaji.Akhbar
+|       |-- 0337QudamaIbnJacfar
+|       |   |-- 0337QudamaIbnJacfar.Kharaj
+|       |   `-- 0337QudamaIbnJacfar.NaqdShicr
 |       |-- 0346Istakhri
 |       |   `-- 0346Istakhri.MasalikWaMamalik
 |       |-- 0346Mascudi
@@ -1372,4 +1420,4 @@
     |   `-- pass.parquet
     `-- spark-warehouse
 
-1372 directories
+1420 directories

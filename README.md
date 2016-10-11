@@ -16,7 +16,7 @@
 - [Folder structure](#folder-structure)
 - [General description of the workflow with mARkdown](#general-description-of-the-workflow-with-markdown)
 - [Status Report](#status-report)
-- [List of books by centuries (682 titles)](#list-of-books-by-centuries-682-titles)
+- [List of books by centuries (710 titles)](#list-of-books-by-centuries-710-titles)
 - [Statistics on the corpus](#statistics-on-the-corpus)
 - [Summary statistics on the lengths of texts in the corpus](#summary-statistics-on-the-lengths-of-texts-in-the-corpus)
 - [Texts by length (duplicates excluded)](#texts-by-length-duplicates-excluded)
@@ -42,14 +42,14 @@ For the list of books currently in our corpus, see below.
 | *Texts* | *Status* |
 |:--- | ------:|
 | Total in the Collection | 10,393 |
-| Unique texts | 7,775 |
-| Added texts (listed below) | 682 |
+| Unique texts | 7,773 |
+| Added texts (listed below) | 710 |
 | Orphans (no TXT) | 2 |
 
 | *Texts* | *Status* |
 |:--- | ------:|
-| In Progress (`.inProgress`) | 23 |
-| Tagged (`.completed`) | 41 |
+| In Progress (`.inProgress`) | 25 |
+| Tagged (`.completed`) | 40 |
 | Vetted (`.mARkdown`) | 20 |
 | Converted to TEI XML  (`.xml`) | _pending_ |
 
@@ -185,15 +185,15 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 
 ## Status Report
  
-* 84 titles
-* 51,008,333 words
-* 260,886 logical units
+* 85 titles
+* 50,775,900 words
+* 254,705 logical units
 * 56,798 bios
 
-### `*.inProgress` (23 titles: 17,797,000 words; 82,794 units; 0 bios)
+### `*.inProgress` (25 titles: 19,094,470 words; 83,964 units; 0 bios)
 
 - `0230IbnSacd.TabaqatKubra (920,980 words; 6,386 units; 0 bios)`
-- `0255Jahiz.Hayawan (456,429 words; 3,481 units; 0 bios)`
+- `0255Jahiz.Hayawan (456,503 words; 3,357 units; 0 bios)`
 - `0256Bukhari.TarikhKabir (519,629 words; 15,061 units; 0 bios)`
 - `0276IbnQutaybaDinawari.CuyunAkhbar (232,763 words; 310 units; 0 bios)`
 - `0282AbuHanifaDinawari.AkhbarTiwal  (93,184 words; 858 units; 0 bios)`
@@ -201,14 +201,16 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - `0306IbnHayyanDabbi.AkhbarQudat (237,236 words; 1,976 units; 0 bios)`
 - `0310Tabari.JamicBayan (2,850,544 words; 0 units; 0 bios)`
 - `0310Tabari.Tarikh (1,468,736 words; 577 units; 0 bios)`
+- `0310Tabari.Tarikh (1,053,157 words; 417 units; 0 bios)`
 - `0324Ashcari.MaqalatIslamiyyin (94,221 words; 5 units; 0 bios)`
-- `0324Ashcari.MaqalatIslamiyyin (100,202 words; 2,522 units; 0 bios)`
+- `0324Ashcari.MaqalatIslamiyyin (100,232 words; 2,635 units; 0 bios)`
 - `0328IbnCabdRabbihi.CiqdFarid (562,475 words; 3,607 units; 0 bios)`
 - `0335Suli.AkhbarRadi (165,915 words; 255 units; 0 bios)`
 - `0346Istakhri.MasalikWaMamalik (75,617 words; 28 units; 0 bios)`
 - `0365IbnFaqihHamadhani.Buldan (147,627 words; 74 units; 0 bios)`
 - `0400IbnTahirMaqdisi.BadWaTarikh (197,351 words; 639 units; 0 bios)`
 - `0421Miskawayh.Tajarib (679,938 words; 2,490 units; 0 bios)`
+- `0421Miskawayh.Tajarib (244,209 words; 764 units; 0 bios)`
 - `0646IbnQifti.IkhbarCulama (96,909 words; 85 units; 0 bios)`
 - `0742Mizzi.TahdhibKamal (2,683,671 words; 12,446 units; 0 bios)`
 - `0764Safadi.AcyanCasr (604,056 words; 2,408 units; 0 bios)`
@@ -217,7 +219,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - `0902Sakhawi.DuLamic (1,335,442 words; 14,452 units; 0 bios)`
 
 
-### `*.completed` (41 titles: 24,186,509 words; 96,496 units; 1 bios)
+### `*.completed` (40 titles: 22,656,606 words; 89,145 units; 1 bios)
 
 - `0292Yacqubi.TarikhYacqubi (192,205 words; 139 units; 0 bios)`
 - `0379MuhammadRabci.TarikhMawlidCulama (35,125 words; 338 units; 0 bios)`
@@ -245,7 +247,6 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - `0571IbnCasakir.TarikhDimashq (8,193,674 words; 10,910 units; 0 bios)`
 - `0577IbnAnbari.NuzhaAlibba (43,678 words; 183 units; 0 bios)`
 - `0597IbnJawzi.Muntazam (1,529,901 words; 7,351 units; 0 bios)`
-- `Working Copy of 0597IbnJawzi.Muntazam (1,529,903 words; 7,351 units; 0 bios)`
 - `0600KatibMarrakushi.Istibsar (60,658 words; 200 units; 0 bios)`
 - `0626YaqutHamawi.MucjamBuldan (1,273,690 words; 13,668 units; 0 bios)`
 - `0658IbnAbbar.HullaSiyara (98,490 words; 228 units; 0 bios)`
@@ -290,23 +291,74 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 
 # Text currently included in the Coprus
 
-## List of books by centuries (682 titles)
+## List of books by centuries (710 titles)
 
 
-* **0100AH [[ [Re]generated on 2016-10-07 (13:01:28) ]]**
+* **0100AH [[ [Re]generated on 2016-10-11 (17:14:45) ]]**
 
- * _no texts at the moment_
+ * `0001HarithIbnHilliza.Diwan `
+	- *TAGS: _CENT00NO, _SHICR_JAHILI, _SHICR*
+ * `0001HatimTai.Diwan `
+	- *TAGS: _CENT00NO, _SHICR_JAHILI, _SHICR*
+ * `0001ImruQays.Diwan `
+	- *TAGS: _CENT00NO, _SHICR_JAHILI, _SHICR*
+ * `0001NabighaDhubyani.Diwan `
+	- *TAGS: _CENT00NO, _SHICR_JAHILI, _SHICR*
+ * `0001TarafaIbnCabd.Diwan `
+	- *TAGS: CENT0100, _ADAB, _BALAGHA, _SHICR_JAHILI, _SHICR*
+ * `0001TufaylGhanawi.Diwan `
+	- *TAGS: _CENT00NO, _SHICR_JAHILI, _SHICR*
+ * `0040CaliIbnAbiTalib.NahjBalagha `
+	- *TAGS: CENT0100, _HADITH, _SHICI*
+ * `0041LabidIbnRabica.Diwan `
+	- *TAGS: CENT0100, _ADAB, _BALAGHA, _MUKHADRAM, _SHICR*
+ * `0094ZaynCabidin.SahifaSajjadiya `
+	- *TAGS: CENT0100, _HADITH, _SHICI*
 
-* **0200AH [[ [Re]generated on 2016-10-07 (13:01:28) ]]**
+* **0200AH [[ [Re]generated on 2016-10-11 (17:14:45) ]]**
 
  * `0110HasanBasri.FadailMakka `
 	- *TAGS: CENT0200, PPE, _AJZA, _BULDAN, _HADITH, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0156IbnAbiCuruba.Manasik `
+	- *TAGS: CENT0200, _AJZA, _BUHUTH, _HADITH, _MASAIL, _TARAJIM*
+ * `0161SufyanThawri.Tafsir `
+	- *TAGS: CENT0200, _CULUM, _HADITH, _QURAN, _SUNNI, _TAFSIR*
+ * `0168IbnTahman.Mashyakha `
+	- *TAGS: CENT0200, _AJZA, _HADITH, _TARAJIM*
+ * `0168MufaddalDabbi.AmthalCarab `
+	- *TAGS: CENT0200, _ADAB, _ADAB, _AMTHAL, _BALAGHA*
+ * `0168MufaddalDabbi.AmthalCarab `
+	- *TAGS: _ADAB, _BALAGHA, _CENT00NO*
+ * `0168MufaddalDabbi.Mufaddaliyat `
+	- *TAGS: CENT0200, _ADAB, _ADAB, _BALAGHA, _SHICR*
+ * `0170AbuZaydQurashi.JamharaAshcarCarab `
+	- *TAGS: CENT0200, _ADAB, _ADAB, _BALAGHA, _SHICR*
+ * `0170KhalilFarahidi.Cayn `
+	- *TAGS: CENT0200, _FIQH, _GHARIB, _LUGHA, _MACAJIM, _MUSTALAHAT, _NAHW, _SARF*
+ * `0170KhalilFarahidi.JumalFiNahw `
+	- *TAGS: CENT0200, _MAJMUCAT, _NAHW, _SARF*
+ * `0175LaythIbnSacd.MajlisMinFawaid `
+	- *TAGS: CENT0200, _AJZA, _FAWAID, _HADITH, _MISC, _TARAJIM*
+ * `0179MalikIbnAnas.MudawwanaKubra `
+	- *TAGS: CENT0200, _FIQH, _HADITH, _MALIKI*
+ * `0179MalikIbnAnas.Muwatta `
+	- *TAGS: CENT0200, _FIQH, _HADITH, _MALIKI, _TARAJIM*
+ * `0180Sibawayh.KitabSibawayh `
+	- *TAGS: CENT0200, _MAJMUCAT, _NAHW, _SARF*
+ * `0181IbnMubarak.Jihad `
+	- *TAGS: CENT0200, _AJZA, _FIQH, _HADITH, _MASAIL, _SUNNI, _TARAJIM, _USUL*
+ * `0181IbnMubarak.Musnad `
+	- *TAGS: CENT0200, _AJZA, _HADITH, _MACAJIM, _MASANID, _TARAJIM*
+ * `0181IbnMubarak.Zuhd `
+	- *TAGS: CENT0200, _AJZA, _AKHLAQ, _HADITH*
+ * `0182AbuYusufYacqub.Athar `
+	- *TAGS: CENT0200, _FIQH, _HADITH, _HANAFI*
  * `0195MuarrijSadusi.HadhfMinNasabQuraysh `
 	- *TAGS: CENT0200, GEN, PPE, _ANSAB, _BULDAN, _TARIKH*
  * `0200AbuShis.Diwan `
 	- *TAGS: CENT0200, _SHICR_CABBASI, _SHICR*
 
-* **0300AH [[ [Re]generated on 2016-10-07 (13:01:28) ]]**
+* **0300AH [[ [Re]generated on 2016-10-11 (17:14:45) ]]**
 
  * `0204IbnKalbi.AnsabKhayl `
 	- *TAGS: CENT0300, GEN, PPE, _ADAB, _BALAGHA, _GHARIB, _MACAJIM, _MUSTALAHAT*
@@ -489,7 +541,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `0300MuallifMajhul.AkhbarDawlaCabbasiya `
 	- *TAGS: CENT0300, PPE, _TARIKH*
 
-* **0400AH [[ [Re]generated on 2016-10-07 (13:01:28) ]]**
+* **0400AH [[ [Re]generated on 2016-10-11 (17:14:45) ]]**
 
  * `0301Bardiji.TabaqatAsma `
 	- *TAGS: CENT0400, PPE, _HADITH, _TABAQAT, _TARAJIM*
@@ -571,6 +623,10 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 	- *TAGS: CENT0400, _AJZA, _HADITH*
  * `0337IbnIshaqZajjaji.Akhbar `
 	- *TAGS: CENT0400, _NAHW, _SARF, _TARAJIM, _TARIKH*
+ * `0337QudamaIbnJacfar.Kharaj `
+	- *TAGS: CENT0400, _ADAB, _BUHUTH, _CARUD, _FIQH, _KITABA, _MASAIL, _USUL*
+ * `0337QudamaIbnJacfar.NaqdShicr `
+	- *TAGS: CENT0400, _ADAB, _BALAGHA*
  * `0346Istakhri.MasalikWaMamalik `
 	- *TAGS: CENT0400, GEO, PPE, _BULDAN, _JUGHRAFIYA, _MUDHAKKARAT, _RIHLAT, _TARIKH*
  * `0346Mascudi.AkhbarZaman `
@@ -678,7 +734,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `0400IshaqMunajjim.AkamMarjan `
 	- *TAGS: CENT0400, _BULDAN, _JUGHRAFIYA, _RIHLAT*
 
-* **0500AH [[ [Re]generated on 2016-10-07 (13:01:28) ]]**
+* **0500AH [[ [Re]generated on 2016-10-11 (17:14:45) ]]**
 
  * `0402MuhammadSaydawi.MucjamShuyukh `
 	- *TAGS: CENT0500, _HADITH, _MACAJIM, _MASANID, _TABAQAT, _TARAJIM*
@@ -809,7 +865,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `0498AbuCaliJayyani.TaqyidMuhmal `
 	- *TAGS: CENT0500, PPE, _HADITH, _MISC, _TABAQAT, _TARAJIM*
 
-* **0600AH [[ [Re]generated on 2016-10-07 (13:01:28) ]]**
+* **0600AH [[ [Re]generated on 2016-10-11 (17:14:45) ]]**
 
  * `0505Ghazali.AsnafMaghrurin `
 	- *TAGS: CENT0600, _ADAB, _ADHKAR, _AKHLAQ, _MISC, _RAQAIQ, _SULUK*
@@ -970,7 +1026,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `0600KatibMarrakushi.Istibsar `
 	- *TAGS: CENT0600, _BULDAN, _JUGHRAFIYA, _RIHLAT*
 
-* **0700AH [[ [Re]generated on 2016-10-07 (13:01:28) ]]**
+* **0700AH [[ [Re]generated on 2016-10-11 (17:14:45) ]]**
 
  * `0606IbnMamati.LataifDhakhira `
 	- *TAGS: CENT0700, PPE, _TABAQAT, _TARAJIM*
@@ -1097,7 +1153,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `0696IbnZahiri.Mashyakha `
 	- *TAGS: CENT0700, PPE, _AJZA, _HADITH, _TARAJIM*
 
-* **0800AH [[ [Re]generated on 2016-10-07 (13:01:28) ]]**
+* **0800AH [[ [Re]generated on 2016-10-11 (17:14:45) ]]**
 
  * `0701SharafDinYunini.Mashyakha `
 	- *TAGS: CENT0800, PPE, _AJZA, _HADITH*
@@ -1262,7 +1318,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `0799IbnFarhun.DibajMudhahhab `
 	- *TAGS: CENT0800, PPE, _FIQH, _TABAQAT, _TARAJIM, _TARIKH*
 
-* **0900AH [[ [Re]generated on 2016-10-07 (13:01:28) ]]**
+* **0900AH [[ [Re]generated on 2016-10-11 (17:14:45) ]]**
 
  * `0804IbnMulaqqin.TabaqatAwliya `
 	- *TAGS: CENT0900, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT*
@@ -1389,7 +1445,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `0900AbuCabdAllahHimyari.RawdMictar `
 	- *TAGS: CENT0900, COL, GEO, PPE, _BULDAN, _GHARIB, _JUGHRAFIYA, _MACAJIM, _MUSTALAHAT, _RIHLAT*
 
-* **1000AH [[ [Re]generated on 2016-10-07 (13:01:28) ]]**
+* **1000AH [[ [Re]generated on 2016-10-11 (17:14:45) ]]**
 
  * `0902Sakhawi.Buldaniyyat `
 	- *TAGS: CENT1000, PPE, _AJZA, _HADITH, _MISC, _TARAJIM*
@@ -1464,7 +1520,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `0984BardDinGhazzi.MatalicBadriya `
 	- *TAGS: CENT1000, _BULDAN, _JUGHRAFIYA, _RIHLAT*
 
-* **1100AH [[ [Re]generated on 2016-10-07 (13:01:28) ]]**
+* **1100AH [[ [Re]generated on 2016-10-11 (17:14:45) ]]**
 
  * `1010TamimiDari.TabaqatSaniya `
 	- *TAGS: BIO, CENT1100, COL, PPE, _TABAQAT, _TARAJIM, _TARIKH*
@@ -1503,7 +1559,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `1100MustafaTafrishi.NaqdRijal `
 	- *TAGS: BIO, CENT1100, PPE, SHC, _HADITH, _SHICI, _TARAJIM*
 
-* **1200AH [[ [Re]generated on 2016-10-07 (13:01:28) ]]**
+* **1200AH [[ [Re]generated on 2016-10-11 (17:14:45) ]]**
 
  * `1101MuhammadCaliArdabili.JamicRuwat `
 	- *TAGS: CENT1200, PPE, SHC, _HADITH, _SHICI, _TARAJIM*
@@ -1534,7 +1590,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `1195CabdRahmanAnsari.Tuhfa `
 	- *TAGS: CENT1200, _ANSAB, _MISC*
 
-* **1300AH [[ [Re]generated on 2016-10-07 (13:01:28) ]]**
+* **1300AH [[ [Re]generated on 2016-10-11 (17:14:45) ]]**
 
  * `1206Muradi.SilkDurar `
 	- *TAGS: CENT1300, PPE, _TABAQAT, _TARAJIM*
@@ -1563,7 +1619,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `1286IcjazHusaynKunturi.KashfHajb `
 	- *TAGS: BIB, CENT1300, PPE, _FAHARIS, _KUTUB*
 
-* **1400AH [[ [Re]generated on 2016-10-07 (13:01:28) ]]**
+* **1400AH [[ [Re]generated on 2016-10-11 (17:14:45) ]]**
 
  * `1307Qannawji.AbjadCulum `
 	- *TAGS: CENT1400, PPE, _ADILLA, _FAHARIS, _KUTUB, _MACAJIM*
@@ -1648,7 +1704,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `1396KhayrDinZirikli.Aclam `
 	- *TAGS: BIO, CENT1400, COL, PPE, _FAHARIS, _KUTUB, _TABAQAT, _TARAJIM*
 
-* **1500AH [[ [Re]generated on 2016-10-07 (13:01:28) ]]**
+* **1500AH [[ [Re]generated on 2016-10-11 (17:14:45) ]]**
 
  * `1405CaliShahrudi.Mustadrakat `
 	- *TAGS: CENT1500, PPE, SHC, _HADITH, _SHICI, _TARAJIM*
@@ -1708,13 +1764,13 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 
 | **Category** | **Stats** |
 |:--- | ------:|
-| Number of text files | 1365 |
-| Number of books      | 677 |
-| Number of authors    | 414 |
-| Length in words (all)| 394,923,821 |
-| Length in pages (300 w/p)| 1,316,412 |
-| Length in words (unique) | 181,573,006 |
-| Length in pages (300 w/p)| 605,243 |
+| Number of text files | 1374 |
+| Number of books      | 684 |
+| Number of authors    | 416 |
+| Length in words (all)| 395,644,274 |
+| Length in pages (300 w/p)| 1,318,814 |
+| Length in words (unique) | 182,202,392 |
+| Length in pages (300 w/p)| 607,341 |
 
 
 ## Summary statistics on the lengths of texts in the corpus
@@ -1759,7 +1815,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 | 24 | 0360Tabarani.MucjamKabir | 1,590,311 | 5,301 |
 | 25 | 0355AbuFarajIsbahani.Aghani | 1,537,021 | 5,123 |
 | 26 | 0597IbnJawzi.Muntazam | 1,529,894 | 5,099 |
-| 27 | 0852IbnHajarCasqalani.TahdhibTahdhib | 1,415,254 | 4,717 |
+| 27 | 0852IbnHajarCasqalani.TahdhibTahdhib | 1,415,253 | 4,717 |
 | 28 | 0630IbnAthirCizzDin.Kamil | 1,385,342 | 4,617 |
 | 29 | 0660IbnCadim.BughyatTalib | 1,373,052 | 4,576 |
 | 30 | 0902Sakhawi.DuLamic | 1,335,429 | 4,451 |
@@ -1908,508 +1964,515 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 | 173 | 0911Suyuti.BughyaWucat | 197,961 | 659 |
 | 174 | 0400IbnTahirMaqdisi.BadWaTarikh | 197,348 | 657 |
 | 175 | 0571IbnCasakir.MucjamShuyukh | 195,776 | 652 |
-| 176 | 0645TilimsaniBurri.Jawhara | 194,697 | 648 |
-| 177 | 0292Yacqubi.TarikhYacqubi | 193,018 | 643 |
-| 178 | 1250IbnCaliShaykani.BadrTalic | 192,663 | 642 |
-| 179 | 0347IbnYunusSadafi.Tarikh | 190,889 | 636 |
-| 180 | 1450MuhammadKhayrRamadan.TakmilaMucjamMuallifin | 189,829 | 632 |
-| 181 | 0561Samcani.Muntakhab | 188,251 | 627 |
-| 182 | 0463KhatibBaghdadi.TalkhisMutashabih | 187,352 | 624 |
-| 183 | 0310IbnAhmadDulabi.KunaWaAsma | 186,967 | 623 |
-| 184 | 1041Maqarri.AzharRiyad | 185,770 | 619 |
-| 185 | 0845Maqrizi.IqazHunafa | 185,230 | 617 |
-| 186 | 0852IbnHajarCasqalani.MucjamMufahras | 183,759 | 612 |
-| 187 | 0505Ghazali.Mustasfa | 183,605 | 612 |
-| 188 | 0487AbuCubaydBakri.MasalikWaMamalik | 181,326 | 604 |
-| 189 | 0774IbnKathir.TabaqatShaficiyyin | 180,884 | 602 |
-| 190 | 0474IbnKhalafBaji.TacdilWaTakhrij | 180,381 | 601 |
-| 191 | 0832AbuTayyibFasi.DhaylTaqyid | 177,958 | 593 |
-| 192 | 1120CaliKhanMadani.DarajatRafica | 174,564 | 581 |
-| 193 | 0255Jahiz.Rasail | 172,282 | 574 |
-| 194 | 0521IbnAbiYacla.TabaqatHanabila | 171,812 | 572 |
-| 195 | 0508FattalNaysaburi.RawdaWacizin | 170,713 | 569 |
-| 196 | 0255Jahiz.BayanWaTabyin | 170,368 | 567 |
-| 197 | 0884SibtIbnCajami.KunuzDhahab | 170,224 | 567 |
-| 198 | 1422MuhammadSalimMuhaysin.MucjamHuffazQuran | 169,932 | 566 |
-| 199 | 0911Samhudi.KhulasaWafaWafa | 168,018 | 560 |
-| 200 | 0276IbnQutaybaDinawari.MacaniKabir | 168,017 | 560 |
-| 201 | 0812CaliKhazraji.CuqudLuluiyya | 167,694 | 558 |
-| 202 | 0615MuwaffaqDinShafici.MurshidZuwwar | 167,271 | 557 |
-| 203 | 0335Suli.AkhbarRadi | 165,915 | 553 |
-| 204 | 1119IbnMacsum.SulafaCasr | 165,783 | 552 |
-| 205 | 0421IbnMuhammadMarzuqi.AzminaWaAmkina | 165,458 | 551 |
-| 206 | 0511SalmaSahari.Ansab | 162,120 | 540 |
-| 207 | 0276IbnQutaybaDinawari.ImamaWaSiyasa | 162,038 | 540 |
-| 208 | 1010TamimiDari.TabaqatSaniya | 161,681 | 538 |
-| 209 | 0597IbnJawzi.TalqihFuhum | 160,269 | 534 |
-| 210 | 0458Bayhaqi.AsmaWaSifat | 157,931 | 526 |
-| 211 | 1011SahibMacalim.TahrirTawusi | 157,260 | 524 |
-| 212 | 1450MawsucaShicriya.MucjamShucara | 155,885 | 519 |
-| 213 | 1338MuhammadFaridBey.Tarikh | 155,747 | 519 |
-| 214 | 0279IbnAbiKhaythama.TarikhKabir | 155,627 | 518 |
-| 215 | 0535QawwamSunna.SiyarSalaf | 154,547 | 515 |
-| 216 | 0695IbnCidhariMarrakushi.BayanMaghrib | 153,641 | 512 |
-| 217 | 0748Dhahabi.MucjamShuyukh | 152,971 | 509 |
-| 218 | 1422IbnHadiWadici.RijalHakim | 152,657 | 508 |
-| 219 | 0276IbnQutaybaDinawari.GharibHadith | 151,462 | 504 |
-| 220 | 0777BadrDinBacli.MukhtasarFatawaMisriyya | 149,612 | 498 |
-| 221 | 0365IbnFaqihHamadhani.Buldan | 147,627 | 492 |
-| 222 | 0682ZakariyaQazwini.AtharBilad | 146,837 | 489 |
-| 223 | 0696IbnZahiri.Mashyakha | 146,557 | 488 |
-| 224 | 0968Tashkubruizadah.ShaqaiqNucmaniyya | 145,615 | 485 |
-| 225 | 1450AbuTayyibMansuri.Irshad | 144,616 | 482 |
-| 226 | 0845Maqrizi.MukhtasarKamil | 142,932 | 476 |
-| 227 | 0821Qalqashandi.Maathir | 142,487 | 474 |
-| 228 | 0385IbnNadim.Fihrist | 141,796 | 472 |
-| 229 | 0945ShamsDinDawudi.TabaqatMufassirin | 139,971 | 466 |
-| 230 | 1376CabdRahmanSacdi.Muallafat | 139,967 | 466 |
-| 231 | 0351IbnQanic.MucjamSahaba | 139,882 | 466 |
-| 232 | 0578IbnBashkuwal.Sila | 139,365 | 464 |
-| 233 | 0709CaliCalawi.Majdi | 138,926 | 463 |
-| 234 | 0276IbnQutaybaDinawari.ShicrWaShucara | 137,744 | 459 |
-| 235 | 0249Azraqi.AkhbarMakka | 136,671 | 455 |
-| 236 | 0576IbnMuhammadSilafi.MashyakhaBaghdadiyya | 135,363 | 451 |
-| 237 | 0245MuhammadIbnHabib.MunammaqFiAkhbarQuraysh | 135,021 | 450 |
-| 238 | 0703MuhammadMarrakushi.DhaylWaTakmila | 133,973 | 446 |
-| 239 | 0911Suyuti.TarikhKhulafa | 133,130 | 443 |
-| 240 | 0241IbnHanbal.FadailSahaba | 132,367 | 441 |
-| 241 | 0369AbuShaykhIsbahani.TabaqatMuhaddithin | 132,061 | 440 |
-| 242 | 0456IbnHazm.JamharaAnsab | 130,859 | 436 |
-| 243 | 0852IbnHajarCasqalani.TacjilManfaca | 127,930 | 426 |
-| 244 | 0953IbnTulun.MufakahaKhillan | 127,338 | 424 |
-| 245 | 1286IcjazHusaynKunturi.KashfHajb | 126,032 | 420 |
-| 246 | 0395IbnMandahMuhammad.FathBab | 124,908 | 416 |
-| 247 | 0279Baladhuri.FutuhBuldan | 124,892 | 416 |
-| 248 | 0428IbnManjuwayhIsbahani.RijalSahihMuslim | 124,175 | 413 |
-| 249 | 0367IbnHawqal.SuraArd | 123,793 | 412 |
-| 250 | 0884IbnMuflih.MaqsidArshad | 123,777 | 412 |
-| 251 | 0852IbnHajarCasqalani.RafcCisr | 123,094 | 410 |
-| 252 | 0276IbnQutaybaDinawari.Macarif | 121,880 | 406 |
-| 253 | 0565IbnZaydBayhaqi.TarikhBayhaq | 121,037 | 403 |
-| 254 | 0555IbnQalanisi.Tarikh | 120,986 | 403 |
-| 255 | 0449AbuCalaMacarri.Diwan | 120,379 | 401 |
-| 256 | 0429Thacalibi.ThimarQulub | 119,721 | 399 |
-| 257 | 0228IbnHammadKhuzaci.Fitan | 119,494 | 398 |
-| 258 | 0851IbnQadiShuhba.TabaqatShaficiya | 119,436 | 398 |
-| 259 | 0748Dhahabi.MughniFiDucafa | 119,182 | 397 |
-| 260 | 0403IbnFaradi.TarikhCulamaAndalus | 118,911 | 396 |
-| 261 | 0575IbnKhayrIshbili.Fahrasa | 117,769 | 392 |
-| 262 | 0771Subki.MucjamShuyukh | 117,371 | 391 |
-| 263 | 0599IbnYahyaDabbi.BughyaMultamis | 116,987 | 389 |
-| 264 | 0684IbnShaddad.AclaqKhatira | 116,670 | 388 |
-| 265 | 0257IbnCabdHakam.FutuhMisr | 116,282 | 387 |
-| 266 | 0427HamzaJurjani.TarikhJurjan | 114,881 | 382 |
-| 267 | 0799IbnFarhun.DibajMudhahhab | 114,355 | 381 |
-| 268 | 1037CabdQadirCaydarus.TarikhNurSafir | 113,966 | 379 |
-| 269 | 1270ShihabDinAlusi.GharaibIghtirab | 113,165 | 377 |
-| 270 | 0233YahyaIbnMacin.TarikhIbnMacin | 112,871 | 376 |
-| 271 | 0629IbnNuqta.TaqyidLiMacrifa | 112,296 | 374 |
-| 272 | 1313VanDyck.IktifaQunuc | 112,098 | 373 |
-| 273 | 0213IbnHisham.Tijan | 111,971 | 373 |
-| 274 | 0440AbuRayhanBiruni.TahqiqMaLilHind | 111,411 | 371 |
-| 275 | 1346CbdQadirBadran.Munadama | 110,741 | 369 |
-| 276 | 0660IbnCadim.ZubdaHalab | 110,479 | 368 |
-| 277 | 0578IbnBashkuwal.GhawamidAsma | 110,027 | 366 |
-| 278 | 0354IbnHibban.Sira | 109,974 | 366 |
-| 279 | 0561Samcani.Tahbir | 109,525 | 365 |
-| 280 | 0685IbnSacidMaghribi.Mughrib | 109,402 | 364 |
-| 281 | 0685IbnCibri.TarikhMukhtasarDuwal | 109,030 | 363 |
-| 282 | 0240KhalifaIbnKhayyat.Tarikh | 108,050 | 360 |
-| 283 | 0726CallamaHilli.KhulasaAqwal | 106,878 | 356 |
-| 284 | 0300MuallifMajhul.AkhbarDawlaCabbasiya | 106,130 | 353 |
-| 285 | 0748Dhahabi.DiwanDucafa | 105,284 | 350 |
-| 286 | 0748Dhahabi.MukhtasarMinDubaythi | 103,004 | 343 |
-| 287 | 0240KhalifaIbnKhayyat.Tabaqat | 102,233 | 340 |
-| 288 | 0597IbnJawzi.DucafaWaMatrukin | 100,991 | 336 |
-| 289 | 0324Ashcari.MaqalatIslamiyyin | 100,191 | 333 |
-| 290 | 1450CadilNuwayhid.MucjamAclamJazair | 100,098 | 333 |
-| 291 | 0658IbnAbbar.HullaSiyara | 98,508 | 328 |
-| 292 | 0390Muqaddasi.AhsanTaqasim | 98,198 | 327 |
-| 293 | 0507AbuBakrShashi.HilyaCulama | 98,130 | 327 |
-| 294 | 0282AbuHanifaDinawari.AkhbarTiwal | 97,880 | 326 |
-| 295 | 0576IbnMuhammadSilafi.MucjamSafar | 97,869 | 326 |
-| 296 | 0748Dhahabi.MacrifaQurraKibar | 97,714 | 325 |
-| 297 | 0821Qalqashandi.NihayaArab | 97,039 | 323 |
-| 298 | 0646IbnQifti.IkhbarCulama | 96,909 | 323 |
-| 299 | 0641Sarifini.Muntakhab | 96,486 | 321 |
-| 300 | 0575IbnBabawayh.Fihrist | 96,438 | 321 |
-| 301 | 1041BurhanDinMaliki.BahjaMahafil | 96,298 | 320 |
-| 302 | 0854IbnDiyaMakki.TarikhMakka | 96,272 | 320 |
-| 303 | 0448HilalSabi.TuhfaUmara | 95,725 | 319 |
-| 304 | 0600AbuBaqaHilli.ManaqibMazidiya | 95,644 | 318 |
-| 305 | 0580IbnCimrani.InbaFiTarikhKhulafa | 92,814 | 309 |
-| 306 | 0398AbuNasrKalabadhi.HidayaWaIrshad | 90,817 | 302 |
-| 307 | 0395IbnMandahMuhammad.MacrifaSahaba | 90,565 | 301 |
-| 308 | 0741KhatibTabrizi.Ikmal | 90,307 | 301 |
-| 309 | 0236AbuCabdAllahZubayri.NasabQuraysh | 90,262 | 300 |
-| 310 | 0450Najashi.Rijal | 90,256 | 300 |
-| 311 | 0204IbnKalbi.NasabMacad | 88,977 | 296 |
-| 312 | 1330IbnMusaTabrizi.MiratKutub | 88,818 | 296 |
-| 313 | 0460ShaykhTusi.Rijal | 88,503 | 295 |
-| 314 | 1354HasanSadr.Takmila | 88,094 | 293 |
-| 315 | 0346Mascudi.TanbihWaIshraf | 87,579 | 291 |
-| 316 | 0256Bukhari.TarikhSaghir | 86,362 | 287 |
-| 317 | 0384IbnCimranMarzubani.MucjamShucara | 86,047 | 286 |
-| 318 | 0256ZubayrIbnBakkar.AkhbarMuwaffaqiyat | 85,750 | 285 |
-| 319 | 0255Jahiz.Cuthmaniya | 85,453 | 284 |
-| 320 | 0488IbnFutuhHumaydi.JadhwaMuqtabis | 85,167 | 283 |
-| 321 | 0597CimadDinKatib.BarqShami | 84,900 | 283 |
-| 322 | 0528FathIbnKhaqan.QalaidCiqyan | 84,437 | 281 |
-| 323 | 1389AghaBuzurgTihrani.TASHNawabighRuwat | 84,082 | 280 |
-| 324 | 0540AbuMansurJawaliqi.SharhAdabKatib | 83,991 | 279 |
-| 325 | 0446AbuYaclaKhalili.IrshadFiMacrifaCulama | 82,456 | 274 |
-| 326 | 0694MuhibbDinTabari.Dhakhair | 81,328 | 271 |
-| 327 | 0597IbnJawzi.MuthirGharam | 81,078 | 270 |
-| 328 | 1100MuhammadItlidi.IclamNas | 80,344 | 267 |
-| 329 | 0292Bahshal.TarikhWasit | 80,039 | 266 |
-| 330 | 1153IbnKannan.YawmiyyatShamiyya | 79,567 | 265 |
-| 331 | 0276IbnQutaybaDinawari.TawilMukhtalafHadith | 79,395 | 264 |
-| 332 | 0748Dhahabi.Muqtana | 77,096 | 256 |
-| 333 | 0261AbuHasanCijli.MacrifaThiqat | 76,492 | 254 |
-| 334 | 0658IbnAbbar.MucjamAshab | 76,471 | 254 |
-| 335 | 0761IbnKaykaldi.JamicTahsil | 76,460 | 254 |
-| 336 | 0565IbnZaydBayhaqi.LubabAnsab | 76,424 | 254 |
-| 337 | 0749IbnWardi.KharidaCajaib | 75,947 | 253 |
-| 338 | 0281AbuZurcaDimashqi.Tarikh | 75,765 | 252 |
-| 339 | 0346Istakhri.MasalikWaMamalik | 75,599 | 251 |
-| 340 | 0733IbnJamaca.Mashyakha | 75,126 | 250 |
-| 341 | 0614IbnJubayr.Rihla | 74,329 | 247 |
-| 342 | 0764Safadi.NaktHimyan | 74,306 | 247 |
-| 343 | 0904Burayhi.TabaqatSulahaYaman | 74,213 | 247 |
-| 344 | 0767Balawi.TajMafriq | 73,852 | 246 |
-| 345 | 0911Suyuti.TabaqatHuffaz | 73,614 | 245 |
-| 346 | 0535QawwamSunna.DalailNubuwwa | 72,728 | 242 |
-| 347 | 0854IbnCarabshah.CajaibMaqdur | 72,705 | 242 |
-| 348 | 1174AbuBarakatSuwaydi.NafhaMiskiya | 71,961 | 239 |
-| 349 | 0723IbnFuwati.Hawadith | 71,739 | 239 |
-| 350 | 0730MuhammadTujibi.Barnamaj | 71,375 | 237 |
-| 351 | 0748Dhahabi.MukhtasarCuluww | 71,152 | 237 |
-| 352 | 0334IbnHaikHamdani.SifaJaziraCarab | 70,929 | 236 |
-| 353 | 0647CabdWahidMarrakushi.Mucjib | 70,871 | 236 |
-| 354 | 0255Jahiz.MahasinWaAddad | 70,477 | 234 |
-| 355 | 0333AbuCarabTamimi.Mihan | 70,365 | 234 |
-| 356 | 0261Muslim.KunaWaAsma | 70,202 | 234 |
-| 357 | 0296IbnMuctazz.TabaqatShucara | 69,665 | 232 |
-| 358 | 0276IbnQutaybaDinawari.AdabKatib | 69,368 | 231 |
-| 359 | 1147CabdAllahSancani.TarikhYaman | 69,040 | 230 |
-| 360 | 0673AbuMahasinYaghmuri.NurQabas | 68,955 | 229 |
-| 361 | 0750AbuHafsQazwini.Mashyakha | 68,872 | 229 |
-| 362 | 0412Sulami.TabaqatSufiya | 68,774 | 229 |
-| 363 | 1195CabdRahmanAnsari.Tuhfa | 68,557 | 228 |
-| 364 | 0740IbnDawudHilli.Rijal | 68,088 | 226 |
-| 365 | 1307Qannawji.HittaFiDhikr | 67,880 | 226 |
-| 366 | 1421HamdJasir.MucjamQabailMCS | 67,689 | 225 |
-| 367 | 0690IbnMujawirDimashqi.TarikhMustabsir | 65,633 | 218 |
-| 368 | 0639AbuBakrMalaqi.MatlacAnwar | 65,139 | 217 |
-| 369 | 0584IbnMusaHazimi.Amakin | 64,697 | 215 |
-| 370 | 0816AbuBakrMaraghi.Mashyakha | 64,167 | 213 |
-| 371 | 0346Mascudi.AkhbarZaman | 63,951 | 213 |
-| 372 | 1232IbnKhatibCumari.RawdaFayha | 63,383 | 211 |
-| 373 | 0643IbnSalahShahrazuri.TabaqatFuqaha | 63,126 | 210 |
-| 374 | 0826IbnCiraqi.TuhfaTahsil | 62,996 | 209 |
-| 375 | 1450CabdRahmanAlShaykh.Mashahir | 62,418 | 208 |
-| 376 | 0871IbnFahdMakki.LahzAlhaz | 62,047 | 206 |
-| 377 | 0793AbuHasanMalaqi.TarikhQudat | 62,043 | 206 |
-| 378 | 0276IbnQutaybaDinawari.GharibQuran | 61,726 | 205 |
-| 379 | 0938IbnCaliBalawi.Thabat | 61,539 | 205 |
-| 380 | 0276IbnQutaybaDinawari.TawilMushkilQuran | 61,443 | 204 |
-| 381 | 0774IbnRaficSallami.Wafayat | 61,135 | 203 |
-| 382 | 0600KatibMarrakushi.Istibsar | 60,550 | 201 |
-| 383 | 0521MuhammadHamadhani.TakmilaTarikhTabari | 60,016 | 200 |
-| 384 | 1307Qannawji.LuqtaCajlan | 59,600 | 198 |
-| 385 | 0874IbnTaghribirdi.MawridLatafa | 59,510 | 198 |
-| 386 | 1338MuhammadFaridBey.Bahja | 59,305 | 197 |
-| 387 | 0714AhmadGhibrini.CunwanDiraya | 58,461 | 194 |
-| 388 | 0395AbuHilalCaskari.Talkhis | 57,835 | 192 |
-| 389 | 1069ShihabDinKhafaji.RayhanaAlibba | 57,614 | 192 |
-| 390 | 0911Suyuti.LubbLubab | 57,394 | 191 |
-| 391 | 0646IbnQifti.Muhammadun | 57,364 | 191 |
-| 392 | 0255Jahiz.BursanWaCurjan | 57,316 | 191 |
-| 393 | 0276IbnQutaybaDinawari.Jarathim | 57,100 | 190 |
-| 394 | 0256ZubayrIbnBakkar.JamharaNasabQuraysh | 56,650 | 188 |
-| 395 | 0310Tabari.MuntakhabMinDhayl | 56,329 | 187 |
-| 396 | 0808IbnKhaldun.Rihla | 55,833 | 186 |
-| 397 | 1167IbnCabrRahmanGhazzi.DiwanIslam | 55,685 | 185 |
-| 398 | 0909IbnMibradHanbali.BahrDamm | 55,202 | 184 |
-| 399 | 0255Jahiz.Bukhala | 55,171 | 183 |
-| 400 | 0475IbnMakula.TahdhibMustamirr | 55,129 | 183 |
-| 401 | 0231IbnSallamJumahi.TabaqatFuhulShucara | 54,921 | 183 |
-| 402 | 0776LisanDinIbnKhatib.KatibaKamina | 54,854 | 182 |
-| 403 | 0804IbnMulaqqin.TabaqatAwliya | 54,595 | 181 |
-| 404 | 0765AbuMahasinHusayni.IkmalLiRijal | 54,306 | 181 |
-| 405 | 0505Ghazali.Mankhul | 54,192 | 180 |
-| 406 | 0911Suyuti.ItmamDiraya | 54,179 | 180 |
-| 407 | 0280IbnTayfur.BallaghatNisa | 53,601 | 178 |
-| 408 | 1277MuhammadTantawi.NashaNahw | 52,381 | 174 |
-| 409 | 0776LisanDinIbnKhatib.NafadaJirab | 52,268 | 174 |
-| 410 | 0884SibtIbnCajami.KashfHathith | 52,220 | 174 |
-| 411 | 0748Dhahabi.Culuww | 51,813 | 172 |
-| 412 | 0370IbnBishrAmidi.MutalifWaMukhtalif | 51,486 | 171 |
-| 413 | 1381MuhammadSancani.MulhaqBadr | 51,442 | 171 |
-| 414 | 0782IbnSallar.TabaqatQurra | 51,171 | 170 |
-| 415 | 0296IbnMuctazz.Diwan | 51,131 | 170 |
-| 416 | 0606IbnMamati.LataifDhakhira | 51,074 | 170 |
-| 417 | 0355MuhammadKindi.WulatMisr | 50,996 | 169 |
-| 418 | 1070MuhammadKibrit.RihlaShita | 50,647 | 168 |
-| 419 | 0550AbuHajjajAshcari.TacrifBiAnsab | 50,496 | 168 |
-| 420 | 0748IbnDimyati.Mustafad | 50,153 | 167 |
-| 421 | 0806IbnHusaynCiraqi.DhaylMizan | 49,484 | 164 |
-| 422 | 0505Ghazali.Tahafut | 49,401 | 164 |
-| 423 | 0505Ghazali.MicyarCilm | 49,099 | 163 |
-| 424 | 0280IbnTayfur.Baghdad | 48,570 | 161 |
-| 425 | 0505Ghazali.Fadaih | 47,692 | 158 |
-| 426 | 0611SharafDinMuqaddasi.Arbacin | 47,514 | 158 |
-| 427 | 0569CumaraHakami.NukatCasriyya | 47,005 | 156 |
-| 428 | 0984BardDinGhazzi.MatalicBadriya | 46,951 | 156 |
-| 429 | 0354IbnHibban.MashahirCulamaAmsar | 45,365 | 151 |
-| 430 | 0617MansurIbnShahanshah.MidmarHaqaiq | 45,270 | 150 |
-| 431 | 0233YahyaIbnMacin.MacrifaRijal | 45,156 | 150 |
-| 432 | 0749Wadiashi.Barnamaj | 44,950 | 149 |
-| 433 | 1450MuhammadHadiAmini.MucjamMatbicatNajafiya | 44,242 | 147 |
-| 434 | 0748Dhahabi.MucjamMuhaddithin | 44,241 | 147 |
-| 435 | 0335Suli.AshcarAwladKhulafa | 44,151 | 147 |
-| 436 | 0505Ghazali.Iqtisad | 43,770 | 145 |
-| 437 | 0577IbnAnbari.NuzhaAlibba | 43,683 | 145 |
-| 438 | 0922IbnShaykhTarabulusi.IscafAwqaf | 43,648 | 145 |
-| 439 | 0852IbnHajarCasqalani.NuzhaAlbab | 43,292 | 144 |
-| 440 | 0584IbnMunqidhShayzari.Ictibar | 42,824 | 142 |
-| 441 | 0507IbnQaysarani.AnsabMuttafiqa | 42,469 | 141 |
-| 442 | 1364IbnHamdMughiri.MuntakhabQabail | 42,407 | 141 |
-| 443 | 0680IbnSabuni.TakmilaIkmalIkmal | 42,252 | 140 |
-| 444 | 0300IbnKhurdadhbih.MasalikWaMamalik | 41,035 | 136 |
-| 445 | 0436HusaynSaymari.AkhbarAbiHanifa | 41,024 | 136 |
-| 446 | 0337IbnIshaqZajjaji.Akhbar | 40,895 | 136 |
-| 447 | 1100IbnMuhammadAdnahwi.TabaqatMufassirin | 40,783 | 135 |
-| 448 | 0335Suli.AdabKuttab | 40,702 | 135 |
-| 449 | 0476AbuIshaqShirazi.TabaqatFuqaha | 40,668 | 135 |
-| 450 | 0320CaribQurtubi.SilaTarikhTabari | 39,699 | 132 |
-| 451 | 0905Basrawi.Tarikh | 39,659 | 132 |
-| 452 | 0505Ghazali.MacarijQuds | 39,642 | 132 |
-| 453 | 1345IbnJacfarKattani.RisalaMustatrafa | 39,163 | 130 |
-| 454 | 0388Shabushti.Diyarat | 38,993 | 129 |
-| 455 | 0817IbnYacqubFiruzabadi.BulghaFiTarajim | 38,540 | 128 |
-| 456 | 0902Sakhawi.Buldaniyyat | 37,943 | 126 |
-| 457 | 0207Waqidi.Ridda | 37,811 | 126 |
-| 458 | 1347BashirYamut.Shacirat | 37,705 | 125 |
-| 459 | 1389AghaBuzurgTihrani.TASHAnwarSatica | 37,497 | 124 |
-| 460 | 0748Dhahabi.DhaylCibar | 37,477 | 124 |
-| 461 | 0276IbnQutaybaDinawari.AnwaFiMawasim | 37,309 | 124 |
-| 462 | 0463KhatibBaghdadi.SabiqWaLahiq | 37,301 | 124 |
-| 463 | 0685IbnSacidMaghribi.Jughrafiya | 35,291 | 117 |
-| 464 | 0573NashwanHimyari.KhulasaSiyar | 35,216 | 117 |
-| 465 | 0379MuhammadRabci.TarikhMawlidCulama | 35,176 | 117 |
-| 466 | 0657IbnIbrahimIrbili.MudhakaraFiAlqab | 35,060 | 116 |
-| 467 | 1373AbuYaclaZuwawi.TarikhZuwawa | 34,902 | 116 |
-| 468 | 0505Ghazali.MaqsadAsna | 34,718 | 115 |
-| 469 | 0505Ghazali.JawahirQuran | 33,456 | 111 |
-| 470 | 0505Ghazali.MizanCamal | 33,154 | 110 |
-| 471 | 1078RiyadZadah.AsmaKutub | 33,076 | 110 |
-| 472 | 1175AhmadBudayri.HawadithDimashq | 32,858 | 109 |
-| 473 | 1355AhmadTahtawi.TanbihWaIqaz | 32,723 | 109 |
-| 474 | 0405HakimNaysaburi.TalkhisTarikhNaysabur | 32,674 | 108 |
-| 475 | 0874IbnTaghribirdi.HawadithDahriya | 32,505 | 108 |
-| 476 | 0626YaqutHamawi.Khazal | 32,504 | 108 |
-| 477 | 0292Yacqubi.Buldan | 32,476 | 108 |
-| 478 | 0385IbnShahin.TarikhAsmaThiqat | 31,929 | 106 |
-| 479 | 0845Maqrizi.Bayan | 31,900 | 106 |
-| 480 | 0505Ghazali.TibrMasbuk | 31,540 | 105 |
-| 481 | 0911Suyuti.NazmCiqyan | 31,489 | 104 |
-| 482 | 0371AhmadJurjani.Mucjam | 31,101 | 103 |
-| 483 | 0821Qalqashandi.QalaidJuman | 30,592 | 101 |
-| 484 | 1389AghaBuzurgTihrani.DhaylKashfZunun | 30,484 | 101 |
-| 485 | 0328IbnCabdRabbihi.TabaicNisa | 30,047 | 100 |
-| 486 | 0544CiyadIbnMusaYahsubi.Ghunya | 29,789 | 99 |
-| 487 | 0463KhatibBaghdadi.GhunyaMultamis | 29,514 | 98 |
-| 488 | 0611CaliHarawi.Isharat | 29,278 | 97 |
-| 489 | 1354RashidRida.Manar | 29,042 | 96 |
-| 490 | 0658IbnAbbar.TuhfaQadim | 28,899 | 96 |
-| 491 | 0902Sakhawi.ManhalCadhb | 28,425 | 94 |
-| 492 | 0333AbuCarabTamimi.TabaqatCulama | 28,320 | 94 |
-| 493 | 0264AbyZurca.Ducafa | 28,257 | 94 |
-| 494 | 0324Ashcari.RisalaIlaAhlThughr | 27,802 | 92 |
-| 495 | 0334IbnHaikHamdani.Iklil | 27,740 | 92 |
-| 496 | 0650IbnNazifHamawi.TarikhMansuri | 27,313 | 91 |
-| 497 | 0505Ghazali.MahkNazar | 26,750 | 89 |
-| 498 | 0324Ashcari.Ibana | 26,624 | 88 |
-| 499 | 0879IbnQutlubugha.TajTarajim | 26,463 | 88 |
-| 500 | 1450WizaraAwqafMisriyya.TarajimMujaza | 26,409 | 88 |
-| 501 | 0842IbnNasirDinDimashqi.RaddWafir | 26,176 | 87 |
-| 502 | 0402MuhammadSaydawi.MucjamShuyukh | 26,156 | 87 |
-| 503 | 0310IbnAhmadDulabi.Dhariyya | 26,063 | 86 |
-| 504 | 1414SalimIbadi.IscafAcyan | 25,921 | 86 |
-| 505 | 0632IsmacilMarwazi.FakhriFiAnsab | 25,627 | 85 |
-| 506 | 0255Jahiz.TajFiAkhlaq | 25,314 | 84 |
-| 507 | 0728IbnTaymiyya.FatawaHamawiyya | 24,002 | 80 |
-| 508 | 0505Ghazali.SirrCalamin | 23,943 | 79 |
-| 509 | 0748Dhahabi.MucinFiTabaqatMuhaddithin | 23,934 | 79 |
-| 510 | 0929IbnKayyal.KawakibNayyirat | 23,699 | 78 |
-| 511 | 0584IbnMusaHazimi.CujalaMubtadi | 23,180 | 77 |
-| 512 | 1429BakrIbnCabdAllah.TabaqatNassabin | 23,042 | 76 |
-| 513 | 1086IbnCajamiMisri.DhaylLubbLubab | 22,972 | 76 |
-| 514 | 0576IbnMuhammadSilafi.Mashyakha | 22,872 | 76 |
-| 515 | 0662RashidAttar.NuzhatNazir | 22,772 | 75 |
-| 516 | 0368AbuGhalibZurari.Risala | 22,769 | 75 |
-| 517 | 0418WazirMaghribi.AdabKhawas | 22,658 | 75 |
-| 518 | 0418WazirMaghribi.Inas | 22,614 | 75 |
-| 519 | 0776LisanDinIbnKhatib.MicyarIkhtiyar | 22,471 | 74 |
-| 520 | 0209MacmarIbnMuthanna.Khayl | 22,392 | 74 |
-| 521 | 0911Suyuti.DhaylTabaqatHuffaz | 22,369 | 74 |
-| 522 | 0640AbuHafsDunaysiri.TarikhDunaysir | 22,117 | 73 |
-| 523 | 0303Nasai.FadailSahaba | 21,802 | 72 |
-| 524 | 0385IbnShahin.TarikhAsmaDucafa | 21,637 | 72 |
-| 525 | 0732AbuFida.Yawaqit | 21,381 | 71 |
-| 526 | 0330Sirafi.Rihla | 21,280 | 70 |
-| 527 | 0335Suli.AkhbarAbiTamam | 21,133 | 70 |
-| 528 | 0204IbnKalbi.JamharaAnsab | 21,042 | 70 |
-| 529 | 0565IbnZaydBayhaqi.TatimmaSiwanHikma | 20,359 | 67 |
-| 530 | 0515IbnQattac.DurraKhatira | 20,292 | 67 |
-| 531 | 0385Daruqutni.DhikrAsmaTabicin | 19,767 | 65 |
-| 532 | 0328IbnCabdRabbihi.Diwan | 19,627 | 65 |
-| 533 | 0748Dhahabi.DhikrAsmaManTakallama | 19,394 | 64 |
-| 534 | 0505Ghazali.QawaidCaqaid | 19,315 | 64 |
-| 535 | 0380Muhallabi.MasalikWaMamalik | 18,868 | 62 |
-| 536 | 0629IbnNuqta.IfadaWaIctibar | 18,784 | 62 |
-| 537 | 0385Daruqutni.SualatBarqani | 18,719 | 62 |
-| 538 | 0466CabdAzizKattani.DhaylTarikhMawlidCulama | 18,658 | 62 |
-| 539 | 0463IbnCabdBarr.InbahCalaQabail | 18,464 | 61 |
-| 540 | 0505Ghazali.MishkatAnwar | 18,447 | 61 |
-| 541 | 0309IbnFadlan.Rihla | 18,416 | 61 |
-| 542 | 0255Jahiz.Bighal | 18,305 | 61 |
-| 543 | 0677SahibTaji.HalbaFiAsmaKhayl | 18,268 | 60 |
-| 544 | 0296MuhammadIbnJarrah.ManIsmuhCamr | 18,234 | 60 |
-| 545 | 0334IbnSacidQushayri.TarikhRaqqa | 17,955 | 59 |
-| 546 | 1016MuhibbDinHamawi.HadiAzcan | 17,554 | 58 |
-| 547 | 0597IbnJawzi.Mashyakha | 17,396 | 57 |
-| 548 | 0469IbnHayyanQurtubi.Muqtabas | 17,127 | 57 |
-| 549 | 0355AbuFarajIsbahani.Diyarat | 17,102 | 57 |
-| 550 | 1218SalihFulani.QatfThamar | 16,905 | 56 |
-| 551 | 0691IbnYusufLabli.Fihrist | 16,803 | 56 |
-| 552 | 0911Suyuti.IscafMubatta | 16,433 | 54 |
-| 553 | 0498AbuCaliJayyani.TaqyidMuhmal | 16,017 | 53 |
-| 554 | 0405HakimNaysaburi.TasmiyaManAkhrajahum | 15,868 | 52 |
-| 555 | 0456IbnHazm.FadailAndalus | 15,744 | 52 |
-| 556 | 0685IbnSacidMaghribi.GhusunYanica | 15,713 | 52 |
-| 557 | 0538MahmudZamakhshari.JibalWaAmkina | 15,676 | 52 |
-| 558 | 0765AbuMahasinHusayni.DhaylTadhkira | 15,407 | 51 |
-| 559 | 0276IbnQutaybaDinawari.AshribaWaIkhtilafFiha | 14,830 | 49 |
-| 560 | 1126MuhammadHanbali.Mashyakha | 14,775 | 49 |
-| 561 | 0659SainDinNaccal.Mashyakha | 14,631 | 48 |
-| 562 | 0505Ghazali.BidayatHidaya | 14,542 | 48 |
-| 563 | 0909IbnMibradHanbali.MucjamKutub | 14,490 | 48 |
-| 564 | 1418SalihAhmadArkani.TihfaMajalis | 14,467 | 48 |
-| 565 | 0430AbuNucaymIsbahani.Ducafa | 14,296 | 47 |
-| 566 | 0456IbnHazm.NaqtCarus | 14,078 | 46 |
-| 567 | 0360Khawlani.TarikhDaraya | 13,813 | 46 |
-| 568 | 0261Muslim.Munfaridat | 13,798 | 45 |
-| 569 | 0211AbuCatahiya.Diwan | 13,740 | 45 |
-| 570 | 0541IbnCatiyyaMuharibi.Fahrasa | 13,427 | 44 |
-| 571 | 0256Bukhari.Ducafa | 13,146 | 43 |
-| 572 | 0748Dhahabi.DhaylDiwanDucafa | 12,664 | 42 |
-| 573 | 1450TarhibDawsari.MucjamMuallafatShaficiyya | 12,526 | 41 |
-| 574 | 1419MahmudTanahi.MujizFiMarajic | 12,525 | 41 |
-| 575 | 0701SharafDinYunini.Mashyakha | 11,855 | 39 |
-| 576 | 0911Suyuti.TabaqatMufassirin | 11,806 | 39 |
-| 577 | 0374IbnHusaynAzdi.Makhzun | 11,516 | 38 |
-| 578 | 0643DiyaDinMuqaddasi.FadailBaytMaqdis | 11,474 | 38 |
-| 579 | 0505Ghazali.Munqidh | 11,334 | 37 |
-| 580 | 0576IbnMuhammadSilafi.Wajiz | 10,969 | 36 |
-| 581 | 0442Tanukhi.TarikhCulamaNahwiyyin | 10,863 | 36 |
-| 582 | 0256Bukhari.DucafaSaghir | 10,791 | 35 |
-| 583 | 0444AbuFadlIbnMahdi.DhikrShuyukh | 10,738 | 35 |
-| 584 | 0400IshaqMunajjim.AkamMarjan | 10,606 | 35 |
-| 585 | 0628IbnCaliSanhaji.AkhbarMuluk | 10,423 | 34 |
-| 586 | 0405AbuFadlHarawi.MucjamFiMushtabah | 10,379 | 34 |
-| 587 | 0368Sirafi.AkhbarNahwiyyin | 10,206 | 34 |
-| 588 | 1246IbnHamadBassam.DurarMafakhir | 10,058 | 33 |
-| 589 | 0374IbnHusaynAzdi.DhikrIsmKullAshab | 9,862 | 32 |
-| 590 | 0809IbnQunfudh.Wafayat | 9,725 | 32 |
-| 591 | 0245MuhammadIbnHabib.MukhtalafQabail | 9,630 | 32 |
-| 592 | 0498AbuCaliJayyani.AlqabSahaba | 9,492 | 31 |
-| 593 | 0705SharafDinDimyatti.MucjamShuyukh | 9,252 | 30 |
-| 594 | 0259IbnYacqubJuzjani.AhwalRijal | 9,088 | 30 |
-| 595 | 0195MuarrijSadusi.HadhfMinNasabQuraysh | 9,074 | 30 |
-| 596 | 0385Daruqutni.Ducafa | 9,054 | 30 |
-| 597 | 0852IbnHajarCasqalani.TabaqatMudallisin | 8,929 | 29 |
-| 598 | 0852IbnHajarCasqalani.ItharBiMacrifa | 8,858 | 29 |
-| 599 | 0747MuhyiDinYunini.Mashyakha | 8,748 | 29 |
-| 600 | 0862IbnMuhammadMujari.Barnamaj | 8,697 | 28 |
-| 601 | 0852IbnHajarCasqalani.TacrifAhlTaqbis | 8,687 | 28 |
-| 602 | 0511IbnMandahYahya.MacrifaAsamiArdaf | 8,637 | 28 |
-| 603 | 0751IbnQayyimJawziyya.IghathaLahfan | 8,563 | 28 |
-| 604 | 0318AbuCurubaHarrani.MuntaqaMinTabaqat | 8,422 | 28 |
-| 605 | 0385Daruqutni.SualatNaysaburi | 8,317 | 27 |
-| 606 | 0276IbnQutaybaDinawari.IkhtilafFiLafz | 8,312 | 27 |
-| 607 | 0597IbnJawzi.FadailQuds | 8,290 | 27 |
-| 608 | 0303Nasai.DucafaWaMatrukin | 8,237 | 27 |
-| 609 | 0456IbnHazm.RisalaFiMaratibCulum | 7,743 | 25 |
-| 610 | 0365IbnCadiJurjani.AsamiManRawaCanhum | 7,679 | 25 |
-| 611 | 0234AbuHasanSacdi.TasmiyaManRuwiya | 7,575 | 25 |
-| 612 | 0308IbnIbrahimJundi.FadailMadina | 7,557 | 25 |
-| 613 | 0807IbnAhmarKhazraji.NafhaNisriniyya | 7,528 | 25 |
-| 614 | 0748Dhahabi.Radd | 7,489 | 24 |
-| 615 | 0255Jahiz.MukhtarFiRaddCalaNasara | 7,481 | 24 |
-| 616 | 0255Jahiz.AmilWaMamul | 7,425 | 24 |
-| 617 | 0222IbnBakkarDabi.AkhbarWafidat | 7,319 | 24 |
-| 618 | 1285CabdRahmanTamimi.Maqamat | 7,256 | 24 |
-| 619 | 0355MuhammadKindi.FadailMisr | 7,140 | 23 |
-| 620 | 0256ZubayrIbnBakkar.Muntakhab | 7,125 | 23 |
-| 621 | 0482AbuIshaqHabbal.WafayatMisriyyin | 7,037 | 23 |
-| 622 | 0884SibtIbnCajami.TabyinLiAsma | 6,877 | 22 |
-| 623 | 0456IbnHazm.AsmaKhulafa | 6,660 | 22 |
-| 624 | 0774IbnRaficSallami.MashyakhaBayani | 6,654 | 22 |
-| 625 | 0301Bardiji.TabaqatAsma | 6,594 | 21 |
-| 626 | 0505Ghazali.AsnafMaghrurin | 6,558 | 21 |
-| 627 | 0204IbnKalbi.AnsabKhayl | 6,506 | 21 |
-| 628 | 0409CabdGhaniAzdi.KitabMutawarin | 6,452 | 21 |
-| 629 | 0597IbnJawzi.TarikhBaytMuqaddas | 6,394 | 21 |
-| 630 | 0303Nasai.TasmiyaShuyukh | 6,216 | 20 |
-| 631 | 1450TarhibDawsari.MucjamMuallafatMalikiyya | 6,095 | 20 |
-| 632 | 0632AbyHafsSuhrawardi.Mashyakha | 6,008 | 20 |
-| 633 | 0241IbnHanbal.AsamiWaKuna | 5,950 | 19 |
-| 634 | 0825IbnQasimSabti.IkhtisarAkhbar | 5,839 | 19 |
-| 635 | 0884SibtIbnCajami.Ightibat | 5,716 | 19 |
-| 636 | 0233YahyaIbnMacin.MinKalamFiRijal | 5,551 | 18 |
-| 637 | 0222IbnBakkarDabi.AkhbarWafidin | 5,286 | 17 |
-| 638 | 0852IbnHajarCasqalani.MucjamShaykhaMaryam | 4,980 | 16 |
-| 639 | 1051Cimadi.RawdaRayya | 4,849 | 16 |
-| 640 | 0200AbuShis.Diwan | 4,549 | 15 |
-| 641 | 0286Mubarrad.NasabCadnan | 4,412 | 14 |
-| 642 | 0524IbnAkfani.DhaylDhaylTarikhMawlidCulama | 4,178 | 13 |
-| 643 | 0395IbnMandahMuhammad.Asami | 4,056 | 13 |
-| 644 | 0776LisanDinIbnKhatib.KhatraTayf | 3,992 | 13 |
-| 645 | 0911Suyuti.Shamarikh | 3,874 | 12 |
-| 646 | 0322KatibBaghdadi.TarikhAimma | 3,821 | 12 |
-| 647 | 0317AbuQasimBaghawi.TarikhWafatShuyukh | 3,802 | 12 |
-| 648 | 0911Suyuti.AsmaMukhadramin | 3,736 | 12 |
-| 649 | 1172IbnKhalifaMasakini.Fahrasa | 3,704 | 12 |
-| 650 | 0374IbnHusaynAzdi.KunaLiManLaYucrafLahuIsm | 3,572 | 11 |
-| 651 | 0505Ghazali.KimiyaSacada | 3,404 | 11 |
-| 652 | 0826IbnCiraqi.Mudallisin | 3,392 | 11 |
-| 653 | 0748Dhahabi.RuwatThiqat | 3,391 | 11 |
-| 654 | 0761IbnKaykaldi.Mukhtalitin | 3,340 | 11 |
-| 655 | 0110HasanBasri.FadailMakka | 3,334 | 11 |
-| 656 | 0567IbnKhashshabBaghdadi.TarikhMawalidAimma | 3,254 | 10 |
-| 657 | 0382IbnCabdAllahCaskari.AkhbarMusahhifin | 3,184 | 10 |
-| 658 | 0430AbuNucaymIsbahani.DhikrManIsmuhuShucba | 3,082 | 10 |
-| 659 | 0248AbuHatimSijistani.FuhulaShucara | 2,637 | 8 |
-| 660 | 0430AbuNucaymIsbahani.TasmiyaMaIntahaIlayna | 2,501 | 8 |
-| 661 | 0255Jahiz.TabsiraBiTijara | 2,497 | 8 |
-| 662 | 0374IbnHusaynAzdi.AsmaManYucrafBiKunya | 2,362 | 7 |
-| 663 | 0276IbnQutaybaDinawari.RisalaKhatt | 2,337 | 7 |
-| 664 | 0456IbnHazm.RisalaFiFutuhIslam | 2,234 | 7 |
-| 665 | 0303Nasai.TasmiyaManLamYarwi | 2,100 | 7 |
-| 666 | 1187SulaymanMahasini.HululTacab | 2,064 | 6 |
-| 667 | 0643DiyaDinMuqaddasi.JuzAwham | 2,001 | 6 |
-| 668 | 0335Suli.JuzMinAhadith | 1,892 | 6 |
-| 669 | 0349IbnCumarMuqri.AkhbarNahwiyyin | 1,790 | 5 |
-| 670 | 0374IbnHusaynAzdi.ManWafaqaIsmuhuIsmAbihi | 1,753 | 5 |
-| 671 | 0303Nasai.TasmiyaFuqaha | 1,162 | 3 |
-| 672 | _female_names_in_0902Sakhawi.DuLamic | 941 | 3 |
-| 673 | 0911Suyuti.RihNisrin | 795 | 2 |
-| 674 | 0456IbnHazm.UmmahatKhulafa | 693 | 2 |
-| 675 | 0303Nasai.Tabaqat | 612 | 2 |
-| 676 | 0696Dabbagh.MacalimIman | 187 | 0 |
-| 677 | 1450MuhammadSancani.NaylWatar | 150 | 0 |
+| 176 | 0413ShaykhMufid.Muqnica | 195,606 | 652 |
+| 177 | 0645TilimsaniBurri.Jawhara | 194,697 | 648 |
+| 178 | 0292Yacqubi.TarikhYacqubi | 193,018 | 643 |
+| 179 | 1250IbnCaliShaykani.BadrTalic | 192,663 | 642 |
+| 180 | 0347IbnYunusSadafi.Tarikh | 190,889 | 636 |
+| 181 | 1450MuhammadKhayrRamadan.TakmilaMucjamMuallifin | 189,829 | 632 |
+| 182 | 0561Samcani.Muntakhab | 188,251 | 627 |
+| 183 | 0463KhatibBaghdadi.TalkhisMutashabih | 187,352 | 624 |
+| 184 | 0310IbnAhmadDulabi.KunaWaAsma | 186,967 | 623 |
+| 185 | 1041Maqarri.AzharRiyad | 185,770 | 619 |
+| 186 | 0845Maqrizi.IqazHunafa | 185,230 | 617 |
+| 187 | 0852IbnHajarCasqalani.MucjamMufahras | 183,759 | 612 |
+| 188 | 0505Ghazali.Mustasfa | 183,605 | 612 |
+| 189 | 0487AbuCubaydBakri.MasalikWaMamalik | 181,326 | 604 |
+| 190 | 0774IbnKathir.TabaqatShaficiyyin | 180,884 | 602 |
+| 191 | 0474IbnKhalafBaji.TacdilWaTakhrij | 180,381 | 601 |
+| 192 | 0832AbuTayyibFasi.DhaylTaqyid | 177,958 | 593 |
+| 193 | 1120CaliKhanMadani.DarajatRafica | 174,564 | 581 |
+| 194 | 0413ShaykhMufid.Irshad | 172,972 | 576 |
+| 195 | 0255Jahiz.Rasail | 172,282 | 574 |
+| 196 | 0521IbnAbiYacla.TabaqatHanabila | 171,812 | 572 |
+| 197 | 0508FattalNaysaburi.RawdaWacizin | 170,713 | 569 |
+| 198 | 0255Jahiz.BayanWaTabyin | 170,368 | 567 |
+| 199 | 0884SibtIbnCajami.KunuzDhahab | 170,224 | 567 |
+| 200 | 1422MuhammadSalimMuhaysin.MucjamHuffazQuran | 169,932 | 566 |
+| 201 | 0911Samhudi.KhulasaWafaWafa | 168,018 | 560 |
+| 202 | 0276IbnQutaybaDinawari.MacaniKabir | 168,017 | 560 |
+| 203 | 0812CaliKhazraji.CuqudLuluiyya | 167,694 | 558 |
+| 204 | 0615MuwaffaqDinShafici.MurshidZuwwar | 167,271 | 557 |
+| 205 | 0335Suli.AkhbarRadi | 165,915 | 553 |
+| 206 | 1119IbnMacsum.SulafaCasr | 165,783 | 552 |
+| 207 | 0421IbnMuhammadMarzuqi.AzminaWaAmkina | 165,458 | 551 |
+| 208 | 0511SalmaSahari.Ansab | 162,120 | 540 |
+| 209 | 0276IbnQutaybaDinawari.ImamaWaSiyasa | 162,038 | 540 |
+| 210 | 1010TamimiDari.TabaqatSaniya | 161,681 | 538 |
+| 211 | 0597IbnJawzi.TalqihFuhum | 160,269 | 534 |
+| 212 | 0458Bayhaqi.AsmaWaSifat | 157,931 | 526 |
+| 213 | 1011SahibMacalim.TahrirTawusi | 157,260 | 524 |
+| 214 | 1450MawsucaShicriya.MucjamShucara | 155,885 | 519 |
+| 215 | 1338MuhammadFaridBey.Tarikh | 155,747 | 519 |
+| 216 | 0279IbnAbiKhaythama.TarikhKabir | 155,627 | 518 |
+| 217 | 0535QawwamSunna.SiyarSalaf | 154,547 | 515 |
+| 218 | 0695IbnCidhariMarrakushi.BayanMaghrib | 153,641 | 512 |
+| 219 | 0748Dhahabi.MucjamShuyukh | 152,971 | 509 |
+| 220 | 1422IbnHadiWadici.RijalHakim | 152,657 | 508 |
+| 221 | 0276IbnQutaybaDinawari.GharibHadith | 151,462 | 504 |
+| 222 | 0777BadrDinBacli.MukhtasarFatawaMisriyya | 149,612 | 498 |
+| 223 | 0365IbnFaqihHamadhani.Buldan | 147,627 | 492 |
+| 224 | 0682ZakariyaQazwini.AtharBilad | 146,837 | 489 |
+| 225 | 0696IbnZahiri.Mashyakha | 146,557 | 488 |
+| 226 | 0968Tashkubruizadah.ShaqaiqNucmaniyya | 145,615 | 485 |
+| 227 | 1450AbuTayyibMansuri.Irshad | 144,616 | 482 |
+| 228 | 0845Maqrizi.MukhtasarKamil | 142,932 | 476 |
+| 229 | 0821Qalqashandi.Maathir | 142,487 | 474 |
+| 230 | 0385IbnNadim.Fihrist | 141,796 | 472 |
+| 231 | 0945ShamsDinDawudi.TabaqatMufassirin | 139,971 | 466 |
+| 232 | 1376CabdRahmanSacdi.Muallafat | 139,967 | 466 |
+| 233 | 0351IbnQanic.MucjamSahaba | 139,882 | 466 |
+| 234 | 0578IbnBashkuwal.Sila | 139,365 | 464 |
+| 235 | 0709CaliCalawi.Majdi | 138,926 | 463 |
+| 236 | 0276IbnQutaybaDinawari.ShicrWaShucara | 137,744 | 459 |
+| 237 | 0249Azraqi.AkhbarMakka | 136,671 | 455 |
+| 238 | 0576IbnMuhammadSilafi.MashyakhaBaghdadiyya | 135,363 | 451 |
+| 239 | 0245MuhammadIbnHabib.MunammaqFiAkhbarQuraysh | 135,021 | 450 |
+| 240 | 0703MuhammadMarrakushi.DhaylWaTakmila | 133,973 | 446 |
+| 241 | 0911Suyuti.TarikhKhulafa | 133,130 | 443 |
+| 242 | 0241IbnHanbal.FadailSahaba | 132,367 | 441 |
+| 243 | 0369AbuShaykhIsbahani.TabaqatMuhaddithin | 132,061 | 440 |
+| 244 | 0456IbnHazm.JamharaAnsab | 130,859 | 436 |
+| 245 | 0852IbnHajarCasqalani.TacjilManfaca | 127,930 | 426 |
+| 246 | 0953IbnTulun.MufakahaKhillan | 127,338 | 424 |
+| 247 | 1286IcjazHusaynKunturi.KashfHajb | 126,032 | 420 |
+| 248 | 0395IbnMandahMuhammad.FathBab | 124,908 | 416 |
+| 249 | 0279Baladhuri.FutuhBuldan | 124,892 | 416 |
+| 250 | 0428IbnManjuwayhIsbahani.RijalSahihMuslim | 124,175 | 413 |
+| 251 | 0367IbnHawqal.SuraArd | 123,793 | 412 |
+| 252 | 0884IbnMuflih.MaqsidArshad | 123,777 | 412 |
+| 253 | 0852IbnHajarCasqalani.RafcCisr | 123,094 | 410 |
+| 254 | 0276IbnQutaybaDinawari.Macarif | 121,880 | 406 |
+| 255 | 0565IbnZaydBayhaqi.TarikhBayhaq | 121,037 | 403 |
+| 256 | 0555IbnQalanisi.Tarikh | 120,986 | 403 |
+| 257 | 0449AbuCalaMacarri.Diwan | 120,379 | 401 |
+| 258 | 0429Thacalibi.ThimarQulub | 119,721 | 399 |
+| 259 | 0228IbnHammadKhuzaci.Fitan | 119,494 | 398 |
+| 260 | 0851IbnQadiShuhba.TabaqatShaficiya | 119,436 | 398 |
+| 261 | 0748Dhahabi.MughniFiDucafa | 119,182 | 397 |
+| 262 | 0403IbnFaradi.TarikhCulamaAndalus | 118,911 | 396 |
+| 263 | 0575IbnKhayrIshbili.Fahrasa | 117,769 | 392 |
+| 264 | 0771Subki.MucjamShuyukh | 117,371 | 391 |
+| 265 | 0599IbnYahyaDabbi.BughyaMultamis | 116,987 | 389 |
+| 266 | 0684IbnShaddad.AclaqKhatira | 116,670 | 388 |
+| 267 | 0257IbnCabdHakam.FutuhMisr | 116,282 | 387 |
+| 268 | 0427HamzaJurjani.TarikhJurjan | 114,881 | 382 |
+| 269 | 0799IbnFarhun.DibajMudhahhab | 114,355 | 381 |
+| 270 | 1037CabdQadirCaydarus.TarikhNurSafir | 113,966 | 379 |
+| 271 | 1270ShihabDinAlusi.GharaibIghtirab | 113,165 | 377 |
+| 272 | 0233YahyaIbnMacin.TarikhIbnMacin | 112,871 | 376 |
+| 273 | 0629IbnNuqta.TaqyidLiMacrifa | 112,296 | 374 |
+| 274 | 1313VanDyck.IktifaQunuc | 112,098 | 373 |
+| 275 | 0213IbnHisham.Tijan | 111,971 | 373 |
+| 276 | 0440AbuRayhanBiruni.TahqiqMaLilHind | 111,411 | 371 |
+| 277 | 1346CbdQadirBadran.Munadama | 110,741 | 369 |
+| 278 | 0660IbnCadim.ZubdaHalab | 110,479 | 368 |
+| 279 | 0578IbnBashkuwal.GhawamidAsma | 110,027 | 366 |
+| 280 | 0354IbnHibban.Sira | 109,974 | 366 |
+| 281 | 0561Samcani.Tahbir | 109,525 | 365 |
+| 282 | 0685IbnSacidMaghribi.Mughrib | 109,402 | 364 |
+| 283 | 0413ShaykhMufid.Amali | 109,089 | 363 |
+| 284 | 0685IbnCibri.TarikhMukhtasarDuwal | 109,030 | 363 |
+| 285 | 0240KhalifaIbnKhayyat.Tarikh | 108,050 | 360 |
+| 286 | 0337QudamaIbnJacfar.Kharaj | 106,955 | 356 |
+| 287 | 0726CallamaHilli.KhulasaAqwal | 106,878 | 356 |
+| 288 | 0300MuallifMajhul.AkhbarDawlaCabbasiya | 106,130 | 353 |
+| 289 | 0748Dhahabi.DiwanDucafa | 105,284 | 350 |
+| 290 | 0748Dhahabi.MukhtasarMinDubaythi | 103,004 | 343 |
+| 291 | 0240KhalifaIbnKhayyat.Tabaqat | 102,233 | 340 |
+| 292 | 0597IbnJawzi.DucafaWaMatrukin | 100,991 | 336 |
+| 293 | 0324Ashcari.MaqalatIslamiyyin | 100,191 | 333 |
+| 294 | 1450CadilNuwayhid.MucjamAclamJazair | 100,098 | 333 |
+| 295 | 0658IbnAbbar.HullaSiyara | 98,508 | 328 |
+| 296 | 0390Muqaddasi.AhsanTaqasim | 98,198 | 327 |
+| 297 | 0507AbuBakrShashi.HilyaCulama | 98,130 | 327 |
+| 298 | 0282AbuHanifaDinawari.AkhbarTiwal | 97,880 | 326 |
+| 299 | 0576IbnMuhammadSilafi.MucjamSafar | 97,869 | 326 |
+| 300 | 0748Dhahabi.MacrifaQurraKibar | 97,714 | 325 |
+| 301 | 0821Qalqashandi.NihayaArab | 97,039 | 323 |
+| 302 | 0646IbnQifti.IkhbarCulama | 96,909 | 323 |
+| 303 | 0641Sarifini.Muntakhab | 96,486 | 321 |
+| 304 | 0575IbnBabawayh.Fihrist | 96,438 | 321 |
+| 305 | 1041BurhanDinMaliki.BahjaMahafil | 96,298 | 320 |
+| 306 | 0854IbnDiyaMakki.TarikhMakka | 96,272 | 320 |
+| 307 | 0448HilalSabi.TuhfaUmara | 95,725 | 319 |
+| 308 | 0600AbuBaqaHilli.ManaqibMazidiya | 95,644 | 318 |
+| 309 | 0580IbnCimrani.InbaFiTarikhKhulafa | 92,814 | 309 |
+| 310 | 0398AbuNasrKalabadhi.HidayaWaIrshad | 90,817 | 302 |
+| 311 | 0395IbnMandahMuhammad.MacrifaSahaba | 90,565 | 301 |
+| 312 | 0741KhatibTabrizi.Ikmal | 90,307 | 301 |
+| 313 | 0236AbuCabdAllahZubayri.NasabQuraysh | 90,262 | 300 |
+| 314 | 0450Najashi.Rijal | 90,256 | 300 |
+| 315 | 0204IbnKalbi.NasabMacad | 88,977 | 296 |
+| 316 | 1330IbnMusaTabrizi.MiratKutub | 88,818 | 296 |
+| 317 | 0460ShaykhTusi.Rijal | 88,503 | 295 |
+| 318 | 1354HasanSadr.Takmila | 88,094 | 293 |
+| 319 | 0346Mascudi.TanbihWaIshraf | 87,579 | 291 |
+| 320 | 0256Bukhari.TarikhSaghir | 86,362 | 287 |
+| 321 | 0384IbnCimranMarzubani.MucjamShucara | 86,047 | 286 |
+| 322 | 0256ZubayrIbnBakkar.AkhbarMuwaffaqiyat | 85,750 | 285 |
+| 323 | 0255Jahiz.Cuthmaniya | 85,453 | 284 |
+| 324 | 0488IbnFutuhHumaydi.JadhwaMuqtabis | 85,167 | 283 |
+| 325 | 0597CimadDinKatib.BarqShami | 84,900 | 283 |
+| 326 | 0528FathIbnKhaqan.QalaidCiqyan | 84,437 | 281 |
+| 327 | 1389AghaBuzurgTihrani.TASHNawabighRuwat | 84,082 | 280 |
+| 328 | 0540AbuMansurJawaliqi.SharhAdabKatib | 83,991 | 279 |
+| 329 | 0446AbuYaclaKhalili.IrshadFiMacrifaCulama | 82,456 | 274 |
+| 330 | 0694MuhibbDinTabari.Dhakhair | 81,328 | 271 |
+| 331 | 0597IbnJawzi.MuthirGharam | 81,078 | 270 |
+| 332 | 1100MuhammadItlidi.IclamNas | 80,344 | 267 |
+| 333 | 0292Bahshal.TarikhWasit | 80,039 | 266 |
+| 334 | 1153IbnKannan.YawmiyyatShamiyya | 79,567 | 265 |
+| 335 | 0276IbnQutaybaDinawari.TawilMukhtalafHadith | 79,395 | 264 |
+| 336 | 0748Dhahabi.Muqtana | 77,096 | 256 |
+| 337 | 0261AbuHasanCijli.MacrifaThiqat | 76,492 | 254 |
+| 338 | 0658IbnAbbar.MucjamAshab | 76,471 | 254 |
+| 339 | 0761IbnKaykaldi.JamicTahsil | 76,460 | 254 |
+| 340 | 0565IbnZaydBayhaqi.LubabAnsab | 76,424 | 254 |
+| 341 | 0749IbnWardi.KharidaCajaib | 75,947 | 253 |
+| 342 | 0281AbuZurcaDimashqi.Tarikh | 75,765 | 252 |
+| 343 | 0346Istakhri.MasalikWaMamalik | 75,599 | 251 |
+| 344 | 0733IbnJamaca.Mashyakha | 75,126 | 250 |
+| 345 | 0614IbnJubayr.Rihla | 74,329 | 247 |
+| 346 | 0764Safadi.NaktHimyan | 74,306 | 247 |
+| 347 | 0904Burayhi.TabaqatSulahaYaman | 74,213 | 247 |
+| 348 | 0767Balawi.TajMafriq | 73,852 | 246 |
+| 349 | 0911Suyuti.TabaqatHuffaz | 73,614 | 245 |
+| 350 | 0535QawwamSunna.DalailNubuwwa | 72,728 | 242 |
+| 351 | 0854IbnCarabshah.CajaibMaqdur | 72,705 | 242 |
+| 352 | 1174AbuBarakatSuwaydi.NafhaMiskiya | 71,961 | 239 |
+| 353 | 0723IbnFuwati.Hawadith | 71,739 | 239 |
+| 354 | 0730MuhammadTujibi.Barnamaj | 71,375 | 237 |
+| 355 | 0748Dhahabi.MukhtasarCuluww | 71,152 | 237 |
+| 356 | 0334IbnHaikHamdani.SifaJaziraCarab | 70,929 | 236 |
+| 357 | 0647CabdWahidMarrakushi.Mucjib | 70,871 | 236 |
+| 358 | 0255Jahiz.MahasinWaAddad | 70,477 | 234 |
+| 359 | 0333AbuCarabTamimi.Mihan | 70,365 | 234 |
+| 360 | 0261Muslim.KunaWaAsma | 70,202 | 234 |
+| 361 | 0296IbnMuctazz.TabaqatShucara | 69,665 | 232 |
+| 362 | 0276IbnQutaybaDinawari.AdabKatib | 69,368 | 231 |
+| 363 | 1147CabdAllahSancani.TarikhYaman | 69,040 | 230 |
+| 364 | 0673AbuMahasinYaghmuri.NurQabas | 68,955 | 229 |
+| 365 | 0750AbuHafsQazwini.Mashyakha | 68,872 | 229 |
+| 366 | 0412Sulami.TabaqatSufiya | 68,774 | 229 |
+| 367 | 1195CabdRahmanAnsari.Tuhfa | 68,557 | 228 |
+| 368 | 0740IbnDawudHilli.Rijal | 68,088 | 226 |
+| 369 | 1307Qannawji.HittaFiDhikr | 67,880 | 226 |
+| 370 | 1421HamdJasir.MucjamQabailMCS | 67,689 | 225 |
+| 371 | 0690IbnMujawirDimashqi.TarikhMustabsir | 65,633 | 218 |
+| 372 | 0639AbuBakrMalaqi.MatlacAnwar | 65,139 | 217 |
+| 373 | 0584IbnMusaHazimi.Amakin | 64,697 | 215 |
+| 374 | 0816AbuBakrMaraghi.Mashyakha | 64,167 | 213 |
+| 375 | 0346Mascudi.AkhbarZaman | 63,951 | 213 |
+| 376 | 1232IbnKhatibCumari.RawdaFayha | 63,383 | 211 |
+| 377 | 0643IbnSalahShahrazuri.TabaqatFuqaha | 63,126 | 210 |
+| 378 | 0826IbnCiraqi.TuhfaTahsil | 62,996 | 209 |
+| 379 | 1450CabdRahmanAlShaykh.Mashahir | 62,418 | 208 |
+| 380 | 0871IbnFahdMakki.LahzAlhaz | 62,047 | 206 |
+| 381 | 0793AbuHasanMalaqi.TarikhQudat | 62,043 | 206 |
+| 382 | 0276IbnQutaybaDinawari.GharibQuran | 61,726 | 205 |
+| 383 | 0938IbnCaliBalawi.Thabat | 61,539 | 205 |
+| 384 | 0276IbnQutaybaDinawari.TawilMushkilQuran | 61,443 | 204 |
+| 385 | 0774IbnRaficSallami.Wafayat | 61,135 | 203 |
+| 386 | 0600KatibMarrakushi.Istibsar | 60,550 | 201 |
+| 387 | 0521MuhammadHamadhani.TakmilaTarikhTabari | 60,016 | 200 |
+| 388 | 1307Qannawji.LuqtaCajlan | 59,600 | 198 |
+| 389 | 0874IbnTaghribirdi.MawridLatafa | 59,510 | 198 |
+| 390 | 1338MuhammadFaridBey.Bahja | 59,305 | 197 |
+| 391 | 0714AhmadGhibrini.CunwanDiraya | 58,461 | 194 |
+| 392 | 0395AbuHilalCaskari.Talkhis | 57,835 | 192 |
+| 393 | 1069ShihabDinKhafaji.RayhanaAlibba | 57,614 | 192 |
+| 394 | 0911Suyuti.LubbLubab | 57,394 | 191 |
+| 395 | 0646IbnQifti.Muhammadun | 57,364 | 191 |
+| 396 | 0255Jahiz.BursanWaCurjan | 57,316 | 191 |
+| 397 | 0276IbnQutaybaDinawari.Jarathim | 57,100 | 190 |
+| 398 | 0256ZubayrIbnBakkar.JamharaNasabQuraysh | 56,650 | 188 |
+| 399 | 0310Tabari.MuntakhabMinDhayl | 56,329 | 187 |
+| 400 | 0808IbnKhaldun.Rihla | 55,833 | 186 |
+| 401 | 1167IbnCabrRahmanGhazzi.DiwanIslam | 55,685 | 185 |
+| 402 | 0909IbnMibradHanbali.BahrDamm | 55,202 | 184 |
+| 403 | 0255Jahiz.Bukhala | 55,171 | 183 |
+| 404 | 0475IbnMakula.TahdhibMustamirr | 55,129 | 183 |
+| 405 | 0231IbnSallamJumahi.TabaqatFuhulShucara | 54,921 | 183 |
+| 406 | 0776LisanDinIbnKhatib.KatibaKamina | 54,854 | 182 |
+| 407 | 0804IbnMulaqqin.TabaqatAwliya | 54,595 | 181 |
+| 408 | 0765AbuMahasinHusayni.IkmalLiRijal | 54,306 | 181 |
+| 409 | 0505Ghazali.Mankhul | 54,192 | 180 |
+| 410 | 0911Suyuti.ItmamDiraya | 54,179 | 180 |
+| 411 | 0280IbnTayfur.BallaghatNisa | 53,601 | 178 |
+| 412 | 1277MuhammadTantawi.NashaNahw | 52,381 | 174 |
+| 413 | 0776LisanDinIbnKhatib.NafadaJirab | 52,268 | 174 |
+| 414 | 0884SibtIbnCajami.KashfHathith | 52,220 | 174 |
+| 415 | 0748Dhahabi.Culuww | 51,813 | 172 |
+| 416 | 0370IbnBishrAmidi.MutalifWaMukhtalif | 51,486 | 171 |
+| 417 | 1381MuhammadSancani.MulhaqBadr | 51,442 | 171 |
+| 418 | 0782IbnSallar.TabaqatQurra | 51,171 | 170 |
+| 419 | 0296IbnMuctazz.Diwan | 51,131 | 170 |
+| 420 | 0606IbnMamati.LataifDhakhira | 51,074 | 170 |
+| 421 | 0355MuhammadKindi.WulatMisr | 50,996 | 169 |
+| 422 | 1070MuhammadKibrit.RihlaShita | 50,647 | 168 |
+| 423 | 0550AbuHajjajAshcari.TacrifBiAnsab | 50,496 | 168 |
+| 424 | 0748IbnDimyati.Mustafad | 50,153 | 167 |
+| 425 | 0806IbnHusaynCiraqi.DhaylMizan | 49,484 | 164 |
+| 426 | 0505Ghazali.Tahafut | 49,401 | 164 |
+| 427 | 0505Ghazali.MicyarCilm | 49,099 | 163 |
+| 428 | 0280IbnTayfur.Baghdad | 48,570 | 161 |
+| 429 | 0505Ghazali.Fadaih | 47,692 | 158 |
+| 430 | 0611SharafDinMuqaddasi.Arbacin | 47,514 | 158 |
+| 431 | 0569CumaraHakami.NukatCasriyya | 47,005 | 156 |
+| 432 | 0984BardDinGhazzi.MatalicBadriya | 46,951 | 156 |
+| 433 | 0354IbnHibban.MashahirCulamaAmsar | 45,365 | 151 |
+| 434 | 0617MansurIbnShahanshah.MidmarHaqaiq | 45,270 | 150 |
+| 435 | 0233YahyaIbnMacin.MacrifaRijal | 45,156 | 150 |
+| 436 | 0749Wadiashi.Barnamaj | 44,950 | 149 |
+| 437 | 1450MuhammadHadiAmini.MucjamMatbicatNajafiya | 44,242 | 147 |
+| 438 | 0748Dhahabi.MucjamMuhaddithin | 44,241 | 147 |
+| 439 | 0335Suli.AshcarAwladKhulafa | 44,151 | 147 |
+| 440 | 0505Ghazali.Iqtisad | 43,770 | 145 |
+| 441 | 0577IbnAnbari.NuzhaAlibba | 43,683 | 145 |
+| 442 | 0922IbnShaykhTarabulusi.IscafAwqaf | 43,648 | 145 |
+| 443 | 0852IbnHajarCasqalani.NuzhaAlbab | 43,292 | 144 |
+| 444 | 0584IbnMunqidhShayzari.Ictibar | 42,824 | 142 |
+| 445 | 0507IbnQaysarani.AnsabMuttafiqa | 42,469 | 141 |
+| 446 | 1364IbnHamdMughiri.MuntakhabQabail | 42,407 | 141 |
+| 447 | 0680IbnSabuni.TakmilaIkmalIkmal | 42,252 | 140 |
+| 448 | 0300IbnKhurdadhbih.MasalikWaMamalik | 41,035 | 136 |
+| 449 | 0436HusaynSaymari.AkhbarAbiHanifa | 41,024 | 136 |
+| 450 | 0337IbnIshaqZajjaji.Akhbar | 40,895 | 136 |
+| 451 | 1100IbnMuhammadAdnahwi.TabaqatMufassirin | 40,783 | 135 |
+| 452 | 0335Suli.AdabKuttab | 40,702 | 135 |
+| 453 | 0476AbuIshaqShirazi.TabaqatFuqaha | 40,668 | 135 |
+| 454 | 0320CaribQurtubi.SilaTarikhTabari | 39,699 | 132 |
+| 455 | 0905Basrawi.Tarikh | 39,659 | 132 |
+| 456 | 0505Ghazali.MacarijQuds | 39,642 | 132 |
+| 457 | 1345IbnJacfarKattani.RisalaMustatrafa | 39,163 | 130 |
+| 458 | 0388Shabushti.Diyarat | 38,993 | 129 |
+| 459 | 0817IbnYacqubFiruzabadi.BulghaFiTarajim | 38,540 | 128 |
+| 460 | 0902Sakhawi.Buldaniyyat | 37,943 | 126 |
+| 461 | 0207Waqidi.Ridda | 37,811 | 126 |
+| 462 | 1347BashirYamut.Shacirat | 37,705 | 125 |
+| 463 | 1389AghaBuzurgTihrani.TASHAnwarSatica | 37,497 | 124 |
+| 464 | 0748Dhahabi.DhaylCibar | 37,477 | 124 |
+| 465 | 0276IbnQutaybaDinawari.AnwaFiMawasim | 37,309 | 124 |
+| 466 | 0463KhatibBaghdadi.SabiqWaLahiq | 37,301 | 124 |
+| 467 | 0685IbnSacidMaghribi.Jughrafiya | 35,291 | 117 |
+| 468 | 0573NashwanHimyari.KhulasaSiyar | 35,216 | 117 |
+| 469 | 0379MuhammadRabci.TarikhMawlidCulama | 35,176 | 117 |
+| 470 | 0657IbnIbrahimIrbili.MudhakaraFiAlqab | 35,060 | 116 |
+| 471 | 1373AbuYaclaZuwawi.TarikhZuwawa | 34,902 | 116 |
+| 472 | 0505Ghazali.MaqsadAsna | 34,718 | 115 |
+| 473 | 0505Ghazali.JawahirQuran | 33,456 | 111 |
+| 474 | 0505Ghazali.MizanCamal | 33,154 | 110 |
+| 475 | 1078RiyadZadah.AsmaKutub | 33,076 | 110 |
+| 476 | 1175AhmadBudayri.HawadithDimashq | 32,858 | 109 |
+| 477 | 1355AhmadTahtawi.TanbihWaIqaz | 32,723 | 109 |
+| 478 | 0405HakimNaysaburi.TalkhisTarikhNaysabur | 32,674 | 108 |
+| 479 | 0874IbnTaghribirdi.HawadithDahriya | 32,505 | 108 |
+| 480 | 0626YaqutHamawi.Khazal | 32,504 | 108 |
+| 481 | 0292Yacqubi.Buldan | 32,476 | 108 |
+| 482 | 0385IbnShahin.TarikhAsmaThiqat | 31,929 | 106 |
+| 483 | 0845Maqrizi.Bayan | 31,900 | 106 |
+| 484 | 0505Ghazali.TibrMasbuk | 31,540 | 105 |
+| 485 | 0911Suyuti.NazmCiqyan | 31,489 | 104 |
+| 486 | 0371AhmadJurjani.Mucjam | 31,101 | 103 |
+| 487 | 0821Qalqashandi.QalaidJuman | 30,592 | 101 |
+| 488 | 1389AghaBuzurgTihrani.DhaylKashfZunun | 30,484 | 101 |
+| 489 | 0328IbnCabdRabbihi.TabaicNisa | 30,047 | 100 |
+| 490 | 0544CiyadIbnMusaYahsubi.Ghunya | 29,789 | 99 |
+| 491 | 0463KhatibBaghdadi.GhunyaMultamis | 29,514 | 98 |
+| 492 | 0611CaliHarawi.Isharat | 29,278 | 97 |
+| 493 | 1354RashidRida.Manar | 29,042 | 96 |
+| 494 | 0658IbnAbbar.TuhfaQadim | 28,899 | 96 |
+| 495 | 0902Sakhawi.ManhalCadhb | 28,425 | 94 |
+| 496 | 0333AbuCarabTamimi.TabaqatCulama | 28,320 | 94 |
+| 497 | 0264AbyZurca.Ducafa | 28,257 | 94 |
+| 498 | 0324Ashcari.RisalaIlaAhlThughr | 27,802 | 92 |
+| 499 | 0334IbnHaikHamdani.Iklil | 27,740 | 92 |
+| 500 | 0650IbnNazifHamawi.TarikhMansuri | 27,313 | 91 |
+| 501 | 0505Ghazali.MahkNazar | 26,750 | 89 |
+| 502 | 0324Ashcari.Ibana | 26,624 | 88 |
+| 503 | 0879IbnQutlubugha.TajTarajim | 26,463 | 88 |
+| 504 | 1450WizaraAwqafMisriyya.TarajimMujaza | 26,409 | 88 |
+| 505 | 0842IbnNasirDinDimashqi.RaddWafir | 26,176 | 87 |
+| 506 | 0402MuhammadSaydawi.MucjamShuyukh | 26,156 | 87 |
+| 507 | 0310IbnAhmadDulabi.Dhariyya | 26,063 | 86 |
+| 508 | 1414SalimIbadi.IscafAcyan | 25,921 | 86 |
+| 509 | 0632IsmacilMarwazi.FakhriFiAnsab | 25,627 | 85 |
+| 510 | 0255Jahiz.TajFiAkhlaq | 25,314 | 84 |
+| 511 | 0728IbnTaymiyya.FatawaHamawiyya | 24,002 | 80 |
+| 512 | 0505Ghazali.SirrCalamin | 23,943 | 79 |
+| 513 | 0748Dhahabi.MucinFiTabaqatMuhaddithin | 23,934 | 79 |
+| 514 | 0929IbnKayyal.KawakibNayyirat | 23,699 | 78 |
+| 515 | 0584IbnMusaHazimi.CujalaMubtadi | 23,180 | 77 |
+| 516 | 1429BakrIbnCabdAllah.TabaqatNassabin | 23,042 | 76 |
+| 517 | 1086IbnCajamiMisri.DhaylLubbLubab | 22,972 | 76 |
+| 518 | 0337QudamaIbnJacfar.NaqdShicr | 22,928 | 76 |
+| 519 | 0576IbnMuhammadSilafi.Mashyakha | 22,872 | 76 |
+| 520 | 0662RashidAttar.NuzhatNazir | 22,772 | 75 |
+| 521 | 0368AbuGhalibZurari.Risala | 22,769 | 75 |
+| 522 | 0418WazirMaghribi.AdabKhawas | 22,658 | 75 |
+| 523 | 0418WazirMaghribi.Inas | 22,614 | 75 |
+| 524 | 0776LisanDinIbnKhatib.MicyarIkhtiyar | 22,471 | 74 |
+| 525 | 0209MacmarIbnMuthanna.Khayl | 22,392 | 74 |
+| 526 | 0911Suyuti.DhaylTabaqatHuffaz | 22,369 | 74 |
+| 527 | 0640AbuHafsDunaysiri.TarikhDunaysir | 22,117 | 73 |
+| 528 | 0303Nasai.FadailSahaba | 21,802 | 72 |
+| 529 | 0385IbnShahin.TarikhAsmaDucafa | 21,637 | 72 |
+| 530 | 0732AbuFida.Yawaqit | 21,381 | 71 |
+| 531 | 0330Sirafi.Rihla | 21,280 | 70 |
+| 532 | 0335Suli.AkhbarAbiTamam | 21,133 | 70 |
+| 533 | 0204IbnKalbi.JamharaAnsab | 21,042 | 70 |
+| 534 | 0565IbnZaydBayhaqi.TatimmaSiwanHikma | 20,359 | 67 |
+| 535 | 0515IbnQattac.DurraKhatira | 20,292 | 67 |
+| 536 | 0385Daruqutni.DhikrAsmaTabicin | 19,767 | 65 |
+| 537 | 0328IbnCabdRabbihi.Diwan | 19,627 | 65 |
+| 538 | 0748Dhahabi.DhikrAsmaManTakallama | 19,394 | 64 |
+| 539 | 0505Ghazali.QawaidCaqaid | 19,315 | 64 |
+| 540 | 0380Muhallabi.MasalikWaMamalik | 18,868 | 62 |
+| 541 | 0629IbnNuqta.IfadaWaIctibar | 18,784 | 62 |
+| 542 | 0385Daruqutni.SualatBarqani | 18,719 | 62 |
+| 543 | 0466CabdAzizKattani.DhaylTarikhMawlidCulama | 18,658 | 62 |
+| 544 | 0463IbnCabdBarr.InbahCalaQabail | 18,464 | 61 |
+| 545 | 0505Ghazali.MishkatAnwar | 18,447 | 61 |
+| 546 | 0309IbnFadlan.Rihla | 18,416 | 61 |
+| 547 | 0255Jahiz.Bighal | 18,305 | 61 |
+| 548 | 0677SahibTaji.HalbaFiAsmaKhayl | 18,268 | 60 |
+| 549 | 0296MuhammadIbnJarrah.ManIsmuhCamr | 18,234 | 60 |
+| 550 | 0334IbnSacidQushayri.TarikhRaqqa | 17,955 | 59 |
+| 551 | 1016MuhibbDinHamawi.HadiAzcan | 17,554 | 58 |
+| 552 | 0597IbnJawzi.Mashyakha | 17,396 | 57 |
+| 553 | 0469IbnHayyanQurtubi.Muqtabas | 17,127 | 57 |
+| 554 | 0355AbuFarajIsbahani.Diyarat | 17,102 | 57 |
+| 555 | 1218SalihFulani.QatfThamar | 16,905 | 56 |
+| 556 | 0691IbnYusufLabli.Fihrist | 16,803 | 56 |
+| 557 | 0911Suyuti.IscafMubatta | 16,433 | 54 |
+| 558 | 0498AbuCaliJayyani.TaqyidMuhmal | 16,017 | 53 |
+| 559 | 0405HakimNaysaburi.TasmiyaManAkhrajahum | 15,868 | 52 |
+| 560 | 0456IbnHazm.FadailAndalus | 15,744 | 52 |
+| 561 | 0685IbnSacidMaghribi.GhusunYanica | 15,713 | 52 |
+| 562 | 0538MahmudZamakhshari.JibalWaAmkina | 15,676 | 52 |
+| 563 | 0765AbuMahasinHusayni.DhaylTadhkira | 15,407 | 51 |
+| 564 | 0276IbnQutaybaDinawari.AshribaWaIkhtilafFiha | 14,830 | 49 |
+| 565 | 1126MuhammadHanbali.Mashyakha | 14,775 | 49 |
+| 566 | 0659SainDinNaccal.Mashyakha | 14,631 | 48 |
+| 567 | 0505Ghazali.BidayatHidaya | 14,542 | 48 |
+| 568 | 0909IbnMibradHanbali.MucjamKutub | 14,490 | 48 |
+| 569 | 1418SalihAhmadArkani.TihfaMajalis | 14,467 | 48 |
+| 570 | 0430AbuNucaymIsbahani.Ducafa | 14,296 | 47 |
+| 571 | 0456IbnHazm.NaqtCarus | 14,078 | 46 |
+| 572 | 0360Khawlani.TarikhDaraya | 13,813 | 46 |
+| 573 | 0261Muslim.Munfaridat | 13,798 | 45 |
+| 574 | 0211AbuCatahiya.Diwan | 13,740 | 45 |
+| 575 | 0541IbnCatiyyaMuharibi.Fahrasa | 13,427 | 44 |
+| 576 | 0256Bukhari.Ducafa | 13,146 | 43 |
+| 577 | 0748Dhahabi.DhaylDiwanDucafa | 12,664 | 42 |
+| 578 | 1450TarhibDawsari.MucjamMuallafatShaficiyya | 12,526 | 41 |
+| 579 | 1419MahmudTanahi.MujizFiMarajic | 12,525 | 41 |
+| 580 | 0701SharafDinYunini.Mashyakha | 11,855 | 39 |
+| 581 | 0911Suyuti.TabaqatMufassirin | 11,806 | 39 |
+| 582 | 0374IbnHusaynAzdi.Makhzun | 11,516 | 38 |
+| 583 | 0643DiyaDinMuqaddasi.FadailBaytMaqdis | 11,474 | 38 |
+| 584 | 0505Ghazali.Munqidh | 11,334 | 37 |
+| 585 | 0413ShaykhMufid.MasarShica | 11,320 | 37 |
+| 586 | 0576IbnMuhammadSilafi.Wajiz | 10,969 | 36 |
+| 587 | 0442Tanukhi.TarikhCulamaNahwiyyin | 10,863 | 36 |
+| 588 | 0256Bukhari.DucafaSaghir | 10,791 | 35 |
+| 589 | 0444AbuFadlIbnMahdi.DhikrShuyukh | 10,738 | 35 |
+| 590 | 0400IshaqMunajjim.AkamMarjan | 10,606 | 35 |
+| 591 | 0413ShaykhMufid.AhkamNisa | 10,517 | 35 |
+| 592 | 0628IbnCaliSanhaji.AkhbarMuluk | 10,423 | 34 |
+| 593 | 0405AbuFadlHarawi.MucjamFiMushtabah | 10,379 | 34 |
+| 594 | 0368Sirafi.AkhbarNahwiyyin | 10,206 | 34 |
+| 595 | 1246IbnHamadBassam.DurarMafakhir | 10,058 | 33 |
+| 596 | 0374IbnHusaynAzdi.DhikrIsmKullAshab | 9,862 | 32 |
+| 597 | 0809IbnQunfudh.Wafayat | 9,725 | 32 |
+| 598 | 0245MuhammadIbnHabib.MukhtalafQabail | 9,630 | 32 |
+| 599 | 0498AbuCaliJayyani.AlqabSahaba | 9,492 | 31 |
+| 600 | 0705SharafDinDimyatti.MucjamShuyukh | 9,252 | 30 |
+| 601 | 0259IbnYacqubJuzjani.AhwalRijal | 9,088 | 30 |
+| 602 | 0195MuarrijSadusi.HadhfMinNasabQuraysh | 9,074 | 30 |
+| 603 | 0385Daruqutni.Ducafa | 9,054 | 30 |
+| 604 | 0852IbnHajarCasqalani.TabaqatMudallisin | 8,929 | 29 |
+| 605 | 0852IbnHajarCasqalani.ItharBiMacrifa | 8,858 | 29 |
+| 606 | 0747MuhyiDinYunini.Mashyakha | 8,748 | 29 |
+| 607 | 0862IbnMuhammadMujari.Barnamaj | 8,697 | 28 |
+| 608 | 0852IbnHajarCasqalani.TacrifAhlTaqbis | 8,687 | 28 |
+| 609 | 0511IbnMandahYahya.MacrifaAsamiArdaf | 8,637 | 28 |
+| 610 | 0751IbnQayyimJawziyya.IghathaLahfan | 8,563 | 28 |
+| 611 | 0318AbuCurubaHarrani.MuntaqaMinTabaqat | 8,422 | 28 |
+| 612 | 0385Daruqutni.SualatNaysaburi | 8,317 | 27 |
+| 613 | 0276IbnQutaybaDinawari.IkhtilafFiLafz | 8,312 | 27 |
+| 614 | 0597IbnJawzi.FadailQuds | 8,290 | 27 |
+| 615 | 0303Nasai.DucafaWaMatrukin | 8,237 | 27 |
+| 616 | 0456IbnHazm.RisalaFiMaratibCulum | 7,743 | 25 |
+| 617 | 0365IbnCadiJurjani.AsamiManRawaCanhum | 7,679 | 25 |
+| 618 | 0234AbuHasanSacdi.TasmiyaManRuwiya | 7,575 | 25 |
+| 619 | 0308IbnIbrahimJundi.FadailMadina | 7,557 | 25 |
+| 620 | 0807IbnAhmarKhazraji.NafhaNisriniyya | 7,528 | 25 |
+| 621 | 0748Dhahabi.Radd | 7,489 | 24 |
+| 622 | 0255Jahiz.MukhtarFiRaddCalaNasara | 7,481 | 24 |
+| 623 | 0255Jahiz.AmilWaMamul | 7,425 | 24 |
+| 624 | 0222IbnBakkarDabi.AkhbarWafidat | 7,319 | 24 |
+| 625 | 1285CabdRahmanTamimi.Maqamat | 7,256 | 24 |
+| 626 | 0355MuhammadKindi.FadailMisr | 7,140 | 23 |
+| 627 | 0256ZubayrIbnBakkar.Muntakhab | 7,125 | 23 |
+| 628 | 0482AbuIshaqHabbal.WafayatMisriyyin | 7,037 | 23 |
+| 629 | 0884SibtIbnCajami.TabyinLiAsma | 6,877 | 22 |
+| 630 | 0456IbnHazm.AsmaKhulafa | 6,660 | 22 |
+| 631 | 0774IbnRaficSallami.MashyakhaBayani | 6,654 | 22 |
+| 632 | 0301Bardiji.TabaqatAsma | 6,594 | 21 |
+| 633 | 0505Ghazali.AsnafMaghrurin | 6,558 | 21 |
+| 634 | 0204IbnKalbi.AnsabKhayl | 6,506 | 21 |
+| 635 | 0409CabdGhaniAzdi.KitabMutawarin | 6,452 | 21 |
+| 636 | 0597IbnJawzi.TarikhBaytMuqaddas | 6,394 | 21 |
+| 637 | 0303Nasai.TasmiyaShuyukh | 6,216 | 20 |
+| 638 | 1450TarhibDawsari.MucjamMuallafatMalikiyya | 6,095 | 20 |
+| 639 | 0632AbyHafsSuhrawardi.Mashyakha | 6,008 | 20 |
+| 640 | 0241IbnHanbal.AsamiWaKuna | 5,950 | 19 |
+| 641 | 0825IbnQasimSabti.IkhtisarAkhbar | 5,839 | 19 |
+| 642 | 0884SibtIbnCajami.Ightibat | 5,716 | 19 |
+| 643 | 0233YahyaIbnMacin.MinKalamFiRijal | 5,551 | 18 |
+| 644 | 0222IbnBakkarDabi.AkhbarWafidin | 5,286 | 17 |
+| 645 | 0852IbnHajarCasqalani.MucjamShaykhaMaryam | 4,980 | 16 |
+| 646 | 1051Cimadi.RawdaRayya | 4,849 | 16 |
+| 647 | 0200AbuShis.Diwan | 4,549 | 15 |
+| 648 | 0286Mubarrad.NasabCadnan | 4,412 | 14 |
+| 649 | 0524IbnAkfani.DhaylDhaylTarikhMawlidCulama | 4,178 | 13 |
+| 650 | 0395IbnMandahMuhammad.Asami | 4,056 | 13 |
+| 651 | 0776LisanDinIbnKhatib.KhatraTayf | 3,992 | 13 |
+| 652 | 0911Suyuti.Shamarikh | 3,874 | 12 |
+| 653 | 0322KatibBaghdadi.TarikhAimma | 3,821 | 12 |
+| 654 | 0317AbuQasimBaghawi.TarikhWafatShuyukh | 3,802 | 12 |
+| 655 | 0911Suyuti.AsmaMukhadramin | 3,736 | 12 |
+| 656 | 1172IbnKhalifaMasakini.Fahrasa | 3,704 | 12 |
+| 657 | 0374IbnHusaynAzdi.KunaLiManLaYucrafLahuIsm | 3,572 | 11 |
+| 658 | 0505Ghazali.KimiyaSacada | 3,404 | 11 |
+| 659 | 0826IbnCiraqi.Mudallisin | 3,392 | 11 |
+| 660 | 0748Dhahabi.RuwatThiqat | 3,391 | 11 |
+| 661 | 0761IbnKaykaldi.Mukhtalitin | 3,340 | 11 |
+| 662 | 0110HasanBasri.FadailMakka | 3,334 | 11 |
+| 663 | 0567IbnKhashshabBaghdadi.TarikhMawalidAimma | 3,254 | 10 |
+| 664 | 0382IbnCabdAllahCaskari.AkhbarMusahhifin | 3,184 | 10 |
+| 665 | 0430AbuNucaymIsbahani.DhikrManIsmuhuShucba | 3,082 | 10 |
+| 666 | 0248AbuHatimSijistani.FuhulaShucara | 2,637 | 8 |
+| 667 | 0430AbuNucaymIsbahani.TasmiyaMaIntahaIlayna | 2,501 | 8 |
+| 668 | 0255Jahiz.TabsiraBiTijara | 2,497 | 8 |
+| 669 | 0374IbnHusaynAzdi.AsmaManYucrafBiKunya | 2,362 | 7 |
+| 670 | 0276IbnQutaybaDinawari.RisalaKhatt | 2,337 | 7 |
+| 671 | 0456IbnHazm.RisalaFiFutuhIslam | 2,234 | 7 |
+| 672 | 0303Nasai.TasmiyaManLamYarwi | 2,100 | 7 |
+| 673 | 1187SulaymanMahasini.HululTacab | 2,064 | 6 |
+| 674 | 0643DiyaDinMuqaddasi.JuzAwham | 2,001 | 6 |
+| 675 | 0335Suli.JuzMinAhadith | 1,892 | 6 |
+| 676 | 0349IbnCumarMuqri.AkhbarNahwiyyin | 1,790 | 5 |
+| 677 | 0374IbnHusaynAzdi.ManWafaqaIsmuhuIsmAbihi | 1,753 | 5 |
+| 678 | 0303Nasai.TasmiyaFuqaha | 1,162 | 3 |
+| 679 | _female_names_in_0902Sakhawi.DuLamic | 941 | 3 |
+| 680 | 0911Suyuti.RihNisrin | 795 | 2 |
+| 681 | 0456IbnHazm.UmmahatKhulafa | 693 | 2 |
+| 682 | 0303Nasai.Tabaqat | 612 | 2 |
+| 683 | 0696Dabbagh.MacalimIman | 187 | 0 |
+| 684 | 1450MuhammadSancani.NaylWatar | 150 | 0 |
 
 
 ## Texts in chronological order (duplicates excluded)
@@ -2548,6 +2611,8 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 | 0335Suli.AshcarAwladKhulafa | 44,151 | 147 |
 | 0335Suli.JuzMinAhadith | 1,892 | 6 |
 | 0337IbnIshaqZajjaji.Akhbar | 40,895 | 136 |
+| 0337QudamaIbnJacfar.Kharaj | 106,955 | 356 |
+| 0337QudamaIbnJacfar.NaqdShicr | 22,928 | 76 |
 | 0346Istakhri.MasalikWaMamalik | 75,599 | 251 |
 | 0346Mascudi.AkhbarZaman | 63,951 | 213 |
 | 0346Mascudi.MurujDhahab | 382,786 | 1,275 |
@@ -2608,6 +2673,11 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 | 0405HakimNaysaburi.TasmiyaManAkhrajahum | 15,868 | 52 |
 | 0409CabdGhaniAzdi.KitabMutawarin | 6,452 | 21 |
 | 0412Sulami.TabaqatSufiya | 68,774 | 229 |
+| 0413ShaykhMufid.AhkamNisa | 10,517 | 35 |
+| 0413ShaykhMufid.Amali | 109,089 | 363 |
+| 0413ShaykhMufid.Irshad | 172,972 | 576 |
+| 0413ShaykhMufid.MasarShica | 11,320 | 37 |
+| 0413ShaykhMufid.Muqnica | 195,606 | 652 |
 | 0418WazirMaghribi.AdabKhawas | 22,658 | 75 |
 | 0418WazirMaghribi.Inas | 22,614 | 75 |
 | 0421IbnMuhammadMarzuqi.AzminaWaAmkina | 165,458 | 551 |
@@ -2923,7 +2993,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 | 0852IbnHajarCasqalani.TabsirMuntabih | 209,171 | 697 |
 | 0852IbnHajarCasqalani.TacjilManfaca | 127,930 | 426 |
 | 0852IbnHajarCasqalani.TacrifAhlTaqbis | 8,687 | 28 |
-| 0852IbnHajarCasqalani.TahdhibTahdhib | 1,415,254 | 4,717 |
+| 0852IbnHajarCasqalani.TahdhibTahdhib | 1,415,253 | 4,717 |
 | 0852IbnHajarCasqalani.TaqribTahdhib | 217,589 | 725 |
 | 0854IbnCarabshah.CajaibMaqdur | 72,705 | 242 |
 | 0854IbnDiyaMakki.TarikhMakka | 96,272 | 320 |
@@ -3224,11 +3294,11 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **TOTAL: 9 titles, 931,763 words**
 
 
-### *AJZA* (666 texts, 8,995,458 words)
+### *AJZA* (667 texts, 9,020,525 words)
 
 - ~~6th century CE: 0 titles, 0 words~~
 - ~~7th century CE: 0 titles, 0 words~~
-- **8th century CE: 21 titles, 289,272 words**
+- **8th century CE: 22 titles, 314,339 words**
 - **9th century CE: 105 titles, 1,422,088 words**
 - **10th century CE: 187 titles, 2,499,231 words**
 - **11th century CE: 124 titles, 1,833,468 words**
@@ -3242,7 +3312,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 1 titles, 5,943 words**
 - **20th century CE: 1 titles, 5,888 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **TOTAL: 666 titles, 8,995,458 words**
+- **TOTAL: 667 titles, 9,020,525 words**
 
 
 ### *AKHLAQ* (205 texts, 12,196,922 words)
@@ -3812,11 +3882,11 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **TOTAL: 14 titles, 203,216 words**
 
 
-### *FIQH* (776 texts, 256,201,204 words)
+### *FIQH* (777 texts, 256,439,692 words)
 
 - ~~6th century CE: 0 titles, 0 words~~
 - **7th century CE: 1 titles, 30,942 words**
-- **8th century CE: 9 titles, 1,894,834 words**
+- **8th century CE: 10 titles, 2,133,322 words**
 - **9th century CE: 56 titles, 10,572,765 words**
 - **10th century CE: 71 titles, 12,379,338 words**
 - **11th century CE: 86 titles, 25,601,998 words**
@@ -3830,7 +3900,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 65 titles, 35,370,893 words**
 - **20th century CE: 27 titles, 4,773,862 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **TOTAL: 776 titles, 256,201,204 words**
+- **TOTAL: 777 titles, 256,439,692 words**
 
 
 ### *FIRAQ* (19 texts, 2,093,490 words)
@@ -4337,11 +4407,11 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **TOTAL: 300 titles, 1,975,198 words**
 
 
-### *MALIKI* (43 texts, 24,866,518 words)
+### *MALIKI* (44 texts, 25,105,006 words)
 
 - ~~6th century CE: 0 titles, 0 words~~
 - ~~7th century CE: 0 titles, 0 words~~
-- **8th century CE: 2 titles, 1,151,308 words**
+- **8th century CE: 3 titles, 1,389,796 words**
 - **9th century CE: 1 titles, 6,087 words**
 - **10th century CE: 5 titles, 2,091,441 words**
 - **11th century CE: 3 titles, 2,766,621 words**
@@ -4355,7 +4425,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 5 titles, 4,911,364 words**
 - **20th century CE: 1 titles, 177,397 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **TOTAL: 43 titles, 24,866,518 words**
+- **TOTAL: 44 titles, 25,105,006 words**
 
 
 ### *MANSUKH* (8 texts, 213,315 words)
@@ -5450,11 +5520,11 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **TOTAL: 54 titles, 6,175,973 words**
 
 
-### *TARAJIM* (768 texts, 151,346,090 words)
+### *TARAJIM* (769 texts, 151,584,578 words)
 
 - ~~6th century CE: 0 titles, 0 words~~
 - ~~7th century CE: 0 titles, 0 words~~
-- **8th century CE: 14 titles, 413,129 words**
+- **8th century CE: 15 titles, 651,617 words**
 - **9th century CE: 103 titles, 12,645,847 words**
 - **10th century CE: 164 titles, 17,829,604 words**
 - **11th century CE: 94 titles, 17,576,228 words**
@@ -5468,7 +5538,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **19th century CE: 11 titles, 1,509,853 words**
 - **20th century CE: 9 titles, 2,934,168 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **TOTAL: 768 titles, 151,346,090 words**
+- **TOTAL: 769 titles, 151,584,578 words**
 
 
 ### *TARIKH* (310 texts, 74,474,408 words)
