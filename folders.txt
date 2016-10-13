@@ -21,8 +21,14 @@
 |           `-- 0094ZaynCabidin.SahifaSajjadiya
 |-- 0200AH
 |   `-- data
+|       |-- 0104MujahidIbnJabr
+|       |   `-- 0104MujahidIbnJabr.Tafsir
 |       |-- 0110HasanBasri
 |       |   `-- 0110HasanBasri.FadailMakka
+|       |-- 0110IbnSirin
+|       |   `-- 0110IbnSirin.MuntakhabKalamFiTafsirAhlam
+|       |-- 0150MuqatilIbnSulayman
+|       |   `-- 0150MuqatilIbnSulayman.TafsirMuqatil
 |       |-- 0156IbnAbiCuruba
 |       |   `-- 0156IbnAbiCuruba.Manasik
 |       |-- 0161SufyanThawri
@@ -53,6 +59,7 @@
 |       |   `-- 0182AbuYusufYacqub.RaddCalaSiyarAwzaci
 |       |-- 0189MuhammadShaybani
 |       |   |-- 0189MuhammadShaybani.Asl
+|       |   |-- 0189MuhammadShaybani.HujjaCalaAhlMadina
 |       |   |-- 0189MuhammadShaybani.JamicSaghir
 |       |   |-- 0189MuhammadShaybani.Kasb
 |       |   `-- 0189MuhammadShaybani.Siyar
@@ -72,6 +79,8 @@
 |   `-- data
 |       |-- 0203YahyaIbnAdam
 |       |   `-- 0203YahyaIbnAdam.Kharaj
+|       |-- 0204HishamKalbi
+|       |   `-- 0204HishamKalbi.Asnam
 |       |-- 0204IbnKalbi
 |       |   |-- 0204IbnKalbi.AnsabKhayl
 |       |   |-- 0204IbnKalbi.JamharaAnsab
@@ -79,7 +88,10 @@
 |       |-- 0204Shafici
 |       |   |-- 0204Shafici.AhkamQuran
 |       |   |-- 0204Shafici.JimacCilm
+|       |   |-- 0204Shafici.Musnad
 |       |   `-- 0204Shafici.Risala
+|       |-- 0206AbuMuhammadQutrub
+|       |   `-- 0206AbuMuhammadQutrub.Azmina
 |       |-- 0207Waqidi
 |       |   |-- 0207Waqidi.FutuhSham
 |       |   |-- 0207Waqidi.Maghazi
@@ -88,6 +100,10 @@
 |       |   `-- 0209MacmarIbnMuthanna.Khayl
 |       |-- 0211AbuCatahiya
 |       |   `-- 0211AbuCatahiya.Diwan
+|       |-- 0211CabdRazzakSancani
+|       |   |-- 0211CabdRazzakSancani.AmaliFiAthar
+|       |   |-- 0211CabdRazzakSancani.Musannaf
+|       |   `-- 0211CabdRazzakSancani.Tafsir
 |       |-- 0213IbnHisham
 |       |   |-- 0213IbnHisham.SiraNabawiyya
 |       |   `-- 0213IbnHisham.Tijan
@@ -114,13 +130,18 @@
 |       |-- 0231IbnSallamJumahi
 |       |   `-- 0231IbnSallamJumahi.TabaqatFuhulShucara
 |       |-- 0233YahyaIbnMacin
+|       |   |-- 0233YahyaIbnMacin.HadithYahya
 |       |   |-- 0233YahyaIbnMacin.MacrifaRijal
 |       |   |-- 0233YahyaIbnMacin.MinKalamFiRijal
 |       |   `-- 0233YahyaIbnMacin.TarikhIbnMacin
 |       |-- 0234AbuHasanSacdi
 |       |   `-- 0234AbuHasanSacdi.TasmiyaManRuwiya
+|       |-- 0234AbuKhaythamaNisai
+|       |   `-- 0234AbuKhaythamaNisai.Cilm
 |       |-- 0236AbuCabdAllahZubayri
 |       |   `-- 0236AbuCabdAllahZubayri.NasabQuraysh
+|       |-- 0238IbnHabibQurtubi
+|       |   `-- 0238IbnHabibQurtubi.MukhtasarFiTibb
 |       |-- 0238MuhammadBarjlani
 |       |   `-- 0238MuhammadBarjlani.KaramWaJawd
 |       |-- 0240KhalifaIbnKhayyat
@@ -234,6 +255,11 @@
 |       |   `-- 0265SalihIbnHanbal.SiraImam
 |       |-- 0272Fakihi
 |       |   `-- 0272Fakihi.AkhbarMakka
+|       |-- 0273AbuUmayyaTarsusi
+|       |   `-- 0273AbuUmayyaTarsusi.MusnadCabdAllahIbnCumar
+|       |-- 0275AbuDawudSijistani
+|       |   |-- 0275AbuDawudSijistani.Marasil
+|       |   `-- 0275AbuDawudSijistani.RisalaIlaAhlMakka
 |       |-- 0276IbnQutaybaDinawari
 |       |   |-- 0276IbnQutaybaDinawari.AdabKatib
 |       |   |-- 0276IbnQutaybaDinawari.AnwaFiMawasim
@@ -266,6 +292,8 @@
 |       |   `-- 0281AbuZurcaDimashqi.Tarikh
 |       |-- 0281IbnAbiDunya
 |       |   |-- 0281IbnAbiDunya.Awliya
+|       |   |-- 0281IbnAbiDunya.CaqlWaFadluh
+|       |   |-- 0281IbnAbiDunya.Ciyal
 |       |   |-- 0281IbnAbiDunya.CumrWaShayb
 |       |   |-- 0281IbnAbiDunya.DhammMuskir
 |       |   |-- 0281IbnAbiDunya.HammWaHuzn
@@ -274,9 +302,15 @@
 |       |   |-- 0281IbnAbiDunya.HusnZannBiLlah
 |       |   |-- 0281IbnAbiDunya.IctibarWaAcqab
 |       |   |-- 0281IbnAbiDunya.Ikhwan
+|       |   |-- 0281IbnAbiDunya.IshrafFiManazil
+|       |   |-- 0281IbnAbiDunya.IslahMal
 |       |   |-- 0281IbnAbiDunya.MakarimAkhlaq
+|       |   |-- 0281IbnAbiDunya.ManCashaBacdaMawt
 |       |   |-- 0281IbnAbiDunya.Manamat
 |       |   |-- 0281IbnAbiDunya.MaradWaKaffarat
+|       |   |-- 0281IbnAbiDunya.MudaratNas
+|       |   |-- 0281IbnAbiDunya.Muhtadirin
+|       |   |-- 0281IbnAbiDunya.Mutammanin
 |       |   |-- 0281IbnAbiDunya.QadaHawaij
 |       |   |-- 0281IbnAbiDunya.Rida
 |       |   |-- 0281IbnAbiDunya.SamtWaAdab
@@ -290,12 +324,21 @@
 |       |-- 0282IbnIshaqJahdami
 |       |   `-- 0282IbnIshaqJahdami.FadlSalat
 |       |-- 0285IbrahimHarbi
+|       |   |-- 0285IbrahimHarbi.GharibHadith
 |       |   `-- 0285IbrahimHarbi.IkramDayf
 |       |-- 0286Mubarrad
 |       |   `-- 0286Mubarrad.NasabCadnan
 |       |-- 0287Dahhak
 |       |   |-- 0287Dahhak.AhadWaMathani
-|       |   `-- 0287Dahhak.Diyat
+|       |   |-- 0287Dahhak.Awail
+|       |   |-- 0287Dahhak.Diyat
+|       |   |-- 0287Dahhak.Mudhakkir
+|       |   |-- 0287Dahhak.Sunna
+|       |   `-- 0287Dahhak.Zuhd
+|       |-- 0290IbnAhmadIbnHanbal
+|       |   `-- 0290IbnAhmadIbnHanbal.Sunna
+|       |-- 0291IbnYahyaThaclab
+|       |   `-- 0291IbnYahyaThaclab.QawacidShicr
 |       |-- 0292Bahshal
 |       |   `-- 0292Bahshal.TarikhWasit
 |       |-- 0292IbnCaliMarwazi
@@ -305,6 +348,7 @@
 |       |   `-- 0292Yacqubi.TarikhYacqubi
 |       |-- 0294IbnNasrMarwazi
 |       |   |-- 0294IbnNasrMarwazi.IkhtilafCulama
+|       |   |-- 0294IbnNasrMarwazi.Sunna
 |       |   `-- 0294IbnNasrMarwazi.TaczimQadrSalat
 |       |-- 0296IbnMuctazz
 |       |   |-- 0296IbnMuctazz.Diwan
@@ -319,6 +363,8 @@
 |           `-- 0300MuallifMajhul.AkhbarDawlaCabbasiya
 |-- 0400AH
 |   `-- data
+|       |-- 0301AbuBakrFaryabi
+|       |   `-- 0301AbuBakrFaryabi.DalailNubuwwa
 |       |-- 0301Bardiji
 |       |   `-- 0301Bardiji.TabaqatAsma
 |       |-- 0303Nasai
@@ -338,7 +384,8 @@
 |       |-- 0309IbnFadlan
 |       |   `-- 0309IbnFadlan.Rihla
 |       |-- 0309IbnMarzuban
-|       |   `-- 0309IbnMarzuban.DhammThuqala
+|       |   |-- 0309IbnMarzuban.DhammThuqala
+|       |   `-- 0309IbnMarzuban.FadlKilab
 |       |-- 0310IbnAhmadDulabi
 |       |   |-- 0310IbnAhmadDulabi.Dhariyya
 |       |   `-- 0310IbnAhmadDulabi.KunaWaAsma
@@ -420,9 +467,13 @@
 |       |   |-- 0355MuhammadKindi.FadailMisr
 |       |   |-- 0355MuhammadKindi.QudatMisr
 |       |   `-- 0355MuhammadKindi.WulatMisr
+|       |-- 0360AbuBakrAjurri
+|       |   `-- 0360AbuBakrAjurri.AkhbarAbiHafs
 |       |-- 0360Khawlani
 |       |   `-- 0360Khawlani.TarikhDaraya
 |       |-- 0360Tabarani
+|       |   |-- 0360Tabarani.Awail
+|       |   |-- 0360Tabarani.MucjamAwsat
 |       |   `-- 0360Tabarani.MucjamKabir
 |       |-- 0365IbnCadiJurjani
 |       |   |-- 0365IbnCadiJurjani.AsamiManRawaCanhum
@@ -466,8 +517,11 @@
 |       |-- 0385IbnNadim
 |       |   `-- 0385IbnNadim.Fihrist
 |       |-- 0385IbnShahin
+|       |   |-- 0385IbnShahin.DhikrManIkhtalafaCulama
 |       |   |-- 0385IbnShahin.TarikhAsmaDucafa
 |       |   `-- 0385IbnShahin.TarikhAsmaThiqat
+|       |-- 0387KatibKhwarizmi
+|       |   `-- 0387KatibKhwarizmi.MafatihCulum
 |       |-- 0388Shabushti
 |       |   `-- 0388Shabushti.Diyarat
 |       |-- 0390Muqaddasi
@@ -480,6 +534,8 @@
 |       |   `-- 0395IbnMandahMuhammad.MacrifaSahaba
 |       |-- 0398AbuNasrKalabadhi
 |       |   `-- 0398AbuNasrKalabadhi.HidayaWaIrshad
+|       |-- 0400IbnCamashliqJacfari
+|       |   `-- 0400IbnCamashliqJacfari.JuzIbnCamashliq
 |       |-- 0400IbnTahirMaqdisi
 |       |   `-- 0400IbnTahirMaqdisi.BadWaTarikh
 |       `-- 0400IshaqMunajjim
@@ -526,6 +582,7 @@
 |       |   |-- 0430AbuNucaymIsbahani.Ducafa
 |       |   |-- 0430AbuNucaymIsbahani.HilyaAwliya
 |       |   |-- 0430AbuNucaymIsbahani.MacrifaSahaba
+|       |   |-- 0430AbuNucaymIsbahani.MajlisMinAmali
 |       |   |-- 0430AbuNucaymIsbahani.TarikhIsbahan
 |       |   `-- 0430AbuNucaymIsbahani.TasmiyaMaIntahaIlayna
 |       |-- 0436HusaynSaymari
@@ -815,6 +872,8 @@
 |       |   `-- 0694MuhibbDinTabari.RiyadNadira
 |       |-- 0695IbnCidhariMarrakushi
 |       |   `-- 0695IbnCidhariMarrakushi.BayanMaghrib
+|       |-- 0696CumarSunami
+|       |   `-- 0696CumarSunami.NisabIhtisab
 |       |-- 0696Dabbagh
 |       |   `-- 0696Dabbagh.MacalimIman
 |       `-- 0696IbnZahiri
@@ -897,6 +956,8 @@
 |       |   `-- 0749Wadiashi.Barnamaj
 |       |-- 0750AbuHafsQazwini
 |       |   `-- 0750AbuHafsQazwini.Mashyakha
+|       |-- 0751IbQayyimJawziyya
+|       |   `-- 0751IbQayyimJawziyya.RisalaIlaAhadIkhwan
 |       |-- 0751IbnQayyimJawziyya
 |       |   `-- 0751IbnQayyimJawziyya.IghathaLahfan
 |       |-- 0761IbnKaykaldi
@@ -967,6 +1028,9 @@
 |       |   `-- 0812CaliKhazraji.CuqudLuluiyya
 |       |-- 0816AbuBakrMaraghi
 |       |   `-- 0816AbuBakrMaraghi.Mashyakha
+|       |-- 0817Firuzabadi
+|       |   |-- 0817Firuzabadi.QamusMuhit
+|       |   `-- 0817Firuzabadi.TanwirMiqbas
 |       |-- 0817IbnYacqubFiruzabadi
 |       |   `-- 0817IbnYacqubFiruzabadi.BulghaFiTarajim
 |       |-- 0821Qalqashandi
@@ -1218,6 +1282,8 @@
 |       |   `-- 1315AbuMacaliKalbasi.RasailRijaliyya
 |       |-- 1315Salawi
 |       |   `-- 1315Salawi.IstiqsaLiAhkbar
+|       |-- 1318AhmadDimashqi
+|       |   `-- 1318AhmadDimashqi.MucjamAsmaAshya
 |       |-- 1318MuhammadSanusi
 |       |   `-- 1318MuhammadSanusi.Musamarat
 |       |-- 1330IbnMusaTabrizi
@@ -1592,4 +1658,4 @@
     |   `-- pass.parquet
     `-- spark-warehouse
 
-1592 directories
+1658 directories
