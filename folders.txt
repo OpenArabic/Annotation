@@ -672,6 +672,8 @@
 |       |   `-- 0385IbnShahin.TarikhAsmaThiqat
 |       |-- 0386AbuTalibMakki
 |       |   `-- 0386AbuTalibMakki.QutQulub
+|       |-- 0387IbnSamcunBaghdadi
+|       |   `-- 0387IbnSamcunBaghdadi.Amali
 |       |-- 0387KatibKhwarizmi
 |       |   `-- 0387KatibKhwarizmi.MafatihCulum
 |       |-- 0388Shabushti
@@ -1123,6 +1125,8 @@
 |       |-- 0761IbnKaykaldi
 |       |   |-- 0761IbnKaykaldi.JamicTahsil
 |       |   `-- 0761IbnKaykaldi.Mukhtalitin
+|       |-- 0761IbnKaykaldiDimashqi
+|       |   `-- 0761IbnKaykaldiDimashqi.ItharatFawaid
 |       |-- 0762MughaltayIbnQalij
 |       |   `-- 0762MughaltayIbnQalij.IkmalTahdhib
 |       |-- 0764IbnShakirKutubi
@@ -1175,7 +1179,8 @@
 |       |   |-- 0804IbnMulaqqin.TabaqatAwliya
 |       |   `-- 0804IbnMulaqqin.TuhfaMuhtaj
 |       |-- 0806IbnHusaynCiraqi
-|       |   `-- 0806IbnHusaynCiraqi.DhaylMizan
+|       |   |-- 0806IbnHusaynCiraqi.DhaylMizan
+|       |   `-- 0806IbnHusaynCiraqi.TarhTarthib
 |       |-- 0807IbnAhmarKhazraji
 |       |   `-- 0807IbnAhmarKhazraji.NafhaNisriniyya
 |       |-- 0808IbnKhaldun
@@ -1343,7 +1348,8 @@
 |       |-- 1011SahibMacalim
 |       |   `-- 1011SahibMacalim.TahrirTawusi
 |       |-- 1014IbnSultanHarawi
-|       |   `-- 1014IbnSultanHarawi.MirqatMafatih
+|       |   |-- 1014IbnSultanHarawi.MirqatMafatih
+|       |   `-- 1014IbnSultanHarawi.SharhShifa
 |       |-- 1016MuhibbDinHamawi
 |       |   `-- 1016MuhibbDinHamawi.HadiAzcan
 |       |-- 1031CabdRaufMunawi
@@ -1836,4 +1842,4 @@
     |   `-- pass.parquet
     `-- spark-warehouse
 
-1836 directories
+1842 directories
