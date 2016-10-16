@@ -148,12 +148,12 @@
 - **TOTAL: 667 titles, 9,020,525 words**
 
 
-### *AKHLAQ* (205 texts, 12,196,922 words)
+### *AKHLAQ* (204 texts, 12,191,718 words)
 
 - ~~6th century CE: 0 titles, 0 words~~
 - **7th century CE: 2 titles, 123,285 words**
 - **8th century CE: 3 titles, 171,423 words**
-- **9th century CE: 58 titles, 1,050,123 words**
+- **9th century CE: 57 titles, 1,044,919 words**
 - **10th century CE: 27 titles, 1,453,988 words**
 - **11th century CE: 23 titles, 734,655 words**
 - **12th century CE: 19 titles, 1,721,017 words**
@@ -166,7 +166,7 @@
 - **19th century CE: 5 titles, 299,708 words**
 - **20th century CE: 1 titles, 109,344 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **TOTAL: 205 titles, 12,196,922 words**
+- **TOTAL: 204 titles, 12,191,718 words**
 
 
 ### *ALBANI* (19 texts, 1,377,404 words)
@@ -1366,12 +1366,12 @@
 - **TOTAL: 44 titles, 4,118,004 words**
 
 
-### *MILAL* (233 texts, 14,580,486 words)
+### *MILAL* (234 texts, 14,585,690 words)
 
 - ~~6th century CE: 0 titles, 0 words~~
 - ~~7th century CE: 0 titles, 0 words~~
 - **8th century CE: 2 titles, 7,598 words**
-- **9th century CE: 23 titles, 464,663 words**
+- **9th century CE: 24 titles, 469,867 words**
 - **10th century CE: 38 titles, 1,289,107 words**
 - **11th century CE: 39 titles, 2,873,359 words**
 - **12th century CE: 19 titles, 1,015,259 words**
@@ -1384,7 +1384,7 @@
 - **19th century CE: 12 titles, 336,647 words**
 - **20th century CE: 5 titles, 309,736 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **TOTAL: 233 titles, 14,580,486 words**
+- **TOTAL: 234 titles, 14,585,690 words**
 
 
 ### *MISC* (320 texts, 26,285,719 words)
@@ -2227,12 +2227,12 @@
 - **TOTAL: 15 titles, 5,517,153 words**
 
 
-### *SUNNI* (362 texts, 114,529,616 words)
+### *SUNNI* (361 texts, 114,524,412 words)
 
 - ~~6th century CE: 0 titles, 0 words~~
 - ~~7th century CE: 0 titles, 0 words~~
 - **8th century CE: 9 titles, 680,173 words**
-- **9th century CE: 81 titles, 10,982,136 words**
+- **9th century CE: 80 titles, 10,976,932 words**
 - **10th century CE: 80 titles, 16,393,874 words**
 - **11th century CE: 61 titles, 15,302,943 words**
 - **12th century CE: 21 titles, 13,570,825 words**
@@ -2245,7 +2245,7 @@
 - **19th century CE: 2 titles, 5,053,898 words**
 - **20th century CE: 2 titles, 1,349,693 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **TOTAL: 362 titles, 114,529,616 words**
+- **TOTAL: 361 titles, 114,524,412 words**
 
 
 ### *TABAQAT* (351 texts, 74,811,081 words)
