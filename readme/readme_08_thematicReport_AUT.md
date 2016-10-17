@@ -673,7 +673,7 @@
 - **TOTAL: 39 titles, 4,652,773 words**
 
 
-### *FATAWA* (31 texts, 6,771,578 words)
+### *FATAWA* (32 texts, 7,530,433 words)
 
 - ~~6th century CE: 0 titles, 0 words~~
 - ~~7th century CE: 0 titles, 0 words~~
@@ -688,10 +688,10 @@
 - **16th century CE: 4 titles, 1,539,515 words**
 - ~~17th century CE: 0 titles, 0 words~~
 - **18th century CE: 2 titles, 244,948 words**
-- **19th century CE: 14 titles, 2,154,716 words**
+- **19th century CE: 15 titles, 2,913,571 words**
 - **20th century CE: 1 titles, 147,609 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **TOTAL: 31 titles, 6,771,578 words**
+- **TOTAL: 32 titles, 7,530,433 words**
 
 
 ### *FAWAID* (14 texts, 203,216 words)
