@@ -3,8 +3,8 @@
 | *Texts* | *Status* |
 |:--- | ------:|
 | Total in the Collection | 10,393 |
-| Unique texts | 7,780 |
-| Added texts (listed below) | 1,134 |
+| Unique texts | 7,781 |
+| Added texts (listed below) | 1,162 |
 | Orphans (no TXT) | 2 |
 
 | *Texts* | *Status* |
