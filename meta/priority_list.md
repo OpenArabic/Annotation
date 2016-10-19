@@ -12,7 +12,7 @@
 * 0 ~~`0748Dhahabi.MucinFiTabaqatMuhaddithin`~~	%12
 * 0 ~~`0748Dhahabi.MucjamMuhaddithin`~~	%13
 * 0 ~~`0748Dhahabi.MucjamShuyukh`~~	%14
-* 0 `0748Dhahabi.MughniFiDucafa`	%15
+* 0 ~~`0748Dhahabi.MughniFiDucafa`~~	%15
 * 0 `0748Dhahabi.MukhtasarCuluww`	%16
 * 0 `0748Dhahabi.MukhtasarMinDubaythi`	%17 completed (Jonas)
 * 0 `0748Dhahabi.Muqtana`	%18
