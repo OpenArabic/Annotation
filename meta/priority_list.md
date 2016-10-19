@@ -1,6 +1,6 @@
 # Top priority	%1
 
-* 0 `0748Dhahabi.CibarFiKhabar`	%3    completed
+* 0 ~~`0748Dhahabi.CibarFiKhabar`~~	%3    completed
 * 0 `0748Dhahabi.Culuww`	%4 completed (Jonas) 
 * 0 `0748Dhahabi.DhaylCibar`	%5 completed (Jonas)
 * 0 `0748Dhahabi.DhaylDiwanDucafa`	%6 completed (Jonas)
@@ -9,9 +9,9 @@
 * 0 `0748Dhahabi.Kashif`	%9 completed (Jonas)
 * 0 `0748Dhahabi.MacrifaQurraKibar`	%10 completed (Jonas)
 * 0 `0748Dhahabi.MizanIctidal`	%11 completed (Jonas)
-* 0 `0748Dhahabi.MucinFiTabaqatMuhaddithin`	%12
-* 0 `0748Dhahabi.MucjamMuhaddithin`	%13
-* 0 `0748Dhahabi.MucjamShuyukh`	%14
+* 0 ~~`0748Dhahabi.MucinFiTabaqatMuhaddithin`~~	%12
+* 0 ~~`0748Dhahabi.MucjamMuhaddithin`~~	%13
+* 0 ~~`0748Dhahabi.MucjamShuyukh`~~	%14
 * 0 `0748Dhahabi.MughniFiDucafa`	%15
 * 0 `0748Dhahabi.MukhtasarCuluww`	%16
 * 0 `0748Dhahabi.MukhtasarMinDubaythi`	%17 completed (Jonas)
@@ -36,9 +36,9 @@
 * 1 `1089IbnCimad.Shadharat`	%35 completed (Jonas)
 * 1 `0774IbnKathir.Bidaya`	%36 stoped working on this text because it was difficult -> see Readme (Jonas)
 * 3 `1389AghaBuzurgTihrani.DharicaFiTasanifShica`	%37
-* 1 `0597IbnJawzi.Muntazam`	%38
-* 1 `0852IbnHajarCasqalani.TahdhibTahdhib`	%39
-* 1 `0711IbnManzurIfriqi.MukhtasarTarikhDimashq`	%40
+* 1 ~~`0597IbnJawzi.Muntazam`~~	%38
+* 1 ~~`0852IbnHajarCasqalani.TahdhibTahdhib`~~	%39
+* 1 ~~`0711IbnManzurIfriqi.MukhtasarTarikhDimashq`~~	%40
 * 1 `0561Samcani.Ansab`	%41
 * 1 `0852IbnHajarCasqalani.DurarKamina`	%42
 * 4 `0733Nuwayri.NihayaArab`	%43
