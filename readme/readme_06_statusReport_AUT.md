@@ -1,14 +1,14 @@
 ## Status Report
  
-* 87 titles
-* 54,500,407 words
-* 275,122 logical units
+* 90 titles
+* 57,561,691 words
+* 277,944 logical units
 * 56,798 bios
 
-### `*.inProgress` (25 titles: 19,094,448 words; 83,848 units; 0 bios)
+### `*.inProgress` (26 titles: 22,088,362 words; 83,793 units; 0 bios)
 
 - `0230IbnSacd.TabaqatKubra (920,980 words; 6,386 units; 0 bios)`
-- `0255Jahiz.Hayawan (456,481 words; 3,241 units; 0 bios)`
+- `0255Jahiz.Hayawan (456,584 words; 3,186 units; 0 bios)`
 - `0256Bukhari.TarikhKabir (519,629 words; 15,061 units; 0 bios)`
 - `0276IbnQutaybaDinawari.CuyunAkhbar (232,763 words; 310 units; 0 bios)`
 - `0282AbuHanifaDinawari.AkhbarTiwal  (93,184 words; 858 units; 0 bios)`
@@ -27,6 +27,7 @@
 - `0421Miskawayh.Tajarib (679,938 words; 2,490 units; 0 bios)`
 - `0421Miskawayh.Tajarib (244,209 words; 764 units; 0 bios)`
 - `0646IbnQifti.IkhbarCulama (96,909 words; 85 units; 0 bios)`
+- `0728IbnTaymiyya.MajmucFatawa (2,993,811 words; 0 units; 0 bios)`
 - `0742Mizzi.TahdhibKamal (2,683,671 words; 12,446 units; 0 bios)`
 - `0764Safadi.AcyanCasr (604,056 words; 2,408 units; 0 bios)`
 - `0764Safadi.WafiBiWafayat (1,968,791 words; 11,211 units; 0 bios)`
@@ -34,7 +35,7 @@
 - `0902Sakhawi.DuLamic (1,335,442 words; 14,452 units; 0 bios)`
 
 
-### `*.completed` (42 titles: 26,381,135 words; 109,678 units; 1 bios)
+### `*.completed` (44 titles: 26,448,505 words; 112,555 units; 1 bios)
 
 - `0292Yacqubi.TarikhYacqubi (192,205 words; 139 units; 0 bios)`
 - `0379MuhammadRabci.TarikhMawlidCulama (35,125 words; 338 units; 0 bios)`
@@ -74,6 +75,8 @@
 - `0748Dhahabi.DhaylDiwanDucafa (12,664 words; 603 units; 0 bios)`
 - `0748Dhahabi.DhikrAsmaManTakallama (9,038 words; 403 units; 0 bios)`
 - `0748Dhahabi.DiwanDucafa (105,267 words; 6,009 units; 0 bios)`
+- `0748Dhahabi.MucinFiTabaqatMuhaddithin (23,129 words; 2,455 units; 0 bios)`
+- `0748Dhahabi.MucjamMuhaddithin (44,241 words; 422 units; 0 bios)`
 - `0748Dhahabi.MukhtasarMinDubaythi (96,058 words; 1,641 units; 0 bios)`
 - `0852IbnHajarCasqalani.TahdhibTahdhib (1,316,187 words; 13,415 units; 0 bios)`
 - `0874IbnTaghribirdi.NujumZahira (1,129,443 words; 1,113 units; 0 bios)`
