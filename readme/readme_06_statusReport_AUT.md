@@ -1,18 +1,17 @@
 ## Status Report
  
-* 90 titles
-* 57,561,691 words
-* 277,944 logical units
+* 91 titles
+* 57,740,638 words
+* 286,381 logical units
 * 56,798 bios
 
-### `*.inProgress` (26 titles: 22,088,362 words; 83,793 units; 0 bios)
+### `*.inProgress` (25 titles: 21,995,180 words; 83,335 units; 0 bios)
 
 - `0230IbnSacd.TabaqatKubra (920,980 words; 6,386 units; 0 bios)`
 - `0255Jahiz.Hayawan (456,584 words; 3,186 units; 0 bios)`
 - `0256Bukhari.TarikhKabir (519,629 words; 15,061 units; 0 bios)`
 - `0276IbnQutaybaDinawari.CuyunAkhbar (232,763 words; 310 units; 0 bios)`
-- `0282AbuHanifaDinawari.AkhbarTiwal  (93,184 words; 858 units; 0 bios)`
-- `0282AbuHanifaDinawari.AkhbarTiwal (93,182 words; 458 units; 0 bios)`
+- `0282AbuHanifaDinawari.AkhbarTiwal (93,184 words; 858 units; 0 bios)`
 - `0306IbnHayyanDabbi.AkhbarQudat (237,236 words; 1,976 units; 0 bios)`
 - `0310Tabari.JamicBayan (2,850,544 words; 0 units; 0 bios)`
 - `0310Tabari.Tarikh (1,468,736 words; 577 units; 0 bios)`
@@ -35,7 +34,7 @@
 - `0902Sakhawi.DuLamic (1,335,442 words; 14,452 units; 0 bios)`
 
 
-### `*.completed` (44 titles: 26,448,505 words; 112,555 units; 1 bios)
+### `*.completed` (46 titles: 26,720,634 words; 121,450 units; 1 bios)
 
 - `0292Yacqubi.TarikhYacqubi (192,205 words; 139 units; 0 bios)`
 - `0379MuhammadRabci.TarikhMawlidCulama (35,125 words; 338 units; 0 bios)`
@@ -77,6 +76,8 @@
 - `0748Dhahabi.DiwanDucafa (105,267 words; 6,009 units; 0 bios)`
 - `0748Dhahabi.MucinFiTabaqatMuhaddithin (23,129 words; 2,455 units; 0 bios)`
 - `0748Dhahabi.MucjamMuhaddithin (44,241 words; 422 units; 0 bios)`
+- `0748Dhahabi.MucjamShuyukh (152,971 words; 1,025 units; 0 bios)`
+- `0748Dhahabi.MughniFiDucafa (119,158 words; 7,870 units; 0 bios)`
 - `0748Dhahabi.MukhtasarMinDubaythi (96,058 words; 1,641 units; 0 bios)`
 - `0852IbnHajarCasqalani.TahdhibTahdhib (1,316,187 words; 13,415 units; 0 bios)`
 - `0874IbnTaghribirdi.NujumZahira (1,129,443 words; 1,113 units; 0 bios)`
