@@ -4,7 +4,7 @@
 |:--- | ------:|
 | Total in the Collection | 10,393 |
 | Unique texts | 7,781 |
-| Added texts (listed below) | 1,362 |
+| Added texts (listed below) | 1,523 |
 | Orphans (no TXT) | 2 |
 
 | *Texts* | *Status* |

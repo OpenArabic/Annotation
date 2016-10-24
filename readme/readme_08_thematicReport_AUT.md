@@ -757,7 +757,7 @@
 - **TOTAL: 19 titles, 2,093,490 words**
 
 
-### *GEN* (12 texts, 1,732,134 words)
+### *GEN* (13 texts, 1,838,207 words)
 
 - ~~6th century CE: 0 titles, 0 words~~
 - ~~7th century CE: 0 titles, 0 words~~
@@ -768,14 +768,14 @@
 - **12th century CE: 1 titles, 22,125 words**
 - **13th century CE: 1 titles, 193,702 words**
 - **14th century CE: 1 titles, 132,990 words**
-- ~~15th century CE: 0 titles, 0 words~~
+- **15th century CE: 1 titles, 106,073 words**
 - ~~16th century CE: 0 titles, 0 words~~
 - ~~17th century CE: 0 titles, 0 words~~
 - ~~18th century CE: 0 titles, 0 words~~
 - ~~19th century CE: 0 titles, 0 words~~
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **TOTAL: 12 titles, 1,732,134 words**
+- **TOTAL: 13 titles, 1,838,207 words**
 
 
 ### *GEO* (32 texts, 3,354,197 words)
@@ -2374,7 +2374,7 @@
 - **TOTAL: 768 titles, 151,531,554 words**
 
 
-### *TARIKH* (310 texts, 74,474,408 words)
+### *TARIKH* (311 texts, 74,546,038 words)
 
 - ~~6th century CE: 0 titles, 0 words~~
 - ~~7th century CE: 0 titles, 0 words~~
@@ -2384,7 +2384,7 @@
 - **11th century CE: 29 titles, 4,737,481 words**
 - **12th century CE: 37 titles, 14,997,022 words**
 - **13th century CE: 30 titles, 7,831,288 words**
-- **14th century CE: 40 titles, 18,840,746 words**
+- **14th century CE: 41 titles, 18,912,376 words**
 - **15th century CE: 33 titles, 9,489,822 words**
 - **16th century CE: 16 titles, 1,705,260 words**
 - **17th century CE: 12 titles, 3,894,897 words**
@@ -2392,7 +2392,7 @@
 - **19th century CE: 4 titles, 1,174,238 words**
 - **20th century CE: 5 titles, 812,131 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **TOTAL: 310 titles, 74,474,408 words**
+- **TOTAL: 311 titles, 74,546,038 words**
 
 
 ### *TASAWWUF* (10 texts, 2,430,845 words)
