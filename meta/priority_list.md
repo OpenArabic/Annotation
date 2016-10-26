@@ -1,24 +1,24 @@
 # Top priority	%1
 
 * 0 ~~`0748Dhahabi.CibarFiKhabar`~~	%3    completed
-* 0 `0748Dhahabi.Culuww`	%4 completed (Jonas) 
-* 0 `0748Dhahabi.DhaylCibar`	%5 completed (Jonas)
-* 0 `0748Dhahabi.DhaylDiwanDucafa`	%6 completed (Jonas)
-* 0 `0748Dhahabi.DhikrAsmaManTakallama`	%7 completed (Jonas)
-* 0 `0748Dhahabi.DiwanDucafa`	%8 completed (Jonas)
-* 0 `0748Dhahabi.Kashif`	%9 completed (Jonas)
-* 0 `0748Dhahabi.MacrifaQurraKibar`	%10 completed (Jonas)
-* 0 `0748Dhahabi.MizanIctidal`	%11 completed (Jonas)
+* 0 ~~`0748Dhahabi.Culuww`~~	%4 completed (Jonas) 
+* 0 ~~`0748Dhahabi.DhaylCibar`~~	%5 completed (Jonas)
+* 0 ~~`0748Dhahabi.DhaylDiwanDucafa`~~	%6 completed (Jonas)
+* 0 ~~`0748Dhahabi.DhikrAsmaManTakallama`~~	%7 completed (Jonas)
+* 0 ~~`0748Dhahabi.DiwanDucafa`~~	%8 completed (Jonas)
+* 0 ~~`0748Dhahabi.Kashif`~~	%9 completed (Jonas)
+* 0 ~~`0748Dhahabi.MacrifaQurraKibar`~~	%10 completed (Jonas)
+* 0 ~~`0748Dhahabi.MizanIctidal`~~	%11 completed (Jonas)
 * 0 ~~`0748Dhahabi.MucinFiTabaqatMuhaddithin`~~	%12
 * 0 ~~`0748Dhahabi.MucjamMuhaddithin`~~	%13
 * 0 ~~`0748Dhahabi.MucjamShuyukh`~~	%14
 * 0 ~~`0748Dhahabi.MughniFiDucafa`~~	%15
 * 0 `0748Dhahabi.MukhtasarCuluww`	%16 in progress (Leonie)
-* 0 `0748Dhahabi.MukhtasarMinDubaythi`	%17 completed (Jonas)
-* 0 `0748Dhahabi.Muqtana`	%18
+* 0 ~~`0748Dhahabi.MukhtasarMinDubaythi`~~	%17 completed (Jonas)
+* 0 `0748Dhahabi.Muqtana`	%18 in progress (Leonie)
 * 0 `0748Dhahabi.RuwatThiqat`	%19
 * 0 `0748Dhahabi.SiyarAclamNubala`	%20
-* 0 `0748Dhahabi.TadhkiraHuffaz`	%21 completed (Jonas)
+* 0 ~~`0748Dhahabi.TadhkiraHuffaz`~~	%21 completed (Jonas)
 * 0 ~~`0748Dhahabi.TarikhIslam`~~	%22
 
 # Computationally generated priority list	%24
@@ -27,13 +27,13 @@
 * 1 `0764Safadi.WafiBiWafayat`	%27 
 * 1 `0902Sakhawi.DuLamic`	%28 
 * 1 ~~`0463KhatibBaghdadi.TarikhBaghdad`~~	%29
-* 1 `0463KhatibBaghdadi.TarikhBaghdad.Shamela0023764-ara1`	%29 completed (Jonas)
+* 1 ~~`0463KhatibBaghdadi.TarikhBaghdad.Shamela0023764-ara1`~~	%29 completed (Jonas)
 * 2 `1371MuhsinCamili.AcyanShica`	%30
 * 2 `1396KhayrDinZirikli.Aclam`	%31
-* 1 `0874IbnTaghribirdi.NujumZahira`	%32 completed (Jonas)
+* 1 ~~`0874IbnTaghribirdi.NujumZahira`~~	%32 completed (Jonas)
 * 1 `0742Mizzi.TahdhibKamal`	%33 in progress (Jonas)
 * 3 `1408CumarKahhala.MucjamMuallifin`	%34
-* 1 `1089IbnCimad.Shadharat`	%35 completed (Jonas)
+* 1 ~~`1089IbnCimad.Shadharat`~~	%35 completed (Jonas)
 * 1 `0774IbnKathir.Bidaya`	%36 stoped working on this text because it was difficult -> see Readme (Jonas)
 * 3 `1389AghaBuzurgTihrani.DharicaFiTasanifShica`	%37
 * 1 ~~`0597IbnJawzi.Muntazam`~~	%38
