@@ -5,6 +5,18 @@
 |       |   `-- 0001AbuTalibCabdManaf.Diwan
 |       |-- 0001AwsIbnHajar
 |       |   `-- 0001AwsIbnHajar.Diwan
+|       |-- 0001CalqamaFahl
+|       |   `-- 0001CalqamaFahl.Diwan
+|       |-- 0001CamrIbnKulthum
+|       |   `-- 0001CamrIbnKulthum.Diwan
+|       |-- 0001CamrIbnMalik
+|       |   `-- 0001CamrIbnMalik.Diwan
+|       |-- 0001CamrIbnQumaya
+|       |   `-- 0001CamrIbnQumaya.Diwan
+|       |-- 0001CantaraIbnShaddad
+|       |   `-- 0001CantaraIbnShaddad.Diwan
+|       |-- 0001CurwaIbnWard
+|       |   `-- 0001CurwaIbnWard.Diwan
 |       |-- 0001HajibIbnMudallil
 |       |   `-- 0001HajibIbnMudallil.Diwan
 |       |-- 0001HarithIbnHilliza
@@ -15,12 +27,16 @@
 |       |   `-- 0001ImruQays.Diwan
 |       |-- 0001KitabAllah
 |       |   `-- 0001KitabAllah.QuranKarim
+|       |-- 0001LaqitIbnYacmur
+|       |   `-- 0001LaqitIbnYacmur.Diwan
 |       |-- 0001MuhalhilIbnRabica
 |       |   `-- 0001MuhalhilIbnRabica.Diwan
 |       |-- 0001MuthaqqibCabdi
 |       |   `-- 0001MuthaqqibCabdi.Diwan
 |       |-- 0001NabighaDhubyani
 |       |   `-- 0001NabighaDhubyani.Diwan
+|       |-- 0001QaysIbnKhatim
+|       |   `-- 0001QaysIbnKhatim.Diwan
 |       |-- 0001SalamaIbnJandal
 |       |   `-- 0001SalamaIbnJandal.Diwan
 |       |-- 0001SamawalIbnCadiya
@@ -41,6 +57,12 @@
 |       |   `-- 0005Hadira.Diwan
 |       |-- 0007MaymunIbnQaysAcsha
 |       |   `-- 0007MaymunIbnQaysAcsha.Diwan
+|       |-- 0011CamirIbnTufayl
+|       |   `-- 0011CamirIbnTufayl.Diwan
+|       |-- 0022ShammakhIbnDirar
+|       |   `-- 0022ShammakhIbnDirar.Diwan
+|       |-- 0024TumadirBinCamrKhansa
+|       |   `-- 0024TumadirBinCamrKhansa.Diwan
 |       |-- 0026KacbIbnZuhayr
 |       |   `-- 0026KacbIbnZuhayr.Diwan
 |       |-- 0037IbnMuqbil
@@ -49,8 +71,12 @@
 |       |   `-- 0040CaliIbnAbiTalib.NahjBalagha
 |       |-- 0041LabidIbnRabica
 |       |   `-- 0041LabidIbnRabica.Diwan
+|       |-- 0045JarwalIbnAwsHutaya
+|       |   `-- 0045JarwalIbnAwsHutaya.Diwan
 |       |-- 0050KhirniqBintBadr
 |       |   `-- 0050KhirniqBintBadr.Diwan
+|       |-- 0054HassanIbnThabit
+|       |   `-- 0054HassanIbnThabit.Diwan
 |       |-- 0080UqayshirAsadi
 |       |   `-- 0080UqayshirAsadi.Diwan
 |       |-- 0090WaddahYaman
@@ -1034,8 +1060,19 @@
 |       |-- 0569CumaraHakami
 |       |   `-- 0569CumaraHakami.NukatCasriyya
 |       |-- 0571IbnCasakir
+|       |   |-- 0571IbnCasakir.AkhbarLiHifzQuran
+|       |   |-- 0571IbnCasakir.ArbacunaAbdalCawali
 |       |   |-- 0571IbnCasakir.ArbacunaBuldaniyya
 |       |   |-- 0571IbnCasakir.ArbacunaFiHathth
+|       |   |-- 0571IbnCasakir.DhammDhiWajhayn
+|       |   |-- 0571IbnCasakir.DhammMalahi
+|       |   |-- 0571IbnCasakir.DhammManLaYacmaluBiCilmihi
+|       |   |-- 0571IbnCasakir.DhammQuranaSu
+|       |   |-- 0571IbnCasakir.FadilatDhikrAllah
+|       |   |-- 0571IbnCasakir.FadlShahrRamadan
+|       |   |-- 0571IbnCasakir.FadlUmmMumininCaisha
+|       |   |-- 0571IbnCasakir.FadlYawmCarafa
+|       |   |-- 0571IbnCasakir.HadiWaKhamsunMinAmali
 |       |   |-- 0571IbnCasakir.KashfMughatta
 |       |   |-- 0571IbnCasakir.MadhTawaduc
 |       |   |-- 0571IbnCasakir.MucjamShuyukh
@@ -1211,6 +1248,9 @@
 |       |   `-- 0641Sarifini.Muntakhab
 |       |-- 0642IbnNajjar
 |       |   `-- 0642IbnNajjar.DhaylTarikhBaghdad
+|       |-- 0643CaliSakhawi
+|       |   |-- 0643CaliSakhawi.HidayatMurtab
+|       |   `-- 0643CaliSakhawi.JamalQurra
 |       |-- 0643DiyaDinMuqaddasi
 |       |   |-- 0643DiyaDinMuqaddasi.FadailBaytMaqdis
 |       |   `-- 0643DiyaDinMuqaddasi.JuzAwham
@@ -1250,6 +1290,24 @@
 |       |   `-- 0660IbnCadim.ZubdaHalab
 |       |-- 0662RashidAttar
 |       |   `-- 0662RashidAttar.NuzhatNazir
+|       |-- 0664IbnTawus
+|       |   |-- 0664IbnTawus.AmanMinAkhtarAsfar
+|       |   |-- 0664IbnTawus.BinaMaqalaFatimiyya
+|       |   |-- 0664IbnTawus.DurucWaqiya
+|       |   |-- 0664IbnTawus.FalahSail
+|       |   |-- 0664IbnTawus.FarajMahmum
+|       |   |-- 0664IbnTawus.FathAbwab
+|       |   |-- 0664IbnTawus.IqbalAcmal
+|       |   |-- 0664IbnTawus.JamalUsbuc
+|       |   |-- 0664IbnTawus.KashfMahajja
+|       |   |-- 0664IbnTawus.LuhufFiQatlaTufuf
+|       |   |-- 0664IbnTawus.MalahimWaFitan
+|       |   |-- 0664IbnTawus.MujtanaMinDucaMujtaba
+|       |   |-- 0664IbnTawus.QabasMinKitabGhiyath
+|       |   |-- 0664IbnTawus.SacdSucud
+|       |   |-- 0664IbnTawus.Tahsin
+|       |   |-- 0664IbnTawus.TaraifFiMacrifatMadhahib
+|       |   `-- 0664IbnTawus.Yaqin
 |       |-- 0665AbuShama
 |       |   `-- 0665AbuShama.Rawdatayn
 |       |-- 0668IbnAbiUsaybica
@@ -1293,11 +1351,28 @@
 |       |-- 0685IbnSacidMaghribi
 |       |   |-- 0685IbnSacidMaghribi.GhusunYanica
 |       |   |-- 0685IbnSacidMaghribi.Jughrafiya
-|       |   `-- 0685IbnSacidMaghribi.Mughrib
+|       |   |-- 0685IbnSacidMaghribi.Mughrib
+|       |   |-- 0685IbnSacidMaghribi.Muqtataf
+|       |   `-- 0685IbnSacidMaghribi.MurqisatWaMutribat
+|       |-- 0685IbnYahyaSulami
+|       |   `-- 0685IbnYahyaSulami.CiqdDurar
+|       |-- 0685NasirDinBaydawi
+|       |   `-- 0685NasirDinBaydawi.AnwarTanzil
+|       |-- 0686AbuYamanIbnCasakir
+|       |   |-- 0686AbuYamanIbnCasakir.AhadithSafar
+|       |   |-- 0686AbuYamanIbnCasakir.IthafZair
+|       |   `-- 0686AbuYamanIbnCasakir.JuzFihiAhadithShahrRamadan
+|       |-- 0686IbnZakariyaManbiji
+|       |   `-- 0686IbnZakariyaManbiji.LubabFiJamc
+|       |-- 0686RadiDinAstarabadhi
+|       |   |-- 0686RadiDinAstarabadhi.SharhRadiCalaKafiya
+|       |   `-- 0686RadiDinAstarabadhi.SharhShafiyaIbnHajib
 |       |-- 0690IbnMujawirDimashqi
 |       |   `-- 0690IbnMujawirDimashqi.TarikhMustabsir
 |       |-- 0691IbnYusufLabli
 |       |   `-- 0691IbnYusufLabli.Fihrist
+|       |-- 0692TaqiDinIscirdi
+|       |   `-- 0692TaqiDinIscirdi.FadailKitabJamic
 |       |-- 0693IbnAbiFathIrbili
 |       |   `-- 0693IbnAbiFathIrbili.KashfGhumma
 |       |-- 0694MuhibbDinTabari
@@ -1718,9 +1793,7 @@
 |       |   |-- 0902Sakhawi.FakhrMutawali
 |       |   |-- 0902Sakhawi.FathMughith
 |       |   |-- 0902Sakhawi.GhayaFiSharh
-|       |   |-- 0902Sakhawi.HidayatMurtab
 |       |   |-- 0902Sakhawi.IltimasSacd
-|       |   |-- 0902Sakhawi.JamalQurra
 |       |   |-- 0902Sakhawi.ManhalCadhb
 |       |   |-- 0902Sakhawi.MaqasidHasana
 |       |   |-- 0902Sakhawi.MutakallimunFiRijal
@@ -2441,4 +2514,4 @@
 |   `-- spark-warehouse
 `-- uris
 
-2441 directories
+2514 directories
