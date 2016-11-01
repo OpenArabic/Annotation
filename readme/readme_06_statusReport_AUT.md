@@ -1,8 +1,8 @@
 ## Status Report
  
-* 94 titles
-* 57,869,947 words
-* 293,494 logical units
+* 95 titles
+* 58,231,391 words
+* 294,602 logical units
 * 56,798 bios
 
 ### `*.inProgress` (25 titles: 21,995,268 words; 83,295 units; 0 bios)
@@ -34,7 +34,7 @@
 - `0902Sakhawi.DuLamic (1,335,442 words; 14,452 units; 0 bios)`
 
 
-### `*.completed` (49 titles: 26,849,855 words; 128,603 units; 1 bios)
+### `*.completed` (50 titles: 27,211,299 words; 129,711 units; 1 bios)
 
 - `0276IbnQutaybaDinawari.AnwaFiMawasim (37,309 words; 104 units; 0 bios)`
 - `0276IbnQutaybaDinawari.AshribaWaIkhtilafFiha (14,816 words; 7 units; 0 bios)`
@@ -42,6 +42,7 @@
 - `0379MuhammadRabci.TarikhMawlidCulama (35,125 words; 338 units; 0 bios)`
 - `0390Muqaddasi.AhsanTaqasim (103,553 words; 67 units; 0 bios)`
 - `0412Sulami.TabaqatSufiya (68,554 words; 193 units; 0 bios)`
+- `0429AbuMansurThacalibi.YatimaDahr (361,444 words; 1,108 units; 0 bios)`
 - `0430AbuNucaymIsbahani.HilyaAwliya (1,188,081 words; 678 units; 0 bios)`
 - `0430AbuNucaymIsbahani.TarikhIsbahan (228,661 words; 1,959 units; 0 bios)`
 - `0442Tanukhi.TarikhCulamaNahwiyyin (10,765 words; 95 units; 0 bios)`
