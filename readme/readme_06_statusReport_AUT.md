@@ -1,16 +1,17 @@
 ## Status Report
  
-* 95 titles
-* 58,231,391 words
-* 294,602 logical units
+* 99 titles
+* 58,482,817 words
+* 297,532 logical units
 * 56,798 bios
 
-### `*.inProgress` (25 titles: 21,995,268 words; 83,295 units; 0 bios)
+### `*.inProgress` (26 titles: 22,056,882 words; 85,771 units; 0 bios)
 
 - `0230IbnSacd.TabaqatKubra (920,980 words; 6,386 units; 0 bios)`
-- `0255Jahiz.Hayawan (456,672 words; 3,146 units; 0 bios)`
+- `0255Jahiz.Hayawan (456,560 words; 3,126 units; 0 bios)`
 - `0256Bukhari.TarikhKabir (519,629 words; 15,061 units; 0 bios)`
 - `0276IbnQutaybaDinawari.CuyunAkhbar (232,763 words; 310 units; 0 bios)`
+- `0276IbnQutaybaDinawari.GharibQuran (61,726 words; 2,496 units; 0 bios)`
 - `0282AbuHanifaDinawari.AkhbarTiwal (93,184 words; 858 units; 0 bios)`
 - `0306IbnHayyanDabbi.AkhbarQudat (237,236 words; 1,976 units; 0 bios)`
 - `0310Tabari.JamicBayan (2,850,544 words; 0 units; 0 bios)`
@@ -34,10 +35,13 @@
 - `0902Sakhawi.DuLamic (1,335,442 words; 14,452 units; 0 bios)`
 
 
-### `*.completed` (50 titles: 27,211,299 words; 129,711 units; 1 bios)
+### `*.completed` (53 titles: 27,401,111 words; 130,165 units; 1 bios)
 
 - `0276IbnQutaybaDinawari.AnwaFiMawasim (37,309 words; 104 units; 0 bios)`
 - `0276IbnQutaybaDinawari.AshribaWaIkhtilafFiha (14,816 words; 7 units; 0 bios)`
+- `0276IbnQutaybaDinawari.IkhtilafFiLafz (8,312 words; 20 units; 0 bios)`
+- `0276IbnQutaybaDinawari.ImamaWaSiyasa (124,400 words; 369 units; 0 bios)`
+- `0276IbnQutaybaDinawari.Jarathim (57,100 words; 65 units; 0 bios)`
 - `0292Yacqubi.TarikhYacqubi (192,205 words; 139 units; 0 bios)`
 - `0379MuhammadRabci.TarikhMawlidCulama (35,125 words; 338 units; 0 bios)`
 - `0390Muqaddasi.AhsanTaqasim (103,553 words; 67 units; 0 bios)`

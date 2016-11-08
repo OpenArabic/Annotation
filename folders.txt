@@ -834,7 +834,9 @@
 |       |   |-- 0418WazirMaghribi.AdabKhawas
 |       |   `-- 0418WazirMaghribi.Inas
 |       |-- 0421IbnMuhammadMarzuqi
-|       |   `-- 0421IbnMuhammadMarzuqi.AzminaWaAmkina
+|       |   |-- 0421IbnMuhammadMarzuqi.AmaliMarzuqi
+|       |   |-- 0421IbnMuhammadMarzuqi.AzminaWaAmkina
+|       |   `-- 0421IbnMuhammadMarzuqi.SharhDiwanHamasa
 |       |-- 0421Miskawayh
 |       |   `-- 0421Miskawayh.Tajarib
 |       |-- 0427HamzaJurjani
@@ -2648,4 +2650,4 @@
 |   `-- spark-warehouse
 `-- uris
 
-2648 directories
+2650 directories
