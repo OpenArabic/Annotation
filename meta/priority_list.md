@@ -17,7 +17,7 @@
 * 0 ~~`0748Dhahabi.MukhtasarMinDubaythi`~~	%17 completed (Jonas)
 * 0 ~~`0748Dhahabi.Muqtana`	%18~~
 * 0 ~~`0748Dhahabi.RuwatThiqat`	%19~~
-* 0 `0748Dhahabi.SiyarAclamNubala`	%20
+* 0 ~~`0748Dhahabi.SiyarAclamNubala`	%20~~
 * 0 ~~`0748Dhahabi.TadhkiraHuffaz`~~	%21 completed (Jonas)
 * 0 ~~`0748Dhahabi.TarikhIslam`~~	%22
 
