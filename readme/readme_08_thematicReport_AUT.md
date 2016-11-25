@@ -2458,7 +2458,7 @@
 - **TOTAL: 13 titles, 3,327,383 words**
 
 
-### *TIBB* (77 texts, 5,223,263 words)
+### *TIBB* (78 texts, 5,271,638 words)
 
 - ~~6th century CE: 0 titles, 0 words~~
 - ~~7th century CE: 0 titles, 0 words~~
@@ -2467,7 +2467,7 @@
 - **10th century CE: 2 titles, 1,294,196 words**
 - **11th century CE: 8 titles, 787,810 words**
 - ~~12th century CE: 0 titles, 0 words~~
-- **13th century CE: 26 titles, 1,015,160 words**
+- **13th century CE: 27 titles, 1,063,535 words**
 - **14th century CE: 17 titles, 215,823 words**
 - **15th century CE: 9 titles, 476,779 words**
 - **16th century CE: 1 titles, 363,021 words**
@@ -2476,7 +2476,7 @@
 - ~~19th century CE: 0 titles, 0 words~~
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **TOTAL: 77 titles, 5,223,263 words**
+- **TOTAL: 78 titles, 5,271,638 words**
 
 
 ### *TWELVERS* (58 texts, 5,318,002 words)

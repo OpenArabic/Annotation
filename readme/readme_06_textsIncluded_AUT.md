@@ -1,9 +1,9 @@
 # Text currently included in the Coprus
 
-## List of books by centuries (1709 titles)
+## List of books by centuries (1743 titles)
 
 
-* **0100AH [[ [Re]generated on 2016-11-08 (08:25:10) ]]**
+* **0100AH [[ [Re]generated on 2016-11-25 (01:18:10) ]]**
 
  * `0001AbuTalibCabdManaf.Diwan `
 	- *TAGS: _CENT00NO, _SHICR_JAHILI, _SHICR*
@@ -88,7 +88,7 @@
  * `0094ZaynCabidin.SahifaSajjadiya `
 	- *TAGS: CENT0100, _HADITH, _SHICI*
 
-* **0200AH [[ [Re]generated on 2016-11-08 (08:25:10) ]]**
+* **0200AH [[ [Re]generated on 2016-11-25 (01:18:10) ]]**
 
  * `0104MujahidIbnJabr.Tafsir `
 	- *TAGS: CENT0200, _CULUM, _QURAN, _SUNNI, _TAFSIR*
@@ -209,7 +209,7 @@
  * `0200IbnCumarDabbi.Fitna `
 	- *TAGS: CENT0200, PPE, _HADITH, _SUNNI, _TARIKH*
 
-* **0300AH [[ [Re]generated on 2016-11-08 (08:25:10) ]]**
+* **0300AH [[ [Re]generated on 2016-11-25 (01:18:10) ]]**
 
  * `0203IbnSulaymanGhazi.MusnadRida `
 	- *TAGS: CENT0300, _HADITH, _SHICI*
@@ -796,7 +796,7 @@
  * `0300MuallifMajhul.AkhbarDawlaCabbasiya `
 	- *TAGS: CENT0300, PPE, _TARIKH*
 
-* **0400AH [[ [Re]generated on 2016-11-08 (08:25:10) ]]**
+* **0400AH [[ [Re]generated on 2016-11-25 (01:18:10) ]]**
 
  * `0301AbuBakrFaryabi.DalailNubuwwa `
 	- *TAGS: CENT0400, _AJZA, _ASHAB, _CAQAID, _HADITH, _SIRA, _TABAQAT, _TARAJIM*
@@ -1085,7 +1085,7 @@
  * `0400IshaqMunajjim.AkamMarjan `
 	- *TAGS: CENT0400, _BULDAN, _JUGHRAFIYA, _RIHLAT*
 
-* **0500AH [[ [Re]generated on 2016-11-08 (08:25:10) ]]**
+* **0500AH [[ [Re]generated on 2016-11-25 (01:18:10) ]]**
 
  * `0402MuhammadSaydawi.MucjamShuyukh `
 	- *TAGS: CENT0500, _HADITH, _MACAJIM, _MASANID, _TABAQAT, _TARAJIM*
@@ -1143,6 +1143,14 @@
 	- *TAGS: CENT0500, PPE, _BULDAN, _HADITH, _TABAQAT, _TARAJIM, _TARIKH*
  * `0428IbnManjuwayhIsbahani.RijalSahihMuslim `
 	- *TAGS: CENT0500, PPE, _HADITH, _TABAQAT, _TARAJIM*
+ * `0428IbnSina.IsharatWaTanbihat `
+	- *TAGS: CENT0500, _CAQAID, _MILAL, _MISC, _RUDUD*
+ * `0428IbnSina.Mantiq `
+	- *TAGS: CENT0500, _ADAB, _MUSTALAHAT, _NAHW, _SARF*
+ * `0428IbnSina.QanunFiTibb `
+	- *TAGS: CENT0500, _CULUM, _MISC, _TIBB*
+ * `0428IbnSina.Siyasa `
+	- *TAGS: CENT0500, _QADA, _SIYASA*
  * `0428MihyarDaylami.Diwan `
 	- *TAGS: _SHICR_CABBASI, _CENT00NO, _SHICR*
  * `0429AbuMansurThacalibi.AhsanMaSamictu `
@@ -1392,7 +1400,7 @@
  * `0499IbnHusaynJurjani.TartibAmali `
 	- *TAGS: CENT0500, _AJZA, _HADITH, _TARAJIM*
 
-* **0600AH [[ [Re]generated on 2016-11-08 (08:25:10) ]]**
+* **0600AH [[ [Re]generated on 2016-11-25 (01:18:10) ]]**
 
  * `0505Ghazali.AsnafMaghrurin `
 	- *TAGS: CENT0600, _ADAB, _ADHKAR, _AKHLAQ, _MISC, _RAQAIQ, _SULUK*
@@ -1723,7 +1731,7 @@
  * `0600KatibMarrakushi.Istibsar `
 	- *TAGS: CENT0600, _BULDAN, _JUGHRAFIYA, _RIHLAT*
 
-* **0700AH [[ [Re]generated on 2016-11-08 (08:25:10) ]]**
+* **0700AH [[ [Re]generated on 2016-11-25 (01:18:10) ]]**
 
  * `0604AbuDharrKhushani.ImlaMukhtasar `
 	- *TAGS: CENT0700, _SHAMAIL, _SIRA*
@@ -2027,6 +2035,12 @@
 	- *TAGS: CENT0700, _LUGHA, _NAHW, _SARF*
  * `0686RadiDinAstarabadhi.SharhShafiyaIbnHajib `
 	- *TAGS: CENT0700, _LUGHA, _NAHW, _SARF, _SARF*
+ * `0687IbnNafis.ShamilFiSinacaTibbiyya `
+	- *TAGS: CENT0700, _CULUM, _TIBB*
+ * `0687IbnNafis.ShamilFiSinacaTibbiyya `
+	- *TAGS: CENT0700, _TIBB, _MISC*
+ * `0687IbnNafis.SharhTashrihQanun `
+	- *TAGS: CENT0700, _CULUM, _MISC, _TIBB*
  * `0690IbnMujawirDimashqi.TarikhMustabsir `
 	- *TAGS: CENT0700, PPE, _BULDAN, _JUGHRAFIYA, _MISC, _RIHLAT*
  * `0691IbnYusufLabli.Fihrist `
@@ -2048,7 +2062,7 @@
  * `0696IbnZahiri.Mashyakha `
 	- *TAGS: CENT0700, PPE, _AJZA, _HADITH, _TARAJIM*
 
-* **0800AH [[ [Re]generated on 2016-11-08 (08:25:10) ]]**
+* **0800AH [[ [Re]generated on 2016-11-25 (01:18:10) ]]**
 
  * `0701SharafDinYunini.Mashyakha `
 	- *TAGS: CENT0800, PPE, _AJZA, _HADITH*
@@ -2066,6 +2080,10 @@
 	- *TAGS: BIO, CENT0800, PPE, _TABAQAT, _TARAJIM*
  * `0723IbnFuwati.Hawadith `
 	- *TAGS: CENT0800, PPE, _TARIKH*
+ * `0724IbnCattar.TuhfaTalibin `
+	- *TAGS: CENT0800, PPE, _TABAQAT, _TARAJIM*
+ * `0724IbnCattar.TuhfaTalibin `
+	- *TAGS: CENT0800, PPE, _TARAJIM, _TARIKH*
  * `0726CallamaHilli.IdahIshtibah `
 	- *TAGS: CENT0800, _HADITH, _SHICI, _TARAJIM*
  * `0726CallamaHilli.IrshadAdhhan `
@@ -2545,7 +2563,7 @@
  * `0799IbnFarhun.DibajMudhahhab `
 	- *TAGS: CENT0800, PPE, _FIQH, _TABAQAT, _TARAJIM, _TARIKH*
 
-* **0900AH [[ [Re]generated on 2016-11-08 (08:25:10) ]]**
+* **0900AH [[ [Re]generated on 2016-11-25 (01:18:10) ]]**
 
  * `0802IbnMusaAbnasi.ShadhaFayyah `
 	- *TAGS: CENT0900, _CULUM, _HADITH, _MUSTALAHAT*
@@ -2669,28 +2687,68 @@
 	- *TAGS: CENT0900, _FATAWA*
  * `0851IbnQadiShuhba.TabaqatShaficiya `
 	- *TAGS: BIO, CENT0900, COL, PPE, _FIQH, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0852IbnHajarCasqalani.AmaliHalabiyya `
+	- *TAGS: CENT0900, _AJZA, _HADITH, _MISC, _TARAJIM*
+ * `0852IbnHajarCasqalani.AmaliMutlaqa `
+	- *TAGS: CENT0900, _AJZA, _AMALI, _HADITH, _MAJALIS, _TARAJIM*
+ * `0852IbnHajarCasqalani.CujabFiBayanAsbab `
+	- *TAGS: CENT0900, _CULUM, _QURAN, _SUNNI, _TAFSIR*
+ * `0852IbnHajarCasqalani.DirayaFiTakhrijAhadithHidaya `
+	- *TAGS: CENT0900, _FIQH, _HADITH, _SUNNI, _TAKHRIJ, _TARAJIM*
  * `0852IbnHajarCasqalani.DurarKamina `
 	- *TAGS: BIO, CENT0900, COL, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT*
  * `0852IbnHajarCasqalani.FathBari `
 	- *TAGS: CENT0900, _FIQH, _HADITH, _SHARH, _SUNNI, _TARAJIM*
+ * `0852IbnHajarCasqalani.ImtacBiArbacin `
+	- *TAGS: CENT0900, _AJZA, _HADITH, _TARAJIM*
  * `0852IbnHajarCasqalani.InbaGhumr `
 	- *TAGS: CENT0900, PPE, _TARIKH*
  * `0852IbnHajarCasqalani.IsabaFiTamyiz `
 	- *TAGS: CENT0900, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM*
+ * `0852IbnHajarCasqalani.IthafMahara `
+	- *TAGS: CENT0900, _HADITH, _TAKHRIJ*
  * `0852IbnHajarCasqalani.ItharBiMacrifa `
 	- *TAGS: CENT0900, PPE, _HADITH, _TABAQAT, _TARAJIM*
+ * `0852IbnHajarCasqalani.ItrafMusnadMuctali `
+	- *TAGS: CENT0900, _HADITH, _TAKHRIJ*
  * `0852IbnHajarCasqalani.LisanMizan `
 	- *TAGS: BIO, CENT0900, COL, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM*
+ * `0852IbnHajarCasqalani.MarhamaGhaythiyya `
+	- *TAGS: CENT0900, _HADITH, _MAKHTUTAT*
  * `0852IbnHajarCasqalani.MasailAjabaCanha `
 	- *TAGS: CENT0900, _FATAWA*
+ * `0852IbnHajarCasqalani.MatalibCaliyya `
+	- *TAGS: CENT0900, _FIQH, _HADITH, _MAJMUCAT, _TAKHRIJ, _TARAJIM*
  * `0852IbnHajarCasqalani.MucjamMufahras `
 	- *TAGS: CENT0900, PPE, _ADILLA, _FAHARIS, _KUTUB*
  * `0852IbnHajarCasqalani.MucjamShaykhaMaryam `
 	- *TAGS: CENT0900, _HADITH, _MAKHTUTAT*
+ * `0852IbnHajarCasqalani.MuqaddimatFathBari `
+	- *TAGS: CENT0900, _FIQH, _HADITH, _MUSTALAHAT, _SUNNI*
+ * `0852IbnHajarCasqalani.NazmLaali `
+	- *TAGS: CENT0900, _AJZA, _HADITH*
+ * `0852IbnHajarCasqalani.NukatCalaIbnSalah `
+	- *TAGS: CENT0900, _CULUM, _HADITH*
+ * `0852IbnHajarCasqalani.NukatCalaIbnSalah `
+	- *TAGS: CENT0900, _HADITH, _MUSTALAHAT*
+ * `0852IbnHajarCasqalani.NukhbatFikr `
+	- *TAGS: CENT0900, _CULUM, _HADITH, _MUSTALAHAT*
  * `0852IbnHajarCasqalani.NuzhaAlbab `
 	- *TAGS: CENT0900, PPE, _HADITH, _MISC, _TABAQAT, _TARAJIM*
+ * `0852IbnHajarCasqalani.NuzhatNazar `
+	- *TAGS: CENT0900, _CULUM, _HADITH*
+ * `0852IbnHajarCasqalani.NuzhatSamicin `
+	- *TAGS: CENT0900, _CULUM, _HADITH, _MISC, _MUSTALAHAT*
+ * `0852IbnHajarCasqalani.QawlMusaddad `
+	- *TAGS: CENT0900, _HADITH, _MISC, _MUSTALAHAT, _TAKHRIJ*
  * `0852IbnHajarCasqalani.RafcCisr `
 	- *TAGS: CENT0900, PPE, _TABAQAT, _TARAJIM, _TARIKH*
+ * `0852IbnHajarCasqalani.SharhBulughMaram `
+	- *TAGS: CENT0900, _FIQH*
+ * `0852IbnHajarCasqalani.SharhNukhbatFikr `
+	- *TAGS: CENT0900, _CULUM, _HADITH*
+ * `0852IbnHajarCasqalani.SilsilatDhahab `
+	- *TAGS: CENT0900, _AJZA, _HADITH, _MUSTALAHAT*
  * `0852IbnHajarCasqalani.TabaqatMudallisin `
 	- *TAGS: BIO, CENT0900, COL, PPE, _HADITH, _SUNNI, _TARAJIM*
  * `0852IbnHajarCasqalani.TabsirMuntabih `
@@ -2699,10 +2757,20 @@
 	- *TAGS: CENT0900, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM*
  * `0852IbnHajarCasqalani.TacrifAhlTaqbis `
 	- *TAGS: CENT0900, _TABAQAT, _TARAJIM*
+ * `0852IbnHajarCasqalani.TaghliqTacliq `
+	- *TAGS: CENT0900, _HADITH, _TAKHRIJ, _TARAJIM*
  * `0852IbnHajarCasqalani.TahdhibTahdhib `
 	- *TAGS: CENT0900, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM*
+ * `0852IbnHajarCasqalani.TalkhisHabir `
+	- *TAGS: CENT0900, _FIQH, _HADITH, _TAKHRIJ, _TARAJIM*
+ * `0852IbnHajarCasqalani.TalkhisHabir `
+	- *TAGS: CENT0900, _FIQH, _MUSTAQILLA*
  * `0852IbnHajarCasqalani.TaqribTahdhib `
 	- *TAGS: CENT0900, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM*
+ * `0852IbnHajarCasqalani.WuqufCalaMawquf `
+	- *TAGS: CENT0900, _CULUM, _HADITH, _MUSTALAHAT*
+ * `0852IbnHajarCasqalani.ZahrNadirFiHalKhadir `
+	- *TAGS: CENT0900, _AJZA, _BUHUTH, _HADITH, _MASAIL, _TARAJIM*
  * `0854IbnCarabshah.CajaibMaqdur `
 	- *TAGS: CENT0900, _TARAJIM, _TARIKH*
  * `0854IbnDiyaMakki.TarikhMakka `
@@ -2748,7 +2816,7 @@
  * `0900AbuCabdAllahHimyari.RawdMictar `
 	- *TAGS: CENT0900, COL, GEO, PPE, _BULDAN, _GHARIB, _JUGHRAFIYA, _MACAJIM, _MUSTALAHAT, _RIHLAT*
 
-* **1000AH [[ [Re]generated on 2016-11-08 (08:25:10) ]]**
+* **1000AH [[ [Re]generated on 2016-11-25 (01:18:10) ]]**
 
  * `0902Sakhawi.Buldaniyyat `
 	- *TAGS: CENT1000, PPE, _AJZA, _HADITH, _MISC, _TARAJIM*
@@ -3027,7 +3095,7 @@
  * `0984BardDinGhazzi.MatalicBadriya `
 	- *TAGS: CENT1000, _BULDAN, _JUGHRAFIYA, _RIHLAT*
 
-* **1100AH [[ [Re]generated on 2016-11-08 (08:25:10) ]]**
+* **1100AH [[ [Re]generated on 2016-11-25 (01:18:10) ]]**
 
  * `1004ShamsDinRamli.FatawaRamli `
 	- *TAGS: CENT1100, _CHRONOMULTIPLE, _FATAWA, _FIQH, _SHAFICI*
@@ -3104,7 +3172,7 @@
  * `1100MustafaTafrishi.NaqdRijal `
 	- *TAGS: BIO, CENT1100, PPE, SHC, _HADITH, _SHICI, _TARAJIM*
 
-* **1200AH [[ [Re]generated on 2016-11-08 (08:25:10) ]]**
+* **1200AH [[ [Re]generated on 2016-11-25 (01:18:10) ]]**
 
  * `1101MuhammadCaliArdabili.JamicRuwat `
 	- *TAGS: CENT1200, PPE, SHC, _HADITH, _SHICI, _TARAJIM*
@@ -3145,7 +3213,7 @@
  * `1195CabdRahmanAnsari.Tuhfa `
 	- *TAGS: CENT1200, _ANSAB, _MISC*
 
-* **1300AH [[ [Re]generated on 2016-11-08 (08:25:10) ]]**
+* **1300AH [[ [Re]generated on 2016-11-25 (01:18:10) ]]**
 
  * `1204SulaymanJamal.Hashiya `
 	- *TAGS: CENT1300, _FIQH, _SHAFICI*
@@ -3210,7 +3278,7 @@
  * `1299IbnCalishMaliki.FathCali `
 	- *TAGS: CENT1300, _FATAWA*
 
-* **1400AH [[ [Re]generated on 2016-11-08 (08:25:10) ]]**
+* **1400AH [[ [Re]generated on 2016-11-25 (01:18:10) ]]**
 
  * `1307Qannawji.AbjadCulum `
 	- *TAGS: CENT1400, PPE, _ADILLA, _FAHARIS, _KUTUB, _MACAJIM*
@@ -3343,7 +3411,7 @@
  * `1400MuhammadBaqirSadr.FatawaWadiha `
 	- *TAGS: CENT1400, _FATAWA, _FIQH, _SHICI*
 
-* **1500AH [[ [Re]generated on 2016-11-08 (08:25:10) ]]**
+* **1500AH [[ [Re]generated on 2016-11-25 (01:18:10) ]]**
 
  * `1405CaliShahrudi.Mustadrakat `
 	- *TAGS: CENT1500, PPE, SHC, _HADITH, _SHICI, _TARAJIM*
