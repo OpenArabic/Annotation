@@ -460,7 +460,8 @@
 |       |-- 0279Tirmidhi
 |       |   |-- 0279Tirmidhi.CilalSaghir
 |       |   |-- 0279Tirmidhi.JamicSahih
-|       |   `-- 0279Tirmidhi.ShamailMuhammadiya
+|       |   |-- 0279Tirmidhi.ShamailMuhammadiya
+|       |   `-- 0279Tirmidhi.SharhSunan
 |       |-- 0280CuthmanIbnSacidDarimi
 |       |   `-- 0280CuthmanIbnSacidDarimi.NaqdImam
 |       |-- 0280IbnIsmacilKirmani
@@ -478,9 +479,12 @@
 |       |   |-- 0281IbnAbiDunya.CaqlWaFadluh
 |       |   |-- 0281IbnAbiDunya.Ciyal
 |       |   |-- 0281IbnAbiDunya.CumrWaShayb
+|       |   |-- 0281IbnAbiDunya.Cuqubat
 |       |   |-- 0281IbnAbiDunya.Cuzla
 |       |   |-- 0281IbnAbiDunya.DhammBaghy
+|       |   |-- 0281IbnAbiDunya.DhammDunya
 |       |   |-- 0281IbnAbiDunya.DhammGhiba
+|       |   |-- 0281IbnAbiDunya.DhammMalahi
 |       |   |-- 0281IbnAbiDunya.DhammMuskir
 |       |   |-- 0281IbnAbiDunya.FadailRamadan
 |       |   |-- 0281IbnAbiDunya.FarajBacdaShidda
@@ -490,14 +494,20 @@
 |       |   |-- 0281IbnAbiDunya.HilmMucawiya
 |       |   |-- 0281IbnAbiDunya.HusnZannBiLlah
 |       |   |-- 0281IbnAbiDunya.IctibarWaAcqab
+|       |   |-- 0281IbnAbiDunya.IkhlasWaNiyya
 |       |   |-- 0281IbnAbiDunya.Ikhwan
 |       |   |-- 0281IbnAbiDunya.IshrafFiManazil
 |       |   |-- 0281IbnAbiDunya.IslahMal
+|       |   |-- 0281IbnAbiDunya.IstinacMacruf
+|       |   |-- 0281IbnAbiDunya.Juc
+|       |   |-- 0281IbnAbiDunya.KalamLayali
+|       |   |-- 0281IbnAbiDunya.MakaidShaytan
 |       |   |-- 0281IbnAbiDunya.MakarimAkhlaq
 |       |   |-- 0281IbnAbiDunya.ManCashaBacdaMawt
 |       |   |-- 0281IbnAbiDunya.Manamat
 |       |   |-- 0281IbnAbiDunya.MaqtalCali
 |       |   |-- 0281IbnAbiDunya.MaradWaKaffarat
+|       |   |-- 0281IbnAbiDunya.MatarWaRacd
 |       |   |-- 0281IbnAbiDunya.MudaratNas
 |       |   |-- 0281IbnAbiDunya.MuhasabaNafs
 |       |   |-- 0281IbnAbiDunya.Muhtadirin
@@ -505,12 +515,19 @@
 |       |   |-- 0281IbnAbiDunya.Mutammanin
 |       |   |-- 0281IbnAbiDunya.QadaHawaij
 |       |   |-- 0281IbnAbiDunya.QasrAmal
+|       |   |-- 0281IbnAbiDunya.Qinaca
+|       |   |-- 0281IbnAbiDunya.QiraDayf
+|       |   |-- 0281IbnAbiDunya.Qubur
+|       |   |-- 0281IbnAbiDunya.RasailFiTawakkul
 |       |   |-- 0281IbnAbiDunya.Rida
+|       |   |-- 0281IbnAbiDunya.RiqqaWaBuka
+|       |   |-- 0281IbnAbiDunya.Sabr
 |       |   |-- 0281IbnAbiDunya.SamtWaAdab
 |       |   |-- 0281IbnAbiDunya.Shukr
 |       |   |-- 0281IbnAbiDunya.ShukrLiLlah
 |       |   |-- 0281IbnAbiDunya.SifaJanna
 |       |   |-- 0281IbnAbiDunya.SifaNar
+|       |   |-- 0281IbnAbiDunya.Tahajjud
 |       |   |-- 0281IbnAbiDunya.TawaducWaKhumul
 |       |   |-- 0281IbnAbiDunya.Tawba
 |       |   |-- 0281IbnAbiDunya.WajalWaTawaththuq
@@ -523,6 +540,8 @@
 |       |   `-- 0282HarithHaythami.BughyaBahith
 |       |-- 0282IbnIshaqJahdami
 |       |   `-- 0282IbnIshaqJahdami.FadlSalat
+|       |-- 0283AbuIshaqThaqafi
+|       |   `-- 0283AbuIshaqThaqafi.Gharat
 |       |-- 0285IbnYazidMubarrad
 |       |   |-- 0285IbnYazidMubarrad.Fadil
 |       |   `-- 0285IbnYazidMubarrad.Tacazi
@@ -632,6 +651,8 @@
 |       |   `-- 0312IbnMuhammadBaghandi.MusnadCumar
 |       |-- 0313IbnIshaqSarraj
 |       |   `-- 0313IbnIshaqSarraj.Musnad
+|       |-- 0313IbnZakariyaRazi
+|       |   `-- 0313IbnZakariyaRazi.HawiFiTibb
 |       |-- 0317AbuQasimBaghawi
 |       |   |-- 0317AbuQasimBaghawi.MucjamSahaba
 |       |   `-- 0317AbuQasimBaghawi.TarikhWafatShuyukh
@@ -639,6 +660,8 @@
 |       |   `-- 0318AbuCurubaHarrani.MuntaqaMinTabaqat
 |       |-- 0320CaribQurtubi
 |       |   `-- 0320CaribQurtubi.SilaTarikhTabari
+|       |-- 0320Israili
+|       |   `-- 0320Israili.AghdhiyaWaAdwiya
 |       |-- 0321AbyJacfarTahawi
 |       |   |-- 0321AbyJacfarTahawi.AhkamQuran
 |       |   |-- 0321AbyJacfarTahawi.HadithAbiJacfar
@@ -722,6 +745,7 @@
 |       |   `-- 0360Khawlani.TarikhDaraya
 |       |-- 0360Tabarani
 |       |   |-- 0360Tabarani.Awail
+|       |   |-- 0360Tabarani.MakarimAkhlaq
 |       |   |-- 0360Tabarani.MucjamAwsat
 |       |   |-- 0360Tabarani.MucjamKabir
 |       |   `-- 0360Tabarani.MucjamSaghir
@@ -821,15 +845,56 @@
 |       |-- 0413ShaykhMufid
 |       |   |-- 0413ShaykhMufid.AhkamNisa
 |       |   |-- 0413ShaykhMufid.Amali
+|       |   |-- 0413ShaykhMufid.AqsamMawla
+|       |   |-- 0413ShaykhMufid.Ashraf
+|       |   |-- 0413ShaykhMufid.AwailMaqalat
+|       |   |-- 0413ShaykhMufid.CadamSahwNabi
+|       |   |-- 0413ShaykhMufid.Cawis
+|       |   |-- 0413ShaykhMufid.DhabaihAhlKitab
+|       |   |-- 0413ShaykhMufid.FusulCashara
+|       |   |-- 0413ShaykhMufid.HadithNahnuMacashirAnbiya
+|       |   |-- 0413ShaykhMufid.Hikayat
+|       |   |-- 0413ShaykhMufid.Iclam
+|       |   |-- 0413ShaykhMufid.Ifsah
+|       |   |-- 0413ShaykhMufid.Ikhtisas
+|       |   |-- 0413ShaykhMufid.ImanAbiTalib
 |       |   |-- 0413ShaykhMufid.Irshad
+|       |   |-- 0413ShaykhMufid.Jamal
+|       |   |-- 0413ShaykhMufid.JawabatAhlMawsil
+|       |   |-- 0413ShaykhMufid.Kafia
+|       |   |-- 0413ShaykhMufid.KhulasatIjaz
+|       |   |-- 0413ShaykhMufid.MasailCasharFiGhayba
+|       |   |-- 0413ShaykhMufid.MasailCukbariyya
+|       |   |-- 0413ShaykhMufid.MasailJarudiyya
+|       |   |-- 0413ShaykhMufid.MasailSarwiyya
+|       |   |-- 0413ShaykhMufid.MasailTusiyya
+|       |   |-- 0413ShaykhMufid.MasalaFiIrada
+|       |   |-- 0413ShaykhMufid.MasalatanFiNassCalaCali
 |       |   |-- 0413ShaykhMufid.MasarShica
-|       |   `-- 0413ShaykhMufid.Muqnica
+|       |   |-- 0413ShaykhMufid.MashCalaRijlayn
+|       |   |-- 0413ShaykhMufid.Mazar
+|       |   |-- 0413ShaykhMufid.Muqnica
+|       |   |-- 0413ShaykhMufid.NukatFiMuqaddimatUsul
+|       |   |-- 0413ShaykhMufid.NukatIctiqadiyya
+|       |   |-- 0413ShaykhMufid.RasailFiGhayba
+|       |   |-- 0413ShaykhMufid.RisalaFiMacnaMawla
+|       |   |-- 0413ShaykhMufid.RisalaFiMahr
+|       |   |-- 0413ShaykhMufid.RisalaHawlaKhabarMariya
+|       |   |-- 0413ShaykhMufid.RisalatMutca
+|       |   |-- 0413ShaykhMufid.SharhManam
+|       |   |-- 0413ShaykhMufid.TadhkiraBiUsulFiqh
+|       |   |-- 0413ShaykhMufid.TafdilAmirMuminin
+|       |   `-- 0413ShaykhMufid.TashihIctiqadat
 |       |-- 0414AbuHayyanTawhidi
 |       |   |-- 0414AbuHayyanTawhidi.AkhlaqWazirayn
 |       |   |-- 0414AbuHayyanTawhidi.Basair
 |       |   |-- 0414AbuHayyanTawhidi.Imtac
 |       |   |-- 0414AbuHayyanTawhidi.Muqabasat
 |       |   `-- 0414AbuHayyanTawhidi.Sadaqa
+|       |-- 0414AbuQasimRazi
+|       |   |-- 0414AbuQasimRazi.Fawaid
+|       |   |-- 0414AbuQasimRazi.IslamZaydIbnHaritha
+|       |   `-- 0414AbuQasimRazi.MusnadMuqallin
 |       |-- 0418WazirMaghribi
 |       |   |-- 0418WazirMaghribi.AdabKhawas
 |       |   `-- 0418WazirMaghribi.Inas
@@ -840,6 +905,7 @@
 |       |-- 0421Miskawayh
 |       |   `-- 0421Miskawayh.Tajarib
 |       |-- 0427HamzaJurjani
+|       |   |-- 0427HamzaJurjani.Sualat
 |       |   `-- 0427HamzaJurjani.TarikhJurjan
 |       |-- 0428IbnManjuwayhIsbahani
 |       |   `-- 0428IbnManjuwayhIsbahani.RijalSahihMuslim
@@ -950,14 +1016,48 @@
 |       |   |-- 0456IbnHazm.TaqribLiHaddMantiq
 |       |   `-- 0456IbnHazm.TawqHamama
 |       |-- 0458Bayhaqi
+|       |   |-- 0458Bayhaqi.Adab
+|       |   |-- 0458Bayhaqi.AhkamQuranLiShafici
+|       |   |-- 0458Bayhaqi.ArbacunaSughra
 |       |   |-- 0458Bayhaqi.AsmaWaSifat
+|       |   |-- 0458Bayhaqi.BacthWaNushur
+|       |   |-- 0458Bayhaqi.BayanKhata
+|       |   |-- 0458Bayhaqi.DacawatKabir
 |       |   |-- 0458Bayhaqi.DalailNubuwwa
-|       |   `-- 0458Bayhaqi.Ictiqad
+|       |   |-- 0458Bayhaqi.FadailAwqat
+|       |   |-- 0458Bayhaqi.HadithJuwaybari
+|       |   |-- 0458Bayhaqi.HayatAnbiya
+|       |   |-- 0458Bayhaqi.Ictiqad
+|       |   |-- 0458Bayhaqi.IthbatCidhabQabr
+|       |   |-- 0458Bayhaqi.JamicFiKhatim
+|       |   |-- 0458Bayhaqi.MacrifatSunanWaAthar
+|       |   |-- 0458Bayhaqi.MadkhalIlaSunanKubra
+|       |   |-- 0458Bayhaqi.QadaWaQadar
+|       |   |-- 0458Bayhaqi.QiraatKhalfaImam
+|       |   |-- 0458Bayhaqi.RisalaIlaJuwayni
+|       |   |-- 0458Bayhaqi.ShucabIman
+|       |   |-- 0458Bayhaqi.SunanKubra
+|       |   |-- 0458Bayhaqi.SunanSaghir
+|       |   `-- 0458Bayhaqi.ZuhdKabir
 |       |-- 0460AbuIshaqIlbiri
 |       |   `-- 0460AbuIshaqIlbiri.Diwan
 |       |-- 0460ShaykhTusi
+|       |   |-- 0460ShaykhTusi.Amali
+|       |   |-- 0460ShaykhTusi.CiddatUsul
+|       |   |-- 0460ShaykhTusi.Fihrist
+|       |   |-- 0460ShaykhTusi.Ghayba
 |       |   |-- 0460ShaykhTusi.IkhtiyarMacrifaRijal
-|       |   `-- 0460ShaykhTusi.Rijal
+|       |   |-- 0460ShaykhTusi.Iqtisad
+|       |   |-- 0460ShaykhTusi.Istibsar
+|       |   |-- 0460ShaykhTusi.Khilaf
+|       |   |-- 0460ShaykhTusi.Mabsut
+|       |   |-- 0460ShaykhTusi.MisbahMujtahid
+|       |   |-- 0460ShaykhTusi.Nihaya
+|       |   |-- 0460ShaykhTusi.RasailCashar
+|       |   |-- 0460ShaykhTusi.Rijal
+|       |   |-- 0460ShaykhTusi.TahdhibAhkam
+|       |   |-- 0460ShaykhTusi.TajridMantiq
+|       |   `-- 0460ShaykhTusi.Tibyan
 |       |-- 0461IbnHusaynSughdi
 |       |   `-- 0461IbnHusaynSughdi.NutafFifatawa
 |       |-- 0463IbnCabdBarr
@@ -991,6 +1091,9 @@
 |       |   `-- 0476AbuIshaqShirazi.TabaqatFuqaha
 |       |-- 0482AbuIshaqHabbal
 |       |   `-- 0482AbuIshaqHabbal.WafayatMisriyyin
+|       |-- 0485NizamMulkWazir
+|       |   |-- 0485NizamMulkWazir.MajlisanMinAmali
+|       |   `-- 0485NizamMulkWazir.SiyasatNama
 |       |-- 0487AbuCubaydBakri
 |       |   |-- 0487AbuCubaydBakri.MasalikWaMamalik
 |       |   `-- 0487AbuCubaydBakri.MucjamMaIstacjama
@@ -1120,6 +1223,8 @@
 |       |   `-- 0571IbnCasakir.Tawba
 |       |-- 0573NashwanHimyari
 |       |   `-- 0573NashwanHimyari.KhulasaSiyar
+|       |-- 0573RashidWatwat
+|       |   `-- 0573RashidWatwat.MatlubKullTalib
 |       |-- 0575IbnBabawayh
 |       |   |-- 0575IbnBabawayh.Arbacuna
 |       |   `-- 0575IbnBabawayh.Fihrist
@@ -1305,14 +1410,41 @@
 |       |   |-- 0643CaliSakhawi.HidayatMurtab
 |       |   `-- 0643CaliSakhawi.JamalQurra
 |       |-- 0643DiyaDinMuqaddasi
+|       |   |-- 0643DiyaDinMuqaddasi.AhadithMukhatara
+|       |   |-- 0643DiyaDinMuqaddasi.AhadithSahihaMimmaRawahuMuslim
+|       |   |-- 0643DiyaDinMuqaddasi.AmradWaKaffarat
+|       |   |-- 0643DiyaDinMuqaddasi.Cudda
+|       |   |-- 0643DiyaDinMuqaddasi.DhikrMusahafa
+|       |   |-- 0643DiyaDinMuqaddasi.FadailAcmal
 |       |   |-- 0643DiyaDinMuqaddasi.FadailBaytMaqdis
-|       |   `-- 0643DiyaDinMuqaddasi.JuzAwham
+|       |   |-- 0643DiyaDinMuqaddasi.FadailQuran
+|       |   |-- 0643DiyaDinMuqaddasi.HadithIbnAbiMakarim
+|       |   |-- 0643DiyaDinMuqaddasi.IkhtisasQuran
+|       |   |-- 0643DiyaDinMuqaddasi.IttibacSunan
+|       |   |-- 0643DiyaDinMuqaddasi.JuzAwham
+|       |   |-- 0643DiyaDinMuqaddasi.KhamsatAhadithMusalsalat
+|       |   |-- 0643DiyaDinMuqaddasi.ManaqibJacfarIbnAbiTalib
+|       |   |-- 0643DiyaDinMuqaddasi.MinHadithIbnYazidMuqri
+|       |   |-- 0643DiyaDinMuqaddasi.MuntaqaHadithCabdawi
+|       |   |-- 0643DiyaDinMuqaddasi.MuntaqaMinMasmucatMarw
+|       |   |-- 0643DiyaDinMuqaddasi.MuwafaqatCawali
+|       |   |-- 0643DiyaDinMuqaddasi.NahyCanSabbAshab
+|       |   |-- 0643DiyaDinMuqaddasi.RuwatArbacatCashar
+|       |   |-- 0643DiyaDinMuqaddasi.RuwatCanMuslim
+|       |   |-- 0643DiyaDinMuqaddasi.SifatJanna
+|       |   |-- 0643DiyaDinMuqaddasi.SunanWaAhkamCanMustafa
+|       |   |-- 0643DiyaDinMuqaddasi.TuruqHadithNabi
+|       |   `-- 0643DiyaDinMuqaddasi.ZiyadatCalaKabair
+|       |-- 0643FathBundari
+|       |   `-- 0643FathBundari.MukhtasarSanaBarqShami
 |       |-- 0643IbnSalahShahrazuri
 |       |   |-- 0643IbnSalahShahrazuri.Fatawa
 |       |   |-- 0643IbnSalahShahrazuri.SiyanatSahihMuslim
 |       |   `-- 0643IbnSalahShahrazuri.TabaqatFuqaha
 |       |-- 0645TilimsaniBurri
 |       |   `-- 0645TilimsaniBurri.Jawhara
+|       |-- 0646IbnBaytarAndalusi
+|       |   `-- 0646IbnBaytarAndalusi.JamicLiMufradat
 |       |-- 0646IbnQifti
 |       |   |-- 0646IbnQifti.IkhbarCulama
 |       |   |-- 0646IbnQifti.InbahRuwat
@@ -1449,7 +1581,11 @@
 |       |-- 0703MuhammadMarrakushi
 |       |   `-- 0703MuhammadMarrakushi.DhaylWaTakmila
 |       |-- 0705SharafDinDimyatti
-|       |   `-- 0705SharafDinDimyatti.MucjamShuyukh
+|       |   |-- 0705SharafDinDimyatti.ArbacunaAbdal
+|       |   |-- 0705SharafDinDimyatti.IthafFudalaBashar
+|       |   |-- 0705SharafDinDimyatti.JuzMusafahatMuslim
+|       |   |-- 0705SharafDinDimyatti.MucjamShuyukh
+|       |   `-- 0705SharafDinDimyatti.Tasalli
 |       |-- 0709CaliCalawi
 |       |   `-- 0709CaliCalawi.Majdi
 |       |-- 0709IbnTiqtaqa
@@ -1458,6 +1594,12 @@
 |       |   `-- 0711IbnManzurIfriqi.MukhtasarTarikhDimashq
 |       |-- 0714AhmadGhibrini
 |       |   `-- 0714AhmadGhibrini.CunwanDiraya
+|       |-- 0718AbuIshaqWatwat
+|       |   |-- 0718AbuIshaqWatwat.GhurarKhasais
+|       |   `-- 0718AbuIshaqWatwat.MabahijFikar
+|       |-- 0721IbnRushaydSabti
+|       |   |-- 0721IbnRushaydSabti.MalCayba
+|       |   `-- 0721IbnRushaydSabti.SunanAbyan
 |       |-- 0723IbnFuwati
 |       |   `-- 0723IbnFuwati.Hawadith
 |       |-- 0724IbnCattar
@@ -2028,7 +2170,8 @@
 |       |-- 0922IbnShaykhTarabulusi
 |       |   `-- 0922IbnShaykhTarabulusi.IscafAwqaf
 |       |-- 0923AhmadQastallani
-|       |   `-- 0923AhmadQastallani.IrshadSari
+|       |   |-- 0923AhmadQastallani.IrshadSari
+|       |   `-- 0923AhmadQastallani.MawahibLaduniyya
 |       |-- 0923IbnCabdAllahKhazraji
 |       |   `-- 0923IbnCabdAllahKhazraji.KhulasaTahdhib
 |       |-- 0926ZakariyaAnsari
@@ -2066,6 +2209,9 @@
 |   `-- data
 |       |-- 1004ShamsDinRamli
 |       |   `-- 1004ShamsDinRamli.FatawaRamli
+|       |-- 1008DawudAntaki
+|       |   |-- 1008DawudAntaki.TadhkiratUlaAlbab
+|       |   `-- 1008DawudAntaki.TazyinAswaq
 |       |-- 1010TamimiDari
 |       |   `-- 1010TamimiDari.TabaqatSaniya
 |       |-- 1011SahibMacalim
@@ -2108,6 +2254,8 @@
 |       |   `-- 1070MuhammadKibrit.RihlaShita
 |       |-- 1078RiyadZadah
 |       |   `-- 1078RiyadZadah.AsmaKutub
+|       |-- 1081MuhammadSalihMazandarani
+|       |   `-- 1081MuhammadSalihMazandarani.SharhUsulKafi
 |       |-- 1086IbnCajamiMisri
 |       |   `-- 1086IbnCajamiMisri.DhaylLubbLubab
 |       |-- 1089IbnCimad
@@ -2213,6 +2361,8 @@
 |       |   `-- 1286IcjazHusaynKunturi.KashfHajb
 |       |-- 1292IbnIbrahimMaghribi
 |       |   `-- 1292IbnIbrahimMaghribi.QurratCaynBiFatawa
+|       |-- 1292MuhammadNassarCiraqi
+|       |   `-- 1292MuhammadNassarCiraqi.DiwanNassariyyat
 |       |-- 1293CabdLatifAlShaykh
 |       |   `-- 1293CabdLatifAlShaykh.CuyunRasailwaAjwiba
 |       `-- 1299IbnCalishMaliki
@@ -2303,6 +2453,10 @@
 |       |   `-- 1364MacrufRusafi.Diwan
 |       |-- 1368HasanAmin
 |       |   `-- 1368HasanAmin.MustadrakatAcyanShica
+|       |-- 1369MuhammadRida
+|       |   |-- 1369MuhammadRida.AbuBakr
+|       |   |-- 1369MuhammadRida.Cuthman
+|       |   `-- 1369MuhammadRida.Muhammad
 |       |-- 1371MuhsinCamili
 |       |   `-- 1371MuhsinCamili.AcyanShica
 |       |-- 1372KurdCali
@@ -2439,9 +2593,6 @@
 |   |-- meta
 |   |-- readme
 |   `-- searches
-|-- Collection_WordFrequencies_Reports
-|   |-- 1gram
-|   `-- 1gram_NRM
 |-- OCR_GS_Data
 |   `-- ara
 |       |-- bens_reports
@@ -2515,134 +2666,6 @@
 |       |-- 1_images
 |       |-- 4_training_data
 |       `-- 7_final
-|-- OCR_TrainingData_Clean
-|   |-- ara
-|   |   |-- book_IbnAthir.Kamil
-|   |   |   |-- 2_preprocessed_images
-|   |   |   |-- 3_transcription_ready
-|   |   |   |-- 4_training_data
-|   |   |   |-- 5_goldStandard
-|   |   |   |-- 6_DoubleChecked
-|   |   |   `-- 7_final
-|   |   |-- book_IbnFaqihHamadhani.Buldan
-|   |   |   |-- 2_preprocessed_images
-|   |   |   |-- 3_transcription_ready_a
-|   |   |   |-- 4_trainingdata_a
-|   |   |   |-- 4_trainingdata_b
-|   |   |   |-- 5_goldStandard_a_checked
-|   |   |   `-- 5_goldStandard_b_checked
-|   |   |-- book_IbnQutayba.Adab
-|   |   |   |-- 2_preprocessed_images
-|   |   |   |-- 3_transcription_ready
-|   |   |   |-- 4_training_data
-|   |   |   |-- 5_goldstandard
-|   |   |   |-- 6_DoubleChecked
-|   |   |   `-- 7_final
-|   |   |-- book_Jahiz.Hayawan
-|   |   |   |-- 2_preprocessed_images
-|   |   |   |-- 3_transcription_ready
-|   |   |   |-- 4_training_data
-|   |   |   |-- 5_goldstandard
-|   |   |   |-- 6_DoubleChecked
-|   |   |   `-- 7_final
-|   |   |-- book_Yacqubi.Tarikh
-|   |   |   |-- 2_preprocessed_images
-|   |   |   |-- 3_transcription_ready
-|   |   |   |-- 4_training_data
-|   |   |   |-- 5_goldstandard
-|   |   |   |-- 6_DoubleChecked
-|   |   |   `-- 7_final
-|   |   |-- lq_Dhahabi.Tarikh
-|   |   |   |-- 1_images
-|   |   |   |-- 2_preprocessed_images
-|   |   |   |-- 3_transcription_ready
-|   |   |   |-- 4_training_data
-|   |   |   |-- 5_goldstandard
-|   |   |   |-- 6_DoubleChecked
-|   |   |   `-- 7_final
-|   |   |-- lq_IbnJawzi.Muntazam
-|   |   |   |-- 1_images
-|   |   |   |-- 2_preprocessed_images
-|   |   |   |-- 3_transcription_ready
-|   |   |   |-- 4_training_data
-|   |   |   |-- 5_goldstandard
-|   |   |   |-- 6_DoubleChecked
-|   |   |   `-- 7_final
-|   |   |-- test_Bayhaqi.Asma
-|   |   |   |-- 2_preprocessed_images
-|   |   |   |-- 3_transcription_ready
-|   |   |   `-- 4_training_data
-|   |   |-- test_IbnQutayba.ImamaWaSiyasa
-|   |   |   |-- 2_preprocessed_images
-|   |   |   |-- 3_transcription_ready
-|   |   |   `-- 4_training_data
-|   |   |-- test_Jahiz.BayanWaTabyin
-|   |   |   |-- 2_preprocessed_images
-|   |   |   |-- 3_transcription_ready
-|   |   |   `-- 4_training_data
-|   |   |-- test_Muctamad
-|   |   |   |-- 2_preprocessed_images
-|   |   |   |-- 3_transcription_ready
-|   |   |   `-- 4_training_data
-|   |   |-- test_Taghribirdi.NujumZahira
-|   |   |   |-- 2_preprocessed_images
-|   |   |   |-- 3_transcription_ready
-|   |   |   `-- 4_training_data
-|   |   |-- test_lq_IbnKathir.Bidaya
-|   |   |   |-- 1_images
-|   |   |   |-- 2_preprocessed_images
-|   |   |   |-- 3_transcription_ready
-|   |   |   `-- 4_training_data
-|   |   |-- z.dummy_folder
-|   |   |   |-- 1_images
-|   |   |   |-- 2_preprocessed_images
-|   |   |   |-- 3_transcription_ready
-|   |   |   `-- 4_training_data
-|   |   `-- z_irshad_for_najam
-|   |       |-- 2_preprocessed_images
-|   |       |-- 3_transcription_ready
-|   |       `-- 4_training_data
-|   `-- per
-|       |-- ghazaliyyat
-|       |   |-- 2_preprocessed_images
-|       |   |-- 3_transcription_ready
-|       |   `-- 4_training_data
-|       |-- kalila_wa_dimna
-|       |   |-- 2_preprocessed_images
-|       |   |-- 3_transcription_ready
-|       |   `-- 4_training_data
-|       |-- khosrow_wa_shirin
-|       |   |-- 2_preprocessed_images
-|       |   |-- 3_transcription_ready
-|       |   |-- 4_training_data
-|       |   `-- 5_goldstandard
-|       `-- z.dummy_folder
-|           |-- 1_images
-|           |-- 2_preprocessed_images
-|           |-- 3_transcription_ready
-|           `-- 4_training_data
-|-- OCR_TrainingData_RawScans
-|   |-- ara
-|   |   |-- book_Bayhaqi.Asma
-|   |   |   `-- out
-|   |   |-- book_IbnAthir.Kamil
-|   |   |-- book_IbnFaqihHamadhani.Buldan
-|   |   |-- book_IbnQutayba.Adab
-|   |   |-- book_IbnQutayba.ImamaWaSiyasa
-|   |   |   `-- out
-|   |   |-- book_Jahiz.BayanWaTabyin
-|   |   |   `-- out
-|   |   |-- book_Jahiz.Hayawan
-|   |   |   `-- out
-|   |   |-- book_Muctamad
-|   |   |   `-- out
-|   |   |-- book_Taghribirdi.NujumZahira
-|   |   `-- book_Yacqubi.Tarikh
-|   `-- per
-|       |-- ghazaliyyat
-|       |   `-- out
-|       `-- kalila_wa_dimna
-|           `-- out
 |-- PDF
 |   |-- 0300AH
 |   |-- 0400AH
@@ -2683,4 +2706,4 @@
 |   `-- spark-warehouse
 `-- uris
 
-2683 directories
+2706 directories
