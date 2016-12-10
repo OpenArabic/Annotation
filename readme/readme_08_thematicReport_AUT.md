@@ -2353,7 +2353,7 @@
 - **TOTAL: 54 titles, 6,175,973 words**
 
 
-### *TARAJIM* (762 texts, 151,143,590 words)
+### *TARAJIM* (761 texts, 151,046,411 words)
 
 - ~~6th century CE: 0 titles, 0 words~~
 - ~~7th century CE: 0 titles, 0 words~~
@@ -2361,7 +2361,7 @@
 - **9th century CE: 102 titles, 12,592,823 words**
 - **10th century CE: 164 titles, 17,829,604 words**
 - **11th century CE: 94 titles, 17,576,228 words**
-- **12th century CE: 63 titles, 15,815,884 words**
+- **12th century CE: 62 titles, 15,718,705 words**
 - **13th century CE: 51 titles, 11,670,393 words**
 - **14th century CE: 83 titles, 24,375,733 words**
 - **15th century CE: 71 titles, 25,405,455 words**
@@ -2371,7 +2371,7 @@
 - **19th century CE: 11 titles, 1,509,853 words**
 - **20th century CE: 9 titles, 2,934,168 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **TOTAL: 762 titles, 151,143,590 words**
+- **TOTAL: 761 titles, 151,046,411 words**
 
 
 ### *TARIKH* (309 texts, 74,411,110 words)
