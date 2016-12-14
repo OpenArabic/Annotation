@@ -24,8 +24,8 @@
 # Computationally generated priority list	%24
 
 * 1 ~~`0571IbnCasakir.TarikhDimashq`~~	%26
-* 1 `0764Safadi.WafiBiWafayat`	%27 
-* 1 `0902Sakhawi.DuLamic`	%28 
+* 1 `0764Safadi.WafiBiWafayat`	%27 (in Progress)
+* 1 `0902Sakhawi.DuLamic`	%28 (inProgress)
 * 1 ~~`0463KhatibBaghdadi.TarikhBaghdad`~~	%29
 * 1 ~~`0463KhatibBaghdadi.TarikhBaghdad.Shamela0023764-ara1`~~	%29 completed (Jonas)
 * 2 `1371MuhsinCamili.AcyanShica`	%30
@@ -39,17 +39,17 @@
 * 1 ~~`0597IbnJawzi.Muntazam`~~	%38
 * 1 ~~`0852IbnHajarCasqalani.TahdhibTahdhib`~~	%39
 * 1 ~~`0711IbnManzurIfriqi.MukhtasarTarikhDimashq`~~	%40
-* 1 `0561Samcani.Ansab`	%41
+* 1 `0561Samcani.Ansab`	%41 (inProgress)
 * 1 ~~`0852IbnHajarCasqalani.DurarKamina`~~	%42
 * 4 `0733Nuwayri.NihayaArab`	%43
-* 1 `0762MughaltayIbnQalij.IkmalTahdhib`	%44
+* 1 `0762MughaltayIbnQalij.IkmalTahdhib`	%44 (inProgress)
 * 1 ~~`1339IsmacilBashaBaghdadi.HadiyaCarifin`~~	%45
-* 1 `0630IbnAthirCizzDin.Kamil`	%46
+* 1 ~~`0630IbnAthirCizzDin.Kamil`	%46~~
 * 2 `0845Maqrizi.Suluk`	%47
 * 2 `0855Cayni.CumdaQari`	%48
 * 4 `1341CabdHayyTalibi.IclamBiMan`	%49
 * - `0852IbnHajarCasqalani.InbaGhumr`	%50
-* 1 `0768Yafici.MiratJanan`	%51
+* 1 `0768Yafici.MiratJanan`	%51 (inProgress)
 * - `0842IbnNasirDinDimashqi.TawdihMushtabih`	%52
 * - `0475IbnMakula.IkmalFiRafcIrtiyab`	%53
 * - `0852IbnHajarCasqalani.TaqribTahdhib`	%54
