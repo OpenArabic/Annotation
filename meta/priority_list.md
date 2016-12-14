@@ -57,13 +57,13 @@
 * 4 `1411SayyidMarcashi.SharhIhqaq`	%56
 * 2 `0923IbnCabdAllahKhazraji.KhulasaTahdhib`	%57
 * 2 `0354IbnHibban.Thiqat`	%58
-* 1 `0764Safadi.AcyanCasr`	%59
-* 1 `0681IbnKhallikan.WafayatAcyan`	%60
-* 1 `0630IbnAthirCizzDin.LubabFiTahdhibAnsab`	%61
+* 1 `0764Safadi.AcyanCasr`	%59 (inProgress)
+* 1 ~~`0681IbnKhallikan.WafayatAcyan`	%60~~
+* 1 ~~`0630IbnAthirCizzDin.LubabFiTahdhibAnsab`	%61~~
 * 2 `0879IbnQutlubugha.Thiqat`	%62
 * 2 `0732AbuFida.MukhtasarFiAkhbar`	%63
 * 3 `0279Baladhuri.AnsabAshraf`	%64
-* 1 `0852IbnHajarCasqalani.IsabaFiTamyiz`	%65
+* 1 `0852IbnHajarCasqalani.IsabaFiTamyiz`	%65 (inProgress)
 * 3 `1111MuhammadAminMuhibbi.KhulasaAthr`	%66
 * 2 `0808IbnKhaldun.Tarikh`	%67
 * 2 `0660IbnCadim.BughyatTalib`	%68
