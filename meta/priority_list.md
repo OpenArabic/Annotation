@@ -49,11 +49,11 @@
 * 2 `0855Cayni.CumdaQari`	%48
 * 4 `1341CabdHayyTalibi.IclamBiMan`	%49
 * - `0852IbnHajarCasqalani.InbaGhumr`	%50
-* 1 `0768Yafici.MiratJanan`	%51 (inProgress)
+* 1 ~~`0768Yafici.MiratJanan`	%51~~
 * - `0842IbnNasirDinDimashqi.TawdihMushtabih`	%52
 * - `0475IbnMakula.IkmalFiRafcIrtiyab`	%53
 * - `0852IbnHajarCasqalani.TaqribTahdhib`	%54
-* 1 `0230IbnSacd.TabaqatKubra`	%55
+* 1 `0230IbnSacd.TabaqatKubra`	%55 (inProgress)
 * 4 `1411SayyidMarcashi.SharhIhqaq`	%56
 * 2 `0923IbnCabdAllahKhazraji.KhulasaTahdhib`	%57
 * 2 `0354IbnHibban.Thiqat`	%58
