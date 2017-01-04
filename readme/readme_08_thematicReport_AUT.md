@@ -379,11 +379,11 @@
 - **TOTAL: 149 titles, 32,534,104 words**
 
 
-### *CAQAID* (500 texts, 29,453,035 words)
+### *CAQAID* (499 texts, 29,446,855 words)
 
 - ~~6th century CE: 0 titles, 0 words~~
 - **7th century CE: 1 titles, 25,843 words**
-- **8th century CE: 3 titles, 128,651 words**
+- **8th century CE: 2 titles, 122,471 words**
 - **9th century CE: 34 titles, 699,441 words**
 - **10th century CE: 51 titles, 1,558,222 words**
 - **11th century CE: 52 titles, 4,052,321 words**
@@ -397,7 +397,7 @@
 - **19th century CE: 48 titles, 2,158,295 words**
 - **20th century CE: 30 titles, 2,315,656 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **TOTAL: 500 titles, 29,453,035 words**
+- **TOTAL: 499 titles, 29,446,855 words**
 
 
 ### *CARUD* (9 texts, 1,958,412 words)
@@ -1366,11 +1366,11 @@
 - **TOTAL: 44 titles, 4,118,004 words**
 
 
-### *MILAL* (233 texts, 14,553,917 words)
+### *MILAL* (232 texts, 14,547,737 words)
 
 - ~~6th century CE: 0 titles, 0 words~~
 - ~~7th century CE: 0 titles, 0 words~~
-- **8th century CE: 2 titles, 7,598 words**
+- **8th century CE: 1 titles, 1,418 words**
 - **9th century CE: 24 titles, 469,867 words**
 - **10th century CE: 38 titles, 1,289,107 words**
 - **11th century CE: 39 titles, 2,873,359 words**
@@ -1384,7 +1384,7 @@
 - **19th century CE: 12 titles, 336,647 words**
 - **20th century CE: 4 titles, 277,963 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **TOTAL: 233 titles, 14,553,917 words**
+- **TOTAL: 232 titles, 14,547,737 words**
 
 
 ### *MISC* (319 texts, 26,233,611 words)
@@ -1597,11 +1597,11 @@
 - **TOTAL: 8 titles, 213,315 words**
 
 
-### *NO_TAGS* (5 texts, 690,066 words)
+### *NO_TAGS* (6 texts, 696,246 words)
 
 - ~~6th century CE: 0 titles, 0 words~~
 - ~~7th century CE: 0 titles, 0 words~~
-- ~~8th century CE: 0 titles, 0 words~~
+- **8th century CE: 1 titles, 6,180 words**
 - ~~9th century CE: 0 titles, 0 words~~
 - ~~10th century CE: 0 titles, 0 words~~
 - ~~11th century CE: 0 titles, 0 words~~
@@ -1615,7 +1615,7 @@
 - ~~19th century CE: 0 titles, 0 words~~
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **TOTAL: 5 titles, 690,066 words**
+- **TOTAL: 6 titles, 696,246 words**
 
 
 ### *ONO* (4 texts, 1,237,148 words)
