@@ -379,11 +379,11 @@
 - **TOTAL: 149 titles, 32,534,104 words**
 
 
-### *CAQAID* (499 texts, 29,446,855 words)
+### *CAQAID* (500 texts, 29,453,035 words)
 
 - ~~6th century CE: 0 titles, 0 words~~
 - **7th century CE: 1 titles, 25,843 words**
-- **8th century CE: 2 titles, 122,471 words**
+- **8th century CE: 3 titles, 128,651 words**
 - **9th century CE: 34 titles, 699,441 words**
 - **10th century CE: 51 titles, 1,558,222 words**
 - **11th century CE: 52 titles, 4,052,321 words**
@@ -397,7 +397,7 @@
 - **19th century CE: 48 titles, 2,158,295 words**
 - **20th century CE: 30 titles, 2,315,656 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **TOTAL: 499 titles, 29,446,855 words**
+- **TOTAL: 500 titles, 29,453,035 words**
 
 
 ### *CARUD* (9 texts, 1,958,412 words)
@@ -715,7 +715,7 @@
 - **TOTAL: 14 titles, 203,216 words**
 
 
-### *FIQH* (770 texts, 257,853,281 words)
+### *FIQH* (769 texts, 257,709,969 words)
 
 - ~~6th century CE: 0 titles, 0 words~~
 - **7th century CE: 1 titles, 30,942 words**
@@ -729,11 +729,11 @@
 - **15th century CE: 47 titles, 25,348,530 words**
 - **16th century CE: 71 titles, 31,190,143 words**
 - **17th century CE: 35 titles, 11,434,687 words**
-- **18th century CE: 41 titles, 22,371,227 words**
+- **18th century CE: 40 titles, 22,227,915 words**
 - **19th century CE: 65 titles, 35,370,893 words**
 - **20th century CE: 27 titles, 4,773,862 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **TOTAL: 770 titles, 257,853,281 words**
+- **TOTAL: 769 titles, 257,709,969 words**
 
 
 ### *FIRAQ* (19 texts, 2,093,490 words)
@@ -862,7 +862,7 @@
 - **TOTAL: 3 titles, 1,559,638 words**
 
 
-### *HADITH* (1,968 texts, 225,772,603 words)
+### *HADITH* (1,969 texts, 225,915,915 words)
 
 - ~~6th century CE: 0 titles, 0 words~~
 - **7th century CE: 4 titles, 260,901 words**
@@ -876,11 +876,11 @@
 - **15th century CE: 147 titles, 30,695,218 words**
 - **16th century CE: 66 titles, 15,921,981 words**
 - **17th century CE: 44 titles, 27,042,668 words**
-- **18th century CE: 28 titles, 4,920,849 words**
+- **18th century CE: 29 titles, 5,064,161 words**
 - **19th century CE: 20 titles, 3,422,793 words**
 - **20th century CE: 16 titles, 4,489,353 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **TOTAL: 1,968 titles, 225,772,603 words**
+- **TOTAL: 1,969 titles, 225,915,915 words**
 
 
 ### *HANAFI* (52 texts, 28,179,682 words)
@@ -1177,7 +1177,7 @@
 - **TOTAL: 12 titles, 159,787 words**
 
 
-### *MAJALLAT* (6 texts, 9,765,526 words)
+### *MAJALLAT* (8 texts, 9,901,997 words)
 
 - ~~6th century CE: 0 titles, 0 words~~
 - ~~7th century CE: 0 titles, 0 words~~
@@ -1195,10 +1195,10 @@
 - **19th century CE: 3 titles, 1,093,849 words**
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **TOTAL: 6 titles, 9,765,526 words**
+- **TOTAL: 8 titles, 9,901,997 words**
 
 
-### *MAJMUCAT* (43 texts, 18,325,465 words)
+### *MAJMUCAT* (44 texts, 18,468,777 words)
 
 - ~~6th century CE: 0 titles, 0 words~~
 - ~~7th century CE: 0 titles, 0 words~~
@@ -1212,11 +1212,11 @@
 - **15th century CE: 5 titles, 1,823,726 words**
 - **16th century CE: 2 titles, 2,198,479 words**
 - **17th century CE: 1 titles, 9,197 words**
-- ~~18th century CE: 0 titles, 0 words~~
+- **18th century CE: 1 titles, 143,312 words**
 - **19th century CE: 3 titles, 1,093,849 words**
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **TOTAL: 43 titles, 18,325,465 words**
+- **TOTAL: 44 titles, 18,468,777 words**
 
 
 ### *MAKHTUTAT* (299 texts, 1,963,675 words)
@@ -1366,11 +1366,11 @@
 - **TOTAL: 44 titles, 4,118,004 words**
 
 
-### *MILAL* (232 texts, 14,547,737 words)
+### *MILAL* (233 texts, 14,553,917 words)
 
 - ~~6th century CE: 0 titles, 0 words~~
 - ~~7th century CE: 0 titles, 0 words~~
-- **8th century CE: 1 titles, 1,418 words**
+- **8th century CE: 2 titles, 7,598 words**
 - **9th century CE: 24 titles, 469,867 words**
 - **10th century CE: 38 titles, 1,289,107 words**
 - **11th century CE: 39 titles, 2,873,359 words**
@@ -1384,7 +1384,7 @@
 - **19th century CE: 12 titles, 336,647 words**
 - **20th century CE: 4 titles, 277,963 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **TOTAL: 232 titles, 14,547,737 words**
+- **TOTAL: 233 titles, 14,553,917 words**
 
 
 ### *MISC* (319 texts, 26,233,611 words)
@@ -1597,11 +1597,11 @@
 - **TOTAL: 8 titles, 213,315 words**
 
 
-### *NO_TAGS* (6 texts, 696,246 words)
+### *NO_TAGS* (7 texts, 701,024 words)
 
 - ~~6th century CE: 0 titles, 0 words~~
 - ~~7th century CE: 0 titles, 0 words~~
-- **8th century CE: 1 titles, 6,180 words**
+- ~~8th century CE: 0 titles, 0 words~~
 - ~~9th century CE: 0 titles, 0 words~~
 - ~~10th century CE: 0 titles, 0 words~~
 - ~~11th century CE: 0 titles, 0 words~~
@@ -1615,7 +1615,7 @@
 - ~~19th century CE: 0 titles, 0 words~~
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **TOTAL: 6 titles, 696,246 words**
+- **TOTAL: 7 titles, 701,024 words**
 
 
 ### *ONO* (4 texts, 1,237,148 words)
@@ -1975,7 +1975,7 @@
 - **TOTAL: 448 titles, 107,414,120 words**
 
 
-### *SHICR* (194 texts, 8,531,854 words)
+### *SHICR* (192 texts, 8,520,896 words)
 
 - ~~6th century CE: 0 titles, 0 words~~
 - **7th century CE: 23 titles, 121,234 words**
@@ -1993,7 +1993,7 @@
 - **19th century CE: 5 titles, 262,533 words**
 - **20th century CE: 5 titles, 456,705 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **TOTAL: 194 titles, 8,531,854 words**
+- **TOTAL: 192 titles, 8,520,896 words**
 
 
 ### *SHICRANDALUSI* (16 texts, 351,649 words)
@@ -2080,7 +2080,7 @@
 - **TOTAL: 3 titles, 12,212 words**
 
 
-### *SHICRJAHILI* (29 texts, 107,906 words)
+### *SHICRJAHILI* (27 texts, 96,948 words)
 
 - ~~6th century CE: 0 titles, 0 words~~
 - **7th century CE: 16 titles, 78,673 words**
@@ -2098,7 +2098,7 @@
 - ~~19th century CE: 0 titles, 0 words~~
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
-- **TOTAL: 29 titles, 107,906 words**
+- **TOTAL: 27 titles, 96,948 words**
 
 
 ### *SHICRUMAWI* (21 texts, 254,022 words)
@@ -2353,7 +2353,7 @@
 - **TOTAL: 54 titles, 6,175,973 words**
 
 
-### *TARAJIM* (761 texts, 151,046,411 words)
+### *TARAJIM* (762 texts, 151,189,723 words)
 
 - ~~6th century CE: 0 titles, 0 words~~
 - ~~7th century CE: 0 titles, 0 words~~
@@ -2367,11 +2367,11 @@
 - **15th century CE: 71 titles, 25,405,455 words**
 - **16th century CE: 39 titles, 7,659,816 words**
 - **17th century CE: 26 titles, 9,400,189 words**
-- **18th century CE: 16 titles, 2,718,283 words**
+- **18th century CE: 17 titles, 2,861,595 words**
 - **19th century CE: 11 titles, 1,509,853 words**
 - **20th century CE: 9 titles, 2,934,168 words**
 - ~~21st century CE: 0 titles, 0 words~~
-- **TOTAL: 761 titles, 151,046,411 words**
+- **TOTAL: 762 titles, 151,189,723 words**
 
 
 ### *TARIKH* (309 texts, 74,411,110 words)
