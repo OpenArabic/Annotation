@@ -568,6 +568,27 @@
 - **TOTAL: 60 titles, 1,967,991 words**
 
 
+### *DHB* (19 texts, 18,184,867 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- **9th century CE: 1 titles, 285,184 words**
+- ~~10th century CE: 0 titles, 0 words~~
+- **11th century CE: 2 titles, 3,133,874 words**
+- **12th century CE: 2 titles, 2,248,461 words**
+- **13th century CE: 1 titles, 661,178 words**
+- **14th century CE: 10 titles, 9,670,977 words**
+- **15th century CE: 1 titles, 52,998 words**
+- ~~16th century CE: 0 titles, 0 words~~
+- ~~17th century CE: 0 titles, 0 words~~
+- ~~18th century CE: 0 titles, 0 words~~
+- **19th century CE: 1 titles, 1,505,385 words**
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 19 titles, 18,184,867 words**
+
+
 ### *EUROPEAN* (2 texts, 1,036,781 words)
 
 - ~~6th century CE: 0 titles, 0 words~~
@@ -1805,6 +1826,27 @@
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
 - **TOTAL: 14 titles, 2,583,148 words**
+
+
+### *PPE* (629 texts, 133,084,116 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- **7th century CE: 1 titles, 15,850 words**
+- **8th century CE: 2 titles, 4,799 words**
+- **9th century CE: 62 titles, 7,425,911 words**
+- **10th century CE: 88 titles, 12,322,149 words**
+- **11th century CE: 61 titles, 10,973,813 words**
+- **12th century CE: 97 titles, 17,187,422 words**
+- **13th century CE: 60 titles, 13,004,824 words**
+- **14th century CE: 95 titles, 33,128,494 words**
+- **15th century CE: 66 titles, 21,592,666 words**
+- **16th century CE: 29 titles, 3,261,685 words**
+- **17th century CE: 20 titles, 5,750,029 words**
+- **18th century CE: 13 titles, 2,548,035 words**
+- **19th century CE: 15 titles, 3,062,535 words**
+- **20th century CE: 16 titles, 2,582,173 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 629 titles, 133,084,116 words**
 
 
 ### *QADA* (48 texts, 3,569,290 words)

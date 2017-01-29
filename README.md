@@ -48,8 +48,8 @@ For the list of books currently in our corpus, see below.
 
 | *Texts* | *Status* |
 |:--- | ------:|
-| In Progress (`.inProgress`) | 27 |
-| Tagged (`.completed`) | 74 |
+| In Progress (`.inProgress`) | 28 |
+| Tagged (`.completed`) | 75 |
 | Vetted (`.mARkdown`) | 22 |
 | Converted to TEI XML  (`.xml`) | _pending_ |
 
@@ -185,12 +185,12 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 
 ## Status Report
  
-* 123 titles
-* 64,656,565 words
-* 333,879 logical units
+* 125 titles
+* 64,856,207 words
+* 335,241 logical units
 * 56,798 bios
 
-### `*.inProgress` (27 titles: 22,918,512 words; 91,346 units; 0 bios)
+### `*.inProgress` (28 titles: 23,060,308 words; 92,665 units; 0 bios)
 
 - `0230IbnSacd.TabaqatKubra (920,980 words; 6,386 units; 0 bios)`
 - `0255Jahiz.Hayawan (456,559 words; 3,113 units; 0 bios)`
@@ -208,6 +208,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - `0335Suli.AkhbarRadi (165,915 words; 255 units; 0 bios)`
 - `0346Istakhri.MasalikWaMamalik (75,617 words; 28 units; 0 bios)`
 - `0365IbnFaqihHamadhani.Buldan (147,627 words; 74 units; 0 bios)`
+- `0385IbnNadim.Fihrist (141,796 words; 1,319 units; 0 bios)`
 - `0400IbnTahirMaqdisi.BadWaTarikh (197,351 words; 639 units; 0 bios)`
 - `0421Miskawayh.Tajarib (679,938 words; 2,490 units; 0 bios)`
 - `0421Miskawayh.Tajarib (244,209 words; 764 units; 0 bios)`
@@ -221,7 +222,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - `0902Sakhawi.DuLamic (1,335,442 words; 14,452 units; 0 bios)`
 
 
-### `*.completed` (74 titles: 32,505,565 words; 160,728 units; 1 bios)
+### `*.completed` (75 titles: 32,563,411 words; 160,771 units; 1 bios)
 
 - `0276IbnQutaybaDinawari.AnwaFiMawasim (37,309 words; 104 units; 0 bios)`
 - `0276IbnQutaybaDinawari.AshribaWaIkhtilafFiha (14,816 words; 7 units; 0 bios)`
@@ -234,6 +235,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - `0276IbnQutaybaDinawari.ShicrWaShucara (137,743 words; 310 units; 0 bios)`
 - `0276IbnQutaybaDinawari.TawilMushkilQuran (61,442 words; 241 units; 0 bios)`
 - `0292Yacqubi.TarikhYacqubi (192,205 words; 139 units; 0 bios)`
+- `0346Mascudi.AkhbarZaman (57,846 words; 43 units; 0 bios)`
 - `0346Mascudi.TanbihWaIshraf (85,677 words; 83 units; 0 bios)`
 - `0379MuhammadRabci.TarikhMawlidCulama (35,125 words; 338 units; 0 bios)`
 - `0390Muqaddasi.AhsanTaqasim (103,553 words; 67 units; 0 bios)`
@@ -332,7 +334,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 ## List of books by centuries (4545 titles)
 
 
-* **0100AH [[ [Re]generated on 2017-01-29 (12:15:05) ]]**
+* **0100AH [[ [Re]generated on 2017-01-29 (14:03:16) ]]**
 
  * `0001AbuTalibCabdManaf.Diwan `
 	- *TAGS: _SHICR_JAHILI, _SHICR*
@@ -451,7 +453,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `0095CadiIbnRiqac.Diwan `
 	- *TAGS: _SHICR, _SHICR_UMAWI*
 
-* **0200AH [[ [Re]generated on 2017-01-29 (12:15:05) ]]**
+* **0200AH [[ [Re]generated on 2017-01-29 (14:03:16) ]]**
 
  * `0104MujahidIbnJabr.Tafsir `
 	- *TAGS: CENT0200, _CULUM, _QURAN, _SUNNI, _TAFSIR*
@@ -672,7 +674,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `0200YahyaIbnSalam.Tasarif `
 	- *TAGS: CENT0200, _CULUM, _QURAN*
 
-* **0300AH [[ [Re]generated on 2017-01-29 (12:15:05) ]]**
+* **0300AH [[ [Re]generated on 2017-01-29 (14:03:16) ]]**
 
  * `0203IbnSulaymanGhazi.MusnadRida `
 	- *TAGS: CENT0300, _HADITH, _SHICI*
@@ -1607,7 +1609,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `0300MuallifMajhul.AkhbarDawlaCabbasiya `
 	- *TAGS: CENT0300, PPE, _TARIKH*
 
-* **0400AH [[ [Re]generated on 2017-01-29 (12:15:05) ]]**
+* **0400AH [[ [Re]generated on 2017-01-29 (14:03:16) ]]**
 
  * `0301AbuBakrFaryabi.AhkamCidayn `
 	- *TAGS: CENT0400, _AJZA, _FIQH, _HADITH, _MASAIL, _USUL*
@@ -2906,7 +2908,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `0400MuallifMajhul.HududCalam `
 	- *TAGS: CENT0400, GEO, PPE, _BULDAN, _JUGHRAFIYA, _RIHLAT*
 
-* **0500AH [[ [Re]generated on 2017-01-29 (12:15:05) ]]**
+* **0500AH [[ [Re]generated on 2017-01-29 (14:03:16) ]]**
 
  * `0401IbnAyyashJawhari.MuqtadabAthar `
 	- *TAGS: CENT0500, _HADITH, _SHICI*
@@ -4135,7 +4137,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `0500IbnMuhammadKhatibBushanji.Juz `
 	- *TAGS: _AJZA, _HADITH*
 
-* **0600AH [[ [Re]generated on 2017-01-29 (12:15:05) ]]**
+* **0600AH [[ [Re]generated on 2017-01-29 (14:03:16) ]]**
 
  * `0502IbnCaliTabriziShaybani.DiwanHamasa `
 	- *TAGS: CENT0600, CENT0800, _ADAB, _ADAB, _BALAGHA, _CHRONOMULTIPLE, _SHICR*
@@ -5028,7 +5030,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `0600QutbdinBayhaqiKaydari.IdahShica `
 	- *TAGS: CENT0600, _AKHLAQ*
 
-* **0700AH [[ [Re]generated on 2017-01-29 (12:15:05) ]]**
+* **0700AH [[ [Re]generated on 2017-01-29 (14:03:16) ]]**
 
  * `0604AbuDharrKhushani.ImlaMukhtasar `
 	- *TAGS: CENT0700, _SHAMAIL, _SIRA*
@@ -5811,7 +5813,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `0700MuhammadIbnSacidRawandi.CujalatMacrifa `
 	- *TAGS: CENT0700, _CAQAID, _SHICI, _TWELVERS*
 
-* **0800AH [[ [Re]generated on 2017-01-29 (12:15:05) ]]**
+* **0800AH [[ [Re]generated on 2017-01-29 (14:03:16) ]]**
 
  * `0701IbnNasrAllahIbnSayqalJazari.Maqamat `
 	- *TAGS: CENT0800, _ADAB, _BALAGHA, _MISC*
@@ -6862,7 +6864,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `0800IbnSulaymanCizzDinHilli.Mukhtasar `
 	- *TAGS: CENT0800, _HADITH, _SHICI*
 
-* **0900AH [[ [Re]generated on 2017-01-29 (12:15:05) ]]**
+* **0900AH [[ [Re]generated on 2017-01-29 (14:03:16) ]]**
 
  * `0801IbnCuthmanIbnQasihBaghdadiCudhri.SirajQari `
 	- *TAGS: CENT0900, _QIRAAT, _QURAN, _TAJWID*
@@ -7443,7 +7445,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `0900MuflihIbnRashid.IlzamNawasib `
 	- *TAGS: CENT0900, _CAQAID, _SHICI, _TWELVERS*
 
-* **1000AH [[ [Re]generated on 2017-01-29 (12:15:05) ]]**
+* **1000AH [[ [Re]generated on 2017-01-29 (14:03:16) ]]**
 
  * `0902Sakhawi.Buldaniyyat `
 	- *TAGS: CENT1000, PPE, _AJZA, _HADITH, _MISC, _TARAJIM*
@@ -7966,7 +7968,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `1000IbnAhmadQahiri.MatnCashmawiyya `
 	- *TAGS: _FIQH, _MALIKI*
 
-* **1100AH [[ [Re]generated on 2017-01-29 (12:15:05) ]]**
+* **1100AH [[ [Re]generated on 2017-01-29 (14:03:16) ]]**
 
  * `1004ShamsDinRamli.FatawaRamli `
 	- *TAGS: CENT1100, _CHRONOMULTIPLE, _FATAWA, _FIQH, _SHAFICI*
@@ -8259,7 +8261,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `1100ZiyadahIbnYahyaRasi.BahthSarih `
 	- *TAGS: _CAQAID*
 
-* **1200AH [[ [Re]generated on 2017-01-29 (12:15:05) ]]**
+* **1200AH [[ [Re]generated on 2017-01-29 (14:03:16) ]]**
 
  * `1101IbCabdAllahKharshi.SharhMukhtasarSayyidiKhalil `
 	- *TAGS: CENT1200, _FIQH, _MALIKI*
@@ -8480,7 +8482,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `1200ShaykhCabdHusayn.AqtabDawair `
 	- *TAGS: CENT1200, _CAQAID, _SHICI, _TWELVERS*
 
-* **1300AH [[ [Re]generated on 2017-01-29 (12:15:05) ]]**
+* **1300AH [[ [Re]generated on 2017-01-29 (14:03:16) ]]**
 
  * `1201AhmadDardidAbuBarakat.SharhKabir `
 	- *TAGS: CENT1300, CENT1400, _CHRONOMULTIPLE, _FIQH, _MALIKI*
@@ -8929,7 +8931,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `1300MullaHadiSabzawari.SharhAsmaHusna `
 	- *TAGS: CENT1300, _QURAN, _SHICI, _TAFSIR*
 
-* **1400AH [[ [Re]generated on 2017-01-29 (12:15:05) ]]**
+* **1400AH [[ [Re]generated on 2017-01-29 (14:03:16) ]]**
 
  * `1304AhmadFarisShidyaq.SaqCalaSaq `
 	- *TAGS: CENT1400, _ADAB, _BALAGHA*
@@ -9302,7 +9304,7 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
  * `1400MuhammadBaqirSadr.FatawaWadiha `
 	- *TAGS: CENT1400, _FATAWA, _FIQH, _SHICI*
 
-* **1500AH [[ [Re]generated on 2017-01-29 (12:15:05) ]]**
+* **1500AH [[ [Re]generated on 2017-01-29 (14:03:16) ]]**
 
  * `1405CaliShahrudi.MustadrakSafinatBihar `
 	- *TAGS: CENT1500, _HADITH, _SHICI*
@@ -18649,6 +18651,27 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - **TOTAL: 60 titles, 1,967,991 words**
 
 
+### *DHB* (19 texts, 18,184,867 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- ~~7th century CE: 0 titles, 0 words~~
+- ~~8th century CE: 0 titles, 0 words~~
+- **9th century CE: 1 titles, 285,184 words**
+- ~~10th century CE: 0 titles, 0 words~~
+- **11th century CE: 2 titles, 3,133,874 words**
+- **12th century CE: 2 titles, 2,248,461 words**
+- **13th century CE: 1 titles, 661,178 words**
+- **14th century CE: 10 titles, 9,670,977 words**
+- **15th century CE: 1 titles, 52,998 words**
+- ~~16th century CE: 0 titles, 0 words~~
+- ~~17th century CE: 0 titles, 0 words~~
+- ~~18th century CE: 0 titles, 0 words~~
+- **19th century CE: 1 titles, 1,505,385 words**
+- ~~20th century CE: 0 titles, 0 words~~
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 19 titles, 18,184,867 words**
+
+
 ### *EUROPEAN* (2 texts, 1,036,781 words)
 
 - ~~6th century CE: 0 titles, 0 words~~
@@ -19886,6 +19909,27 @@ These are the major steps.  Please, do not hesitate to contact the me if you hav
 - ~~20th century CE: 0 titles, 0 words~~
 - ~~21st century CE: 0 titles, 0 words~~
 - **TOTAL: 14 titles, 2,583,148 words**
+
+
+### *PPE* (629 texts, 133,084,116 words)
+
+- ~~6th century CE: 0 titles, 0 words~~
+- **7th century CE: 1 titles, 15,850 words**
+- **8th century CE: 2 titles, 4,799 words**
+- **9th century CE: 62 titles, 7,425,911 words**
+- **10th century CE: 88 titles, 12,322,149 words**
+- **11th century CE: 61 titles, 10,973,813 words**
+- **12th century CE: 97 titles, 17,187,422 words**
+- **13th century CE: 60 titles, 13,004,824 words**
+- **14th century CE: 95 titles, 33,128,494 words**
+- **15th century CE: 66 titles, 21,592,666 words**
+- **16th century CE: 29 titles, 3,261,685 words**
+- **17th century CE: 20 titles, 5,750,029 words**
+- **18th century CE: 13 titles, 2,548,035 words**
+- **19th century CE: 15 titles, 3,062,535 words**
+- **20th century CE: 16 titles, 2,582,173 words**
+- ~~21st century CE: 0 titles, 0 words~~
+- **TOTAL: 629 titles, 133,084,116 words**
 
 
 ### *QADA* (48 texts, 3,569,290 words)
