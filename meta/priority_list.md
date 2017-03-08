@@ -1,4 +1,4 @@
-# Top priority	%1
+ # Top priority	%1
 
 * 0 ~~`0748Dhahabi.CibarFiKhabar`~~	%3    completed
 * 0 ~~`0748Dhahabi.Culuww`~~	%4 completed (Jonas) 
@@ -28,7 +28,7 @@
 * 1 `0902Sakhawi.DuLamic`	%28 (inProgress)
 * 1 ~~`0463KhatibBaghdadi.TarikhBaghdad`~~	%29
 * 1 ~~`0463KhatibBaghdadi.TarikhBaghdad.Shamela0023764-ara1`~~	%29 completed (Jonas)
-* 2 `1371MuhsinCamili.AcyanShica`	%30
+* 2 `1371MuhsinCamili.AcyanShica`	%30 (in progress Jonas)
 * 2 `1396KhayrDinZirikli.Aclam`	%31
 * 1 ~~`0874IbnTaghribirdi.NujumZahira`~~	%32 completed (Jonas)
 * 1 `0742Mizzi.TahdhibKamal`	%33 in progress (Jonas)
