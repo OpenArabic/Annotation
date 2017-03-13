@@ -88,7 +88,7 @@
 * - `0398AbuNasrKalabadhi.HidayaWaIrshad`	%87
 * 1 `0626YaqutHamawi.MucjamUdaba`	%88
 * 2 `0630IbnAthirCizzDin.UsdGhaba`	%89
-* 1 `0911Suyuti.BughyaWucat`	%90
+* 1 `0911Suyuti.BughyaWucat`	%90 (inProgess)
 * 1 ~~`0379MuhammadRabci.TarikhMawlidCulama`~~	%91
 * 1 `0637IbnMustafwi.TarikhIrbil`	%92
 * - `0911Suyuti.HusnMuhadara`	%93
