@@ -3755,6 +3755,7 @@
 |       |-- 0719MascudBukhari
 |       |   `-- 0719MascudBukhari.SharhTalwih
 |       |-- 0720IbnCumarKurdi
+|       |   |-- 0720IbnCumarKurdi.Juz
 |       |   `-- 0720IbnCumarKurdi.Juz.
 |       |-- 0720IbnSaigh
 |       |   `-- 0720IbnSaigh.LamhaFiSharhMulha
@@ -6176,10 +6177,21 @@
 |       |   `-- 1450WalidUmawi.MucjamAshabIbnTaymiyya
 |       `-- 1450WizaraAwqafMisriyya
 |           `-- 1450WizaraAwqafMisriyya.TarajimMujaza
+|-- ALTABAQAT
+|   |-- data
+|   |-- results
+|   |-- scripts
+|   |   `-- __pycache__
+|   |-- temp
+|   `-- texts
 |-- Annotation
 |   |-- meta
+|   |   `-- arc
 |   |-- readme
 |   `-- searches
+|-- Collection_WordFrequencies_Reports
+|   |-- 1gram
+|   `-- 1gram_NRM
 |-- OCR_GS_Data
 |   `-- ara
 |       |-- bens_reports
@@ -6308,4 +6320,4 @@
 `-- uris
     `-- arc
 
-6308 directories
+6320 directories

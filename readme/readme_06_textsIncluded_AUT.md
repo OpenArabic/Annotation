@@ -3,7 +3,7 @@
 ## List of books by centuries (4545 titles)
 
 
-* **0100AH [[ [Re]generated on 2017-03-06 (15:44:12) ]]**
+* **0100AH [[ [Re]generated on 2017-03-19 (23:09:01) ]]**
 
  * `0001AbuTalibCabdManaf.Diwan `
 	- *TAGS: _SHICR_JAHILI, _SHICR*
@@ -122,7 +122,7 @@
  * `0095CadiIbnRiqac.Diwan `
 	- *TAGS: _SHICR, _SHICR_UMAWI*
 
-* **0200AH [[ [Re]generated on 2017-03-06 (15:44:12) ]]**
+* **0200AH [[ [Re]generated on 2017-03-19 (23:09:01) ]]**
 
  * `0104MujahidIbnJabr.Tafsir `
 	- *TAGS: CENT0200, _CULUM, _QURAN, _SUNNI, _TAFSIR*
@@ -343,7 +343,7 @@
  * `0200YahyaIbnSalam.Tasarif `
 	- *TAGS: CENT0200, _CULUM, _QURAN*
 
-* **0300AH [[ [Re]generated on 2017-03-06 (15:44:12) ]]**
+* **0300AH [[ [Re]generated on 2017-03-19 (23:09:01) ]]**
 
  * `0203IbnSulaymanGhazi.MusnadRida `
 	- *TAGS: CENT0300, _HADITH, _SHICI*
@@ -1278,7 +1278,7 @@
  * `0300MuallifMajhul.AkhbarDawlaCabbasiya `
 	- *TAGS: CENT0300, PPE, _TARIKH*
 
-* **0400AH [[ [Re]generated on 2017-03-06 (15:44:12) ]]**
+* **0400AH [[ [Re]generated on 2017-03-19 (23:09:01) ]]**
 
  * `0301AbuBakrFaryabi.AhkamCidayn `
 	- *TAGS: CENT0400, _AJZA, _FIQH, _HADITH, _MASAIL, _USUL*
@@ -2577,7 +2577,7 @@
  * `0400MuallifMajhul.HududCalam `
 	- *TAGS: CENT0400, GEO, PPE, _BULDAN, _JUGHRAFIYA, _RIHLAT*
 
-* **0500AH [[ [Re]generated on 2017-03-06 (15:44:12) ]]**
+* **0500AH [[ [Re]generated on 2017-03-19 (23:09:01) ]]**
 
  * `0401IbnAyyashJawhari.MuqtadabAthar `
 	- *TAGS: CENT0500, _HADITH, _SHICI*
@@ -3806,7 +3806,7 @@
  * `0500IbnMuhammadKhatibBushanji.Juz `
 	- *TAGS: _AJZA, _HADITH*
 
-* **0600AH [[ [Re]generated on 2017-03-06 (15:44:12) ]]**
+* **0600AH [[ [Re]generated on 2017-03-19 (23:09:01) ]]**
 
  * `0502IbnCaliTabriziShaybani.DiwanHamasa `
 	- *TAGS: CENT0600, CENT0800, _ADAB, _ADAB, _BALAGHA, _CHRONOMULTIPLE, _SHICR*
@@ -4699,7 +4699,7 @@
  * `0600QutbdinBayhaqiKaydari.IdahShica `
 	- *TAGS: CENT0600, _AKHLAQ*
 
-* **0700AH [[ [Re]generated on 2017-03-06 (15:44:12) ]]**
+* **0700AH [[ [Re]generated on 2017-03-19 (23:09:01) ]]**
 
  * `0604AbuDharrKhushani.ImlaMukhtasar `
 	- *TAGS: CENT0700, _SHAMAIL, _SIRA*
@@ -5482,7 +5482,7 @@
  * `0700MuhammadIbnSacidRawandi.CujalatMacrifa `
 	- *TAGS: CENT0700, _CAQAID, _SHICI, _TWELVERS*
 
-* **0800AH [[ [Re]generated on 2017-03-06 (15:44:12) ]]**
+* **0800AH [[ [Re]generated on 2017-03-19 (23:09:01) ]]**
 
  * `0701IbnNasrAllahIbnSayqalJazari.Maqamat `
 	- *TAGS: CENT0800, _ADAB, _BALAGHA, _MISC*
@@ -6533,7 +6533,7 @@
  * `0800IbnSulaymanCizzDinHilli.Mukhtasar `
 	- *TAGS: CENT0800, _HADITH, _SHICI*
 
-* **0900AH [[ [Re]generated on 2017-03-06 (15:44:12) ]]**
+* **0900AH [[ [Re]generated on 2017-03-19 (23:09:01) ]]**
 
  * `0801IbnCuthmanIbnQasihBaghdadiCudhri.SirajQari `
 	- *TAGS: CENT0900, _QIRAAT, _QURAN, _TAJWID*
@@ -7114,7 +7114,7 @@
  * `0900MuflihIbnRashid.IlzamNawasib `
 	- *TAGS: CENT0900, _CAQAID, _SHICI, _TWELVERS*
 
-* **1000AH [[ [Re]generated on 2017-03-06 (15:44:12) ]]**
+* **1000AH [[ [Re]generated on 2017-03-19 (23:09:01) ]]**
 
  * `0902Sakhawi.Buldaniyyat `
 	- *TAGS: CENT1000, PPE, _AJZA, _HADITH, _MISC, _TARAJIM*
@@ -7637,7 +7637,7 @@
  * `1000IbnAhmadQahiri.MatnCashmawiyya `
 	- *TAGS: _FIQH, _MALIKI*
 
-* **1100AH [[ [Re]generated on 2017-03-06 (15:44:12) ]]**
+* **1100AH [[ [Re]generated on 2017-03-19 (23:09:01) ]]**
 
  * `1004ShamsDinRamli.FatawaRamli `
 	- *TAGS: CENT1100, _CHRONOMULTIPLE, _FATAWA, _FIQH, _SHAFICI*
@@ -7930,7 +7930,7 @@
  * `1100ZiyadahIbnYahyaRasi.BahthSarih `
 	- *TAGS: _CAQAID*
 
-* **1200AH [[ [Re]generated on 2017-03-06 (15:44:12) ]]**
+* **1200AH [[ [Re]generated on 2017-03-19 (23:09:01) ]]**
 
  * `1101IbCabdAllahKharshi.SharhMukhtasarSayyidiKhalil `
 	- *TAGS: CENT1200, _FIQH, _MALIKI*
@@ -8151,7 +8151,7 @@
  * `1200ShaykhCabdHusayn.AqtabDawair `
 	- *TAGS: CENT1200, _CAQAID, _SHICI, _TWELVERS*
 
-* **1300AH [[ [Re]generated on 2017-03-06 (15:44:12) ]]**
+* **1300AH [[ [Re]generated on 2017-03-19 (23:09:01) ]]**
 
  * `1201AhmadDardidAbuBarakat.SharhKabir `
 	- *TAGS: CENT1300, CENT1400, _CHRONOMULTIPLE, _FIQH, _MALIKI*
@@ -8600,7 +8600,7 @@
  * `1300MullaHadiSabzawari.SharhAsmaHusna `
 	- *TAGS: CENT1300, _QURAN, _SHICI, _TAFSIR*
 
-* **1400AH [[ [Re]generated on 2017-03-06 (15:44:12) ]]**
+* **1400AH [[ [Re]generated on 2017-03-19 (23:09:01) ]]**
 
  * `1304AhmadFarisShidyaq.SaqCalaSaq `
 	- *TAGS: CENT1400, _ADAB, _BALAGHA*
@@ -8973,7 +8973,7 @@
  * `1400MuhammadBaqirSadr.FatawaWadiha `
 	- *TAGS: CENT1400, _FATAWA, _FIQH, _SHICI*
 
-* **1500AH [[ [Re]generated on 2017-03-06 (15:44:12) ]]**
+* **1500AH [[ [Re]generated on 2017-03-19 (23:09:01) ]]**
 
  * `1405CaliShahrudi.MustadrakSafinatBihar `
 	- *TAGS: CENT1500, _HADITH, _SHICI*
