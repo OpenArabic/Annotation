@@ -74,14 +74,14 @@
 * 2 `1360IbnQasimMakhluf.ShajaraNur`	%73
 * 4 `1450AkramFaluji.MucjamSaghir`	%74
 * 1 `0749IbnWardi.Tarikh`	%75
-* 1 `0658IbnAbbar.TakmilaLiSila`	%76
+* 1 ~~`0658IbnAbbar.TakmilaLiSila`	%76~~ cpmpleted
 * 1 `0902Sakhawi.TuhfaLatifa`	%77
-* 1 `0626YaqutHamawi.MucjamBuldan`	%78
+* 1 ~~`0626YaqutHamawi.MucjamBuldan`	%78~~ completed
 * 2 `1237Jabarti.CajaibAthar`	%79
 * - `0749ShihabDinCumari.MasalikAbsar`	%80
 * 0 `0771Subki.TabaqatShaficiyaKubra`	%81
 * - `0855Cayni.MaghaniAkhyar`	%82
-* 1 `1061NajmDinGhazzi.KawakibSaira`	%83
+* 1 `1061NajmDinGhazzi.KawakibSaira`	%83 inProgress (Christoph)
 * - `0833IbnJazari.GhayaNihaya`	%84
 * 1 ~~`0927Nucaymi.DarisFiMadaris`	%85~~ completed (Christoph)
 * - `1359CabbasQummi.Kuna`	%86
