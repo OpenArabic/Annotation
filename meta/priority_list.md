@@ -83,7 +83,7 @@
 * - `0855Cayni.MaghaniAkhyar`	%82
 * 1 `1061NajmDinGhazzi.KawakibSaira`	%83
 * - `0833IbnJazari.GhayaNihaya`	%84
-* 1 `0927Nucaymi.DarisFiMadaris`	%85
+* 1 ~~`0927Nucaymi.DarisFiMadaris`	%85~~ completed (Christoph)
 * - `1359CabbasQummi.Kuna`	%86
 * - `0398AbuNasrKalabadhi.HidayaWaIrshad`	%87
 * 1 `0626YaqutHamawi.MucjamUdaba`	%88
