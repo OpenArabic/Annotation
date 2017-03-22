@@ -81,19 +81,19 @@
 * - `0749ShihabDinCumari.MasalikAbsar`	%80
 * 0 `0771Subki.TabaqatShaficiyaKubra`	%81
 * - `0855Cayni.MaghaniAkhyar`	%82
-* 1 `1061NajmDinGhazzi.KawakibSaira`	%83 inProgress (Christoph)
+* 1 ~~`1061NajmDinGhazzi.KawakibSaira`	%83~~ completed (Christoph)
 * - `0833IbnJazari.GhayaNihaya`	%84
 * 1 ~~`0927Nucaymi.DarisFiMadaris`	%85~~ completed (Christoph)
 * - `1359CabbasQummi.Kuna`	%86
 * - `0398AbuNasrKalabadhi.HidayaWaIrshad`	%87
 * 1 `0626YaqutHamawi.MucjamUdaba`	%88 (inProgress)
-* 2 `0630IbnAthirCizzDin.UsdGhaba`	%89
+* 2 `0630IbnAthirCizzDin.UsdGhaba`	%89 
 * 1 ~~`0911Suyuti.BughyaWucat`~~	%90 completed
 * 1 ~~`0379MuhammadRabci.TarikhMawlidCulama`~~	%91
-* 1 `0637IbnMustafwi.TarikhIrbil`	%92
+* ~~1 `0637IbnMustafwi.TarikhIrbil`	%92~~ completed
 * - `0911Suyuti.HusnMuhadara`	%93
 * - `0832AbuTayyibFasi.DhaylTaqyid`	%94
-* 1 `0732IbnYacqubJanadi.SulukFiTabaqat`	%95
+* 1 `0732IbnYacqubJanadi.SulukFiTabaqat`	%95 inProgress (Christoph)
 * 1 `0775IbnAbiWafa.JawahirMudiya`	%96
 * 1 `0544CiyadIbnMusaYahsubi.TartibMadarik`	%97
 * 2 `0463IbnCabdBarr.IsticabFiMacrifaAshab`	%98
