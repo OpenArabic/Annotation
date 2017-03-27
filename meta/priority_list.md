@@ -94,7 +94,7 @@
 * - `0911Suyuti.HusnMuhadara`	%93
 * - `0832AbuTayyibFasi.DhaylTaqyid`	%94
 * ~~1 `0732IbnYacqubJanadi.SulukFiTabaqat`	%95~~ completed (Christoph)
-* 1 `0775IbnAbiWafa.JawahirMudiya`	%96 inProgress (Christoph)
+* 1 `0775IbnAbiWafa.JawahirMudiya`	%96 inProgress (Christoph) no matching PDF!
 * 1 `0544CiyadIbnMusaYahsubi.TartibMadarik`	%97
 * 2 `0463IbnCabdBarr.IsticabFiMacrifaAshab`	%98
 * 1 `0403IbnFaradi.TarikhCulamaAndalus`	%99
