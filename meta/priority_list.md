@@ -95,10 +95,10 @@
 * - `0832AbuTayyibFasi.DhaylTaqyid`	%94
 * ~~1 `0732IbnYacqubJanadi.SulukFiTabaqat`	%95~~ completed (Christoph)
 * 1 `0775IbnAbiWafa.JawahirMudiya`	%96 inProgress (Christoph) no matching PDF!
-* 1 `0544CiyadIbnMusaYahsubi.TartibMadarik`	%97
+* 1 ~~`0544CiyadIbnMusaYahsubi.TartibMadarik`	%97~~ completed
 * 2 `0463IbnCabdBarr.IsticabFiMacrifaAshab`	%98
-* 1 `0403IbnFaradi.TarikhCulamaAndalus`	%99
-* 1 `1206Muradi.SilkDurar`	%100
+* 1 ~~`0403IbnFaradi.TarikhCulamaAndalus`	%99~~ completed
+* 1 `1206Muradi.SilkDurar`	%100 inProgress (Christoph)
 * 2 `0355AbuFarajIsbahani.Aghani`	%101
 * 2 `0629IbnNuqta.TakmilaIkmal`	%102
 * 1 `0347IbnYunusSadafi.Tarikh`	%103
