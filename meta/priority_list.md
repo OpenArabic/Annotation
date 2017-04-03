@@ -98,7 +98,7 @@
 * 1 ~~`0544CiyadIbnMusaYahsubi.TartibMadarik`	%97~~ completed
 * 2 `0463IbnCabdBarr.IsticabFiMacrifaAshab`	%98
 * 1 ~~`0403IbnFaradi.TarikhCulamaAndalus`	%99~~ completed
-* 1 `1206Muradi.SilkDurar`	%100 inProgress (Christoph)
+* 1 ~~`1206Muradi.SilkDurar`	%100 inProgress~~ completed (Christoph)
 * 2 `0355AbuFarajIsbahani.Aghani`	%101
 * 2 `0629IbnNuqta.TakmilaIkmal`	%102
 * 1 `0347IbnYunusSadafi.Tarikh`	%103
