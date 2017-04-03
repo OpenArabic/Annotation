@@ -86,7 +86,7 @@
 * 1 ~~`0927Nucaymi.DarisFiMadaris`	%85~~ completed (Christoph)
 * - `1359CabbasQummi.Kuna`	%86
 * - `0398AbuNasrKalabadhi.HidayaWaIrshad`	%87
-* 1 `0626YaqutHamawi.MucjamUdaba`	%88 (inProgress)
+* 1 ~~`0626YaqutHamawi.MucjamUdaba`	%88~~ completed
 * 2 `0630IbnAthirCizzDin.UsdGhaba`	%89 
 * 1 ~~`0911Suyuti.BughyaWucat`~~	%90 completed
 * 1 ~~`0379MuhammadRabci.TarikhMawlidCulama`~~	%91
