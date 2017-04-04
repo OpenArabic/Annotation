@@ -103,7 +103,7 @@
 * 2 `0629IbnNuqta.TakmilaIkmal`	%102
 * 1 `0347IbnYunusSadafi.Tarikh`	%103
 * 2 `0845Maqrizi.Mawaciz`	%104
-* 1 `0578IbnBashkuwal.Sila`	%105
+* 1 ~~`0578IbnBashkuwal.Sila`	%105~~ completed
 * - `1269CabdMalikCasimi.SamtNujum`	%106
 * - `0360Tabarani.MucjamKabir`	%107
 * - `0812CaliKhazraji.CuqudLuluiyya`	%108
