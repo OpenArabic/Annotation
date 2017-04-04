@@ -86,7 +86,7 @@
 * 1 ~~`0927Nucaymi.DarisFiMadaris`	%85~~ completed (Christoph)
 * - `1359CabbasQummi.Kuna`	%86
 * - `0398AbuNasrKalabadhi.HidayaWaIrshad`	%87
-* 1 `0626YaqutHamawi.MucjamUdaba`	%88 (inProgress)
+* 1 ~~`0626YaqutHamawi.MucjamUdaba`	%88~~ completed
 * 2 `0630IbnAthirCizzDin.UsdGhaba`	%89 
 * 1 ~~`0911Suyuti.BughyaWucat`~~	%90 completed
 * 1 ~~`0379MuhammadRabci.TarikhMawlidCulama`~~	%91
@@ -98,12 +98,12 @@
 * 1 ~~`0544CiyadIbnMusaYahsubi.TartibMadarik`	%97~~ completed
 * 2 `0463IbnCabdBarr.IsticabFiMacrifaAshab`	%98
 * 1 ~~`0403IbnFaradi.TarikhCulamaAndalus`	%99~~ completed
-* 1 `1206Muradi.SilkDurar`	%100 inProgress (Christoph)
+* 1 ~~`1206Muradi.SilkDurar`	%100 inProgress~~ completed (Christoph)
 * 2 `0355AbuFarajIsbahani.Aghani`	%101
 * 2 `0629IbnNuqta.TakmilaIkmal`	%102
 * 1 `0347IbnYunusSadafi.Tarikh`	%103
 * 2 `0845Maqrizi.Mawaciz`	%104
-* 1 `0578IbnBashkuwal.Sila`	%105
+* 1 ~~`0578IbnBashkuwal.Sila`	%105~~ completed
 * - `1269CabdMalikCasimi.SamtNujum`	%106
 * - `0360Tabarani.MucjamKabir`	%107
 * - `0812CaliKhazraji.CuqudLuluiyya`	%108
@@ -112,11 +112,11 @@
 * 3 `0256Bukhari.TarikhSaghir`	%111
 * 4 `1411SayyidKhui.MucjamRijal`	%112
 * 1 `0726Yunini.DhaylMiratZaman`	%113
-* 1 `0774IbnKathir.TabaqatShaficiyyin`	%114
+* 1 ~~`0774IbnKathir.TabaqatShaficiyyin`	%114~~ completed
 * 3 `0256Bukhari.TarikhKabir`	%115
 * 2 `0240KhalifaIbnKhayyat.Tabaqat`	%116
 * - `0884IbnMuflih.MaqsidArshad`	%117
-* 1 `0911Suyuti.TabaqatHuffaz`	%118
+* 1 ~~`0911Suyuti.TabaqatHuffaz`	%118~~ completed (Christoph)
 * - `0855Cayni.CiqdJuman`	%119
 * - `0927Culaymi.UnsJalil`	%120
 * - `0474IbnKhalafBaji.TacdilWaTakhrij`	%121
@@ -124,7 +124,7 @@
 * - `1335CabdRazzaqBaytar.HilyaBashar`	%123
 * - `0430AbuNucaymIsbahani.MacrifaSahaba`	%124
 * - `0676Nawawi.TahdhibAsma`	%125
-* 1 `0851IbnQadiShuhba.TabaqatShaficiya`	%126
+* 1 `0851IbnQadiShuhba.TabaqatShaficiya`	%126 inProgress (Christoph)
 * - `0821Qalqashandi.SubhAcsha`	%127
 * 1 `0354IbnHibban.MashahirCulamaAmsar`	%128
 * - `0642IbnNajjar.DhaylTarikhBaghdad`	%129
