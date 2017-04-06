@@ -124,7 +124,7 @@
 * - `1335CabdRazzaqBaytar.HilyaBashar`	%123
 * - `0430AbuNucaymIsbahani.MacrifaSahaba`	%124
 * - `0676Nawawi.TahdhibAsma`	%125
-* 1 `0851IbnQadiShuhba.TabaqatShaficiya`	%126 inProgress (Christoph)
+* 1 `0851IbnQadiShuhba.TabaqatShaficiya`	%126 inProgress (Christoph) no matching PDF found
 * - `0821Qalqashandi.SubhAcsha`	%127
 * 1 `0354IbnHibban.MashahirCulamaAmsar`	%128
 * - `0642IbnNajjar.DhaylTarikhBaghdad`	%129
@@ -134,7 +134,7 @@
 * 3 `1351YusufIlyanSarkis.MucjamMatbucat`	%134
 * 1 `0597IbnJawzi.SifaSafwa`	%135
 * - `0599IbnYahyaDabbi.BughyaMultamis`	%136
-* 1 `0764IbnShakirKutubi.FawatWafayat`	%137 inProgress (Christoph)
+* 1 ~~`0764IbnShakirKutubi.FawatWafayat`	%137 completed~~ (Christoph)
 * 3 `1067HajjiKhalifa.KashfZunun`	%138
 * - `1368HasanAmin.MustadrakatAcyanShica`	%139
 * - `0776LisanDinIbnKhatib.Ihata`	%140
@@ -173,7 +173,7 @@
 * 4 `1383CadbHayyKattani.FihrisFaharis`	%173
 * 4 `1332ZaynabFawwaz.DurrManthur`	%174
 * - `0695IbnCidhariMarrakushi.BayanMaghrib`	%175
-* 1 `1100IbnMuhammadAdnahwi.TabaqatMufassirin`	%176
+* 1 ~~`1100IbnMuhammadAdnahwi.TabaqatMufassirin`	%176~~ completed (Christoph)
 * - `1313Barujirdi.Taraif`	%177
 * 1 `0668IbnAbiUsaybica.CuyunAnba`	%178
 * - `0973CabdWahhabShacrani.LawaqihAnwar`	%179
