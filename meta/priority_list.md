@@ -134,13 +134,13 @@
 * 3 `1351YusufIlyanSarkis.MucjamMatbucat`	%134
 * 1 `0597IbnJawzi.SifaSafwa`	%135
 * - `0599IbnYahyaDabbi.BughyaMultamis`	%136
-* 1 ~~`0764IbnShakirKutubi.FawatWafayat`	%137 completed~~ (Christoph)
+* 1 ~~`0764IbnShakirKutubi.FawatWafayat`	%137~~ completed (Christoph)
 * 3 `1067HajjiKhalifa.KashfZunun`	%138
 * - `1368HasanAmin.MustadrakatAcyanShica`	%139
 * - `0776LisanDinIbnKhatib.Ihata`	%140
 * 1 `1010TamimiDari.TabaqatSaniya`	%141
-* 1 `0430AbuNucaymIsbahani.TarikhIsbahan`	%142
-* 1 `0430AbuNucaymIsbahani.HilyaAwliya`	%143
+* 1 ~~`0430AbuNucaymIsbahani.TarikhIsbahan`	%142~~ completed
+* 1 ~~`0430AbuNucaymIsbahani.HilyaAwliya`	%143~~ completed
 * - `0365IbnCadiJurjani.KamilFiDucafa`	%144
 * - `0646IbnQifti.InbahRuwat`	%145
 * - `1041Maqarri.NafhTib`	%146
@@ -175,7 +175,7 @@
 * - `0695IbnCidhariMarrakushi.BayanMaghrib`	%175
 * 1 ~~`1100IbnMuhammadAdnahwi.TabaqatMufassirin`	%176~~ completed (Christoph)
 * - `1313Barujirdi.Taraif`	%177
-* 1 `0668IbnAbiUsaybica.CuyunAnba`	%178
+* 1 `0668IbnAbiUsaybica.CuyunAnba`	%178 inProgress (Christoph)
 * - `0973CabdWahhabShacrani.LawaqihAnwar`	%179
 * - `0684IbnShaddad.AclaqKhatira`	%180
 * 1 `0476AbuIshaqShirazi.TabaqatFuqaha`	%181
