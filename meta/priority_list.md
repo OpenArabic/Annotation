@@ -25,7 +25,7 @@
 
 * 1 ~~`0571IbnCasakir.TarikhDimashq`~~	%26
 * 1 `0764Safadi.WafiBiWafayat`	%27 (in progress Jonas))
-* 1 `0902Sakhawi.DuLamic`	%28 (inProgress)
+* ~~1 `0902Sakhawi.DuLamic`	%28~~ (inProgress) Christoph
 * 1 ~~`0463KhatibBaghdadi.TarikhBaghdad`~~	%29
 * 1 ~~`0463KhatibBaghdadi.TarikhBaghdad.Shamela0023764-ara1`~~	%29 completed (Jonas)
 * 2 `1371MuhsinCamili.AcyanShica`	%30 (stopped working on the text Jonas)
