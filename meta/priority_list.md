@@ -128,7 +128,7 @@
 * - `0821Qalqashandi.SubhAcsha`	%127
 * 1 `0354IbnHibban.MashahirCulamaAmsar`	%128
 * - `0642IbnNajjar.DhaylTarikhBaghdad`	%129
-* 1 `0795IbnRajabHanbali.DhaylTabaqatHanabila`	%130 (inProgress)
+* 1 ~~`0795IbnRajabHanbali.DhaylTabaqatHanabila`~~	%130 completed
 * 1 `0774IbnRaficSallami.Wafayat`	%132
 * - `0641Sarifini.Muntakhab`	%133
 * 3 `1351YusufIlyanSarkis.MucjamMatbucat`	%134
