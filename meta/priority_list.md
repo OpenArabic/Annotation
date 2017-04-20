@@ -101,7 +101,7 @@
 * 1 ~~`1206Muradi.SilkDurar`	%100 inProgress~~ completed (Christoph)
 * 2 `0355AbuFarajIsbahani.Aghani`	%101
 * 2 `0629IbnNuqta.TakmilaIkmal`	%102
-* 1 `0347IbnYunusSadafi.Tarikh`	%103
+* 1 `0347IbnYunusSadafi.Tarikh`	%103 (inProgress)
 * 2 `0845Maqrizi.Mawaciz`	%104
 * 1 ~~`0578IbnBashkuwal.Sila`	%105~~ completed
 * - `1269CabdMalikCasimi.SamtNujum`	%106
